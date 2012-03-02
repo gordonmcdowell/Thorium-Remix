@@ -1,0 +1,2653 @@
+0:00:00.340,0:00:05.060
+Le réacteur à eau lourde utilise environ 0,7%
+de la valeur énergétique de l'uranium,
+
+0:00:05.060,0:00:08.630
+et le réacteur à eau légère utilise 0,5%
+Médiocre tous les deux.
+
+0:00:08.630,0:00:13.380
+A des pressions normales, l'eau bouillira à 100
+degrés Celsius. Pas assez chaude pour
+
+0:00:13.380,0:00:18.280
+générer efficacement l'électricité. Donc les réacteurs
+refroidis à l'eau fonctionnent avec plus de 70 atmosphères
+
+0:00:18.280,0:00:22.310
+de pression. Il faut construire un réacteur refroidi 
+à l'eau comme un récipient sous pression. Le numéro un
+
+0:00:22.310,0:00:24.529
+des accidents qui inquiète les gens ...
+
+0:00:24.529,0:00:28.760
+La pression est perdue, l'eau qui est tenue
+à 300 degrés Celsius
+
+0:00:28.760,0:00:34.320
+se transforme en vapeur. Son volume augmente par un facteur
+d'environ 1000. Si on n'alimente pas d'urgence le combustible
+
+0:00:34.320,0:00:38.010
+dans le réacteur avec du liquide de refroidissement,
+il peut surchauffer et fondre.
+
+0:00:38.010,0:00:44.739
+C'est ce qui conduit à la conception de ce bâtiment.
+Si cela arrive, toute la vapeur est capturée dans ce bâtiment.
+
+0:00:44.739,0:00:50.129
+Les réacteurs que nous avons aujourd'hui utilisent de l'oxyde
+d'uranium en tant que combustible. C'est un matériau céramique,
+
+0:00:50.129,0:00:54.079
+chimiquement stable, mais pas très efficace en transfert
+thermique. Si on perd de la pression, on perd
+
+0:00:54.079,0:00:58.129
+
+de l'eau, et bientôt le combustible fond et relâche 
+les produits de fission radioactifs qu'il contient.
+
+0:00:58.129,0:01:03.629
+Donc on utilise une série de systèmes de sécurité
+conçus pour toujours garder le cœur recouvert
+
+0:01:03.629,0:01:08.649
+d'eau. On a vu l'échec de cette approche à Fukushima Daiichi.
+Ils avaient de multiples générateurs diesel de secours,
+
+0:01:08.649,0:01:14.369
+et chacun avait une très grande probabilité
+de démarrer. Le tsunami est venu les éliminer tous.
+
+0:01:14.369,0:01:16.929
+Les gens demandent toujours: "l'énergie nucléaire
+est-elle sûre?", et moi je dis: "laquelle?"
+
+0:01:16.929,0:01:21.240
+Il y a des milliers de façons de faire de l'énergie nucléaire.
+Une voiture est-elle sûre? Eh bien, laquelle?
+
+0:01:21.240,0:01:24.810
+J'ai eu la bonne fortune de découvrir une autre
+forme d'énergie nucléaire.
+
+0:01:24.810,0:01:26.549
+Le Réacteur Thorium à Fluorure Liquide (LFTR).
+
+0:01:26.549,0:01:30.749
+On peut brûler entièrement le thorium dans ce réacteur
+alors qu'on ne brûle qu'une partie de l'uranium
+
+0:01:30.749,0:01:32.719
+dans un réacteur à eau légère typique.
+
+0:01:32.719,0:01:37.349
+Ce n'est pas basé sur le refroidissement à eau et ça n'utilise pas
+de combustible solide. C'est basé sur des sels de fluorure
+
+0:01:37.349,0:01:42.380
+en tant que combustible nucléaire. Il faut les chauffer
+à environ 400 degrés Celsius pour les faire
+
+0:01:42.380,0:01:46.459
+fondre, ce qui est parfait pour essayer de générer
+de la puissance dans un réacteur nucléaire. Voici
+
+0:01:46.459,0:01:50.700
+la vraie magie - ils n'ont pas besoin de fonctionner
+à haute pression. Ils n'ont pas besoin d'eau
+
+0:01:50.700,0:01:54.989
+en tant que liquide de refroidissement et il n'y a rien
+dans le réacteur qui changera massivement de densité.
+
+0:01:54.989,0:01:59.149
+Contrairement aux combustibles solides qui peuvent fondre
+si on arrête de les refroidir, ces carburants à fluorure
+
+0:01:59.149,0:02:00.599
+liquide sont déjà fondus.
+
+0:02:00.599,0:02:04.389
+En fonctionnement normal, on a un petit morceau
+de sel congelé qu'on maintient congelé en
+
+0:02:04.389,0:02:08.989
+soufflant un gaz froid sur l'extérieur du tuyau.
+S'il y a une urgence et on perd toute
+
+0:02:08.989,0:02:13.400
+l'alimentation de notre centrale nucléaire, la
+
+petite soufflerie cesse de souffler, le bouchon de sel
+
+0:02:13.400,0:02:18.269
+congelé fond, et le combustible de fluorure liquide
+à l'intérieur du réacteur s'écoule de la cuve
+
+0:02:18.269,0:02:20.769
+par le tuyau jusqu'à un autre réservoir appelé
+réservoir de vidange.
+
+0:02:20.769,0:02:25.209
+Dans les réacteurs refroidis à l'eau, généralement il faut
+maintenir l'alimentation de l'usine pour assurer la
+
+0:02:25.209,0:02:29.620
+circulation de l'eau et pour empêcher un effondrement.
+Mais si on perd l'alimentation du LFTR,
+
+0:02:29.620,0:02:32.420
+il s'éteint tout seul, sans intervention humaine.
+
+0:02:32.420,0:02:37.519
+Un niveau de sécurité incroyablement impressionnant,
+même en cas de dégats physiques sur le réacteur.
+
+0:02:37.519,0:02:41.430
+Le thorium est un combustible nucléaire d'origine naturelle
+qui est quatre fois plus fréquent dans la croute
+
+0:02:41.430,0:02:46.040
+terrestre que l'uranium. Il contient une densité d'énergie telle
+qu'on peut tenir, dans la paume de sa main, un approvisionnement
+
+0:02:46.040,0:02:50.299
+à vie d'énergie thorium. On pourrait exploiter
+le thorium de façon environ 200 fois plus efficace
+
+0:02:50.299,0:02:54.879
+qu'on exploite l'uranium actuellement. Le
+LFTR est capable de libérer presque entièrement
+
+0:02:54.879,0:03:00.140
+l'énergie dans le thorium, ce qui réduit les déchets
+générés par rapport à l'uranium par des facteurs de cents,
+
+0:03:00.140,0:03:02.469
+et par des facteurs de millions
+par rapport aux combustibles fossiles.
+
+0:03:02.469,0:03:06.519
+On aura toujours besoin de carburants liquides pour
+les véhicules et les machines, mais on peut générer
+
+0:03:06.519,0:03:10.239
+ces combustibles liquides à partir du dioxyde de carbone
+dans l'atmosphère et de l'eau, un peu comme ce que
+
+0:03:10.239,0:03:14.719
+fait la nature. On pourrait produire de l'hydrogène par
+séparation de l'eau et en le combinant avec le carbone
+
+0:03:14.719,0:03:20.219
+récolté à partir du CO2 dans l'atmosphère, pour faire des
+combustibles comme le méthanol, l'ammoniac et l'éther
+
+0:03:20.219,0:03:23.629
+méthylique, qui pourrait être un remplaçant direct
+des carburants diesel.
+
+0:03:23.629,0:03:28.769
+Imaginez de l'essence et du diesel neutre en carbone,
+durable et auto-produit.
+
+0:03:28.769,0:03:34.719
+On voit que l'uranium-235 est au même niveau que
+l'argent et le platine. Vous imaginez brûler
+
+0:03:34.719,0:03:39.209
+du platine pour faire de l'énergie? Et c'est ce que nous
+
+faisons avec nos sources d'énergie nucléaire aujourd'hui,
+
+0:03:39.209,0:03:44.670
+on brûle ces choses extrêmement rares, et
+on ne brûle pas le thorium.
+
+0:03:44.670,0:03:49.290
+Certaines personnes sont des écologistes,
+et ils disent: "Écoutez, le nucléaire n'est pas
+
+0:03:49.290,0:03:53.409
+durable. Nous allons manquer d'uranium."
+OK, je vous céde ce point si on
+
+0:03:53.409,0:04:00.180
+parle de la technologie nucléaire d'aujourd'hui.
+En 2007, nous avons utilisé 5 milliards de tonnes de charbon, 31
+
+0:04:00.180,0:04:05.529
+milliards de barils de pétrole, et 5 trillions de
+mètres cubes de gaz naturel, avec 65.000 tonnes
+
+0:04:05.529,0:04:07.670
+d'uranium pour produire de l'énergie dans le monde.
+
+0:04:07.670,0:04:11.900
+J'ai un ami qui essaie de démarrer une mine de métaux
+des terres rares dans le Missouri. "Jim, combien de thorium
+
+0:04:11.900,0:04:16.709
+tu penses que tu vas récolter en un an?"
+Et il dit: "Environ 5000 tonnes je pense."
+
+0:04:16.709,0:04:22.860
+5000 tonnes de thorium fournirait la planète avec
+toute son énergie pour une année. Et il dit:
+
+
+0:04:22.860,0:04:26.630
+"Et il y a un zillion d'autres
+ lieux sur la
+terre qui sont comme ma mine. C'est une belle
+
+0:04:26.630,0:04:30.300
+mine, mais elle n'est pas unique, et ce n'est pas
+comme si c'est le seul endroit sur terre où on le trouve"
+
+0:04:30.300,0:04:35.960
+A chaque fois que l'humanité a été en mesure d'accéder
+à une nouvelle source d'énergie, ça a eu des implications
+
+0:04:35.960,0:04:41.669
+sociétales profondes. Les êtres humains ont eu des esclaves
+pendant des milliers et des milliers d'années. Lorsque
+
+0:04:41.669,0:04:45.830
+nous avons appris comment faire du carbone notre esclave,
+au lieu d'autres êtres humains, nous avons commencé à apprendre
+
+0:04:45.830,0:04:48.330
+comment devenir des gens civilisés.
+
+0:04:48.330,0:04:54.750
+Le thorium a une densité d'énergie qui est un million de fois
+celle d'une liaison carbone-hydrogène. Quelle est l'implication
+
+0:04:54.750,0:04:59.270
+pour la civilisation humaine? Parce que nous n'allons pas
+manquer de cette matière. Nous n'allons
+
+0:04:59.270,0:05:06.270
+jamais l'épuiser. Elle est tout simplement trop abondante.
+
+0:06:04.000,0:06:10.259
+Sur notre page Facebook, la composition démographique des sexes
+est d'environ 87% male, 13% femelle.
+
+0:06:10.259,0:06:15.300
+Je n'ai jamais été un promoteur de l'énergie
+nucléaire. C'est à cause de la consommation, non?
+
+0:06:15.300,0:06:20.610
+Elle nous permet de consommer en permanence
+Je crois que c'est insoutenable.
+
+0:06:20.610,0:06:23.889
+Pensez-vous que d'autres formes d'énergie nous
+empêcheront de consommer autant?
+
+0:06:23.889,0:06:29.550
+Si on est en train de l'épuiser, oui. Je pense qu'on
+commencera à le rationner et à réutiliser les choses
+
+0:06:29.550,0:06:31.129
+plutôt que de simplement créer un nouveau.
+
+0:06:31.129,0:06:34.750
+Qu'en est-il du solaire et de l'éolienne, alors? Le soleil
+brillera toujours, le vent soufflera toujours.
+
+0:06:34.750,0:06:36.110
+Ceux-la nous donnent un soutien vital.
+
+0:06:36.110,0:06:38.580
+Un régime d'énergie au gruau.
+
+0:06:38.580,0:06:42.240
+Ouais. Je crois qu'on n'apprécie pas vraiment
+ce qu'on a, et je ne parle que pour moi.
+
+0:06:42.240,0:06:47.690
+Alors vous percevez intuitivement l'éolienne et le solaire
+comme étant des sources d'énergie qui ne sont pas au
+
+0:06:47.690,0:06:49.729
+même niveau que l'huile et le gaz.
+
+0:06:49.729,0:06:54.050
+Dans le cadre qu'on les utilise actuellement,
+et je pense que si on amplifie le cadre de
+
+0:06:54.050,0:06:58.740
+l'éolienne et le solaire, alors on peut s'attendre 
+à une plus grande destruction aussi.
+
+0:06:58.740,0:07:04.229
+Donc vous reconnaissez que l'éolienne et le solaire sont des
+formes de production d'énergie écologiquement envahissantes? Ils
+
+0:07:04.229,0:07:05.590
+prennent beaucoup d'espace.
+
+0:07:05.590,0:07:06.220
+Ouais.
+
+0:07:06.220,0:07:11.479
+Afin d'empêcher des niveaux inacceptables de
+destruction de l'environnement, limiter la quantité d'éolienne
+
+0:07:11.479,0:07:12.330
+et solaire installée.
+
+0:07:12.330,0:07:16.629
+Il faudra les utiliser dans des manières différentes
+en les intégrant au sein de structures déjà existantes.
+
+0:07:16.629,0:07:20.009
+En fait, j'ai regardé cela avec ma propre maison.
+Si je couvrais la maison avec de panneaux solaires
+
+0:07:20.009,0:07:23.650
+combien je produirais et le problème était que c'était
+loin d'être suffisant. Leur performance a diminué.
+
+0:07:23.650,0:07:27.039
+Chaque fois que je monte sur le toit pour nettoyer
+les panneaux solaires, je vais mettre ma vie en péril.
+
+0:07:26.990,0:07:29.210
+On a des couvreurs, on a des gens qui font ça
+professionnellement.
+
+0:07:29.210,0:07:33.720
+Mon frère est couvreur. C'est un travail difficile. C'est
+pour ça qu'un gars de 21 ans comme lui était là à couvrir
+
+0:07:33.720,0:07:37.580
+les toits et à faire plein d'argent parce qu'il était
+mettre sa vie en danger, tout comme les mineurs de charbon.
+
+0:07:37.580,0:07:42.699
+Vous percevez que c'est une bonne chose de contraindre
+l'approvisionnement énergétique?
+
+0:07:42.699,0:07:43.979
+Ouais. C'est ça.
+
+0:07:43.979,0:07:50.020
+Aller vers un mode de vie à faible énergie aura presque
+certainement une corrélation avec un mode de vie avec une moindre
+
+0:07:50.020,0:07:50.780
+qualité de vie.
+
+0:07:50.780,0:07:54.500
+Si l'efficacité est digne d'être poursuivi,
+et on pourra tous enlever probablement 25%
+
+0:07:54.500,0:07:59.270
+de notre consommation d'énergie, c'est loin d'être
+suffisant pour éliminer le besoin des combustibles fossiles.
+
+0:07:59.270,0:08:02.849
+Elizabeth May, vous savez, elle dira peut-être,
+et je serais probablement d'accord avec elle: "Nous devrions
+
+0:08:02.849,0:08:05.780
+poursuivre des modes de vie plus économes en énergie",
+absolument.
+
+0:08:05.780,0:08:10.060
+Quand vous êtes venue pour débattre du développement des sables
+bitumineux à Calgary, vous avez mis en place comme
+
+0:08:10.060,0:08:14.550
+une attente sur ce qui serait acceptable.
+Vous avez dit un certain retour sur l'efficacité énergétique.
+
+0:08:14.550,0:08:19.169
+Certaines technologies nucléaires qui je pense sont
+très prometteuses, le réacteur thorium à fluorure liquide.
+
+0:08:19.169,0:08:21.729
+Notre politique est très simple à comprendre,
+pas de nucléaire.
+
+0:08:21.729,0:08:25.490
+Ca ne demande pas un peu plus de nuance? Les problèmes
+de l'énergie nucléaire peuvent être abordés avec
+
+0:08:25.490,0:08:26.979
+les technologies du futur?
+
+0:08:26.979,0:08:31.490
+Comme les Verts ont une politique contre l'énergie
+nucléaire, pourrait-on reconsidérer avec certaines
+
+0:08:31.490,0:08:35.890
+des nouvelles technologies qui sont en cours de discussion mais
+qui n'existe pas encore? Je suppose que la réponse est, bien sûr.
+
+0:08:35.890,0:08:40.100
+Si les Verts globalement trouvaient une raison pour réévaluer
+le nucléaire, mais nous avons une quantité d'argent
+
+0:08:40.100,0:08:44.210
+limitée. Il faut réduire les gaz à effet de serre.
+Donc, il faut appliquer les dollars de façon à
+
+0:08:44.210,0:08:48.480
+réduire les gaz à effet de serre au maximum tout en
+créant le plus d'emplois possibles pour cet investissement.
+
+0:08:48.480,0:08:53.310
+Nous gaspillons 60% de toute l'énergie
+utilisée au Canada. Et c'est à cause de la conception
+
+0:08:53.310,0:08:58.390
+inefficace en construction et transport. Notre infrastructure
+est conçue pour de l'énergie abondante et bon marché.
+
+0:08:58.390,0:09:03.000
+Donc, pas de surprise, il y a beaucoup, beaucoup de
+gaspillage. Ce qu'il faut faire c'est d'améliorer la productivité
+
+0:09:03.000,0:09:04.140
+avec laquelle nous utilisons l'énergie.
+
+0:09:04.140,0:09:07.820
+Quand on regarde toute la hiérarchie
+de choix et d'options que nous avons et nous
+
+0:09:07.820,0:09:13.760
+avons une longue liste d'options qui fonctionnent assez
+bien, l'énergie nucléaire est vers le bas de la liste parce que:
+
+0:09:13.760,0:09:19.440
+Pas très fiable, coût en capital
+extrêmement cher, très peu d'emplois créés et
+
+0:09:19.440,0:09:24.850
+elle ne produit que de l'électricité. C'est environ 14 ans
+du moment où vous projetez vers l'avant au moment où c'est
+
+0:09:24.850,0:09:29.510
+construit et c'est célèbre pour les dépassements de coûts. Le
+risque d'accidents, les déchets nucléaires à longue vie
+
+0:09:29.510,0:09:32.760
+qui doivent être gardés hors de la biosphère pour
+un quart de million d'années. Le risque de
+
+0:09:32.760,0:09:36.760
+prolifération nucléaire pour une utilisation militaire, 
+on n'a même pas à regarder ces
+
+0:09:36.760,0:09:41.100
+questions pour voir l'échec du nucléaire.
+
+0:09:41.100,0:09:45.740
+Nous devrions poursuivre absolument un mode de vie plus
+économe en énergie. Mais jusqu'où peut-on aller?
+
+0:09:45.740,0:09:50.890
+Ce sera assez pour faire en sorte qu'on n'a pas besoin
+d'avoir des formes de production d'énergie neuves et meilleures?
+
+0:09:50.890,0:09:52.730
+Je ne pense pas. Je pense même pas proche.
+
+0:09:52.730,0:09:54.760
+Vous ne voyez pas le vent et le solaire comme...
+
+0:09:54.760,0:09:59.170
+On a essayé de mettre le solaire et l'éolienne
+en ligne depuis des décennies. C'est toujours de l'ordre
+
+0:09:59.170,0:10:04.260
+d'environ 1% de la production totale d'énergie
+aux États-Unis. L'éolienne est citée en termes
+
+0:10:04.260,0:10:10.320
+de sa capacité. On dira voici un
+éolienne de trois mégawatts. Si j'ai une centrale
+
+0:10:10.320,0:10:14.720
+nucléaire de 3000 mégawatts, 1000 de ces éoliennes
+sont équivalents d'une de celles-ci. Le vent
+
+0:10:14.720,0:10:18.060
+ne souffle qu'environ 15% du temps,
+un sur six.
+
+0:10:18.060,0:10:21.760
+Cette corrélation n'a plus aucun sens
+maintenant, parce que l'un tourne tout le temps et
+
+0:10:21.760,0:10:25.670
+l'autre ne tourne qu'une fois sur six.
+Si on avait une voiture et on pensait: "Je
+
+0:10:25.670,0:10:29.470
+vais aller monter dans ma voiture et mettre
+le contact, et j'ai une chance sur six
+
+0:10:29.470,0:10:33.910
+que la voiture démarre." Quelle est l'utilité de
+cette voiture? L'industrie éolienne dit:
+
+0:10:33.910,0:10:37.940
+"C'est OK, Chelsea, il faut avoir six voitures."
+L'énergie est entièrement une question de fiabilité.
+
+0:10:37.940,0:10:44.540
+Peut-on aborder ces problèmes en utilisant des batteries
+qui font de grands progrès avec rien
+
+0:10:44.540,0:10:45.470
+de plus d'un ordinateur portable?
+
+0:10:45.470,0:10:49.690
+C'est une proposition très, très chère d'utiliser
+de la batterie de réserve pour le réseau. Ca n'a
+
+0:10:49.690,0:10:53.770
+jamais pu être accompli au niveau du
+réseau en raison de combien ça coûte
+
+0:10:53.770,0:10:55.280
+de stocker une watt heure dans une batterie.
+
+0:10:55.280,0:10:58.170
+On ne parle même pas du lithium-ion, on parle
+de batteries bon marchés. Vous savez, on
+
+0:10:58.170,0:11:01.930
+parle du plomb-acide, des batteries vraiment pas chères.
+Parce qu'on en a besoin de beaucoup. C'est mieux
+
+0:11:01.930,0:11:04.730
+d'en avoir plein de nulles que d'en avoir
+quelques unes vraiment bonnes.
+
+0:11:04.730,0:11:09.050
+Si on avait une haute-conducteur ou ... 
+qu'est-ce qu'on les appelle?
+
+0:11:09.050,0:11:09.480
+Supraconducteurs?
+
+0:11:09.480,0:11:10.870
+De l'énergie intermittente de sources multiples.
+
+0:11:10.870,0:11:14.210
+Si on veut faire une ligne à haute tension,
+il faut que le dossier économique soit profitable
+
+0:11:14.210,0:11:17.040
+Il faut démontrer comment l'électricité
+sera jeté dans cette ligne presque
+
+0:11:17.040,0:11:21.140
+tout le temps. Sinon, ça ne vaut pas la construction,
+ça coûte trop d'argent.
+
+0:11:21.140,0:11:24.000
+Donc l'idée que «OK, il va y avoir
+une ferme éolienne ici, il va y avoir un parc
+
+0:11:24.000,0:11:27.440
+photovoltaique ici, et il va y avoir une ferme
+éolienne par ici, et l'un de ces trois sera
+
+0:11:27.440,0:11:31.500
+en marche à tout moment, mais on aura des lignes
+hautes tension pour chacun d'eux. Et bien
+
+0:11:31.500,0:11:34.750
+c'est juste absurde. Les gens qui proposent
+ça n'ont pas fait les chiffres.
+
+0:11:34.750,0:11:37.580
+Les gens ne veulent pas voir des centrales et des
+lignes à haute tension. Ils se battront
+
+0:11:37.580,0:11:42.300
+bec et ongles contre les lignes à haute
+tension. Il faut trouver une source d'énergie fiable
+
+0:11:42.300,0:11:45.260
+qui est proche de l'endroit où on a besoin de
+consommer l'énergie.
+
+0:11:45.260,0:11:47.310
+Je sais comment vous pouvez intéresser plus de femmes.
+
+0:11:47.310,0:11:47.780
+OK.
+
+0:11:47.780,0:11:48.760
+Aller sur Oprah.
+
+0:11:48.760,0:11:52.720
+Oh! Comment pourrais-je rentrer dans son club de lecture?
+
+0:11:52.720,0:11:57.850
+Beaucoup d'entre vous ont fait partie d'une classe sur
+la science  nucléaire et la politique qui l'entoure.
+
+0:11:57.850,0:11:59.530
+Merci beaucoup d'etre avec moi aujourd'hui.
+
+0:11:59.530,0:12:01.380
+Merci beaucoup, Kiki, je suis heureux d'être
+ici.
+
+0:12:01.380,0:12:03.010
+Hé, les gars vous êtes un groupe assez techy, non?
+
+0:12:03.010,0:12:06.240
+Il y avait un panneau qui parlait du piratage 
+informatique. Il ya une chose qui s'appelle
+
+0:12:06.240,0:12:07.190
+piratage nucléaire.
+
+0:12:07.190,0:12:12.600
+Je suis très heureux d'être ici avec vous aujourd'hui et
+d'être une partie de cette discussion.
+
+0:12:12.600,0:12:16.280
+La solution est l'énergie moins chère que celle
+provenant du charbon.
+
+0:12:16.280,0:12:21.030
+Toutes sortes de choses qui nous donnent l'avantage
+et ells sont toutes basées sur l'énergie.
+
+0:12:21.030,0:12:26.380
+Basé sur l'hypothèse que nous sommes prêts à sacrifier
+les vies de seulement 160 millions de personnes
+
+0:12:26.380,0:12:31.890
+à l'élévation du niveau de la mer, le changement climatique etc.
+alors en Janvier 2011, on a besoin de commencer à réduire
+
+0:12:31.890,0:12:34.520
+les émissions de CO2 de 4% par an ...
+
+0:12:34.520,0:12:40.630
+Eh bien, on le fait?
+
+0:12:40.630,0:12:47.630
+J'avais deux ans et dix mois quand j'ai
+vu Star Wars. C'est mon premier souvenir. Mon
+
+0:12:51.820,0:12:56.520
+père ne croyait pas que j'avais effectivement le souvenir
+jusqu'à ce que j'ai commencé à parler des détails
+
+0:12:56.520,0:12:59.700
+du jour où c'est arrivé. Il disait qu'après ce jour
+je ne parlais plus que de l'espace.
+
+0:12:59.700,0:13:04.770
+J'ai passé 10 ans à travailler à la NASA.
+Au début, en 2000, voici le genre
+
+0:13:04.770,0:13:09.350
+de communauté à laquelle je réflêchissais. Elle avait
+les mêmes besoins qu'aurait une communauté sur terre
+
+0:13:09.350,0:13:15.480
+mais elle avait quelques contraintes tout à fait uniques.
+Il n'ya pas de charbon sur la lune, il n'ya pas de pétrole,
+
+0:13:15.480,0:13:20.630
+il n'ya pas de gaz naturel, il n'y a pas de vent, il n'y a
+pas d'atmosphère. La lune tourne autour de la terre une fois
+
+0:13:20.630,0:13:25.030
+par mois. Pendant deux semaines, le soleil se couche
+et les panneaux solaires ne font pas de l'énergie.
+
+0:13:25.030,0:13:29.060
+Si on veut essayer de stocker assez d'énergie pour deux
+semaines dans des batteries, ce n'est simplement pas praticable.
+
+0:13:29.060,0:13:34.400
+Je pensais que l'énergie nucléaire était stupide. Je n'y avais
+aucun intérêt. Je pensais: "Ah, vieilleries,
+
+0:13:34.400,0:13:37.120
+qui voudrait être là-dessus?" Ce n'était pas
+avant que j'ai réalise que ces rendements étaient
+
+0:13:37.120,0:13:39.910
+possibles que j'ai commencé à vraiment m'y intéresser.
+
+0:13:39.910,0:13:43.590
+Je suis dans le bureau d'un copain. Il a ce livre
+sur son étagère et le livre s'appelle:
+
+0:13:43.590,0:13:47.090
+"Réacteurs à combustible liquide". Il avait travaillà aux
+Oak Ridge National Labs dans le Tennessee et il
+
+0:13:47.090,0:13:51.900
+dit: "Ouais, il y a des années, ils faisaient
+quelques trucs à ce sujet à Oak Ridge," il dit:
+
+0:13:51.900,0:13:57.440
+"Je suis passé à la bibliothèque et j'ai eu ce
+vieux livre." Il a été écrit en 1958 et il a dit:
+
+0:13:57.440,0:14:01.350
+"Je devais le regarder. Je connaissais
+un petit peu la dessus, mais pas beaucoup."
+
+0:14:01.350,0:14:06.080
+Donc j'ai ramené le livre chez moi, un gros vieux livre
+épais, avec environ 1000 pages, luttant vraiment
+
+0:14:06.080,0:14:10.080
+dur pour essayer de saisir les concepts nucléaires
+dans le livre mais il était suffisamment fascinant pour
+
+0:14:10.080,0:14:15.150
+moi et ça semblait vraiment différent du type
+d'énergie nucléaire que nous avons maintenant. Ils
+
+0:14:15.150,0:14:18.860
+mentionnent aussi dans ce livre beaucoup sur le thorium.
+Thorium, thorium, thorium, thorium. Je me
+
+0:14:18.860,0:14:20.680
+disait: "C'est quoi ce thorium?"
+
+0:14:20.680,0:14:24.820
+Mais j'étais assez fasciné et j'ai commencé à
+
+rechercher
+ le plus possible. Je lisais en ligne,
+
+0:14:24.820,0:14:27.450
+je lisais des blogs en particulier Rod Adams.
+
+0:14:27.450,0:14:31.460
+Les contribuables aux Etats-Unis m'ont envoyé à la
+mer sur les sous-marins. J'ai vécu dans un environnement
+
+0:14:31.460,0:14:36.810
+qui était alimenté à 100 cent par le nucléaire. C'est
+quelque chose dont les gens n'entendent pas parler.
+
+0:14:36.810,0:14:42.240
+Personne dans le monde savait qu'une réaction en chaîne
+de fission autonome a même été possible jusqu'à
+
+0:14:42.240,0:14:48.170
+quelque part autour de 1938. Très peu de gens
+comprennent toutes les options qui sont disponibles
+
+0:14:48.170,0:14:49.330
+dans l'énergie nucléaire.
+
+0:14:49.330,0:14:54.820
+Avec les réacteurs thorium à fluorure liquide,
+aucun déchet de haut niveau est généré
+
+0:14:54.820,0:14:59.910
+et il peut aussi réduire les stocks de déchets existants.
+Donc, y a-t-il plus que le gouvernement
+
+0:14:59.910,0:15:01.880
+peut faire pour tester la technologie?
+
+0:15:01.880,0:15:06.780
+La réalité est que nous avons des déchets, donc il
+ne va pas améliorer les déchets nucléaires.
+
+0:15:06.780,0:15:11.800
+Pardonnez s'il vous plaît mon ignorance, mais
+qu'est ce que le thorium?
+
+0:15:11.800,0:15:17.190
+O si mon professeur de sciences me voyait
+maintenant. Il est nommé d'après le dieu nordique Thor
+
+0:15:17.190,0:15:22.230
+et je sais que la noble baronnesse sera contente
+de savoir que c'est polymorphique et qu'il y a
+
+0:15:22.230,0:15:29.230
+toutes sortes d'autres faits qu'elle peut trouver
+sur Wikipédia, comme d'ailleurs, ce que j'ai fait.
+
+0:15:30.050,0:15:33.700
+Mes lords, mes lords ... mes lords.
+
+0:15:33.700,0:15:40.540
+Le Ministère de l'Énergie a cité mon site
+ web
+
+en tant que source technique unique pour le réacteur
+
+0:15:40.540,0:15:45.350
+à sels fondus dans leur génération 4 à la
+première publication. Les gens disent: "Eh bien, c'est
+
+0:15:45.350,0:15:51.240
+tout un honneur," non c'est vraiment très pathétique
+parce que je suis Joe assis dans mon garage à faire
+
+0:15:51.240,0:15:55.420
+un site web et c'est la seule source
+technique que vous avez trouvé?
+
+0:15:55.420,0:15:59.890
+Est-ce que l'administration comprend toutes les
+options disponibles? Non. Est-ce qu'il y a vraiment quelqu'un
+
+0:15:59.890,0:16:06.890
+qui comprend clairement le fait que l'énergie nucléaire
+est une technologie entièrement révolutionnaire?
+
+0:16:07.810,0:16:11.920
+Le réacteur thorium à fluorure liquide, j'ai vu
+certains qui souriaient quand c'était évoqué
+
+0:16:11.920,0:16:15.750
+et ça me perturbe un petit peu. Qu'est-ce que
+vous entendez sur LFTR qui n'est pas ...
+
+0:16:15.750,0:16:18.330
+Qu'est-ce que vous entendez sur les réacteurs à sels
+fondus qui n'est pas là?
+
+0:16:18.330,0:16:23.640
+Je serais vraiment surpris si notre leadership
+connaît ce sujet. Je ne pense pas qu'ils lisent
+
+0:16:23.640,0:16:27.880
+les blogs. Le fait que nous avons un Internet
+aujourd'hui va finalement faire la différence.
+
+0:16:27.880,0:16:32.310
+Vous savez on a eu l'âge du bronze et on a eu l'age
+de fer et on a eu la révolution industrielle.
+
+0:16:32.310,0:16:36.010
+Je pense vraiment que d'ici des centaines d'années,
+ils vont dire il y avait un âge du thorium qui a débuté.
+
+0:16:36.010,0:16:39.550
+Laissez-moi vous dire comment ce truc a été découvert.
+Il y avait un gars nommé Glenn Seaborg qui travaillait
+
+0:16:39.550,0:16:46.000
+aux Berkeley Labs en Californie en 1942. C'était
+le gars qui a découvert le plutonium. Venant
+
+0:16:46.000,0:16:52.200
+de découvrir le plutonium il pensait: "je me demande
+si on peut impacter le thorium avec un neutron et le
+
+0:16:52.200,0:16:54.560
+transformer en quelque chose." Il faut se souvenir, la
+fission avait été découvert trois ans plus tôt, donc
+
+0:16:54.560,0:16:55.950
+ils étaient encore toute aux débuts.
+
+0:16:55.950,0:16:58.720
+Alors il trouve ce jeune diplômé. Vous savez, tout
+le monde qui a été jeune diplômé sait ce que c'est
+
+0:16:58.720,0:17:02.190
+quand un professeur dit: "OK. Je veux que vous allez
+dans le labo nucléaire pour allumer
+
+0:17:02.190,0:17:07.740
+le système de bombardement de neutrons et exposer
+cet échantillon de matières radioactives pour voir
+
+0:17:07.740,0:17:09.449
+ce qui se passe."
+
+0:17:09.449,0:17:13.079
+"C'est la guerre en ce moment, n'est-ce pas, monsieur?
+Je pourrais être sur la ligne de front."
+
+0:17:13.079,0:17:13.589
+"Oui, c'est possible."
+
+0:17:13.589,0:17:15.529
+"OK. Oui, monsieur. Absolument. J'y vais."
+
+0:17:15.529,0:17:20.110
+Donc le jeune diplomé s'en va, et il fait
+l'expérience. Et il revient vers Seaborg, et
+
+0:17:20.110,0:17:25.019
+il dit, "Ouais, je l'ai fait, monsieur. J'ai fait quelque
+chose de nouveau. Le thorium a bien absorbé le neutron.
+
+0:17:25.019,0:17:28.279
+Il est devenu uranium-233. C'est cool, non?"
+
+0:17:28.279,0:17:32.860
+Seaborg dit: "Oui, absolument. OK! Maintenant, nous allons
+à la prochaine étape"; pauvre petit jeune diplômé!
+
+0:17:32.860,0:17:37.830
+"Je veux que vous retournez. Maintenant, je veux que vous
+l'impactez avec un neutron pour voir s'il va fissionner.
+
+0:17:37.830,0:17:40.309
+Parce que je pense qu'il va fissionner. Je pense qu'il
+fissionnera tout comme l'uranium-235."
+
+0:17:40.309,0:17:41.840
+"OK. Oui, monsieur."
+
+0:17:41.840,0:17:46.409
+Il s'en va, il fait l'expérience, revient
+et dit: "Ouais, vous aviez raison. Il a fissionné.
+
+0:17:46.409,0:17:49.960
+Vous avez raison. C'est une nouvelle forme de
+combustible nucléaire
+."
+
+0:17:49.960,0:17:55.090
+Puis Seaborg pose la question vraiment, vraiment importante.
+Il dit: "Maintenant, je veux que vous allez trouver
+
+0:17:55.090,0:18:02.090
+combien de neutrons sont sortis quand il a fissionné.
+Parce que si ce chiffre est inférieur à 2, on n'a pas
+
+0:18:02.470,0:18:07.720
+vraiment une histoire la. Si ce chiffre ... vous revenez,
+pour dire que c'est autour de 1,5, et bien ...
+
+0:18:07.720,0:18:13.899
+fait intéressant qu'on mettra dans l'annexe du livre.
+Mais si ce chiffre est supérieur à 2, et bien
+
+0:18:13.899,0:18:14.580
+ça c'est une grosse affaire."
+
+0:18:14.580,0:18:19.850
+Il s'en va, revient: "Monsieur,
+le nombre est 2,5."
+
+0:18:19.850,0:18:25.289
+Seaborg regarde son jeune diplômé. On est en
+Décembre 1942, et il dit: "Vous venez de faire
+
+0:18:25.289,0:18:28.279
+une découverte à 50 quadrillions de dollars."
+
+0:18:28.279,0:18:32.860
+Et le jeune diplômé dit "Euuuh!"
+
+0:18:32.860,0:18:39.860
+Seaborg avait absolument raison. Il avait compris
+que le thorium pouvait servir comme un combustible
+
+0:18:40.159,0:18:47.029
+nucléaire essentiellement illimitée. Et il savait à quel point
+le thorium était abondant dans la croûte de la Terre.
+
+0:18:47.029,0:18:53.100
+Et il a réalisé que grâce à ce processus, si
+on avait de l'uranium-233, on pouvait catalyser
+
+0:18:53.100,0:18:56.549
+la combustion du thorium indéfiniment.
+
+0:18:56.549,0:19:01.690
+On fissionne de l'uranium 233, mais on en fait un
+nouveau. Donc ce n'est pas vraiment un catalyseur
+
+0:19:01.690,0:19:06.580
+au véritable sens chimique qu'un catalyseur
+n'est pas consommée dans une réaction. Mais on peut
+
+0:19:06.580,0:19:08.950
+presque le considérer comme un pseudo-catalyseur.
+
+0:19:08.950,0:19:12.830
+Donc, on va partir des principes fondamentaux.
+Parlons un peu de ce que c'est, la fission nucléaire.
+
+0:19:12.830,0:19:17.820
+On a un nucléide fissible. Cela signifie que ceci est
+un noyau que si on l'impacte avec un neutron, il va
+
+0:19:17.820,0:19:23.250
+fissionner et se diviser en deux morceaux,
+deux produits de fission. Et aussi, de façon importante,
+
+0:19:23.250,0:19:28.059
+ce neutron seul va pondre la formation
+de deux ou trois neutrons supplémentaires.
+
+0:19:28.059,0:19:33.740
+Pourquoi s'en faire? Voici pourquoi c'est important ...
+
+0:19:33.740,0:19:40.529
+Parce que chaque kilogramme de matière fissile
+produira autant d'énergie que 13 000 barils
+
+0:19:40.529,0:19:47.490
+de pétrole. La fission nucléaire est un million de fois
+plus dense en énergie q'une réaction chimique.
+
+0:19:47.490,0:19:52.990
+La civilisation a évolué avec des avancées
+technologiques beaucoup plus modeste que ça.
+
+0:19:52.990,0:19:57.320
+Lorsqu'on fissionne quelque chose, il se brise en
+ces deux morceaux, mais ils sont radioactifs.
+
+0:19:57.320,0:19:58.419
+Pourquoi sont-ils radioactifs?
+
+0:19:58.419,0:20:03.929
+Et voici un tableau qui montre le nombre
+de protons dans la matière et le nombre de neutrons.
+
+0:20:03.929,0:20:09.470
+Alors, si le nombre de protons et le nombre
+de neutrons étaient le même, l'ensemble de ces isotopes
+
+0:20:09.470,0:20:12.100
+resteraient sur cette belle ligne ici,
+vous voyez?
+
+0:20:12.100,0:20:16.840
+Mais ils ne font pas ça. Au début,
+c'est un nombre à peu près égal de protons et de
+
+0:20:16.840,0:20:21.399
+neutrons. Mais quand ils deviennent plus lourds, ils
+passent pluôt du coté très riches en neutrons.
+
+0:20:21.399,0:20:26.429
+Vous voyez ces points noirs? Ce sont les nucléides
+stables et tous les autres gars sont radioactifs.
+
+0:20:26.429,0:20:31.360
+L'intéraction forte fait la cohésion du noyau,
+les protons poussent au déchirement du noyau
+
+0:20:31.360,0:20:35.090
+OK? Les protons ont tous une charge positive,
+ils veulent l'arracher. Les
+
+0:20:35.090,0:20:40.289
+neutrons ajoutent plus de cette colle nucléaire
+d'intéraction forte, tenant le tout ensemble et
+
+0:20:40.289,0:20:43.379
+ils n'ajoutent pas plus du truc qui
+fait déchirer.
+
+0:20:43.379,0:20:49.480
+Tout en bas ici sont l'uranium le thorium et ils
+ont environ une fois et demie de plus
+
+0:20:49.480,0:20:54.850
+de neutrons que de protons. Lorsqu'on les éclate en
+deux, les deux morceaux qu'on obtient héritent de ce
+
+0:20:54.850,0:21:00.110
+ratio, mais c'est le mauvais ratio pour eux. Ils
+sont vers ici, ils voulaient être plus près
+
+0:21:00.110,0:21:02.059
+d'une fois et quart au lieu d'un an et demi.
+
+0:21:02.059,0:21:05.620
+Ils ont trop de neutrons. La nature a un
+processus astucieux pour régler ce petit problème
+
+0:21:05.620,0:21:09.659
+qui s'appelle la radioactivité bêta. Essentiellement, un
+neutron se transforme en proton en recrachant un électron.
+
+0:21:09.659,0:21:14.159
+Quand on fissionne un noyau pourquoi ce qui en sort
+est radioactif? Et il y a un rapport avec
+
+0:21:14.159,0:21:18.759
+cet équilibre proton et neutron. L'équilibre
+est mauvais pour ce qu'on a fabriqué, même si
+
+0:21:18.759,0:21:20.440
+c'était juste pour la matière au début.
+
+0:21:20.440,0:21:26.590
+Voici les nombres de masse de chacun de ces produits
+et ils adoptent deux pics de distribution larges.
+
+0:21:26.590,0:21:30.990
+Ici c'est le petit produit de fission et ici
+c'est le grand produit de fission parce que chaque
+
+0:21:30.990,0:21:35.620
+fission en génère deux. Mais, comme ils sont riches en
+neutrons il faut qu'ils se désintégrent par
+
+0:21:35.620,0:21:38.240
+radioactivité bêta quelques fois avant
+d'atteindre un noyau stable.
+
+0:21:38.240,0:21:42.879
+Parlons juste une minute de la radioactivité
+parce que moi j'avais une idée erronée de
+
+0:21:42.879,0:21:46.710
+la radioactivité. Je pensais que si on avait
+quelque chose avec une demi-vie d'un jour,
+
+0:21:46.710,0:21:51.090
+et on a quelque chose qui avait une demi-vie
+d'un million d'années, ça voulait dire que le gars
+
+0:21:51.090,0:21:55.970
+qui était radioactif un jour faisait: "brrrrr!"
+pendant une journée et puis: "Hop! j'ai fini." Et le
+
+0:21:55.970,0:21:59.700
+gars avec une demi-vie d'un million d'années faisait:
+"brrrrrr!" pendant un million d'années, puis fini.
+
+0:21:59.700,0:22:00.419
+OK.
+
+0:22:00.419,0:22:04.649
+Alors on demande lequel est le plus dangereux?
+Eh bien, certainement celui qui a une demi-vie
+
+0:22:04.649,0:22:08.649
+d'un million d'années parce que ça doit être
+radioactif pour toujours et le gars qui est radioactif
+
+0:22:08.649,0:22:11.509
+un jour c'est pas un gros problème, non?
+
+0:22:11.509,0:22:17.340
+Complètement faux. OK. Complètement à l'envers. Le
+gars qui est radioactif un jour est vraiment,
+
+0:22:17.340,0:22:23.370
+vraiment radioactif. Le gars qui est radioactif
+pendant un million d'années n'est presque pas
+
+0:22:23.370,0:22:27.649
+radioactif du tout. Lequel de ces deux est le plus 
+dangereux? Celui qui est radioactif un jour,
+
+0:22:27.649,0:22:29.480
+de loin.
+
+0:22:29.480,0:22:35.870
+Donc, la radioactivité est directement et inversement
+proportionnelle à la demi-vie. Donc, tous ces
+
+0:22:35.870,0:22:40.289
+gars qui ont des demi-vies courtes: très,
+très dangereux, mais ils s'en vont super
+
+0:22:40.289,0:22:45.580
+vite. Ce gars, 2,3 millions d'années, aucun problème.
+Il ne va pas vous faire mal. Il n'est simplement pas
+
+0:22:45.580,0:22:47.240
+du tout assez radioactif.
+
+0:22:47.240,0:22:51.409
+Qu'en est-il maintenant du thorium et de l'uranium? Ils
+sont tous les deux des matériaux naturels. Le thorium a
+
+
+0:22:51.409,0:22:57.909
+un seul isotope thorium-232. Il a une demi-vie de
+14 milliards d'années. Quand l'Univers
+
+0:22:57.909,0:23:02.039
+sera deux fois plus agé qu'aujourd'hui, le thorium
+sera désintégré d'une demi-vie seulement.
+
+0:23:02.039,0:23:06.330
+Ca vous dit quoi sur comment le thorium est radioactif?
+
+0:23:06.330,0:23:12.350
+Presque pas du tout. C'est pourquoi il est toujours là.
+L'uranium, deux isotopes : uranium-235, uranium-238
+
+0:23:12.350,0:23:16.379
+Les deux sont radioactifs, bien sûr. U-238 a
+une demi-vie de 5 milliards d'années, c'est plutôt
+
+0:23:16.379,0:23:19.899
+vieux, c'est l'age de la terre, c'est ça
+l'age de l'univers.
+
+0:23:19.899,0:23:24.019
+L'uranium-235, d'autre part a une demi-vie beaucoup
+plus courte, sept cents millions d'années. OK.
+
+0:23:24.019,0:23:27.240
+Quelle est l'abondance de ce truc sur la terre? La plupart
+de la terre est faite d'oxygène. Etrange, non?
+
+0:23:27.240,0:23:32.499
+Environ 46% de la croûte de la terre est
+de l'oxygène. Parce que tout est oxydé,
+
+0:23:32.499,0:23:35.879
+tous les rochers, puis le silicium, aluminium, fer,
+calcium, un tas de trucs.
+
+0:23:35.879,0:23:40.759
+Eh bien voici le thorium à 10 parties par million,
+mais il ya d'autres choses qui peuvent nous intéresser
+
+0:23:40.759,0:23:45.740
+qui sont encore moins abondants; béryllium, étain,
+tungstène. Voici l'uranium, deux parties et demie
+
+0:23:45.740,0:23:50.960
+par million. Tungstène, molybdène, mercure,
+argent, et sans surprise, où est l'or? C'est
+
+0:23:50.960,0:23:52.710
+pourquoi les filles en veulent.
+
+0:23:52.710,0:23:58.070
+Alors, disons qu'on regardait l'uranium-235
+comme s'il était tout seul. C'est moins que
+
+0:23:58.070,0:24:03.350
+1% de l'uranium, c'est environ 0,7%
+de l'uranium. On voit que l'uranium-235 est de
+
+0:24:03.350,0:24:07.450
+pair avec l'abondance de l'argent et le platine.
+
+0:24:07.450,0:24:12.889
+Vous imaginez brûler le platine pour de l'énergie?
+Ce serait la follie. C'est de la follie. Et c'est
+
+0:24:12.889,0:24:18.039
+littéralement ce que nous faisons avec nos sources 
+d'énergie nucléaire aujourd'hui. Nous brûlons ce truc
+
+0:24:18.039,0:24:25.009
+extrêmement rare et nous ne brûlons pas les trucs
+abondants, l'uranium-238 et le thorium. On laisse
+
+0:24:25.009,0:24:27.539
+tout ça imbrûlé.
+
+0:24:27.539,0:24:32.570
+Certaines personnes qui sont des écologistes,
+et ils disent: "Écoutez, le nucléaire n'est pas durable."
+
+0:24:32.570,0:24:36.940
+Ils me disent: "Nous allons manquer d'uranium."
+J'ai dit: "OK. Je vous cède ce point, si on
+
+0:24:36.940,0:24:41.950
+parle de la technologie nucléaire d'aujourd'hui.
+D'autre part, si nous commençons à
+
+0:24:41.950,0:24:45.840
+réflêchir à certains de ces autres choses que
+nous pouvons faire, c'est toute une autre histoire."
+
+0:24:45.840,0:24:51.559
+Thorium à lui tout seul ne va pas libérer
+de l'énergie nucléaire. Mais si on impacte le thorium
+
+0:24:51.559,0:24:55.669
+avec un neutron, le thorium absorbera le
+neutron et il se transformera de thorium-232
+
+0:24:55.669,0:25:02.249
+au thorium-233. Thorium-233 a une demi-vie d'environ
+20 minutes seulement, donc il est radioactif?
+
+0:25:02.249,0:25:08.730
+Oh oui, méga radioactif, vraiment, vraiment
+du chaud. Il va se désintégrer en protactinium-233,
+
+0:25:08.730,0:25:10.559
+qui a une demi-vie d'environ un mois.
+
+0:25:10.559,0:25:14.379
+Donc, un machin plûtot méga chaud. On n'a peut-être pas
+envie de fouiller avec ça non plus. Puis
+
+0:25:14.379,0:25:18.879
+il va se désintégrer sur environ un mois à l'uranium-233,
+qui a une demi-vie d'environ 160.000 ans,
+
+0:25:18.879,0:25:22.200
+et qui est beaucoup moins radioactif.
+
+0:25:22.200,0:25:27.409
+L'uranium-233, si on l'impacte avec un neutron
+il va fissionner. Non seulement il dégage
+
+0:25:27.409,0:25:32.700
+toute cette énergie, mais il dégage deux ou trois
+neutrons supplémentaires. On a besoin d'un de ces
+
+0:25:32.700,0:25:37.559
+neutrons pour aller trouver un autre thorium et on a
+besoin d'un autre de ces neutrons pour trouver
+
+0:25:37.559,0:25:41.169
+un autre uranium-233 pour poursuivre la réaction.
+
+0:25:41.169,0:25:47.759
+Certains de ces produits de fission ont une grande
+tendance à manger les neutrons. La façon de
+
+0:25:47.759,0:25:53.009
+décrire cela dans une réaction nucléaire est de
+l'appeler une section efficace. Quelle est la probabilité
+
+0:25:53.009,0:25:58.759
+d'une réaction? Un de ces produits de fission
+est nommé xénon-135, et voici sa
+
+0:25:58.759,0:26:04.590
+section efficace par rapport à deux combustibles nucléaires.
+Voux voyez ces tout petits gars là? Imagine qu'on
+
+0:26:04.590,0:26:07.960
+joue aux fléchettes, et on les lance.
+Lequel on va taper?
+
+0:26:07.960,0:26:14.090
+Lorsque le xénon-135 est formé de la fission, regardez
+toutes ces chaînes, blah, blah, blah. Où est 135?
+
+0:26:14.090,0:26:21.090
+OK, ce n'est pas particulièrement un événement
+rare de former ce gars en particulier. Le Xénon-135
+
+0:26:24.769,0:26:30.940
+a une demi vie de neuf heures. Il est très radioactif, mais
+pendant ces neuf heures, il veut vraiment manger tes neutrons.
+
+0:26:30.940,0:26:39.289En fait c'était un effet contributeur à 
+la catastrophe de Tchernobyl,
+la présence de xenon-135. Et il est vraiment difficile à traiter
+
+0:26:39.289,0:26:45.580
+dans les réacteurs à combustible solide.
+Xenon était une affaire importante, en fait,
+voici l'un des premiers réacteurs
+
+0:26:45.580,0:26:50.499
+qui a été construit. C'était le réacteur Hanford
+à Washington. Ils l'ont construit pendant
+
+0:26:50.499,0:26:54.360
+le projet Manhattan pour faire du plutonium pour
+des armes nucléaires.
+
+0:26:54.360,0:26:58.740
+Quand ils l'avait construit, ils l'ont démarré
+et tout semblait aller bien. Après environ
+
+0:26:58.740,0:27:05.340
+un jour ou deux de fonctionnement, tout d'un coup
+la puissance est tombée, presque à zéro.
+
+0:27:05.340,0:27:09.480
+Et ils disaient: "Qu'est-ce que c'est que ça?",
+et ils ne pouvaient pas comprendre. Ils l'ont laissé
+
+0:27:09.480,0:27:15.970
+tranquille, et après environ 12 ou 18 heures, tout d'un coup
+il est remonté à la puissance normal à nouveau, et
+
+0:27:15.970,0:27:21.100
+là il a tenu. Et ils disaient: "Quoi?", Et
+bientôt il est tombé à nouveau. Et ils
+
+0:27:21.100,0:27:25.139
+disaient: "C'est trop bizarre, nous on ne
+fait rien! Le truc démarre et s'éteint
+
+0:27:25.139,0:27:27.399
+et il démarre et il s'éteint."
+
+0:27:27.399,0:27:33.929
+Ce qui se passait : le réacteur démarrait,
+et le xénon-135 commencait à s'accumuler.
+
+0:27:33.929,0:27:37.769
+Et quand il s'accumulait, il commencait à manger
+tous ces neutrons, OK?. Et puis il a fait ...
+
+0:27:37.769,0:27:41.110
+et ça a fait éteindre le réacteur.
+
+0:27:41.110,0:27:44.869
+Puis après un moment il désintégrait, et
+une fois qu'il avait désintégré ...
+
+
+0:27:44.869,0:27:50.330
+le réacteur démarrait à nouveau.
+Donc il suivait cet effet haut et bas.
+
+0:27:50.330,0:27:53.320
+La follie, je veux dire, ces gars ne connaissaient
+même pas l'existence du xénon-135, parce que c'était
+
+0:27:53.320,0:27:58.720
+l'un des premiers réacteurs nucléaires jamais construit.
+Heureusement pour nous, le gars qui a construit ce réacteur
+
+0:27:58.720,0:28:00.789
+était ce gars-là, Eugène Wigner.
+
+0:28:00.789,0:28:02.399
+Il était incroyablement brillant, peut-être l'un des 
+plus intelligent qui aient jamais vécu. Il a remporté le
+
+0:28:02.399,0:28:05.110
+Prix Nobel. Il se contentait de rester au lit, en essayant
+de comprendre: "A quel point on est devant les Allemands?
+
+0:28:05.110,0:28:08.830
+Où pensez-vous qu'ils en sont?" Il faisait toujours
+des jeux dans sa tête pour essayer de comprendre.
+
+0:28:08.830,0:28:13.139
+Il avait pensé: "Qu'est-ce qui pourrait mal tourner
+dans cette machine que j'ai construit." Il dit: "Eh bien,
+
+0:28:13.139,0:28:18.639
+il pourrait y avoir quelque chose que l'on fabriquera
+qui sera très, très absorbant de neutrons.
+
+0:28:18.639,0:28:24.559
+Et ce quelque chose que l'on fabriquera pourrait
+se désintègrer rapidement. Et si c'était vraiment
+absorbant et il se désintégrait
+
+0:28:24.559,0:28:26.220
+rapidement, le réacteur ferait ... ça!"
+
+0:28:26.220,0:28:32.249
+Il ne savait pas encore ce que c'était! Il a juste émis
+l'hypothèse qu'une telle chose existait! Et
+
+0:28:32.249,0:28:36.149
+alors quand sa machine a commencé à faire cela,
+il dit: "Je crois que je sais ce qui se passe."
+
+0:28:36.149,0:28:40.980
+Il y avait plein d'endroits pour ajouter du
+combustible, et il a été capable de passer outre cet
+
+0:28:40.980,0:28:44.789
+effet. Je veux dire, on a vraiment de la chance qu'il a
+fait cela, ou on n'aurait pas été en mesure de terminer
+
+0:28:44.789,0:28:48.980
+le projet Manhattan. Alors ils ont pu
+terminer la création de plutonium pour pouvoir
+
+0:28:48.980,0:28:50.820
+faire la première arme nucléaire.
+
+0:28:50.820,0:28:55.610
+Ils ont pris de l'uranium naturel, et ils ont séparé
+ces deux isotopes, ils l'ont hautement enrichi en
+
+0:28:55.610,0:29:02.460
+uranium-235. Ils transformaient l'uranium-235
+à partir de moins de 1% jusqu'à plus de 90%.
+
+0:29:02.460,0:29:07.989
+Et c'était vraiment dur. Il a fallu de grandes usines,
+un enrichissement isotopique très difficile à faire.
+
+0:29:07.989,0:29:12.720
+Mais c'est comme ça qu'ils ont fait l'uranium pour
+la première arme nucléaire utilisée en guerre. C'était
+
+0:29:12.720,0:29:16.529
+la bombe d'Hiroshima. Il s'appelait "Little
+Boy", et ils ne l'ont jamais testé, parce qu'ils
+
+0:29:16.529,0:29:17.499
+savaient déjà qu'il allait marcher.
+
+0:29:17.499,0:29:22.850
+Puis ils ont dit: "Eh bien, que pouvons-nous faire avec
+tous ces déchets d'uranium-238, le 99,3%?"
+
+0:29:22.850,0:29:27.299
+Eh bien, Seaborg avait déjà compris qu'on pouvait
+l'exposer à des neutrons, et on pouvait
+
+0:29:27.299,0:29:29.649
+le transformer en plutonium.
+
+0:29:29.649,0:29:35.239
+Après une courte période de refroidissement,les crayons
+de combustible hautement irradiés ont été transportés
+
+0:29:35.239,0:29:38.119
+à l'usine T dans la région 200 de Hanford.
+
+0:29:38.119,0:29:43.669
+Alors, le plutonium est un élément chimique différent
+de l'uranium, donc ils peuvent être séparés chimiquement.
+
+0:29:43.669,0:29:50.659
+Le procédé a rendu des quantités infimes de plutonium.
+En poids, le matériau le plus cher sur la planète.
+
+0:29:50.659,0:29:56.789
+Et séparer les choses chimiquement, c'est une bazillion
+de fois plus facile que de les séparer isotopiquement.
+
+0:29:56.789,0:29:57.929
+Parce que l'uranium-235 et l'uranium-238 sont
+chimiquement identiques. Il n'y a aucune différence
+
+
+0:29:57.929,0:30:02.580
+chimique entre eux.
+
+0:30:02.580,0:30:07.440
+Et voilà comment ils ont fait la première arme
+nucléaire, l'explosion de Trinity au Nouveau-Mexique, et
+
+0:30:07.440,0:30:11.730
+c'était aussi la manière de faire la bombe de Nagasaki,
+Fat Man. Seaborg dit: "OK, bien, peut-être qu'on
+
+0:30:11.730,0:30:15.759
+peut faire la même chose avec le thorium. Peut-être
+qu'on peut l'exposer à des neutrons, le transformer
+
+0:30:15.759,0:30:22.279
+en uranium-233. L'uranium sera chimiquement
+séparable du thorium, et on peut y aller fabriquer
+
+0:30:22.279,0:30:23.649
+une bombe." OK? Super.
+
+0:30:23.649,0:30:28.489
+Alors ils ont commencé à le regarder, et il s'avère
+que, non, c'est vraiment une mauvaise idée, parce que
+
+0:30:28.489,0:30:34.489
+quand on fabriquait l'uranium-233, on fabriquait toujours 
+de l'uranium-232. Voici la chaîne de désintégration
+
+0:30:34.489,0:30:41.489
+de l'uranium-232. Il saute une année,
+trois jours, 55 secondes, 0,16 secondes,
+
+0:30:42.619,0:30:49.440
+et il saute pour devenir ces gars - le bismuth-212,
+le thallium-208 et ces deux produits de désintégration
+
+0:30:49.440,0:30:50.879
+ont des émissions gamma dures.
+
+0:30:50.879,0:30:56.850
+Ils ont un rayonnement gamma très, très fort.
+Et ces rayons gamma sont une super mauvaises nouvelle, si
+
+0:30:56.850,0:31:01.119
+vous voulez aller construire un appareil nucléaire
+pratique. Parce que, numéro un, ils vous tuent
+
+0:31:01.119,0:31:04.649
+lorsque vous travaillez dessus, numéro deux, ils racontent
+à tout le monde qui a un détecteur de rayonnement gamma, où
+
+0:31:04.649,0:31:05.830
+se trouve la substance.
+
+0:31:05.830,0:31:10.259
+Alors très vite ils se disaient, OK, on peut
+travailler avec de l'uranium-235, ça semble OK,
+
+0:31:10.259,0:31:15.929
+on peut travailler avec du plutonium, ça semble OK,
+mais ce truc uranium-233 est une mauvaise nouvelle
+
+0:31:15.929,0:31:17.739
+pour fabriquer une arme nucléaire.
+
+0:31:17.739,0:31:23.389
+Le thorium a été mis de côté en tant que combustible 
+potentiel pour une arme nucléairependant toute la guerre. 
+
+0:31:23.389,0:31:26.629
+Après la guerre, ils l'ont ramassé à nouveau parce que
+maintenant ils pensaient: "Parlons de fabriquer
+
+0:31:26.629,0:31:32.549
+de la puissance au lieu de fabriquer des armes nucléaires."
+Voici un graphique qui montre la tendance d'absorption
+
+0:31:32.549,0:31:36.369
+de chacun de ces différents combustibles nucléaires
+en fonction de l'énergie des neutrons.
+
+0:31:36.369,0:31:40.830
+Ici c'est ce qu'on appelle de l'énergie thermique, ça
+veut dire qu'ils ont été super ralentis. Ici c'est
+
+0:31:40.830,0:31:45.619
+de l'énergie rapide, ça veut dire que le neutron est
+toujours vraiment rapide. Regardez à quel point les
+
+0:31:45.619,0:31:50.070
+sections efficaces sont plus grandes dans le thermique
+que ce qu'ils sont dans le rapide.
+
+0:31:50.070,0:31:55.039
+Et c'est quoi ce gars en bas, c'est le rapide fois 25.
+En prennant cette ligne, car on ne voit à peine
+
+0:31:55.039,0:32:01.389
+ces tout petits points, et je l'ai gonflé par un
+facteur de 25. On peut voir des proportions
+
+0:32:01.389,0:32:05.269
+ici. Alors la signification de ces couleurs: le rouge
+signifie qu'il va absorber le neutron
+
+0:32:05.269,0:32:08.369
+et le bleu signifie qu'il va absorber
+le neutron puis fissionner.
+
+0:32:08.369,0:32:12.159
+Qu'est-ce qu'on veut, on veut du bleu. Grand bleu c'est
+bien. On veut plein de bleu, parce que quand on
+
+0:32:12.159,0:32:14.739
+impacte ces gars avec un neutron, on veut qu'ils
+fissionnent.
+
+0:32:14.739,0:32:20.690
+Regardez le plutonium, wow, grande cible, non?
+Mais un tiers du temps, il va simplement
+
+0:32:20.690,0:32:26.330
+manger le neutron dans la fission thermique. C'est
+pas bien. D'autre part, dans la fission rapide,
+
+0:32:26.330,0:32:32.700
+regardez ça, wow, et bien il va fissionner presque
+tout le temps. On aime ça! Mais regardez, combien
+
+
+0:32:32.700,0:32:38.429
+de ces petits points on aura besoin pour
+faire cette taille? Il nous faudra beaucoup.
+
+0:32:38.429,0:32:45.119
+Combien d'énergie avait le neutron avec lequel
+on a impacté le combustible nucléaire? Combien d'énergie
+
+0:32:45.119,0:32:50.389
+avaient-ils et puis combien de neutrons on a
+expulsé quand on le claque à la fission?
+
+0:32:50.389,0:32:56.070
+Ces tout petits points, ils apparaissent dans cette
+partie de la courbe. C'est la région rapide,
+
+0:32:56.070,0:32:59.749
+voici la région thermique. Sur la région thermique,
+regardez qui fait le mieux, regardez
+
+0:32:59.749,0:33:09.169
+l'uranium-233, environ 2,3. Regardez le plutonium,
+c'est ce creux en dessous de deux juste là. C'est ça
+
+0:33:09.169,0:33:14.999
+qui fait qu'on ne peut pas brûler l'uranium-238
+dans un réacteur à spectre thermique comme un réacteur
+
+0:33:14.999,0:33:17.220
+refroidi à l'eau, comme un CANDU ou comme un
+réacteur à eau légère.
+
+0:33:17.220,0:33:23.129
+On ne peut juste pas le faire. Alors ils le regardent
+et ils disent: "Oaaah, on ne peut pas brûler l'uraniun-238
+
+0:33:23.129,0:33:26.789
+dans le réacteur thermique. C'est impossible."
+Ces gars-là ne sont pas dissuadés, ils ont dit: "Eh bien,
+
+0:33:26.789,0:33:28.799
+voici ce qu'on fera, on va construire un réacteur à
+neutrons rapides, parce que regardez comment c'est bien
+
+0:33:28.799,0:33:33.609
+dans la région rapide, wow, on est au dessus de deux,
+trois, wow! C'est vraiment bien!" Cétait la genèse
+
+0:33:33.609,0:33:39.190
+de l'idée du réacteur surgénérateur à neutrons rapides,
+un réacteur qui a été basé autour de
+
+0:33:39.190,0:33:42.320
+neutrons rapides et de combustible au plutonium.
+
+0:33:42.320,0:33:47.480
+Mais l'uranium-233, d'autre part, OK, il
+devient un peu mieux dans le rapide, mais zut
+
+0:33:47.480,0:33:50.019
+il est toujours super bon dans le thermique.
+
+0:33:50.019,0:33:55.779
+Grandes cibles, beaucoup plus facile, les gens qui
+poussent le thorium disent: "Nous on aime le thermique.
+
+0:33:55.779,0:33:59.710
+C'est ça le genre de réacteur qu'on veut construire"
+et les gens qui poussent le plutonium disent: "Non,
+
+0:33:59.710,0:34:03.019
+non, non, nous voulons un réacteur à neutrons rapides,
+c'est la seule façon de le faire."
+
+0:34:03.019,0:34:06.480
+Qu'est ce qu'on a fait en réalité? Ni l'un ni l'autre.
+En réalité, tous nos réacteurs
+
+0:34:06.480,0:34:12.660
+aujourd'hui brûlent de l'uranium 235 qui est comme
+brûler du platine, très, très, très rare. Au bout
+
+0:34:12.660,0:34:17.510
+du compte on n'a pas pris l'un ou l'autre de ces chemins.
+Mais je voulais dire, c'était la grande division au début,
+
+0:34:17.510,0:34:19.960
+ça devait être le thorium ou le plutonium.
+
+0:34:19.960,0:34:25.120
+Wigner n'a pas réussi à convaincre la majeure
+partie de la communauté nucléaire de prendre
+
+0:34:25.120,0:34:30.470
+l'approche du thorium. En gros ils ont dit:
+"Nous allons suivre la voie du plutonium." Une
+
+0:34:30.470,0:34:35.590
+des raisons était qu'ils avaient développé
+une bonne compréhension du plutonium
+
+0:34:35.590,0:34:40.280
+dans le programme d'armement. Ils l'avaient
+fabriqué. Ils avaient travaillé avec sa chimie.
+
+0:34:40.280,0:34:46.860
+Ils en ont fait du carburant. Ils disent:
+"Ca, on acompris. Thorium? On n'a pas vraiment joué
+
+0:34:46.860,0:34:49.960
+avec le thorium. Ce serait comme repartir à zéro."
+
+0:34:49.960,0:34:55.000
+La tendence là était d'aller faire ce qu'on
+savait déjà faire. Le plutonium
+
+0:34:55.000,0:35:01.080
+était développé tellement mieux que le thorium.
+Ainsi, Wigner n'a pas eu beaucoup de succès à
+
+0:35:01.080,0:35:06.990
+faire des convertis dans la communauté nucléaire.
+Il en a fait un - Alvin Weinberg.
+
+0:35:06.990,0:35:10.000
+Il a été son élève pendant le Projet Manhattan.
+
+0:35:10.000,0:35:14.650
+Weinberg l'avait compris. Il voyait grand. "On a
+besoin du thorium. On a besoin du réacteur thorium. 
+
+0:35:14.650,0:35:19.500
+On a besoin de combustible liquide. Je le vois.
+Je vois ce qu'il faut qu'on fasse."
+Weinberg a eu une offre d'emploi pour devenir
+
+0:35:19.500,0:35:25.370
+le directeur des Oak Ridge National Laboratoires en
+1955. Il avait 35 ans. Il avait un an de moins
+
+0:35:25.370,0:35:30.090
+que moi. Donc je suis là à me dire: "Mec,
+quand Weinberg avait mon âge, il dirigeait l'Oak
+
+0:35:30.090,0:35:34.200
+Ridge National Lab. Et moi? Je suis dans
+un sous-sol quelque part."
+
+0:35:34.200,0:35:35.130
+[Rires]
+
+0:35:35.130,0:35:37.890
+Je vous taquine.
+
+0:35:37.890,0:35:38.810
+[Rires]
+
+0:35:38.810,0:35:43.420
+Ce n'est pas le sous-sol de ma mère alors je me sens mieux.
+
+0:35:43.420,0:35:48.460
+Donc il s'en va à Oak Ridge et Wigner dit: "Alvin
+tu dois y aller parce qu'il faut que tu regardes
+
+0:35:48.460,0:35:53.490
+si tu peux faire fonctionner ce thorium.
+C'est si important que cela." Alvin a compris.
+
+0:35:53.490,0:35:58.410
+Voici une citation de son livre. Il a dit: "Jusque là
+je n'avais jamais bien apprécié la pleine
+
+0:35:58.410,0:36:02.330
+signification du surgénérateur." Quand il parle
+du surgénérateur il veut dire en fait le réacteur
+
+0:36:02.330,0:36:08.750
+thorium. "Mais maintenant, je suis devenu obsédé par
+l'idée que tout l'avenir de l'humanité dépendait
+
+0:36:08.750,0:36:14.710
+du surgénérateur." L'idée que si on n'accède pas
+aux énergies du thorium, on ne va pas
+
+0:36:14.710,0:36:18.180
+survivre. On ne peut pas survivre avec l'uranium-235.
+
+0:36:18.180,0:36:21.290
+Une des premières choses qui lui est arrivé quand il est
+arrivé à Oak Ridge, la Commission de l'énergie atomique
+
+0:36:21.290,0:36:25.210
+l'a appelé et a dit: "Tu as fini avec les affaires
+des réacteurs. Nous donnons tous le travail sur les
+
+0:36:25.210,0:36:30.830
+réacteurs à l'Argon National Labs à Chicago et
+vous ne faites plus partie de l'accord."
+
+0:36:30.830,0:36:35.160
+Argon National Labs allait à pleine pussance pour le
+surgénérateur rapide à plutonium. C'était leur truc,
+
+0:36:35.160,0:36:37.080
+de faire le surgénérateur rapide à plutonium.
+
+0:36:37.080,0:36:42.290
+Dès le départ, Weinberg se disait: "Oh la la...!
+Qu'allons-nous faire?" A ce moment là,
+
+0:36:42.290,0:36:47.750
+l'armée de l'air a déclaré: "La marine a construit
+leurs sous-marins nucléaires et l'armée est
+
+0:36:47.750,0:36:52.290
+venu et ils ont pris la même technologie
+que la marine, le réacteur refroidi à l'eau. Ils font
+
+0:36:52.290,0:36:57.210
+des choses, mais l'armée de l'air voudrait
+construire un bombardier à propulsion nucléaire."
+
+0:36:57.210,0:36:58.400
+Ca vous semble un peu fou?
+
+0:36:58.400,0:36:58.800
+[Rires]
+
+0:36:58.800,0:37:00.840
+C'était de la follie douce.
+
+0:37:00.840,0:37:06.570
+Weinberg était un homme pragmatique et il se dit:
+"Hah, bombardier nucléaire? C'est probablement
+
+0:37:06.570,0:37:09.150
+une idée vraiment stupide."
+
+0:37:09.150,0:37:11.800
+Mais l'armée a beaucoup d'argent.
+
+0:37:11.800,0:37:16.640
+"Que l'objectif était inatteignable
+sinon insensé n'était pas si important."
+
+0:37:16.640,0:37:17.870
+[Rires]
+
+0:37:17.870,0:37:24.640
+"Un réacteur à haute température pourrait être utile
+à d'autres fins, même s'il n'allait jamais propulser
+
+0:37:24.640,0:37:26.410
+un avion." Ils ne pouvaient pas utiliser les réacteurs
+
+0:37:26.410,0:37:30.330
+refroidis à l'eau. Ni les réacteurs à haute pression,
+ni les réacteurs à combustible solide complexes.
+
+0:37:30.330,0:37:35.620
+Il fallait trouver quelque chose
+qui était si habile, qui était si sûre, qui
+
+0:37:35.620,0:37:40.170
+était si simple, qui opérait à basse pression, haute
+température, et qui avait toutes les caractéristiques
+
+0:37:40.170,0:37:41.950
+qu'on voulait dedans. Ils ne savaient même pas
+ce que c'était.
+
+0:37:41.950,0:37:48.260
+Si ce programme d'avion nucléaire n'avait pas été
+établi, le réacteur à sels fondus n'aurait
+
+0:37:48.260,0:37:54.880
+jamais été inventé, car il est tout simplement
+trop radicale, trop différent, trop complètement
+
+0:37:54.880,0:38:00.380
+hors du terrain de tout le reste pour qu'on y
+arrive à travers d'un processus de développement
+
+0:38:00.380,0:38:06.720
+évolutif. Son existence a dû être forcé
+par des exigences qui étaient si difficiles à
+
+0:38:06.720,0:38:09.160
+atteindre, et l'avion nucléaire était cela.
+
+0:38:09.160,0:38:13.190
+Alors ils ont commencé à travailler sur
+ce réacteur à haute température, et voici leur idée.
+
+0:38:13.190,0:38:16.060
+Rappelez-vous c'était inventé avant
+qu'on avait des ICBM ou quelque chose
+
+0:38:16.060,0:38:20.040
+comme ça. C'était une arme apocalyptique. Si
+vous le dirigez vers à la Russie, c'est la
+
+0:38:20.040,0:38:23.890
+fin du monde. Donc ils ne savaient même pas
+quel type de réacteur que ce serait, et ils
+
+0:38:23.890,0:38:27.040
+ont commencé à travailler et ils ont inventé
+le concept des sels fondus.
+
+0:38:27.040,0:38:30.550
+Ils ne savaient pas si ça fonctionnerait, donc ils ont
+construit ce réacteur de preuve de principe, appelé
+
+0:38:30.550,0:38:35.720
+l'expérience des réacteurs d'aéronefs. Ils ont fait
+circuler le sel de fluorure liquide dans ces tuyaux
+
+0:38:35.720,0:38:38.230
+pour produire deux mégawatts et demi de puissance
+thermique.
+
+0:38:38.230,0:38:44.420
+Le xénon est un gaz. Que devient un gaz dans un
+liquide? Le produit de fission gazeux xénon
+
+0:38:44.420,0:38:45.470
+est sorti tout simplement du sel.
+
+0:38:45.470,0:38:50.690
+Imaginez-vous que ce qui est arrivé à Wigner
+dans son réacteur à Washington, serait arrivé au
+
+0:38:50.690,0:38:54.930
+mec qui volait vers la Russie? Il aurait dit:
+"C'est votre capitaine. Nous allons
+
+0:38:54.930,0:38:58.570
+faire un atterrissage d'urgence sur la Sibérie.
+Le niveau de Xénon est juste un peu trop haut
+
+0:38:58.570,0:39:02.330
+dans le réacteur derrière là, donc nous allons juste
+atterir sur la toundra ici pendant neuf heures
+
+0:39:02.330,0:39:07.470
+pendant que le niveau de xénon descend.
+Nous décolleront très prochainement."
+
+0:39:07.470,0:39:08.390
+Vous voyez, ça n'allait pas marcher.
+
+0:39:08.390,0:39:11.120
+Et il a marché pendant environ 11 jours en 1954.
+
+0:39:11.120,0:39:15.140
+Il a atteint les plus hautes températures qui avait
+jamais été atteint par un réacteur nucléaire jusqu'à
+
+0:39:15.140,0:39:16.370
+à ce point.
+
+0:39:16.370,0:39:21.440
+Et leur a prouvé que, pour l'essentiel, leur
+idée a été correcte - qu'on pouvait soutenir
+
+0:39:21.440,0:39:26.250
+les réactions de fission nucléaire à l'intérieur d'un sel,
+qu'il fonctionnait à haute température et faible
+
+0:39:26.250,0:39:30.810
+pression, qu'il était très stable. Et la
+raison pour laquelle il était si stable était,
+
+0:39:30.810,0:39:35.900
+quand le sel se réchauffait, il y aurait moins de matériel
+fissile dans le cœur du réacteur nucléaire, et
+
+0:39:35.900,0:39:38.020
+donc la fission devenait moins probable.
+
+0:39:38.020,0:39:42.500
+Inversement, quand le sel s'est refroidi, il y avait
+plus de matériel, car le sel se contractait,
+
+0:39:42.500,0:39:43.920
+et la fission devenait plus probable.
+
+0:39:43.920,0:39:46.830
+Pour les ingénieurs entre vous,
+c'est un système dynamiquement stable.
+
+0:39:46.830,0:39:49.450
+Quand il chauffe, il se refroidit,
+il devient trop froid, il se réchauffe.
+
+0:39:49.450,0:39:55.530
+Eh bien, on était maintenant vers 1960. Les ICBM
+fonctionnaient bien. On avait perfectionné le ravitaillement
+
+0:39:55.530,0:39:58.960
+air-air. L'armée de l'air se disait: "Oh là, vous savez,
+je ne pense pas que nous avons encore vraiment besoin
+
+0:39:58.960,0:40:00.930
+de ce bombardier nucléaire".
+
+0:40:00.930,0:40:04.400
+Weinberg a demandé de l'argent à la Commission
+de l'énergie atomique aux États-Unis et il a obtenu
+
+0:40:04.400,0:40:09.590
+un petit peu. Assez pour construire un réacteur
+démonstrateur qui devait faire moins que
+
+0:40:09.590,0:40:12.860
+10 mégawatts. Ils l'ont construit, et il s'appelait
+réacteur expérimental à sels fondus . Il a fonctionné
+
+0:40:12.860,0:40:14.640
+entre 1965 et 1969.
+
+0:40:14.640,0:40:19.070
+Il s'est avéré que le thorium était très
+convenable dans ce réacteur.
+
+0:40:19.070,0:40:22.520
+C'est ce qu'on appelle un réacteur à sels fondus
+à conception deux fluides.
+
+0:40:22.520,0:40:25.990
+Qu'est-ce que le réacteur à sels fondus
+par rapport à LFTR et vice versa?
+
+0:40:25.990,0:40:30.860
+LFTR est un réacteur à sels fondus. Tous les LFTRs sont des
+réacteurs à sels fondus, mais les réacteurs
+
+0:40:30.860,0:40:31.810
+à sels fondus ne sont pas tous des LFTRs.
+
+0:40:31.810,0:40:37.690
+On a ce fluide de base, un sel de lithium et béryllium,
+avec du tétrafluorure d'uranium là dedans.
+
+0:40:37.690,0:40:41.160
+Maintenant ce qu'on veut faire, c'est déplacer
+le carburant qu'on a fabriqué depuis la couverture
+
+0:40:41.160,0:40:45.740
+vers le cœur. Et voici comment on procède.
+On prend ce flot de sel de couverture et
+
+0:40:45.740,0:40:48.850
+on le met dans cette colonne de volatilité au fluorure.
+
+0:40:48.850,0:40:54.930
+On ajoute au sel du gaz de fluor, et ce qui se
+passe ... L'uranium a deux sortes d'états de fluor.
+
+0:40:54.930,0:41:00.540
+Il y a le tétrafluorure d'uranium, quatre ions de fluorure,
+et il y a l'hexafluorure d'uranium,
+
+0:41:00.540,0:41:02.780
+six ions de fluorure.
+
+0:41:02.780,0:41:04.270
+L'hexafluorure d'uranium est un gaz.
+
+0:41:04.270,0:41:06.650
+Le Tétrafluorure d'uranium est en solution.
+
+0:41:06.650,0:41:11.000
+Si on aoute du fluor il va commencer à faire
+des bulles dans le sel, tout comme les bulles
+
+0:41:11.000,0:41:15.160
+dans votre soda. Et c'est très bien parce que
+c'est astucieux. Voici une façon de faire sortir
+
+0:41:15.160,0:41:19.210
+notre produit uranium du sel de la couverture
+et de laisser tout le reste derrière.
+
+0:41:19.210,0:41:25.100
+Ca ne marcherait pas sile thorium avait également cette
+même astuce. Si le thorium se transformait dans un gaz de
+
+0:41:25.100,0:41:29.780
+hexafluorure, on serait mal barré. Mais c'est
+un de ces petits miracles de la nature.
+
+0:41:29.780,0:41:33.370
+Alors on peut attaquer le thorium avec
+du fluorore tout ce qu'on veut. Il ne va pas changer.
+
+0:41:33.370,0:41:39.020
+Il va rester en solution. Mais l'uranium
+sortira en hexafluorure d'uranium, un gaz.
+
+0:41:39.020,0:41:42.690
+Eh bien maintenant il faut le déplacer vers le sel de cœur.
+Alors on amène un flot de sel de cœur par ici
+
+0:41:42.690,0:41:48.780
+et on introduit l'hexafluorure d'uranium ici.
+Et maintenant, on ajoute un peu de gaz d'hydrogène.
+
+0:41:48.780,0:41:54.680
+L'hydrogène dira à l'UF6: "Hé mec, je
+veux ces deux fluors bien plus
+
+0:41:54.680,0:42:01.380
+que vous." Ahh! UF6 se fait braquer à la
+station d'essence, doit abandonner deux fluors,
+
+0:42:01.380,0:42:05.460
+et se transforme à nouveau d'UF6 en UF4.
+Hop! C'est en solution maintenant.
+
+0:42:05.460,0:42:11.210
+Alors maintenant, on vient de remplir notre sel de cœur
+avec du tétrafluorure d'uranium. Cool, hein?
+
+0:42:11.210,0:42:15.670
+On recharge en permanence le réacteur, tout le temps.
+On est toujours en train de réalimenter
+
+0:42:15.670,0:42:21.980
+le cœur avec de nouveaux uranium-233. Et l'uranium-233
+est consommé, mais les neutrons issus de la
+
+0:42:21.980,0:42:23.770
+fission font de l'uranium-233 nouveau.
+
+0:42:23.770,0:42:29.820
+OK, et bien du haut de de cette colonne sort
+de l'acide fluorhydrique - HF. On envoie cela
+
+0:42:29.820,0:42:34.490
+vers cet électrolyseur. Et on injecte
+un peu d'électricité et le HF se divise
+
+0:42:34.490,0:42:39.950
+en gaz d'hydrogène et gaz de fluor. Et voila!
+Maintenant on a régénéré nos deux réactifs.
+
+0:42:39.950,0:42:44.770
+Ainsi, le fluor et l'hydrogène sont à nouveau prêts
+pour le service, pour faire marcher ce truc.
+
+0:42:44.770,0:42:48.410
+C'est un composant qu'on peut acheter sur étagère.
+Donc, c'est assez cool! Il s'agit d'un cycle fermé
+
+0:42:48.410,0:42:55.410
+pour déplacer notre combustible nouveau d'ici
+vers ici. Essentiellement on convertit le thorium
+
+0:42:56.650,0:43:00.880
+en énergie. D'abord en U233, puis en énergie
+par la fission. Bien sûr, on utilise
+
+0:43:00.880,0:43:05.150
+du thorium en faisant cela. Donc on a besoin
+d'avoir une petite alimentation de fluorure de thorium,
+
+0:43:05.150,0:43:09.090
+il faut alimenter la couverture avec du thorium
+pour remplacer le thorium qu'on consomme.
+
+0:43:09.090,0:43:11.070
+Mais une réaction très efficace.
+
+0:43:11.070,0:43:14.370
+Laissez-moi vous présenter
+un réacteur nucléaire typique.
+
+0:43:14.370,0:43:18.480
+L'usine Watts Bar dans le Tennessee, j'ai déjà
+visité ce réacteur nucléaire.
+
+0:43:18.480,0:43:23.080
+Il a la distinction d'être le réacteur nucléaire
+le plus récent aux Etats-Unis. Il a démarré
+
+0:43:23.080,0:43:28.460
+en 1996. Un grand récipient de réacteur avec de l'eau sous pression.
+150 atmosphères,
+
+0:43:28.460,0:43:33.400
+combustible nucléaire solide. La fission se passe.
+L'eau est pompée à travers. C'est chauffé.
+
+0:43:33.400,0:43:37.050
+Cette eau passe alors dans un générateur de vapeur
+et dans une autre boucle d'eau
+
+0:43:37.050,0:43:41.900
+on génère de la vapeur. Il va à la turbine,
+tourne la turbine, qui tourne le générateur,
+
+0:43:41.900,0:43:43.200
+et fait de l'électricité.
+
+0:43:43.200,0:43:46.970
+Voici la turbine à vapeur. Et quand j'étais
+à Watts Bar c'est la partie que j'ai pu voir.
+
+0:43:46.970,0:43:53.970
+Il n'y avait pas une particule de poussière, nulle part!
+Si quelqu'un a déjà visité une centrale au charbon
+
+0:43:54.500,0:43:59.410
+et a vu la même turbine à vapeur, parce qu'ils utilisent
+la même technologie dans une centrale au charbon.
+
+0:43:59.410,0:44:06.410
+Ce n'est rien comme ça. Une centrale au charbon est sale,
+c'est puant, c'est sale, et c'est dégoulinant.
+
+0:44:06.900,0:44:10.370
+Cette machine était presque antiseptique
+dans sa présentation.
+
+0:44:10.370,0:44:10.620
+C'est nécessaire?
+
+0:44:10.370,0:44:17.370
+Je ne sais pas. Donc, je suis à côté de cette
+machine. On ne voit pas vraiment une personne,
+
+0:44:17.840,0:44:19.550
+environ haut comme ça.
+
+0:44:19.550,0:44:25.860
+Ceci est la turbine basse pression.
+Elle tourne l'arbre qui fait marcher ceci.
+
+0:44:25.860,0:44:29.960
+A coté on a ce petit truc, appelé
+la turbine haute pression. Et on
+
+0:44:29.960,0:44:30.700
+ne le voit pas vraiment. On voit les trois grandes
+turbines basse pression, mais on ne voit pas la
+
+0:44:30.700,0:44:32.090
+turbine haute pression. La turbine haute pression
+est toute petite. C'est environ un tiers de la taille
+
+0:44:32.090,0:44:37.200
+de la génératrice. La turbine haute-pression
+fait environ les deux tiers du couple
+
+0:44:37.200,0:44:38.310
+qui tourne l'arbre.
+
+0:44:38.310,0:44:42.490
+Et les turbines basse pression font environ
+un tiers du couple qui tourne l'arbre.
+
+0:44:42.490,0:44:47.930
+Ce petit gars fait presque tout le travail
+et ces gros, gros, gros mecs ne font presque rien.
+
+0:44:47.930,0:44:51.740
+Lorsque la vapeur passe dans la turbine haute pression,
+elle est dense. Elle a beaucoup d'énergie
+
+0:44:51.740,0:44:58.000
+et peu de volume. Puis on la laisse traverser la turbine
+haute pression, et elle devient de la vapeur à basse pression.
+
+0:44:58.000,0:45:02.670
+C'est pourquoi ces machines sont horriblement
+grandes. Parce que la vapeur qui les chauffe
+
+0:45:02.670,0:45:07.200
+a déjà perdu la grande majorité de
+l'énergie qu'elle va abandonner.
+
+0:45:07.200,0:45:12.380
+Voici le réacteur lui-même, la cuve du réacteur,
+en haut c'est là où les barres de contrôle glissent
+
+0:45:12.380,0:45:16.840
+dans le coeur. Et puis il y a ces quatre
+générateurs de vapeur, aussi grands sinon plus
+
+0:45:16.840,0:45:20.190
+que les réacteurs et ils doivent aussi opérer
+à ces pressions très élevées.
+
+0:45:20.190,0:45:28.280
+Il y en a quatre. Regardez ça. Un, deux,
+trois, quatre, cinq, six, sept, huit. Big tuyaux.
+
+0:45:28.280,0:45:32.630
+L'accident numéro un qui inquiète les gens
+avec ce genre de réacteur est ce qu'on appelle
+
+0:45:32.630,0:45:38.460
+la rupture d'un tuyau. Un des
+huit tuyaux, pour une raison quelconque, cisaille.
+
+0:45:38.460,0:45:44.600
+Et tout d'un coup, la pression est perdue dans le
+réacteur. Cette eau qui est tenu, de l'eau
+
+0:45:44.600,0:45:51.490
+à 300 degrés Celsius par 150 atmosphères de pression,
+quand on perd la pression, elle se transforme en vapeur,
+
+0:45:51.490,0:45:57.070
+presque instantanément à la vapeur. Et quand cela arrive,
+son volume augmente par un facteur d'environ 1000.
+
+0:45:57.070,0:46:02.330
+Alors ce qui était dense comme ça
+n'est plus maintenant aussi dense.
+
+0:46:02.330,0:46:07.600
+L'autre chose qui arrive: la vapeur évacue moins
+bien la chaleur d'une surface que l'eau.
+
+0:46:07.600,0:46:12.960
+Alors soudainement les crayons de combustible
+ne sont pas du tout refroidis aussi efficacement
+
+0:46:12.960,0:46:17.030
+qu'avant. La fission s'arrête parce qu'une
+des choses que fait l'eau c'est de 
+
+0:46:17.030,0:46:21.400
+ralentir les neutrons. Donc sans l'eau,
+la réaction de fission s'arrête. On n'a pas
+
+0:46:21.400,0:46:27.550
+besoin de mettre des barres de contrôle.
+Le réacteur s'éteint immédiatement. Mais il
+
+0:46:27.550,0:46:30.470
+génére encore de la chaleur à partir des
+produits de fission.
+
+0:46:30.470,0:46:35.810
+Voici ce qui se passe si on a la rupture d'un tuyau.
+Tout ce récipient de confinement
+
+0:46:35.810,0:46:36.890
+se remplit d'eau.
+
+0:46:36.890,0:46:41.010
+Je ne veux pas vous raconter tout cela parce que
+j'essaie de mettre l'accent sur les situations négatives.
+
+0:46:41.010,0:46:44.870
+Je vous le dis car c'est ce qui conduit
+à la conception de ce bâtiment.
+
+0:46:44.870,0:46:51.660
+Ce bâtiment est de la taille et de la forme qu'il est
+précisément pour accueillir cet événement.
+
+0:46:51.660,0:46:57.650
+Ils ont conçu ce réacteur pour que, si cela se produit,
+toute la vapeur est capturé dans ce bâtiment
+
+0:46:57.650,0:46:58.750
+et elle ne sort pas.
+
+0:46:58.750,0:47:03.060
+Regardez la taille du réacteur. Regardez la taille
+de l'enceinte de confinement. Elle est énorme.
+
+0:47:03.060,0:47:09.150
+Elle est beaucoup plus grande que le réacteur,
+à cause de cette différence de mille à un
+
+0:47:09.150,0:47:14.830
+entre la densité de la vapeur et l'eau liquide.
+Alors, si cela arrive, il faut trouver
+
+0:47:14.830,0:47:21.060
+un moyen de remettre de l'eau sur les crayons de combustible
+pour les refroidir. Donc ils ont une série de systèmes
+
+0:47:21.060,0:47:25.380
+de sécurité dans ce réacteur et ils fonctionnent
+à tous les différents niveaux de pression.
+
+0:47:25.380,0:47:28.200
+Donc le principe est: si on est encore à haute pression
+et on doit remettre de l'eau là-dedans, on a
+
+0:47:28.200,0:47:31.210
+un système pour cela. Si on a perdu un peu
+de pression et et on doit remettre de l'eau
+
+0:47:31.210,0:47:34.460
+là-dedans, on a un système pour cela.
+Si on a perdu toute la pression et on doit remettre
+
+0:47:34.460,0:47:37.900
+de l'eau là-dedans, on a un système pour cela.
+Donc il y a beaucoup de systèmes,
+
+0:47:37.900,0:47:42.200
+et puis, il y a des renforts pour ces systèmes,
+et tout repose sur la haute pression et
+
+0:47:42.200,0:47:43.450
+sur l'utilisation de l'eau.
+
+0:47:43.450,0:47:43.920
+Oui, monsieur?
+
+0:47:43.920,0:47:49.100
+Le bouclier, c'est pour empêcher les crayons
+de contrôle de percer un trou
+
+0:47:49.100,0:47:53.550
+dans le toit si l'explosion de vapeur
+ouvre une brèche dans la chambre du réacteur?
+
+0:47:53.550,0:47:58.340
+Exact! Voici le mécanisme pour les crayons de contrôle.
+Voici les crayons. Si on ouvre une brèche ici,
+
+0:47:58.340,0:48:03.450
+disons une rupture de soudure, et il fait
+"boom", en éjectant les crayons de contrôle,
+
+0:48:03.450,0:48:07.020
+il est là pour les empêcher de faire
+de mauvaises choses comme percer un trou en haut.
+
+0:48:07.020,0:48:12.300
+Cela s'est produit une fois. C'était un réacteur
+de l'armée et ils n'avaient pas un bâtiment
+
+0:48:12.300,0:48:16.410
+de confinement. Un pauvre gars s'est fait empalé
+sur le plafond par un crayon de contrôle ...
+
+0:48:16.410,0:48:18.530
+Une façon cool de mourir.
+
+0:48:18.530,0:48:21.900
+Journée mauvaise... Si il n'avait pas été
+empalé la radiation l'aurait eu.
+
+0:48:21.900,0:48:26.810
+Le sténopé a repéré plusieurs endroits
+et sources de rayonnement gamma de haut niveau
+
+0:48:26.810,0:48:33.170
+à l'extérieur de la cuve, à priori des
+composants du réacteur éjectés du coeur par
+
+0:48:33.170,0:48:34.920
+la force de l'explosion 500 PSI.
+
+0:48:34.920,0:48:38.480
+La cuve du réacteur est en acier d'environ 23cm d'épaisseur.
+Quand on a 23cm d'épaisseur d'acier
+
+0:48:38.480,0:48:42.460
+et il doit être de qualité nucléaire et il doit
+être parfait, on ne peut pas aller souder de l'acier
+
+0:48:42.460,0:48:46.850
+épais de 23cm. Ils ne le font pas comme ça.
+Ils la coulent en un seul morceau. Pas beaucoup
+
+0:48:46.850,0:48:53.800
+de personnes ont la capacité de construire un seul
+morceau d'acier de 10m de diamètre, 20m de long,
+
+0:48:53.800,0:48:57.920
+et 23cm d'épaisseur. En fait, il y a exactement
+un endroit dans le monde, capable de faire ça.
+
+0:48:57.920,0:49:00.670
+Le Japan Steel Works au Japon.
+
+0:49:00.670,0:49:03.320
+C'est un facteur limitant, car si je dis:
+"je veux construire des tas de réacteurs nucléaires."
+
+0:49:03.320,0:49:07.670
+Soit il faut construire une nouvelle forge lourde,
+juste pour cette tâche,
+
+0:49:07.670,0:49:11.460
+soit on va attendre longtemps en ligne
+pour obtenir notre réacteur.
+
+0:49:11.460,0:49:14.160Si je peux juste "casser" l'eau encore un peu:
+
+0:49:14.160,0:49:16.960
+Voici pourquoi l'eau n'est pas une bonne chose
+pour l'intérieur d'un réacteur nucléaire. Numéro un,
+
+0:49:16.960,0:49:22.430
+il n'est pas bien à haute température, on a déjà
+parlé de ça. Numéro deux, c'est une substance à liaison
+
+0:49:22.430,0:49:27.790
+covalente. L'oxygène a une liaison
+covalente avec deux hydrogènes.
+
+0:49:27.790,0:49:33.440
+Ces deux liaisons ne sont pas assez fortes
+pour survivre à l'attaque d'un gamma ou d'un neutron.
+
+0:49:33.440,0:49:37.600
+Ils vont trop vite. Effectivement,
+les hydrogènes sont délogés.
+
+0:49:37.600,0:49:42.310
+Alors, dans un réacteur refroidi à l'eau, on a
+un système appelé "recombineur" qui prend
+
+0:49:42.310,0:49:47.890
+l'hydrogène et l'oxygène gazeux
+créés à partir de la réaction nucléaire
+
+0:49:47.890,0:49:51.740
+et les remet ensemble, parce que chimiquement
+ils préfèrent être de l'eau plutôt que l'hydrogène
+
+0:49:51.740,0:49:56.420
+et l'oxygène. C'est un excellent système
+tant que le pompage est en fonctionnement.
+
+0:50:00.000,0:50:30.000
+Les sous-titres français restants sont en cours de
+traduction. Ils seront mis à disposition dès que possible.
