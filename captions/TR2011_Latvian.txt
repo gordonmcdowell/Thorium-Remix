@@ -1,0 +1,6537 @@
+0:00:00.340,0:00:05.060
+Smagā ūdens reaktors izmantos apmēram 0.7
+procentus no urāna enerģijas, bet
+
+0:00:05.060,0:00:08.630
+vieglā ūdens reaktors izmantos apmēram pusi
+no procenta. Tie abi ir šausmīgi.
+
+0:00:08.630,0:00:13.380
+Normālā spiedienā ūdens vārās 100 grādu
+temperatūrā. Tā ne tuvu nav pietiekami augsta
+
+0:00:13.380,0:00:18.280
+lai efektīvi radītu elektrību. Tāpēc ar ūdeni
+dzesētiem reaktoriem jāstrādā virs 70 atmosfēru 
+
+0:00:18.280,0:00:22.310
+spiedienā. Ar ūdeni dzesētam reaktoram ir
+nepieciešams spiedkatls.
+
+0:00:22.310,0:00:24.529
+kas var radīt negadījumus...
+
+0:00:24.529,0:00:28.760
+Ja pazūd spiediens, ūdens, kas bijis
+300 grādu temperatūrā [puff]
+
+0:00:28.760,0:00:34.320
+pārvēršas tvaikā. Tā tilpums palielinās apmēram
+1000 reizes. Ja nav pieejama avārijas dzesēšana,
+
+0:00:34.320,0:00:38.010
+un reaktora serde neatrodas dzesēšanas šķidrumā,
+tā var pārkarst un izkust.
+
+0:00:38.010,0:00:43.829
+Visi šie apsvērumi nosaka kodolreaktora celtnes izskatu.
+Ja noplūst dzesēšanas šķidruma tvaiki,
+
+0:00:43.829,0:00:44.739
+tie paliek ēkā.
+
+0:00:44.739,0:00:50.129
+Mūsdienās visplašāk sastopamie reaktori izmanto urāna oksīdu 
+Tas ir keramisks materiāls, kas ir ķīmiski ļoti stabils,
+
+0:00:50.129,0:00:54.079
+bet slikti vada siltumu.
+Ja sistēmā pazūd spiediens un ūdens iztvaiko,
+
+0:00:54.079,0:00:57.610
+drīz vien pēc tam izkūst kodoldegvielas stieņi, 
+un kopā ar tiem arī radioaktīvie kodolu sadalīšanās
+
+0:00:57.610,0:00:58.129
+produkti.
+
+0:00:58.129,0:01:03.629
+Tāpēc ir vairākas avārijas sistēmas, kas
+nodrošina, ka serde vienmēr atrodas šķidrumā.
+
+0:01:03.629,0:01:08.649
+Ja tas neizdodas, tad notiek tāda avārija kā Fukušimā.
+Viņiem bija vairāki rezerves dīzeļģeneratori,
+
+0:01:08.649,0:01:13.609
+un bija ļoti liela varbūtība, ka vismaz kāds no tiem
+darbosies. Bet cunami vilnis appludināja
+
+0:01:13.609,0:01:14.369
+tos visus.
+
+0:01:14.369,0:01:16.929
+Cilvēki vienmēr jautā: "Vai kodolenerģija ir droša?",
+un pirmais, ko es atbildu ir: "Kura?"
+
+0:01:16.929,0:01:20.990
+Ir tūkstošiem veidu, kā izmantot kodolenerģiju.
+Vai automašīna ir droša?
+
+0:01:20.990,0:01:21.240
+Tad par kuru iet runa?
+
+0:01:21.240,0:01:24.810
+Man ir paveicies, uzzināt arī par citiem
+kodolenerģijas veidiem.
+
+0:01:24.810,0:01:26.549
+Piemēram, par šķidrā fluorīda torija reaktoriem.
+
+0:01:26.549,0:01:30.749
+Šajā reaktorā mēs varam toriju sadedzināt pilnībā, atšķirībā
+no tiem, kuros sadedzina tika nelielu urāna daļu,
+
+0:01:30.749,0:01:32.719
+kā tas ir tipiskā ar ūdeni dzesējamā reaktorā.
+
+0:01:32.719,0:01:37.349
+To nedzesē ar ūdeni, un tas neizmanto cietu 
+kodoldegvielu. Tajā kā kodoldegvielu izmanto
+
+0:01:37.349,0:01:42.380
+fluorīda sāļus. Lai tos izkausētu, jums tie ir jāuzkarsē
+līdz aptuveni 400 grādiem,
+
+0:01:42.380,0:01:46.459
+bet priekš kodolenerģijas ražošanas tas
+patiesībā ir ļoti labi.
+
+0:01:46.459,0:01:50.700
+Un patiesi brīnišķīgi ir tas, ka šādam reaktoram nav
+jādarbojas augstā spiedienā. Šādam reaktoram dzesēšanai 
+
+0:01:50.700,0:01:54.989
+nav nepieciešams ūdens, līdz ar to, nav nekā tāda,
+kas var strauji mainīt savu tilpumu.
+
+0:01:54.989,0:01:59.149
+Ja, izmantojot cietu kodoldegvielu ir jāuztraucas par
+tās izkušanu, tad fluorīdu reaktorā
+
+0:01:59.149,0:02:00.599
+degviela jau ir izkususi.
+
+0:02:00.599,0:02:04.389
+Normālos apstākļos jūs kā avārijas vārstu izmantojat 
+
+0:02:04.389,0:02:08.989
+cauruli, kurai vienkārši pūšot aukstu gaisu.
+Ja avārijas gadījumā jūs stacijā pazaudējat strāvu,
+
+0:02:08.989,0:02:13.400
+ventilators apstājas, sasalušie sāļi izkūst,
+
+0:02:13.400,0:02:18.269
+un caur šo cauruli šķidrā fluorīda kodoldegviela no reaktora izplūst
+
+0:02:18.269,0:02:20.769
+dzesēšanas traukā.
+
+0:02:20.769,0:02:25.209
+Ar ūdeni dzesējamos reaktoros jums parasti ir
+nepieciešama barošana, lai nodošinātu
+
+0:02:25.209,0:02:29.620
+ūdens cirkulāciju un dzesēšanu, un nepieļautu serdes izkušanu.
+Bet ja pazūd strāva LFTR reaktorā, tas apstājas
+
+0:02:29.620,0:02:32.420
+pats no sevis, bez jebkādas cilvēku līdzdalības.
+
+0:02:32.420,0:02:37.519
+Tam ir vienkārši apbrīnojams drošības līmenis pat tad,
+ja reaktoram ir kāds bojājums.
+
+0:02:37.519,0:02:41.430
+Torijs ir plaši sastopams dabiskajos zemes iežos un ir
+
+0:02:41.430,0:02:46.040
+daudz biežāk sastopams nekā urāns. Tajā ir pieejams tik daudz 
+enerģijas, ka jūs varat savu mūža patēriņu uzglabāt
+
+0:02:46.040,0:02:50.299
+torija gabaliņā, kuru varat novietot uz plaukstas.
+Toriju var izmantot kodolreaktorā aptuveni 200 reizes efektīvāk
+
+0:02:50.299,0:02:54.879
+nekā tagad izmanto urānu.
+LFTR reaktorā var izmantot gandrīz visu torijā pieejamo enerģiju,
+
+0:02:54.879,0:03:00.140
+un tas ļauj būtiski samazināt radioaktīvo atkritumu daudzumu
+vairāk nekā 100 reizes, salīdzinot ar urānu
+
+0:03:00.140,0:03:02.469
+un vairāk nekā miljons reizes, salīdzinot ar fosilo kurināmo.
+
+0:03:02.469,0:03:06.519
+Mums tāpat būs nepieciešama šķidra degviela, lai darbinātu
+transportu un iekārtas, tomēr mēs to varēsim radīt, 
+
+0:03:06.519,0:03:10.239
+izmantojot oglekļa dioksīdu no gaisa un ūdeni,
+tieši tāpat, kā to dara daba.
+
+0:03:10.239,0:03:14.719
+Mēs varam iegūt ūdeņradi, sašķeļot ūdeni un 
+kopā ar ogļskābo gāzi no gaisa
+
+0:03:14.719,0:03:20.219
+varam sintezēt tādas degvielas kā metanolu, 
+amoniju vai dimetilu
+
+0:03:20.219,0:03:23.629
+un jebkurš no tiem var aizvietot šobrīd izmantoto
+dīzeļdegvielu.
+
+0:03:23.629,0:03:28.769
+Iedomājieties oglekļa neitrālu benzīnu un dīzeli,
+ko var iegūt katrs pats un ilgtspējīgi
+
+0:03:28.769,0:03:34.719
+Jūs redzat, ka pēc izplatības dabā urāns ir salīdzināms
+ar sudrabu un platīnu. Vai varat iedomāties enerģijas
+
+0:03:34.719,0:03:39.209
+iegūšanu no platīna? Bet šobrīd mēs ar saviem
+kodolreaktoriem darām tieši to!
+
+0:03:39.209,0:03:44.670
+Mēs dedzinām šo ļoti reti sastopamo elementu, tā vietā,
+lai dedzinātu daudz vairāk izplatīto toriju.
+
+0:03:44.670,0:03:49.290
+Daži cilvēki, kas ir dabas draugi, parasti saka:
+"Bet kodolenerģija nav ilgtspējīga!
+
+0:03:49.290,0:03:53.409
+Mums agri vai vēlu pietrūks urāna."
+Ja iet runa par šodienas tehnoloģijām,
+
+0:03:53.409,0:04:00.180
+tad šajā punktā es viņiem piekrītu.
+2007. gadā, lai saražotu visu mums nepieciešamo enerģiju,
+
+0:04:00.180,0:04:05.529
+mēs izmantojām 5 miljardus tonnu ogļu,
+31 miljardu barelus naftas, 5 triljonus kubikmetrus dabasgāzes
+
+0:04:05.529,0:04:07.670
+un 65 tūkstošus tonnu urāna.
+
+0:04:07.670,0:04:11.900
+Man ir draugs, kurš ir uzsācis retzemju metālu raktuves izveidi
+Misūri štatā. Es viņam jautāju: "Džim, cik daudz torija
+
+0:04:11.900,0:04:16.709
+tu gada laikā varētu iegūt?"
+Un viņš atbild: "Domāju, ka kādus 5000 tonnu."
+
+0:04:16.709,0:04:22.860
+5000 tonnu torija var nodrošināt visas pasaules enerģijas prasības.
+
+0:04:22.860,0:04:26.630
+Un viņš turpina: "Un uz pasaules ir miljoniem tādu pašu raktuvju
+kā manējā. Tās ir labas raktuves,
+
+0:04:26.630,0:04:30.300
+bet tās nav nav ne ar ko īpašas. Nav tā, ka toriju varētu iegūt
+tikai dažās vietās uz pasaules."
+
+0:04:30.300,0:04:35.960
+Katru reizi, kad cilvēks apguva kāju jaunu enerģijas avotu,
+tas ir radījis pamatīgas sociālās sekas.
+
+0:04:35.960,0:04:41.669
+Tūkstošiem gadu cilvēcē pastāvēja verdzība.
+
+0:04:41.669,0:04:45.830
+Tagad, tā vietā, lai par vergiem izmantotu citus cilvēkus,
+mēs kā vergu esam iemācījušies izmantot oglekli,
+
+0:04:45.830,0:04:48.330
+un esam kļuvuši par civilizētiem cilvēkiem.
+
+0:04:48.330,0:04:54.750
+Torija enerģijas blīvums ir miljoniem reižu lielāks
+nekā oglekļa-ūdeņraža saitē.
+
+0:04:54.750,0:04:59.270
+Ko gan tas varētu dot cilvēcei?
+Un mums tas nekad neizbeigsies.
+
+0:04:59.270,0:05:06.270
+Tas vienkārši ir pārāk izplatīts.
+
+0:05:12.910,0:05:19.910
+Mūsu Facebook lapas apmeklētāju sadalījums ir
+aptuveni 87% vīriešu un 13% sieviešu.
+
+0:06:10.259,0:06:15.300
+Es nekad neesmu bijusi kodolenerģijas atbalstītāja.
+Vai tāpēc, ka tā ir saistīta ar patērēšanu?
+
+0:06:15.300,0:06:20.610
+Tā ļauj mums nepārtraukti palielināt patēriņu,
+un es uzskatu, ka tas nav ilgtspējīgi.
+
+0:06:20.610,0:06:23.889
+Vai domā, ka citas enerģijas formas novērsīs mūsu
+vēlmi tērēt?
+
+0:06:23.889,0:06:29.550
+Ja mēs to ar laiku iztērēsim, tad jā. 
+Es domāju, ka mums ir jāsāk ierobežot sevi un atkalizmantot,
+
+0:06:29.550,0:06:31.129
+tā vietā, lai tikai ķertos pie arvien jauniem avotiem.
+
+0:06:31.129,0:06:34.750
+Tad kā ir ar Sauli? Saule spīdēs vienmēr,
+vējš pūtīs vienmēr.
+
+0:06:34.750,0:06:36.110
+Tie dod mums dzīvību.
+
+0:06:36.110,0:06:38.580
+Enerģijas auzu tume. 
+
+0:06:38.580,0:06:42.240
+Jā. Domāju, ka mums būtu labāk jānovērtē to, kas
+mums ir, tomēr es varu runāt tikai par sevi.
+
+0:06:42.240,0:06:47.690
+Tātad tu intuitīvi augstāk kā enerģijas avotu vērtē
+sauli un vēju, bet ne tādus avotus, kas ir līdzīgi
+
+0:06:47.690,0:06:49.729
+naftai un gāzei.
+
+0:06:49.729,0:06:54.050
+Raugoties uz to, kā mēs tos izmantojam tagad,
+un uz to, ka mēs visticamāk paplašināsim,
+
+0:06:54.050,0:06:58.740
+gan saules, gan vēja izmantošanu,
+pieņemu, ka tie radīs vēl lielākus satricinājumus.
+
+0:06:58.740,0:07:04.229
+Vai tu saproti, cik lielu ietekmi uz dabu atstāj saules un vēja
+izmantošana.
+
+0:07:04.229,0:07:05.590
+Tie aizņem ļoti daudz vietas.
+
+0:07:05.590,0:07:06.220
+Jā.
+
+0:07:06.220,0:07:11.479
+Lai nepieļautu pārlieku lielu ietekmi uz dabu,
+cik daudz saules un vēja stacijas
+
+0:07:11.479,0:07:12.330
+mēs varam atļauties?
+
+0:07:12.330,0:07:16.629
+Mums tā ir jāizmanto ļoti dažādos veidos, un jāapvieno 
+ar jau esošajiem enerģijas avotiem.
+
+0:07:16.629,0:07:20.009
+Patiesībā es to esmu pārbaudījis pats savā mājā.
+Man uz jumta ir saules baterijas,
+
+0:07:20.009,0:07:23.650
+bet tas, cik enerģijas tās dod ir daudz par maz.
+To dotā enerģija arvien samazinās,
+
+0:07:23.650,0:07:26.789
+Un, katru reizi, kad es kāpju uz jumta tās tīrīt,
+es riskēju ar savu dzīvību.
+
+0:07:26.789,0:07:27.039
+
+0:07:26.990,0:07:29.210
+Mums ir profesionāli augstkāpēji, kas var to izdarīt.
+
+0:07:29.210,0:07:33.720
+Mans brālis ir augstkāpējs. Tas ir smags darbs.
+Tāpēc tāds 21 gadu vecs kā viņš,
+
+0:07:33.720,0:07:37.159
+kas kāpj uz jumtiem, var nopelnīt tik daudz.
+Jo viņš katru reizi riskē ar savu dzīvību tieši tāpat,
+
+0:07:37.159,0:07:37.580
+kā ar to riskē ogļrači.
+
+0:07:37.580,0:07:42.699
+Vai tu domā, ka uzlikt enerģijas patēriņa ierobežojumus 
+ir pareizi?
+
+0:07:42.699,0:07:43.979
+Jā, es tā domāju.
+
+0:07:43.979,0:07:50.020
+Pāreja un mazāku enerģijas izmantošanas dzīvesveidu
+pilnīgi noteikti būs pāreja 
+
+0:07:50.020,0:07:50.780
+uz zemāku dzīves kvalitāti.
+
+0:07:50.780,0:07:54.500
+Lai arī efektivitātes celšana ir vērtīga un iespējams,
+ka ar to varam samazināt patēriņu par 25%
+
+0:07:54.500,0:07:58.789
+no no kopējā enerģijas patēriņa, tas ne tuvu nav
+pietiekami, lai novērstu vajadzību izmantot
+
+0:07:58.789,0:07:59.270
+fosilo kurināmo.
+
+0:07:59.270,0:08:02.849
+Piemēram, varam piekrist Elizabetei Mejai, kad viņa 
+saka:
+
+0:08:02.849,0:08:05.780
+"Mums ir jāpāriet uz energoefektīvāku dzīvesstilu"
+
+0:08:05.780,0:08:10.060
+Kad iet runa par Kalgari naftas smiltīm, var
+
+0:08:10.060,0:08:14.550
+redzēt kas būtu pieļaujams, un kas — ne,
+runājot par energoefektivitāti.
+
+0:09:41.100,0:09:45.740
+Protams, mums ir jāveicina energoefektīvāks dzīves
+stils. Tomēr, cik tālu mēs varam iet?
+
+0:09:45.740,0:09:50.890
+Vai tā vietā nebūtu labāk apgūt labākus enerģijas
+iegūšanas veidus?
+
+0:09:50.890,0:09:52.730
+Es tā nedomāju. Pat ne tuvu tam.
+
+0:09:52.730,0:09:54.760
+Tu neuzskata vēju un sauli par...
+
+0:09:54.760,0:09:59.170
+Mēs esam mēģinājuši apgūt vēju un Sauli gadu desmitus.
+Un tagad tie sastāda procenta daļas
+
+0:09:59.170,0:10:04.260
+no ASV kopējās saražotās enerģijas.
+Vēja apgūšanu ierobežo
+
+0:10:04.260,0:10:10.320
+enerģijas blīvums. Piemēram, tu parādi man triju
+megavatu vēja staciju. Bet, ja man ir 3 gigavatu
+
+0:10:10.320,0:10:14.720
+kodolspēkstacija, tad tā viena aizstāj 1000 šādas
+vēja stacijas.
+
+0:10:14.720,0:10:18.060
+Vējš vidēji ir izmantojams tikai 15% jeb vienu sesto
+daļa no visa kopējā laika.
+
+0:10:18.060,0:10:21.760
+Tāpēc iepriekšējais salīdzinājums nav pareizs,
+jo viena stacija darbojas nepārtraukti,
+
+0:10:21.760,0:10:25.670
+bet otra tikai sesto daļu no visa laika.
+Piemēram, ja tad, kad es ieslēdzu mašīnas aizdedzi
+
+0:10:25.670,0:10:29.470
+un varbūtība, ka mašīna iedarbosies ir tikai
+
+0:10:29.470,0:10:33.910
+viena sestā daļa, cik noderīga man tā būtu?
+Vēja industrija mums saka:
+
+0:10:33.910,0:10:37.940
+"Tas ir normāli, Čelsija. Tev tikai vajag sešas
+automašīnas." Enerģija ir par un ap uzticamību.
+
+0:10:37.940,0:10:44.540
+Mēs to varētu atrisināt, izmantojot baterijas,
+vai tad tās nevar izmantot 
+
+0:10:44.540,0:10:45.470
+ne tikai klēpjdatoriem?
+
+0:10:45.470,0:10:49.690
+Bateriju izmantošana enerģētikā ir ļoti, ļoti
+dārga. To nekad nevarēs ieviest
+
+0:10:49.690,0:10:53.770
+kā visaptverošu risinājumu, jo vienas vatstundas
+saglabāšana baterijā ir
+
+0:10:53.770,0:10:55.280
+ir ļoti dārga.
+
+0:10:55.280,0:10:58.170
+Es nerunāju par litija jonu baterijām, es runāju
+par daudz lētākām baterijām.
+
+0:10:58.170,0:11:01.930
+Piemēram, svina-skābes baterijas ir salīdzinoši lētas.
+Tā kā tad būtu vajadzīgas milzīgi daudzas tādas, 
+
+0:11:01.930,0:11:04.730
+ir labāk, ka ir daudz lētas baterijas, nekā dažas dārgas.
+
+0:11:04.730,0:11:09.050
+Bet ja mums būtu augstas vadītspējas... kā tās sauc?
+
+0:11:09.050,0:11:09.480
+Supravadītāju?
+
+0:11:09.480,0:11:10.870
+Tie visi ir izkliedēti enerģijas avoti.
+
+0:11:10.870,0:11:14.210
+Ja esi uzbūvējis elektropārvades līniju,
+tu vēlies, lai tā atmaksājas.
+
+0:11:14.210,0:11:17.040
+Tāpēc tev ir nepieciešams, lai tajā plūstu strāva
+praktiski visu laiku.
+
+0:11:17.040,0:11:21.140
+Pretējā gadījumā līniju neatmaksājas būvēt, jo tā sanāk
+pārāk dārga.
+
+0:11:21.140,0:11:24.000
+Tāpēc ideja, ka "Mums šeit ir viena vēja stacija,
+šeit ir viena saules stacija,
+
+0:11:24.000,0:11:27.440
+un tur ir vēl viena vēja stacija, un kāda no 
+šīm trijām vienmēr strādās."
+
+0:11:27.440,0:11:31.500
+Bet mums uz tām visām ir jāievelk pārvades
+līnijas.
+
+0:11:31.500,0:11:34.750
+Un tas nav praktiski iespējams. Cilvēki, kas to piedāvā,
+nav palūkojušies uz skaitļiem.
+
+0:11:34.750,0:11:37.580
+Cilvēki nevēlas redzēt spēkstacijas un pārvades līnijas.
+Viņi ar nagiem un zobiem cīnās pret
+
+0:11:37.580,0:11:42.300
+pārvades līnijām savā pagalmā.
+Ja mēs vēlamies uzticamu enerģijas avotu,
+
+0:11:42.300,0:11:45.260
+tad tam ir jābūt tuvu vietai, kur to patērē.
+
+0:11:45.260,0:11:47.310
+Es zinu, kā tu varētu piepulcināt vairāk sievietes.
+
+0:11:47.310,0:11:47.780
+Jā.
+
+0:11:47.780,0:11:48.760
+Dodies pie Opras (Oprah Winfrey).
+
+0:11:48.760,0:11:52.720
+Kā gan es varētu iekļūt viņas klubā?
+
+0:11:52.720,0:11:57.850
+Daudzi no mums ir mums ir apguvuši kodolfiziku
+un ap to saistīto politiku.
+
+0:11:57.850,0:11:59.530
+Paldies, ka mums šodien pievienojies.
+
+0:11:59.530,0:12:01.380
+Liels paldies! Man prieks, ka tu esi šeit.  
+
+0:12:01.380,0:12:03.010
+Sveiki, zēni, jūs esat diezgan tehniska grupa?
+
+0:12:03.010,0:12:06.240
+Daži no jums runāja par to, kas ir urķēšanās.
+Bet ir arī tāda lieta, kā
+
+0:12:06.240,0:12:07.190
+kodolurķēšanās.
+
+0:12:07.190,0:12:12.600
+Es esmu ļoti priecīgs, ka jūs šodien esat šeit
+un piedalieties šajā diskusijā.
+
+0:12:12.600,0:12:16.280
+Atbilde ir enerģija, kas ir lētāka par ogļu enerģiju.
+
+0:12:16.280,0:12:21.030
+All sorts of things that give us the advantage
+and they're all based on energy.
+
+0:12:21.030,0:12:26.380
+Based upon the assumption that we're willing
+to only sacrifice 160 million people's lives
+
+0:12:26.380,0:12:31.890
+to sea rise, climate change, and so forth,
+then January 2011, we need to start reducing
+
+0:12:31.890,0:12:34.520
+CO2 emissions by four percent a year...
+
+0:12:34.520,0:12:40.630
+Well, are we doing that?
+
+0:12:40.630,0:12:47.630
+I was two years and ten months old when I
+saw Star Wars. It is my earliest memory. My
+
+0:12:51.820,0:12:56.520
+dad didn't believe that I actually remembered
+that until I started actually relating details
+
+0:12:56.520,0:12:59.700
+from the day it happened. He said after that
+all I could talk about was space.
+
+0:12:59.700,0:13:04.770
+I spent 10 years working at NASA. In the beginning
+of my time there in 2000, this is the kind
+
+0:13:04.770,0:13:09.350
+of community I was thinking of. It had all
+of the same needs as a community on earth
+
+0:13:09.350,0:13:15.480
+would have, but it had some very unique constraints.
+There's no coal on the moon, there's no petroleum,
+
+0:13:15.480,0:13:20.630
+there's no natural gas, there's no wind, there's
+no atmosphere. The moon orbits the earth once
+
+0:13:20.630,0:13:25.030
+a month. For two weeks, the sun goes down
+and your solar panels don't make any energy.
+
+0:13:25.030,0:13:28.530
+If you want to try to store enough energy
+in batteries for two weeks, it just simply
+
+0:13:28.530,0:13:29.060
+isn't practical.
+
+0:13:29.060,0:13:34.400
+I thought nuclear power was dumb. I had no
+interest in it. I was like "Ah, old junk,
+
+0:13:34.400,0:13:37.120
+who would want to be into that?" It wasn't
+until I realized that these efficiencies were
+
+0:13:37.120,0:13:39.910
+possible that I began getting really interested.
+
+0:13:39.910,0:13:43.590
+I'm in this buddy of mine's office. He's got
+this book on his shelf and the book was called
+
+0:13:43.590,0:13:47.090
+"Fluid Fuel Reactors". He used to work at
+Oak Ridge National Labs in Tennessee and he
+
+0:13:47.090,0:13:51.900
+said "Yeah, way back when, they were doing
+some stuff on this at Oak Ridge," he goes
+
+0:13:51.900,0:13:57.440
+"I just went to the library and I got this
+old book." It was written in 1958 and he said
+
+0:13:57.440,0:14:01.350
+"I've been meaning to look through it. I knew
+a little bit about it but not very much."
+
+0:14:01.350,0:14:06.080
+So I took the book home, a big old thick book,
+it was about 1,000 pages, struggling really
+
+0:14:06.080,0:14:10.080
+hard to try to grasp the nuclear concepts
+in the book but it was intriguing enough to
+
+0:14:10.080,0:14:15.150
+me and it seemed really different than the
+kind of nuclear energy that we have now. They
+
+0:14:15.150,0:14:18.860
+also mention in this book a lot about thorium.
+Thorium, thorium, thorium, thorium. I was
+
+0:14:18.860,0:14:20.680
+like "Dude, what the heck is thorium?"
+
+0:14:20.680,0:14:24.820
+But I was intrigued enough that I began researching
+as much as I could. I was reading online,
+
+0:14:24.820,0:14:27.450
+I was reading blogs especially Rod Adams.
+
+0:14:27.450,0:14:31.460
+Taxpayers in the United States sent me to
+sea on submarines. I've lived in an environment
+
+0:14:31.460,0:14:36.810
+that was 100 percent nuclear powered. It's
+something that people just don't hear about.
+
+0:14:36.810,0:14:42.240
+Nobody in the world knew that a self-sustained
+fission chain reaction was even possible up
+
+0:14:42.240,0:14:48.170
+until somewhere around 1938. Very few people
+understand all these options that are available
+
+0:14:48.170,0:14:49.330
+in nuclear energy.
+
+0:14:49.330,0:14:54.820
+Now with liquid fluoride thorium reactors,
+no high-level waste material is generated
+
+0:14:54.820,0:14:59.910
+and it can also reduced stockpiles of existing
+waste. So given that, is there more the government
+
+0:14:59.910,0:15:01.880
+can do to test the technology?
+
+0:15:01.880,0:15:06.780
+The reality is that we have waste, so it's
+not going to improve the nuclear waste.
+
+0:15:06.780,0:15:11.800
+Please forgive my ignorance, but what is thorium?
+
+0:15:11.800,0:15:17.190
+If only my O-level science teacher could see
+me now. It is named after the Norse god Thor
+
+0:15:17.190,0:15:22.230
+and I know the noble baroness will be pleased
+to know that it's dimorphic and there are
+
+0:15:22.230,0:15:29.230
+all sorts of other facts that she can find
+in Wikipedia, as indeed, I did.
+
+0:15:30.050,0:15:33.700
+My lords, my lords... my lords.
+
+0:15:33.700,0:15:40.540
+The Department of Energy cited my website
+as the single technical source for the molten
+
+0:15:40.540,0:15:45.350
+salt reactor in their Generation IV when they
+first published it. People say "Well that's
+
+0:15:45.350,0:15:51.240
+quite an honor," no it's actually very pathetic
+because I'm Joe sitting in my garage doing
+
+0:15:51.240,0:15:55.420
+a website and this is the single technical
+source you came up with?
+
+0:15:55.420,0:15:59.890
+Does the administration understand all the
+options available? No. Does anybody really
+
+0:15:59.890,0:16:06.890
+understand clearly the fact that nuclear energy
+is a completely disruptive technology?
+
+0:16:07.810,0:16:11.920
+The liquid fluoride thorium reactor, I saw
+some of you kind of smile when it brings up
+
+0:16:11.920,0:16:15.750
+and that does concern me a little bit. What
+are you hearing about LFTR that's not... what
+
+0:16:15.750,0:16:18.330
+are you hearing about the molten salt reactors
+that's not there?
+
+0:16:18.330,0:16:23.640
+I would really be surprised if our leadership
+knows about this. I don't think they read
+
+0:16:23.640,0:16:27.880
+blogs. The fact that we have an Internet today
+is going to ultimately make the difference.
+
+0:16:27.880,0:16:32.310
+You know we had Bronze Age and we had Iron
+Age and we had the Industrial Revolution.
+
+0:16:32.310,0:16:36.010
+I really think hundreds of years from now,
+they'll say there was a Thorium Age that began.
+
+0:16:36.010,0:16:39.550
+Let me tell you how this stuff was discovered.
+There was a guy named Glenn Seaborg who worked
+
+0:16:39.550,0:16:46.000
+at Berkeley Labs in California in 1942. This
+was the guy who discovered plutonium. Coming
+
+0:16:46.000,0:16:52.200
+off discovering plutonium he thought, "I wonder
+if we can hit thorium with a neutron and turn
+
+0:16:52.200,0:16:54.560
+it into something." You got to remember, fission
+had been discovered three years earlier, so
+
+0:16:54.560,0:16:55.950
+they were still in the very beginnings.
+
+0:16:55.950,0:16:58.720
+So he got this grad student. You know, everybody
+who's been a grad student knows what it's
+
+0:16:58.720,0:17:02.190
+like when a professor says, "All right. I
+want you to go into the nuclear lab and turn
+
+0:17:02.190,0:17:07.740
+on the neutron bombardment system and expose
+this sample of radioactive material and find
+
+0:17:07.740,0:17:09.449
+out what happens."
+
+0:17:09.449,0:17:13.079
+"It's a war right now, isn't it, sir, right?
+I could be on the front lines."
+
+0:17:13.079,0:17:13.589
+"Yes, you could."
+
+0:17:13.589,0:17:15.529
+"OK. Yes sir. Absolutely. Off I go."
+
+0:17:15.529,0:17:20.110
+So the grad student went off, and he did the
+experiment. And he came back to Seaborg, and
+
+0:17:20.110,0:17:25.019
+he said, "Yep, I've done it, sir. I have made
+something new. Thorium did absorb the neutron.
+
+0:17:25.019,0:17:28.279
+It became uranium-233. Isn't that cool?"
+
+0:17:28.279,0:17:32.860
+Seaborg said, "Yes, absolutely. OK! Now, let's
+take the next step, poor little grad student!
+
+0:17:32.860,0:17:37.830
+I want you to go back. Now I want you to hit
+it with a neutron and see if it will fission.
+
+0:17:37.830,0:17:40.309
+Because I think it'll fission. I think it'll
+fission just like uranium-235."
+
+0:17:40.309,0:17:41.840
+"OK. Yes sir."
+
+0:17:41.840,0:17:46.409
+Goes off, does the experiment, comes back
+and says, "Yep, you were right. It did fission.
+
+0:17:46.409,0:17:49.960
+You're correct. It is a new form of nuclear
+fuel."
+
+0:17:49.960,0:17:55.090
+Then Seaborg popped the really, really important
+question. He said, "Now I want you to go figure
+
+0:17:55.090,0:18:02.090
+out how many neutrons came off when it fissioned.
+Because if that number is below 2, we really
+
+0:18:02.470,0:18:07.720
+don't have a story here. If this number...
+you come back, and say it's like 1.5, then...
+
+0:18:07.720,0:18:13.899
+interesting fact goes in the back of the book.
+But if that number's above 2, then that is
+
+0:18:13.899,0:18:14.580
+a big deal."
+
+0:18:14.580,0:18:19.850
+Goes back, comes back. "Sir, the number is
+2.5."
+
+0:18:19.850,0:18:25.289
+Seaborg looks at his grad student. This is
+December 1942, and he said, "You've just made
+
+0:18:25.289,0:18:28.279
+a $50 quadrillion discovery."
+
+0:18:28.279,0:18:32.860
+Grad student was like "Uhh!"
+
+0:18:32.860,0:18:39.860
+Seaborg was absolutely right. He had figured
+out that thorium could serve as an essentially
+
+0:18:40.159,0:18:47.029
+unlimited nuclear fuel. And he knew how abundant
+thorium was in the crust of the Earth. And
+
+0:18:47.029,0:18:53.100
+he realized that through this process, if
+you had some uranium-233, you could catalyze
+
+0:18:53.100,0:18:56.549
+the burning of thorium indefinitely.
+
+0:18:56.549,0:19:01.690
+You're fissioning uranium-233, but you're
+making a new one. So it's not really a catalyst
+
+0:19:01.690,0:19:06.580
+in the true chemical sense that a catalyst
+is not consumed in a reaction. But you can
+
+0:19:06.580,0:19:08.950
+almost think about it as a pseudo-catalyst.
+
+0:19:08.950,0:19:12.830
+So we'll take it from first principles. Let's
+talk a bit about what nuclear fission is.
+
+0:19:12.830,0:19:17.820
+You have fissile nuclei. That means this is
+a nucleus. If you hit it with a neutron, it's
+
+0:19:17.820,0:19:23.250
+going to fission and split into two pieces,
+two fission products. And also significantly,
+
+0:19:23.250,0:19:28.059
+this one neutron is going to spawn the formation
+of two or three additional neutrons.
+
+0:19:28.059,0:19:33.740
+Why do we care? Here's why we care...
+
+0:19:33.740,0:19:40.529
+Because every kilogram of fissile material
+will produce as much energy as 13,000 barrels
+
+0:19:40.529,0:19:47.490
+of oil. Nuclear fission is a million times
+more energy-dense than a chemical reaction.
+
+0:19:47.490,0:19:52.320
+Civilization has changed over advancements
+in technology a whole lot more modest than
+
+0:19:52.320,0:19:52.990
+this.
+
+0:19:52.990,0:19:57.320
+When you fission something, it breaks into
+these two pieces, but they're radioactive.
+
+0:19:57.320,0:19:58.419
+Why are they radioactive?
+
+0:19:58.419,0:20:03.929
+And this is a chart that shows the number
+of protons in matter and the number of neutrons.
+
+0:20:03.929,0:20:09.470
+Now, if the number of protons and the number
+of neutrons were the same, all of these isotopes
+
+0:20:09.470,0:20:12.100
+would stay on this nice line right here, you
+see?
+
+0:20:12.100,0:20:16.840
+But they don't do that. At the beginning,
+it's a roughly equal number of protons and
+
+0:20:16.840,0:20:21.399
+neutrons. But as they get heavier, they definitely
+get on the very neutron-rich side of things.
+
+0:20:21.399,0:20:26.429
+You see these black dots? Those are the stable
+nuclides and all the other guys are radioactive.
+
+0:20:26.429,0:20:31.360
+The strong nuclear forces holding the nucleus
+together, the protons are pushing the nucleus
+
+0:20:31.360,0:20:35.090
+apart. OK, the protons are all positively
+charged they want rip the thing apart. The
+
+0:20:35.090,0:20:40.289
+neutrons are adding more of that strong nuclear
+force glue, holding everything together and
+
+0:20:40.289,0:20:43.379
+they are not adding more of the push-it-apart
+stuff.
+
+0:20:43.379,0:20:49.480
+Way down here are uranium and thorium and
+they have about one and half times as many
+
+0:20:49.480,0:20:54.850
+neutrons as protons. When you burst them in
+half the two pieces that you get inherit that
+
+0:20:54.850,0:21:00.110
+ratio but it's the wrong ratio for them. They
+are over here they wanted to be more like
+
+0:21:00.110,0:21:02.059
+one and a quarter instead of one and a half.
+
+0:21:02.059,0:21:05.620
+They have too many neutrons. Nature has a
+nifty process for fixing this little problem
+
+0:21:05.620,0:21:09.659
+it's called beta decay. A neutron essentially
+turns into a proton and it spits out an electron.
+
+0:21:09.659,0:21:14.159
+When you fission a nucleus why is what you
+get out radioactive? And it has to do with
+
+0:21:14.159,0:21:18.759
+this proton and neutron balance. The balance
+is wrong for what you have made even though
+
+0:21:18.759,0:21:20.440
+it was right for what you started with.
+
+0:21:20.440,0:21:26.590
+These are the mass numbers of each of those
+and they assume two broad peaks of distribution.
+
+0:21:26.590,0:21:30.990
+This is the smaller fission product and this
+is the larger fission product because each
+
+0:21:30.990,0:21:35.620
+fission generates two of them. But, because
+they are neutron rich they have to beta decay
+
+0:21:35.620,0:21:38.240
+a couple of times before they reach a stable
+nucleus.
+
+0:21:38.240,0:21:42.879
+Let's talk just a minute about radioactivity
+because I had an erroneous notion of what
+
+0:21:42.879,0:21:46.710
+radioactivity was. I thought that if you had
+something that have like a half-life of a
+
+0:21:46.710,0:21:51.090
+day, and you had something that had a half-life
+of a million years, it meant that the dude
+
+0:21:51.090,0:21:55.970
+that was radioactive for a day is like brrrrrr
+for a day and then, "Opp! I'm done." And the
+
+0:21:55.970,0:21:59.700
+dude with half-life for a million years is
+like brrrrrrrrr for a million years and done.
+
+0:21:59.700,0:22:00.419
+OK.
+
+0:22:00.419,0:22:04.649
+So you go which one of these is more dangerous?
+Well, definitely the one that's got a half-life
+
+0:22:04.649,0:22:08.649
+of a million years because that's got to be
+like radioactive forever and the dude's radioactive
+
+0:22:08.649,0:22:11.509
+for a day that's not a big deal, right?
+
+0:22:11.509,0:22:17.340
+Completely wrong. OK. Utterly backwards. The
+dude who is radioactive for a day is really,
+
+0:22:17.340,0:22:23.370
+really radioactive. The dude that’s radioactive
+for a million years is hardly radioactive
+
+0:22:23.370,0:22:27.649
+at all. Which one of those two is more dangerous?
+The one that's radioactive for a day by a
+
+0:22:27.649,0:22:29.480
+long shot.
+
+0:22:29.480,0:22:35.870
+So your radioactivity is directly and inversely
+proportional to your half-life. So all these
+
+0:22:35.870,0:22:40.289
+guys that have real short half-lives, very,
+very dangerous, but they are going away real
+
+0:22:40.289,0:22:45.580
+quick. This guy, 2.3 million years, no problem.
+It's not going to hurt you. It's just not
+
+0:22:45.580,0:22:47.240
+nearly radioactive enough.
+
+0:22:47.240,0:22:51.409
+Now What about thorium and uranium? Both are
+naturally occurring materials. Thorium has
+
+0:22:51.409,0:22:57.909
+only one isotope thorium-232. It has a 14
+billion year half-life. So when the Universe
+
+0:22:57.909,0:23:02.039
+is twice as old as it is now, thorium will
+have only decayed one half-life.
+
+0:23:02.039,0:23:06.330
+What does it tell you how radioactive thorium
+is?
+
+0:23:06.330,0:23:12.350
+Hardly at all. That's why it is still around.
+Uranium, two isotopes uranium-235, uranium-238
+
+0:23:12.350,0:23:16.379
+both of course are radioactive. U-238 has
+a 5 billion year half-life, that's pretty
+
+0:23:16.379,0:23:19.899
+old, that's how old the earth is, that's how
+old the Universe is.
+
+0:23:19.899,0:23:24.019
+Uranium-235 on the other hand has a much shorter
+half-life, seven hundred million years. OK.
+
+0:23:24.019,0:23:27.240
+How common is this stuff on the earth? Most
+of the earth is made of oxygen. Isn't that
+
+0:23:27.240,0:23:32.499
+strange? Like 46 percent of the crust of the
+earth is oxygen. Because everything is oxidized,
+
+0:23:32.499,0:23:35.879
+all the rocks, then silicon, aluminum, iron,
+calcium, a bunch of stuff.
+
+0:23:35.879,0:23:40.759
+Well here is thorium at 10 parts per million,
+but there is other stuff that we think of
+
+0:23:40.759,0:23:45.740
+that is even less common; beryllium, tin,
+tungsten. Here's uranium, two and a half parts
+
+0:23:45.740,0:23:50.960
+per million. Tungsten, aluminum, mercury,
+silver, and no surprise where is gold? That's
+
+0:23:50.960,0:23:52.710
+why girls want you to give it to them.
+
+0:23:52.710,0:23:58.070
+Now, let's say we were looking at uranium-235
+as if it was its own thing. It's less than
+
+0:23:58.070,0:24:03.350
+one percent of uranium, it's about 0.7 percent
+uranium. You can see that uranium-235 is on
+
+0:24:03.350,0:24:07.450
+par with the abundance of silver and platinum.
+
+0:24:07.450,0:24:12.889
+Can you imagine burning platinum for energy?
+That would just be nuts. It is nuts. And that's
+
+0:24:12.889,0:24:18.039
+literally what we're doing with our nuclear
+energy sources today. We're burning this extremely
+
+0:24:18.039,0:24:25.009
+rare stuff and we're not burning the common
+stuff, the uranium-238 and the thorium. We're
+
+0:24:25.009,0:24:27.539
+leaving that stuff unburnt.
+
+0:24:27.539,0:24:32.570
+Some people who are kind of environmentalists,
+they say, "Listen, nuclear power is not sustainable."
+
+0:24:32.570,0:24:36.940
+They say to me, "We're going to run out of
+uranium." I said, "OK. I will yield that point
+
+0:24:36.940,0:24:41.950
+to you if we're talking about today's nuclear
+technology. On the other hand, if we start
+
+0:24:41.950,0:24:45.840
+thinking about some of these other things
+we can do, that story changes."
+
+0:24:45.840,0:24:51.559
+Thorium all by itself is not going to release
+nuclear energy. But if you hit the thorium
+
+0:24:51.559,0:24:55.669
+with a neutron, the thorium will absorb the
+neutron and it will turn from thorium-232
+
+0:24:55.669,0:25:02.249
+into thorium-233. Thorium-233 only has a half-life
+of like 20 minutes, so is it really radioactive?
+
+0:25:02.249,0:25:08.730
+Oh yeah, smoking radioactive, really, really
+hot stuff. It's going to decay into protactinium-233,
+
+0:25:08.730,0:25:10.559
+which has a half-life of about a month.
+
+0:25:10.559,0:25:14.379
+So, pretty darn hot stuff. You probably don't
+want to mess with this stuff either. Then
+
+0:25:14.379,0:25:18.879
+it will decay over about a month to uranium-233,
+which has a half life of about 160,000 years,
+
+0:25:18.879,0:25:22.200
+and is much less radioactive.
+
+0:25:22.200,0:25:27.409
+Uranium-233, if you hit it with a neutron
+it will fission. In addition to releasing
+
+0:25:27.409,0:25:32.700
+all that energy, it will release two or three
+additional neutrons. You need one of those
+
+0:25:32.700,0:25:37.559
+neutrons to go find another thorium and you
+need another one of those neutrons to find
+
+0:25:37.559,0:25:41.169
+another uranium-233 to continue the reaction.
+
+0:25:41.169,0:25:47.759
+Some of these fission products have a really
+big propensity to eat neutrons. The way they
+
+0:25:47.759,0:25:53.009
+describe this in nuclear reactions is they
+call it a cross section. How probable is a
+
+0:25:53.009,0:25:58.759
+reaction going to be? One of those fission
+products is named xenon-135, and here is its
+
+0:25:58.759,0:26:04.590
+cross section relative to two nuclear fuels.
+See these little bitty guys? Imagine we're
+
+0:26:04.590,0:26:07.960
+playing darts or something, and throwing them.
+Which one are we going to hit?
+
+0:26:07.960,0:26:14.090
+When xenon-135 forms from fission, look at
+all these chain, blah, blah, blah. Where's
+
+0:26:14.090,0:26:21.090
+135? OK, that's not particularly an uncommon
+event to form that particular guy. Xenon-135
+
+0:26:24.769,0:26:29.999
+has a half life of nine hours. It's very radioactive,
+but during that nine hours, it really wants
+
+0:26:29.999,0:26:30.940
+to eat your neutron.
+
+0:26:30.940,0:26:31.190
+This turns out to be a big problem for real
+nuclear reactors. It messes up how they want
+
+0:26:31.169,0:26:32.879
+to operate because of the existence of xenon.
+This actually was a contributing effect to
+
+0:26:32.879,0:26:39.289
+the Chernobyl disaster was the presence of
+xenon-135. And it's really hard to deal with
+
+0:26:39.289,0:26:45.580
+in solid fuel reactors. Xenon was such a big
+deal, in fact, this was one of the first reactors
+
+0:26:45.580,0:26:50.499
+that was ever built. This was the Hanford
+reactor in Washington. They built this during
+
+0:26:50.499,0:26:54.360
+the Manhattan project to make plutonium for
+nuclear weapons.
+
+0:26:54.360,0:26:58.740
+When they first built it, they turned it on
+and everything seemed to be going. After about
+
+0:26:58.740,0:27:05.340
+a day or two of running it, all of a sudden
+the power went and dropped, almost to zero.
+
+0:27:05.340,0:27:09.480
+They were like, "What the heck is that?",
+and they couldn't figure it out. They left
+
+0:27:09.480,0:27:15.970
+it alone, and after about 12 or 18 hours it
+went and it came back up to power again, and
+
+0:27:15.970,0:27:21.100
+it held there. They're like, "What?", and
+pretty soon it goes and drops off again. They're
+
+0:27:21.100,0:27:25.139
+going, "This makes no sense, we're not doing
+anything! The thing's turning on and turning
+
+0:27:25.139,0:27:27.399
+off, and it's turning on and it's turning
+off."
+
+0:27:27.399,0:27:33.929
+What was going on was, the reactor would turn
+on, and xenon-135 would begin to build up.
+
+0:27:33.929,0:27:37.769
+And as it built up, it would start eating
+all these neurons, right. And they were and
+
+0:27:37.769,0:27:41.110
+it would take the reactor back down again.
+
+0:27:41.110,0:27:44.869
+Then after a while it would decay away, and
+once it decayed away [makes ascending plane
+
+0:27:44.869,0:27:50.330
+sound] the reactor would come back on again.
+So it was following this up and down effect.
+
+0:27:50.330,0:27:53.320
+Just crazy, I mean, these guys didn't even
+know what xenon-135 was, because this was
+
+0:27:53.320,0:27:58.720
+one of the first nuclear reactors ever built.
+Luckily for us, the guy who built this reactor
+
+0:27:58.720,0:28:00.789
+was this guy, Eugene Wigner.
+
+0:28:00.789,0:28:02.399
+He was unbelievably brilliant, maybe one of
+the smartest guys who ever lived. Won the
+
+0:28:02.399,0:28:05.110
+Nobel Prize. He would just lie in bed, trying
+to figure out “How far ahead of the Germans
+
+0:28:05.110,0:28:08.529
+are we? Where do you think they are?” He
+was just always gaming it and trying to figure
+
+0:28:08.529,0:28:08.830
+it out.
+
+0:28:08.830,0:28:13.139
+He had thought, "What could possibly go wrong
+in this machine I built." He goes, "Well,
+
+0:28:13.139,0:28:18.639
+there could be something that we'll make that
+will be very, very absorptive of neutrons.
+
+0:28:18.639,0:28:24.559
+And that something we make might decay quickly.
+And if it was really absorptive and it decayed
+
+0:28:24.559,0:28:26.220
+quickly, the reactor would do... this!"
+
+0:28:26.220,0:28:32.249
+He didn't know what it was yet! He just was
+hypothesizing that such a thing existed! And
+
+0:28:32.249,0:28:36.149
+so when this machine of his started doing
+this, he goes, "I think I know what's going
+
+0:28:36.149,0:28:40.980
+on." There were a bunch of places to put in
+extra fuel, and he was able to override this
+
+0:28:40.980,0:28:44.789
+effect. I mean, we're really lucky he did
+this, or we would not have been able to finish
+
+0:28:44.789,0:28:48.980
+the Manhattan Project. So they were able to
+complete the creation of plutonium in order
+
+0:28:48.980,0:28:50.820
+to make the first nuclear weapon.
+
+0:28:50.820,0:28:55.610
+They took natural uranium, and they separated
+those two isotopes, highly enriched it in
+
+0:28:55.610,0:29:02.460
+uranium-235. They'd take uranium-235 from
+less than one percent up to like 90-plus percent.
+
+0:29:02.460,0:29:07.989
+And this was really hard. It took big factories,
+very difficult to do isotopic enrichment.
+
+0:29:07.989,0:29:12.720
+But this is how they made the uranium for
+the first nuclear weapon used in war. This
+
+0:29:12.720,0:29:16.529
+was the bomb at Hiroshima. It was called "Little
+Boy," and they never tested it, because they
+
+0:29:16.529,0:29:17.499
+already knew it was going to work.
+
+0:29:17.499,0:29:22.850
+Then they said, "Well, what can we do with
+all this junk uranium-238, the 99.3 percent
+
+0:29:22.850,0:29:27.299
+of it?" Well, Seaborg had already figured
+out you could expose it to neutrons, and you
+
+0:29:27.299,0:29:29.649
+could make it into Plutonium.
+
+0:29:29.649,0:29:35.239
+After a short cooling-off period, the now
+highly irradiated fuel rods were transported
+
+0:29:35.239,0:29:38.119
+to T-plant in Hanford's 200 area.
+
+0:29:38.119,0:29:43.669
+Now, plutonium is a different chemical element
+than uranium, so they can be chemically separated.
+
+0:29:43.669,0:29:49.929
+The process yielded minute amounts of plutonium.
+By weight, the most expensive material on
+
+0:29:49.929,0:29:50.659
+the planet.
+
+0:29:50.659,0:29:56.789
+And chemically separating things is like a
+bazillion times easier than isotopically separating
+
+0:29:56.789,0:29:57.929
+it. Because uranium-235 and uranium-238 are
+identical chemically. There's no chemical
+
+0:29:57.929,0:29:59.019
+difference between them. But there is a chemical
+difference between plutonium and uranium,
+
+0:29:59.019,0:30:02.580
+so it was a lot easier to do a chemical separation
+of the plutonium you'd made.
+
+0:30:02.580,0:30:07.440
+And that's how they made the first nuclear
+weapon, the Trinity blast in New Mexico, and
+
+0:30:07.440,0:30:11.730
+that's also how they made the Nagasaki bomb,
+Fat Man. Seaborg says, "OK, well, maybe we
+
+0:30:11.730,0:30:15.759
+can do the same thing with Thorium. Maybe
+we can expose it to neutrons, and we can make
+
+0:30:15.759,0:30:22.279
+it into uranium-233. Uranium will be chemically
+separable from Thorium, and we can go make
+
+0:30:22.279,0:30:23.649
+a bomb out of it." Right? Sounds great.
+
+0:30:23.649,0:30:28.489
+So they started looking at it, and it turns
+out, no, it's a really bad idea, because as
+
+0:30:28.489,0:30:34.489
+you made the uranium-233, you were always
+making uranium-232. Here's the decay chain
+
+0:30:34.489,0:30:41.489
+that uranium-232 is on. It jumps down one
+year, three days, 55 seconds, 0.16 seconds,
+
+0:30:42.619,0:30:49.440
+and it jumps down to these guys - bismuth-212,
+thallium-208 and these two decay products
+
+0:30:49.440,0:30:50.879
+have harder gamma emission.
+
+0:30:50.879,0:30:56.850
+They put out very, very strong gamma rays.
+And these gamma rays are super bad news if
+
+0:30:56.850,0:31:01.119
+you want to go and build a practical nuclear
+device. Because, number one they kill you
+
+0:31:01.119,0:31:04.649
+when you work on them, number two, they tell
+everybody who's got gamma ray detectors where
+
+0:31:04.649,0:31:05.830
+the stuff is.
+
+0:31:05.830,0:31:10.259
+So really quickly they were going, OK, we
+can work with uranium-235, that seems OK,
+
+0:31:10.259,0:31:15.929
+we can work with plutonium, that seems OK,
+but this uranium-233 stuff has bad news for
+
+0:31:15.929,0:31:17.739
+making a nuclear weapon.
+
+0:31:17.739,0:31:23.389
+Thorium was set aside as a potential nuclear
+weapons fuel all during the war. After the
+
+0:31:23.389,0:31:26.629
+war, they picked up on this again because
+now they were thinking, "Let's talk about
+
+0:31:26.629,0:31:32.549
+making power instead of making nuclear weapons."
+This is a chart that shows absorption propensity
+
+0:31:32.549,0:31:36.369
+of each of these different nuclear fuels as
+a function of neutron energy.
+
+0:31:36.369,0:31:40.830
+This is what's called thermal energy, this
+means they've been slowed way down. This is
+
+0:31:40.830,0:31:45.619
+fast energy, that means a neutron is still
+going really fast. Look how much bigger the
+
+0:31:45.619,0:31:50.070
+cross sections are in thermal than they are
+in fast.
+
+0:31:50.070,0:31:55.039
+What's this guy down here, this is fast times
+25. Taking this row, because you can barely
+
+0:31:55.039,0:32:01.389
+see these little bitty dots, and I've blown
+it up by a factor 25. You can see some proportions
+
+0:32:01.389,0:32:05.269
+here. Now what these colors mean is the red
+means that it's going to absorb the neutron
+
+0:32:05.269,0:32:08.369
+and the blue means that it's going to absorb
+the neutron and fission.
+
+0:32:08.369,0:32:12.159
+What you want, you want blue. Thick blue is
+good. Well, lots of blue, because when you
+
+0:32:12.159,0:32:14.739
+hit these dudes with neutron, you want them
+fission.
+
+0:32:14.739,0:32:20.690
+Look at plutonium, wow, big target, right?
+But one third of the time it's just going
+
+0:32:20.690,0:32:26.330
+to eat the neutron in thermal fission. That's
+not good. On the other hand, in fast fission,
+
+0:32:26.330,0:32:32.700
+look at that, wow, was going to fission almost
+all the time. We like that was, but look how
+
+0:32:32.700,0:32:37.499
+many these little dots we are going to need
+to add up to this size. We are going to need
+
+0:32:37.499,0:32:38.429
+a lot.
+
+0:32:38.429,0:32:45.119
+How much energy did the neutron have that
+you smack the nuclear fuel with? How energy
+
+0:32:45.119,0:32:50.389
+did they have and then how many neutrons did
+you kick out when you smack it to fission?
+
+0:32:50.389,0:32:56.070
+These little bitty dots, they appear in this
+part of the curve. This is the fast region,
+
+0:32:56.070,0:32:59.749
+this is the thermal region. On the thermal
+region, look who is doing the best, look at
+
+0:32:59.749,0:33:06.749
+uranium-233, about 2.3. Look at plutonium,
+is that deep low two right there. That's what
+
+0:33:09.169,0:33:14.999
+makes it that you cannot burn up uranium-238
+in a thermal-spectrum reactor like a water
+
+0:33:14.999,0:33:17.220
+cooled reactor like a CANDU or like a water
+reactor.
+
+0:33:17.220,0:33:23.129
+You just can't do it. So they look at that
+and say, man, we just can't burn uraniun-238
+
+0:33:23.129,0:33:26.789
+in the thermal reactor. It just can't be done.
+These guys aren't deterred, they said, "Well,
+
+0:33:26.789,0:33:28.799
+here is what we'll do, we'll just build a
+fast reactor, because look how good it gets
+
+0:33:28.799,0:33:33.609
+in the fast region, wow, it gets above two,
+three, wow! This is really good!" This was
+
+0:33:33.609,0:33:39.190
+the genesis of the idea of the fast breeder
+reactor, a reactor that was based around having
+
+0:33:39.190,0:33:42.320
+fast neutrons and plutonium fuel.
+
+0:33:42.320,0:33:47.480
+But uranium-233 on the other hand, OK, it
+gets a little better in the fast, but dang
+
+0:33:47.480,0:33:50.019
+it's still pretty damn good right in the thermal.
+
+0:33:50.019,0:33:55.779
+Big targets, a lot easier, everybody who is
+pushing thorium said, "We like thermal. This
+
+0:33:55.779,0:33:59.710
+is the kind of reactor we want to build" and
+everybody who is pushing plutonium said, "No,
+
+0:33:59.710,0:34:03.019
+no, no, we want a fast reactor, that's the
+only way to do it."
+
+0:34:03.019,0:34:06.480
+What did we really do, we didn't do either
+one of these. In reality, all our reactors
+
+0:34:06.480,0:34:12.660
+today are burning uranium-235 which is like
+burning platinum, very, very, very rare. We
+
+0:34:12.660,0:34:17.510
+didn't take either one of these paths ultimately.
+This was the great division in the beginning,
+
+0:34:17.510,0:34:19.960
+was it going to thorium or is it going to
+be plutonium.
+
+0:34:19.960,0:34:25.120
+Wigner was not successful in convincing the
+bulk of the nuclear community to take the
+
+0:34:25.120,0:34:30.470
+thorium approach. They by and large said,
+"We're going to go the plutonium route." One
+
+0:34:30.470,0:34:35.590
+of the reasons why was they had developed
+a great deal of understanding about plutonium
+
+0:34:35.590,0:34:40.280
+from the weapons program. They had made the
+stuff. They had worked with its chemistry.
+
+0:34:40.280,0:34:46.860
+They'd made fuel out of it. They go, "We get
+this. Thorium? We haven't really messed with
+
+0:34:46.860,0:34:49.960
+thorium. It would be like starting over."
+
+0:34:49.960,0:34:55.000
+That propensity there was to go and do what
+you already knew how to do. The plutonium
+
+0:34:55.000,0:35:01.080
+was so much better developed than the thorium.
+So, Wigner was not terribly successful in
+
+0:35:01.080,0:35:06.990
+making converts in the nuclear community.
+He did make one convert - Alvin Weinberg.
+
+0:35:06.990,0:35:10.000
+He was his student during the Manhattan Project.
+
+0:35:10.000,0:35:14.650
+Weinberg got it. He got the big picture. "We
+need thorium. We need thorium reactor. We
+
+0:35:14.650,0:35:19.500
+need liquid fuel. I see it. I see what we've
+got to do." Weinberg got a job offer to be
+
+0:35:19.500,0:35:25.370
+the director of Oak Ridge National Labs in
+1955. He was 35 years old. He was a year younger
+
+0:35:25.370,0:35:30.090
+than I am. I'm sitting there going, "Dude,
+when Weinberg was my age he was running Oak
+
+0:35:30.090,0:35:34.200
+Ridge National Lab. What am I doing? I'm in
+a basement somewhere."
+
+0:35:34.200,0:35:35.130
+[laughter]
+
+0:35:35.130,0:35:37.890
+I'm just teasing.
+
+0:35:37.890,0:35:38.810
+[laughter]
+
+0:35:38.810,0:35:43.420
+It's not my mom's basement so I feel better.
+
+0:35:43.420,0:35:48.460
+So he goes to Oak Ridge and Wigner said, "Alvin,
+you've got to go there because you've got
+
+0:35:48.460,0:35:53.490
+to go see if you can make this thorium work.
+It's that important." Alvin got it.
+
+0:35:53.490,0:35:58.410
+Here was a quote from his book. He said, "Until
+then I had never quite appreciated the full
+
+0:35:58.410,0:36:02.330
+significance of the breeder." When he's talking
+about breeder he actually means the thorium
+
+0:36:02.330,0:36:08.750
+reactor. "But now I became obsessed with the
+idea that humanity's whole future depended
+
+0:36:08.750,0:36:14.710
+on the breeder." The idea that if you don't
+go and access the energies of thorium, we're
+
+0:36:14.710,0:36:18.180
+not going to make it. We can't make it on
+the uranium-235.
+
+0:36:18.180,0:36:21.290
+One of the first things that happened when
+he got to Oak Ridge, the Atomic Energy Commission
+
+0:36:21.290,0:36:25.210
+called him up and said, "You're done in the
+reactor business. We're giving all the reactor
+
+0:36:25.210,0:36:30.830
+work to Argon National Labs in Chicago and
+you guys aren't part of the deal anymore."
+
+0:36:30.830,0:36:35.160
+Argon National Labs was fully going for the
+plutonium fast breeder. That was there whole
+
+0:36:35.160,0:36:37.080
+thing was to do the plutonium fast breeder.
+
+0:36:37.080,0:36:42.290
+Right off the bat, Weinberg was like, "Oh
+my gosh! What are we going to do?" About that
+
+0:36:42.290,0:36:47.750
+time, the Air Force said, "The navy has built
+their nuclear submarines and the Army has
+
+0:36:47.750,0:36:52.290
+come along and they have taken the same technology
+as the Navy, the water cooled reactor. They're
+
+0:36:52.290,0:36:57.210
+doing their thing, but the Air Force wants
+to build a nuclear powered bomber." Does that
+
+0:36:57.210,0:36:58.400
+just sound crazy?
+
+0:36:58.400,0:36:58.800
+[laughter]
+
+0:36:58.800,0:37:00.840
+It was just absolutely nuts.
+
+0:37:00.840,0:37:06.570
+Weinberg was a practical man and he said,
+"Hah, nuclear powered bomber? That is probably
+
+0:37:06.570,0:37:09.150
+a really dumb idea."
+
+0:37:09.150,0:37:11.530
+But the military has a lot of money, "It wasn't
+that I'd suddenly become converted to a belief
+
+0:37:11.530,0:37:11.800
+in nuclear airplanes. It was rather this was
+the only avenue open for ORNL for continuing
+
+0:37:11.800,0:37:16.640
+in reactor development. That the purpose was
+unattainable if not foolish was not so important."
+
+0:37:16.640,0:37:17.870
+[laughter]
+
+0:37:17.870,0:37:24.640
+"A high temperature reactor could be useful
+for other purposes even if it never propelled
+
+0:37:24.640,0:37:26.410
+an airplane." He knew that to make the nuclear
+airplane work, they couldn't use water cooled
+
+0:37:26.410,0:37:30.330
+reactors. They couldn't use high pressure
+reactors. They couldn't use complicated solid
+
+0:37:30.330,0:37:35.620
+fuel reactors. They had to have something
+that was so slick, that was so safe, that
+
+0:37:35.620,0:37:40.170
+was so simple, that operated at low pressure-high
+temperature, and had all the features you
+
+0:37:40.170,0:37:41.950
+wanted in it. They didn't even know what it
+was.
+
+0:37:41.950,0:37:48.260
+If this nuclear airplane program had not been
+established, the molten salt reactor would
+
+0:37:48.260,0:37:54.880
+have never been invented, because it is simply
+too radical, too different, too completely
+
+0:37:54.880,0:38:00.380
+out of the ball field of everything else for
+it to be arrived at through an evolutionary
+
+0:38:00.380,0:38:06.720
+development. It had to be forced into existence
+by requirements that were so difficult to
+
+0:38:06.720,0:38:09.160
+achieve, and then nuclear airplane was that.
+
+0:38:09.160,0:38:13.190
+So they began working on this high temperature
+reactor, and here was their notion. This reactor
+
+0:38:13.190,0:38:13.440
+was going to produce this high temperature
+heat. It was going to be ducted into a turbo
+
+0:38:13.420,0:38:13.800
+jet engine. The air was going to be sucked
+in, compressed. Then instead of a burner here
+
+0:38:13.800,0:38:14.050
+that would be injecting fuel, like a combustion
+system, you would have this heat exchanger
+
+0:38:13.980,0:38:14.230
+with a reactor. It would make the air hot,
+then the air would exhaust through the turbine
+
+0:38:13.980,0:38:14.230
+and make thrust.
+
+0:38:13.980,0:38:14.230
+So it's the same idea as a jet engine, it's
+just the heat source was the reactor rather
+
+0:38:14.020,0:38:16.060
+than the combustion of fuel. Remember this
+was invented before we had ICBMs or anything
+
+0:38:16.060,0:38:20.040
+like that. This was a doomsday weapon. If
+you're flying this thing to Russia, it's the
+
+0:38:20.040,0:38:23.890
+end of the world. So they didn't even know
+what kind of reactor this would be, and they
+
+0:38:23.890,0:38:27.040
+began working and came up with the molten
+salt concept.
+
+0:38:27.040,0:38:30.550
+They didn't know if it would work, so this
+built this proof of principle reactor, called
+
+0:38:30.550,0:38:35.720
+the Aircraft Reactor Experiment. They circulated
+the liquid fluoride salt in these tubes to
+
+0:38:35.720,0:38:38.230
+produce two and a half megawatts of thermal
+power.
+
+0:38:38.230,0:38:44.420
+Xenon is a gas. What happens to gases in a
+liquid. The gaseous fission product xenon
+
+0:38:44.420,0:38:45.470
+just came right out of the salt.
+
+0:38:45.470,0:38:50.690
+Can you imagine if what happened to poor Wigner
+in his Washington reactor happened to the
+
+0:38:50.690,0:38:54.930
+dude flying to Russia? He'd be like, "This
+is your captain speaking. We're going to have
+
+0:38:54.930,0:38:58.570
+to make an emergency landing over Siberia.
+Xenon level's just getting a little too high
+
+0:38:58.570,0:39:02.330
+in the reactor back there, so we're just going
+to set down on the tundra here for nine hours
+
+0:39:02.330,0:39:07.470
+while that old xenon's going to come on down.
+We'll be lighting up and taking off shortly."
+
+0:39:07.470,0:39:08.390
+You know, I mean that's not going to work.
+
+0:39:08.390,0:39:11.120
+And it ran for about 11 days in 1954.
+
+0:39:11.120,0:39:15.140
+It reached the highest temperatures that had
+ever been achieved by a nuclear reactor up
+
+0:39:15.140,0:39:16.370
+to that point.
+
+0:39:16.370,0:39:21.440
+And proved to them that, essentially, their
+notion was correct - that you could sustain
+
+0:39:21.440,0:39:26.250
+nuclear fission reactions inside a salt, that
+it would operate at high temperature and low
+
+0:39:26.250,0:39:30.810
+pressure, that it was very stable. And the
+reason why it was so stable was, as the salt
+
+0:39:30.810,0:39:35.900
+would heat up, there would be less fissile
+material in the nuclear reactor core, and
+
+0:39:35.900,0:39:38.020
+so fission became less likely.
+
+0:39:38.020,0:39:42.500
+Conversely, as the salt cooled down, there
+was more material, because the salt was contracting,
+
+0:39:42.500,0:39:43.920
+and fission became more likely.
+
+0:39:43.920,0:39:46.830
+The engineers out there, that's a dynamically
+stable system.
+
+0:39:46.830,0:39:49.450
+It gets hotter, cools down, gets too cool,
+heats up.
+
+0:39:49.450,0:39:55.530
+Well, by this time it was about 1960. ICBMs
+were going great. We'd perfected air to air
+
+0:39:55.530,0:39:58.960
+refueling. The Air Force was going, "Oh, man,
+you know, I don't think we really need that
+
+0:39:58.960,0:40:00.930
+nuclear bomber anymore."
+
+0:40:00.930,0:40:04.400
+Weinberg petitioned the Atomic Energy Commission
+in the United States for money and he got
+
+0:40:04.400,0:40:09.590
+a little bit. He got enough to build a demonstration
+reactor that was supposed to be less than
+
+0:40:09.590,0:40:12.860
+10 megawatts. They built it, and it was called
+the Molten Salt Reactors Experiment. It ran
+
+0:40:12.860,0:40:14.640
+from 1965 to 1969.
+
+0:40:14.640,0:40:19.070
+It turned out that thorium was a great fit
+in this reactor.
+
+0:40:19.070,0:40:22.520
+This is what's called a two fluid, molten
+salt reactor design.
+
+0:40:22.520,0:40:25.990
+What is molten salt reactor in relation to
+LFTR and vice versa?
+
+0:40:25.990,0:40:30.860
+LFTR is a molten salt reactor. All LFTRs are
+molten salt reactors but not all molten salt
+
+0:40:30.860,0:40:31.810
+reactors are LFTRs.
+
+0:40:31.810,0:40:37.690
+You've got this core fluid, a lithium beryllium
+salt, with uranium tetrafluoride in there.
+
+0:40:37.690,0:40:41.160
+Now what you want to do is you want to move
+that fuel you've made from the blanket into
+
+0:40:41.160,0:40:45.740
+the core. And here's how you do it. You take
+this stream of this blanket salt off and you
+
+0:40:45.740,0:40:48.850
+put it in this fluoride volatility column.
+
+0:40:48.850,0:40:54.930
+You hit the salt with fluorine gas, and what'll
+happen is... Uranium has two kinds of fluorine
+
+0:40:54.930,0:41:00.540
+states it'll be in. There's uranium tetrafluoride,
+four fluoride ions, and there's uranium hexafluoride,
+
+0:41:00.540,0:41:02.780
+six fluoride ions.
+
+0:41:02.780,0:41:04.270
+Uranium hexafluoride is a gas.
+
+0:41:04.270,0:41:06.650
+Uranium tetrafluoride is in solution.
+
+0:41:06.650,0:41:11.000
+If you hit it with fluorine it will start
+to bubble out of the salt, just like bubbles
+
+0:41:11.000,0:41:15.160
+in your pop. And that's great because this
+is a neat trick. This is a way to get your
+
+0:41:15.160,0:41:19.210
+uranium product to come out of the blanket
+and leave everything behind.
+
+0:41:19.210,0:41:25.100
+This wouldn't work if thorium also had this
+same trick. If thorium would turn into a hexafluoride
+
+0:41:25.100,0:41:29.780
+in a gas, we'd be up the creek. But this is
+one of these little miracles of nature.
+
+0:41:29.780,0:41:33.370
+So you can sit there and pound thorium with
+fluoride all you want. It's not going to change.
+
+0:41:33.370,0:41:39.020
+It's going to stay in solution. But the uranium
+will come out as uranium hexafluoride, a gas.
+
+0:41:39.020,0:41:42.690
+Well now you need to move it into the core
+salts. So you bring a stream of core salt
+
+0:41:42.690,0:41:47.810
+over here and you introduce this uranium hexafluoride
+here. And now you hit it with a little hydrogen
+
+0:41:47.810,0:41:48.780
+gas.
+
+0:41:48.780,0:41:54.680
+The hydrogen will say to UF6, "Hey man, I
+want those two fluorines a whole lot worse
+
+0:41:54.680,0:42:01.380
+than you do." Ahh! UF6 gets stuck up at the
+gas station, has to give up two fluorines
+
+0:42:01.380,0:42:05.460
+you know and drops from UF6 back to UF4. Whoop!
+It's in solution now.
+
+0:42:05.460,0:42:11.210
+So now, you've just refueled your core salt
+with uranium tetrafluoride. Cool trick, huh?
+
+0:42:11.210,0:42:15.670
+You're continuously refueling your reactor,
+all the time. You're always refueling the
+
+0:42:15.670,0:42:21.980
+core with new uranium-233. And uranium-233
+is being consumed but the neutrons from the
+
+0:42:21.980,0:42:23.770
+fission are making new uranium-233.
+
+0:42:23.770,0:42:29.820
+OK, well out of the top of this column comes
+hydrofluoric acid - HF. You send that down
+
+0:42:29.820,0:42:34.490
+to this electrolyzer unit. And you hit it
+with some electricity and the HF will split
+
+0:42:34.490,0:42:39.950
+into hydrogen gas and fluorine gas. And guess
+what - now you've regenerated your two reactants.
+
+0:42:39.950,0:42:44.770
+So your fluorine and your hydrogen are ready
+for duty again to make this trick work.
+
+0:42:44.770,0:42:48.410
+This is a piece you can actually buy off the
+shelf. So this is pretty cool! This is a closed
+
+0:42:48.410,0:42:55.410
+cycle for how to get your new fuel from here
+into here. You're essentially converting thorium
+
+0:42:56.650,0:43:00.880
+into energy. First into U233, and then into
+energy through fission. Now of course you're
+
+0:43:00.880,0:43:05.150
+using up some thorium doing this. So you need
+to have a little feed of thorium fluoride,
+
+0:43:05.150,0:43:09.090
+you need to feed some new thorium into the
+blanket to make up for the thorium you are
+
+0:43:09.090,0:43:11.070
+consuming. But a very efficient reaction.
+
+0:43:11.070,0:43:14.370
+Let me introduce you to a typical nuclear
+reactor.
+
+0:43:14.370,0:43:18.480
+Watts Bar Plant in Tennessee, I've actually
+been to this nuclear reactor before. This
+
+0:43:18.480,0:43:23.080
+has a distinction of being the newest nuclear
+reactor in the United States. This came online
+
+0:43:23.080,0:43:28.460
+in 1996.
+A big pressurized water reactor vessel. 150
+
+0:43:28.460,0:43:33.400
+atmospheres, solid nuclear fuel. Fission is
+going on. Water is being pumped through. It's
+
+0:43:33.400,0:43:37.050
+getting hotter. This water then goes through
+a steam generator and in another loop of water
+
+0:43:37.050,0:43:41.900
+steam is being raised. It goes to the turbine,
+spins the turbine, which spins the generator
+
+0:43:41.900,0:43:43.200
+makes electricity.
+
+0:43:43.200,0:43:46.390
+This is the steam turbine. And when I was
+at Watts Bar this is the part I got to go
+
+0:43:46.390,0:43:46.970
+see.
+
+0:43:46.970,0:43:53.970
+There was not a skitch of dust on anything!
+Now, if any of you have been to a coal plant
+
+0:43:54.500,0:43:59.410
+and seen the same steam turbine, because they
+use the same technology at a coal plant. It
+
+0:43:59.410,0:44:06.410
+is nothing like this. A coal plant is dirty,
+it's smelly, it's filthy, and it's dripping.
+
+0:44:06.900,0:44:10.370
+This thing was almost antiseptic in the way
+it look.
+
+0:44:10.370,0:44:10.620
+Is there a need for that?
+
+0:44:10.370,0:44:17.370
+I don't know. So I'm standing next to this
+machine. You can't really see a person, about
+
+0:44:17.840,0:44:19.550
+yay high here.
+
+0:44:19.550,0:44:25.860
+This is this low-pressure turbine. And this
+is turning the shaft that's running this.
+
+0:44:25.860,0:44:29.960
+Now in front of this guy is this little thing
+called the high-pressure turbine. And you
+
+0:44:29.960,0:44:30.700
+can't really see it. You see the big three
+low-pressure turbines but you don't see the
+
+0:44:30.700,0:44:32.090
+high-pressure turbine. The high pressure turbine
+is little bitty. It's like a third the size
+
+0:44:32.090,0:44:37.200
+of the generator. The high-pressure turbine
+is making about two-thirds of the torque that's
+
+0:44:37.200,0:44:38.310
+turning the shaft.
+
+0:44:38.310,0:44:42.490
+And the low-pressure turbines are making about
+one-third of the torque that's turning the
+
+0:44:42.490,0:44:46.790
+shaft. This little guy is doing almost all
+the work and these big, big, big guys are
+
+0:44:46.790,0:44:47.930
+hardly doing anything.
+
+0:44:47.930,0:44:51.740
+When the steam goes into the high-pressure
+turbine, it's dense. It's got a lot of energy
+
+0:44:51.740,0:44:55.980
+and a little volume. But then you let it blow
+down as it goes across the high pressure turbine
+
+0:44:55.980,0:44:58.000
+and becomes low-pressure steam.
+
+0:44:58.000,0:45:02.670
+That's why these machines have to be so darn
+big. Because the steam that's heating them
+
+0:45:02.670,0:45:07.200
+has already lost the vast majority of the
+energy that it's going to give up.
+
+0:45:07.200,0:45:12.380
+This is the reactor itself, the reactor vessel
+up here is where all the control rods slide
+
+0:45:12.380,0:45:16.840
+in and out of the core. And then there's these
+four steam generators, as big if not bigger
+
+0:45:16.840,0:45:20.190
+than the reactors and they also have to operate
+at these very high pressures.
+
+0:45:20.190,0:45:27.190
+There's four of them. Look at that. One, two,
+three, four, five, six, seven, eight. Big
+
+0:45:27.430,0:45:28.280
+pipes.
+
+0:45:28.280,0:45:32.630
+The number one accident people worry about
+with this kind of reactor is what's called
+
+0:45:32.630,0:45:38.460
+the double-ended pipe break. One of these
+eight pipes, for whatever reason, shears.
+
+0:45:38.460,0:45:44.600
+And all of a sudden, pressure is lost in the
+reactor. That water that's being held water
+
+0:45:44.600,0:45:51.490
+at 300 Celsius by 150 atmospheres of pressure,
+when you lose pressure it flashes to steam,
+
+0:45:51.490,0:45:57.070
+almost instantly to steam. And when that happens,
+its volume increases roughly by a factor of
+
+0:45:57.070,0:46:02.330
+1,000. So what was yay dense is now not so
+dense anymore.
+
+0:46:02.330,0:46:07.600
+The other thing that happens is steam doesn't
+take away heat nearly as well as liquid water
+
+0:46:07.600,0:46:12.960
+does from a surface. So all of a sudden your
+fuel rods are not being cooled nearly as effectively
+
+0:46:12.960,0:46:17.030
+as they were before. Now fission will stop
+because one of the things the water is doing
+
+0:46:17.030,0:46:21.400
+is slowing down the neutrons. So without the
+water the fission reaction stops. You don't
+
+0:46:21.400,0:46:27.550
+have to put control rods in or anything. The
+reactor will turn off immediately. But it
+
+0:46:27.550,0:46:30.470
+will still be generating heat from those fission
+products.
+
+0:46:30.470,0:46:35.810
+Here's what'll happen if you have a double-ended
+pipe break. You get this entire containment
+
+0:46:35.810,0:46:36.890
+vessel filled with water.
+
+0:46:36.890,0:46:41.010
+Now, I don't want to tell you all this because
+I'm trying to focus on negative situations
+
+0:46:41.010,0:46:44.870
+here. I'm telling you this because this is
+what drives the design of this building. This
+
+0:46:44.870,0:46:51.660
+building is the size it is and it's the way
+it is precisely to accommodate this event.
+
+0:46:51.660,0:46:57.650
+They've designed this reactor so if this happens,
+all the steam is captured in this building
+
+0:46:57.650,0:46:58.750
+and doesn't get out.
+
+0:46:58.750,0:47:03.060
+Look at the size of the reactor. Look at the
+size of the containment building. It's huge.
+
+0:47:03.060,0:47:09.150
+It's much bigger than the reactor and it's
+all driven by that thousand to one difference
+
+0:47:09.150,0:47:14.830
+in the density between steam and liquid water.
+Now if this happens, you have to figure out
+
+0:47:14.830,0:47:21.060
+a way to get water back on the fuel rods to
+cool them. So they have a series of emergency
+
+0:47:21.060,0:47:25.380
+systems in this reactor and they operate at
+all different stages of pressure.
+
+0:47:25.380,0:47:28.200
+So the idea is if you're still at high pressure
+and you've got to get water in there, we've
+
+0:47:28.200,0:47:31.210
+got a system for that. If you've lost some
+of your pressure and you've got to get water
+
+0:47:31.210,0:47:34.460
+in there, we've got a system for that. If
+you've lost all your pressure and we've got
+
+0:47:34.460,0:47:37.900
+to get water in there, we've got a system
+for that. So there's a lot of systems and
+
+0:47:37.900,0:47:42.200
+then there's backups to those systems, and
+it's all driven by this high pressure and
+
+0:47:42.200,0:47:43.450
+by the use of water.
+
+0:47:43.450,0:47:43.920
+Yes sir?
+
+0:47:43.920,0:47:49.100
+Does the control rod missile shield to keep
+the control rods from punching a hole through
+
+0:47:49.100,0:47:53.550
+the roof if the steam explosion reaches the
+reactor chamber?
+
+0:47:53.550,0:47:58.340
+Precisely. Here's the control rod drive mechanism.
+Here's the rods. If you breach this part,
+
+0:47:58.340,0:48:03.450
+let's say the welding failed, and this thing
+goes "boom" and out shoot the control rods,
+
+0:48:03.450,0:48:07.020
+that's there to keep them from doing bad things
+like punching a hole in the top.
+
+0:48:07.020,0:48:12.300
+That actually did happen one time. That was
+an army reactor and they did not have a containment
+
+0:48:12.300,0:48:16.410
+building. One poor guy got impaled to the
+ceiling by a control rod so...
+
+0:48:16.410,0:48:18.530
+That's got to be the coolest way to die.
+
+0:48:18.530,0:48:21.900
+That was a real bad day. If he didn't get
+impaled the radiation was going to get him.
+
+0:48:21.900,0:48:26.810
+The pinhole camera spotted several locations
+and sources of high gamma radiation activity
+
+0:48:26.810,0:48:33.170
+outside the reactor vessel presumably from
+reactor components blown from the core by
+
+0:48:33.170,0:48:34.920
+the force of the 500 PSI explosion.
+
+0:48:34.920,0:48:38.480
+The reactor vessel is about nine inch thick
+steel. When you've got nine inch thick steel
+
+0:48:38.480,0:48:42.460
+and it has to be nuclear grade and it has
+to be perfect, you can't go and weld nine
+
+0:48:42.460,0:48:46.850
+inch thick steel. They don't make it that
+way. They forge it in one piece. Not a lot
+
+0:48:46.850,0:48:53.800
+of people have the capability to build a 10-meter
+diameter, 20-meter long, single piece, nine
+
+0:48:53.800,0:48:57.920
+inch thick forging. In fact, there's exactly
+one place in the world you can build this.
+
+0:48:57.920,0:49:00.670
+It's a place called Japan Steel Works in Japan.
+
+0:49:00.670,0:49:03.320
+It's a limiting factor because you say "I
+want to build lots and lots of nuclear reactors."
+
+0:49:03.320,0:49:07.670
+Either you're going to build a new heavy forging,
+which is really just for this task, or you're
+
+0:49:07.670,0:49:11.460
+going to wait a long time to get your reactor
+in line to go do this.
+
+0:49:11.460,0:49:14.160
+Let me diss on water a few more times.
+
+0:49:14.160,0:49:16.960
+Here's why water is not such a great thing
+for the inside of a nuclear reactor. Number
+
+0:49:16.960,0:49:22.430
+one, it can't hack the temperature, we already
+talked about that. Number two, it's a covalently
+
+0:49:22.430,0:49:27.790
+bonded substance. The oxygen has a covalent
+bond with two hydrogens. Neither one of those
+
+0:49:27.790,0:49:33.440
+bonds is strong enough to survive getting
+smacked around by a gamma or a neutron. They're
+
+0:49:33.440,0:49:37.600
+just going too fast. Sure enough, they knock
+the hydrogens clean off.
+
+0:49:37.600,0:49:42.310
+Now, in a water cooled reactor, you have a
+system called a recombiner that will take
+
+0:49:42.310,0:49:47.890
+the hydrogen gas and the oxygen gas that is
+always being created from the nuclear reaction
+
+0:49:47.890,0:49:51.740
+and put them back together, because chemically
+they'd much rather be water than being hydrogen
+
+0:49:51.740,0:49:56.420
+and oxygen. It's a great system as long as
+it's operating and the system is pumping.
+
+0:49:56.420,0:50:01.030
+Well, at Fukushima Daiichi, the problem was
+that the pumping power stopped. When the pumping
+
+0:50:01.030,0:50:07.140
+power stopped, water was still getting busted
+apart. Hydrogen is real light, and even though
+
+0:50:07.140,0:50:11.780
+it wants to get with oxygen again it will
+dissociate fairly quickly. The hydrogen will
+
+0:50:11.780,0:50:15.430
+sit at the top of the vessel and the oxygen
+will sit in a layer below it, and then there's
+
+0:50:15.430,0:50:16.200
+the water.
+
+0:50:16.200,0:50:20.630
+The designers of that particular reactor had
+intentionally designed it so that you would
+
+0:50:20.630,0:50:24.830
+vent the hydrogen outside of the containment
+building. This has always been kind of controversial.
+
+0:50:24.830,0:50:29.310
+They ducted the hydrogen up to the upper decks
+of the reactor, which were outside the containment.
+
+0:50:29.310,0:50:33.870
+They're just kind of a sparse steel frame
+structure up there. And one, two, three, we
+
+0:50:33.870,0:50:38.460
+say it happen on the news. First one filled
+with hydrogen, got to a certain point, boom.
+
+0:50:38.460,0:50:41.620
+The news said, "Oh, We had a nuclear explosion.",
+and I'm like, "No, we didn't. It wasn't a
+
+0:50:41.620,0:50:44.720
+nuclear explosion. It was a hydrogen gas explosion."
+It didn't burst the containment.
+
+0:50:44.720,0:50:49.690
+I don't want to diminish it too much but it
+was not nearly as scary as it sounded. It
+
+0:50:49.690,0:50:51.420
+happened one, two, three.
+
+0:50:51.420,0:50:56.900
+The tsunami hit about an hour after the reactors
+were shut down. Fission was long gone by the
+
+0:50:56.900,0:51:01.130
+time the tsunami came along. But the reactors
+were still managing decay heat. The tsunami
+
+0:51:01.130,0:51:05.000
+came and destroyed the diesel generators,
+but they still had batteries and those batteries
+
+0:51:05.000,0:51:06.810
+ran for about eight hours.
+
+0:51:06.810,0:51:10.790
+That eight hours was the most important time
+of all. If you had to pick eight hours to
+
+0:51:10.790,0:51:14.350
+make sure that the pumps were still working,
+those first eight hours were the most important
+
+0:51:14.350,0:51:18.760
+time. By the time the batteries ran dry and
+the pumps stopped, the reactor had gotten
+
+0:51:18.760,0:51:24.230
+past the worst part of its decay heat comedown.
+It was still going on, decay heat doesn't
+
+0:51:24.230,0:51:28.370
+turn off, and it continues even in spent fuel.
+That decay heat continued to build. Heat was
+
+0:51:28.370,0:51:30.160
+not being removed from the reactor.
+
+0:51:30.160,0:51:32.840
+Why weren't they using the power from the
+reactor to run the pumps? Because the reactor
+
+0:51:32.840,0:51:33.400
+had been turned off.
+
+0:51:33.400,0:51:38.360
+This shows if you do stupid designs, something
+bad will happen, even after 40 years. A friend
+
+0:51:38.360,0:51:42.620
+of mine was GE's first nuclear safety engineer
+and he worked on the Fukushima plant, and
+
+0:51:42.620,0:51:46.860
+they would have meetings with the TEPCO officials
+and engineers and they would all nod their
+
+0:51:46.860,0:51:50.750
+heads in long meetings and say "We'll do this,
+we'll do that," and then they go off after
+
+0:51:50.750,0:51:55.620
+the meeting and do whatever they wanted. That's
+why you had a 15-foot sea wall with a 45-foot
+
+0:51:55.620,0:51:58.850
+wave coming over, and diesel generators and
+fuel in the basement.
+
+0:51:58.850,0:52:02.940
+It has nothing to do with nuclear power, it
+has to do with bad management and you wouldn't
+
+0:52:02.940,0:52:09.940
+even design a simple factory the way that
+was designed. I'm sure you could talk to the
+
+0:52:11.550,0:52:15.750
+Japanese representative here about TEPCO's
+management getting kicked out years ago for
+
+0:52:15.750,0:52:18.290
+fraud and other things. They've had a history.
+
+0:52:18.290,0:52:23.170
+Let me talk about today's nuclear fuel, because
+that is common to both boiling water reactors,
+
+0:52:23.170,0:52:28.540
+pressurized water reactors and CANDUs. This
+is a handful of these uranium oxide fuel pellets.
+
+0:52:28.540,0:52:33.630
+The guy's got gloves on and it's easy to think
+he's got gloves on to protect him from the
+
+0:52:33.630,0:52:37.410
+uranium oxide, but now that I've taught you
+about the true nature of radioactivity, you
+
+0:52:37.410,0:52:41.030
+might go "I'm not so sure that stuff's so
+dangerous after all," and you would be correct.
+
+0:52:41.030,0:52:45.630
+He is not protecting himself from the uranium,
+he's protecting the uranium from himself.
+
+0:52:45.630,0:52:49.910
+That stuff has to stay super pure and super
+clean and you don't want to get any of your
+
+0:52:49.910,0:52:55.090
+oils, or grease or sweat on nuclear fuel that's
+going to go inside a fuel rod so that's what
+
+0:52:55.090,0:52:56.330
+the gloves are for.
+
+0:52:56.330,0:53:00.660
+They take these fuel pellets and slide them
+down these zirconium tubes and they actually
+
+0:53:00.660,0:53:05.180
+will segregate the pellets along the length
+of the fuel assembly according to enrichment.
+
+0:53:05.180,0:53:08.440
+They'll put the most enriched ones in the
+middle, and then they'll kind of decrease
+
+0:53:08.440,0:53:13.800
+the enrichment along the length of the fuel
+assemblies. It's really, really expensive
+
+0:53:13.800,0:53:15.930
+to fabricate solid fuel.
+
+0:53:15.930,0:53:21.180
+Back in the day, their business model for
+how to make a nuclear reactor was sometimes
+
+0:53:21.180,0:53:26.540
+referred to as a "razor blades business model,"
+in other words sell these reactors to utilities
+
+0:53:26.540,0:53:31.670
+pretty much at cost in order to lock them
+in to a long-term supply contract.
+
+0:53:31.670,0:53:35.500
+It was good money for them, because once somebody's
+bought your reactor, they're going to buy
+
+0:53:35.500,0:53:39.460
+your Westinghouse 17x17 array fuel. They're
+not going to go "Hey, GE, what kind of deal
+
+0:53:39.460,0:53:42.240
+can you give me on this?" And be told "Dude,
+you don't have my reactor." You're working
+
+0:53:42.240,0:53:46.400
+with that guy, there's no market out there
+once you build the reactor, you're using his
+
+0:53:46.400,0:53:49.630
+fuel. If he decides to change the price on
+you, well, that's tough.
+
+0:53:49.630,0:53:53.410
+Here's the reactor. It's got its lid off,
+and then they'll fill the whole thing up to
+
+0:53:53.410,0:53:57.120
+a level with water, so they make the whole
+thing into a swimming pool. Fill this whole
+
+0:53:57.120,0:54:02.030
+thing up with water, because the water is
+radiation shielding. They take the fuel assemblies
+
+0:54:02.030,0:54:06.480
+out and put it in the spent fuel pool. This
+is what they have to do about every 18 months
+
+0:54:06.480,0:54:10.800
+to the reactor. They'll take out about a third
+of the fuel and then they'll load in about
+
+0:54:10.800,0:54:14.850
+a third new fresh fuel and then they'll reshuffle
+the fuel that's already been in there. They'll
+
+0:54:14.850,0:54:17.430
+move it from the center out to the periphery.
+
+0:54:17.430,0:54:21.170
+It's like "Lord of the Rings," "The Great
+Eye is looking," no, it's really not in the
+
+0:54:21.170,0:54:26.050
+eye. Here is what it really is. It's a cross-section
+of nuclear fuel. This is uranium oxide and
+
+0:54:26.050,0:54:30.290
+when you put it in a reactor for a while,
+one of the things xenon does, it's a gas,
+
+0:54:30.290,0:54:35.610
+so it's way, way, way less dense than solid
+fuel. When you make this gas, it starts to
+
+0:54:35.610,0:54:38.540
+break up the solid structure of the fuel.
+
+0:54:38.540,0:54:43.510
+The solid fuel will begin to swell and crack
+and the gasses, the krypton and the xenon
+
+0:54:43.510,0:54:47.680
+begin to fill up, and you begin to get this
+central void. This is actually a gap in the
+
+0:54:47.680,0:54:50.300
+fuel. Fission product gasses will accumulate
+here.
+
+0:54:50.300,0:54:55.440
+Wigner didn't like solid fuel. He was a chemical
+engineer by training and he thought, "What
+
+0:54:55.440,0:55:00.200
+kind of industrial process do we run chemically
+based on solids?" He goes "We don't. Everything
+
+0:55:00.200,0:55:04.740
+we do, we use as liquids or gasses because
+we can mix them completely." You can take
+
+0:55:04.740,0:55:08.560
+a liquid, you can fully mix it. You can take
+a gas, you can fully mix it. You can't take
+
+0:55:08.560,0:55:12.490
+a solid and fully mix it unless you turn it
+into a liquid or a gas.
+
+0:55:12.490,0:55:17.110
+To give you an idea, here's what we do today.
+We make this solid uranium oxide fuel and
+
+0:55:17.110,0:55:21.600
+there's a single pellet, and then we put them
+in these big reactor fuel elements, zirconium
+
+0:55:21.600,0:55:24.760
+tubes that are like 12 feet long and about
+this big around. We then stick them in the
+
+0:55:24.760,0:55:29.660
+reactor and irradiate them for a couple of
+years. We only burn up a small amount of the
+
+0:55:29.660,0:55:32.910
+uranium that's in there, we take it out and
+we stick it in a spent fuel pool. It is not
+
+0:55:32.910,0:55:34.010
+very efficient.
+
+0:55:34.010,0:55:38.740
+The heavy water reactor will use about 0.7
+percent energy value and the light water...
+
+0:55:38.740,0:55:44.120
+Reactors in the United States, we're extracting
+about half of 1 percent of the energy that's
+
+0:55:44.120,0:55:47.750
+in the uranium. You can imagine going to your
+boss saying "I developed a new system", "Well
+
+0:55:47.750,0:55:53.450
+how efficient is it?", "It's less than 1 percent",
+"Excuse me, what did you build? I think you
+
+0:55:53.450,0:55:56.460
+need to go work on that again," you know.
+We just simply wouldn't accept this.
+
+0:55:56.460,0:56:00.640
+I'm an engineer. If you're that far off 100
+percent, man I want to get a whole lot closer
+
+0:56:00.640,0:56:05.290
+and Weinberg did too. They wanted to get to
+nearly 100 percent of the energy utilization.
+
+0:56:05.290,0:56:08.710
+The molten salt reactor experiment was the
+core part of it. They didn't have a blanket
+
+0:56:08.710,0:56:12.480
+around it, they just wanted to see if they
+could get the first step to work, and they
+
+0:56:12.480,0:56:13.610
+were successful.
+
+0:56:13.610,0:56:17.970
+After they completed the molten salt reactor
+experiment, they went to the Atomic Energy
+
+0:56:17.970,0:56:21.920
+Commission they said "Hey, G, can we have
+some more money? We'd like to go now and build
+
+0:56:21.920,0:56:27.640
+the real thing. We'd like to build the blanket
+and hook a power conversion system on and
+
+0:56:27.640,0:56:32.120
+make electricity," they felt like they'd shot
+the moon. The Atomic Energy Commission unfortunately
+
+0:56:32.120,0:56:34.110
+did not share their zeal.
+
+0:56:34.110,0:56:39.160
+They had invested very heavily in an alternative
+technology, the plutonium fast breeder reactor
+
+0:56:39.160,0:56:46.160
+based on solid fuels and turning abundant
+uranium-238 into plutonium-239 and then burning
+
+0:56:46.280,0:56:50.800
+it in the reactor. It involved a whole different
+set of technologies that were much more in
+
+0:56:50.800,0:56:56.770
+line with the light water reactors. It's funny,
+even at that time 50 years ago, nobody thought
+
+0:56:56.770,0:57:00.850
+the light water reactor, the heavy water reactor
+would be around very long. They were just
+
+0:57:00.850,0:57:04.740
+simply too inefficient in their use of nuclear
+fuel.
+
+0:57:04.740,0:57:08.000
+Like I was saying, the Atomic Energy Commission
+said "Hey, guess what, we're putting all this
+
+0:57:08.000,0:57:12.080
+money in the fast breeder. We've got all these
+companies lined up to do the fast breeder.
+
+0:57:12.080,0:57:17.720
+They even actually built one in Monroe, Michigan.
+It had had a meltdown. They were undeterred,
+
+0:57:17.720,0:57:22.140
+they were moving forward and so they told
+Weinberg to take a hike.
+
+0:57:22.140,0:57:26.330
+The story gets a little more complicated too
+because in addition to being a thorium guru,
+
+0:57:26.330,0:57:30.860
+Weinberg was also the original inventor of
+the pressurized water reactor. He had invented
+
+0:57:30.860,0:57:37.680
+it and gotten his patent for it in 1947, so
+it was a little bit of a tricky thing to have
+
+0:57:37.680,0:57:44.250
+the inventor of the light water reactor advocating
+for something very, very, very different.
+
+0:57:44.250,0:57:48.410
+And got a little worse than that too, because
+Weinberg was never really crazy about the
+
+0:57:48.410,0:57:51.430
+light water reactor. He didn't like the fact
+that it had to run at really high pressure.
+
+0:57:51.430,0:57:57.330
+There would be an accident someday where you
+were not able to maintain the pressure or
+
+0:57:57.330,0:58:02.800
+keep cooling it. There could be a meltdown,
+there could be a release of radioactivity.
+
+0:58:02.800,0:58:08.480
+Does any of this sound familiar? And he was
+making enough of a stink about this that there
+
+0:58:08.480,0:58:10.530
+was a congressional leader named Chet Holifield...
+
+0:58:10.530,0:58:13.720
+A member of the joint Congressional Atomic
+Energy Committee...
+
+0:58:13.720,0:58:18.520
+Who told Alvin Weinberg, he said, "If you're
+so concerned about the safety of nuclear energy,
+
+0:58:18.520,0:58:23.090
+it might be time for you to leave the nuclear
+business." He wasn't questioning the value
+
+0:58:23.090,0:58:28.550
+or the importance of nuclear energy, if anything
+he was far more convinced about that than
+
+0:58:28.550,0:58:29.890
+anyone else.
+
+0:58:29.890,0:58:34.800
+What he was questioning was whether the right
+path been taken in the development of nuclear
+
+0:58:34.800,0:58:39.710
+reactors. He was particularly well suited
+to make that question because his role as
+
+0:58:39.710,0:58:45.140
+inventor of predominant technology so he was
+quietly shown the door.
+
+0:58:45.140,0:58:50.480
+After he had left Oak Ridge you can imagine
+things did not go well for the research team
+
+0:58:50.480,0:58:54.750
+the Atomic Energy Commission, commissioned
+a report WASH 1222 I like to call it white
+
+0:58:54.750,0:58:56.420
+wash 1222.
+
+0:58:56.420,0:59:01.810
+Because they really nitpicked on three very,
+very small issues about the reactor and said
+
+0:59:01.810,0:59:06.990
+look big problems here. I don't think we can
+go forward until these are resolved. When
+
+0:59:06.990,0:59:11.940
+it came time to talk about the safety and
+the performance of the reactor there may be
+
+0:59:11.940,0:59:18.940
+some safety advantages that haven't been quantified
+yet regarding this approach but you know we
+
+0:59:19.510,0:59:23.080
+just really can't be sure about that.
+
+0:59:23.080,0:59:26.570
+Just burns me up because I think big, big,
+big mistake United States made in walking
+
+0:59:26.570,0:59:27.900
+away from this.
+
+0:59:27.900,0:59:31.660
+So they put all their chips fast breeder reactor
+and that didn't work out too well for them.
+
+0:59:31.660,0:59:35.540
+They start building one in Tennessee. The
+program ended up in getting canceled by Carter
+
+0:59:35.540,0:59:40.410
+in 1979 and was briefly resurrected by Reagan
+in 1981 and then cancelled again. So that's
+
+0:59:40.410,0:59:43.760
+what happened to fast breed reactor in the
+United States, a couple of countries kept
+
+0:59:43.760,0:59:44.280
+going with it.
+
+0:59:44.280,0:59:48.720
+The French went with it in eighties they built
+Phénix and Superphénix and then they ended
+
+0:59:48.720,0:59:52.470
+up shutting down there fast breeder too and
+the Japanese tried it but they had several
+
+0:59:52.470,0:59:55.720
+but one called Monju and it had been shut
+down since the mid 90s.
+
+0:59:55.720,0:59:59.490
+Then a few months ago they turned it back
+on and then somebody dropped a crane in liquid
+
+0:59:59.490,1:00:03.840
+sodium and then they shut it off again, so
+you know everybody has tried the fast breeder
+
+1:00:03.840,1:00:05.620
+reactor. I think the Russian's are trying
+it.
+
+1:00:05.620,1:00:09.690
+I have some good friends in nuclear industry.
+They are very big advocates of the fast breeder
+
+1:00:09.690,1:00:15.050
+reactor. The common name for now is the integral
+fast reactor. I am not the biggest fan a reactor
+
+1:00:15.050,1:00:19.220
+that is full of liquid sodium. If any of you
+are chemists in here you probably recall sodium
+
+1:00:19.220,1:00:26.220
+has a great infinity for just about everything.
+
+1:00:27.740,1:00:29.740
+What are your thoughts on the traveling wave
+reactor?
+
+1:00:29.740,1:00:34.120
+The traveling wave reactor is another form
+of a liquid metal fast breeder reactor. It
+
+1:00:34.120,1:00:38.290
+is a particularly difficult implementation
+of that reactor. That reactor is already hard
+
+1:00:38.290,1:00:42.590
+to build in first place, with the traveling
+wave they make it even more complicated by
+
+1:00:42.590,1:00:47.370
+saying we are going to leave the fuel in the
+reactor for the lifetime of the reactor.
+
+1:00:47.370,1:00:52.880
+Physically propagate this deflagration wave,
+a nuclear conversion and burning wave. Why
+
+1:00:52.880,1:00:56.880
+on Earth would you take such a hard reactor
+and make it even harder to what end? What
+
+1:00:56.880,1:01:01.120
+is your goal? And all I've been able to read
+as far as their goal is that they want to
+
+1:01:01.120,1:01:04.000
+never have to recycle or replace the fuel.
+
+1:01:04.000,1:01:07.430
+At the end of their life their concept is
+to just bury the thing in the ground and leave
+
+1:01:07.430,1:01:12.850
+it there. I'm thinking, "You don't leave a
+bunch of plutonium in a pool of liquid sodium
+
+1:01:12.850,1:01:17.270
+underground for an extended period of time
+that is a bad disposal option."
+
+1:01:17.270,1:01:21.400
+They have attracted Bill Gate who of course
+is an extremely wealthy man. If Bill Gates
+
+1:01:21.400,1:01:24.810
+wants to save a lot of money he can get in
+touch with me and I think I can talk him out
+
+1:01:24.810,1:01:25.820
+of traveling wave.
+
+1:01:25.820,1:01:29.780
+He won't return my calls. Don't feel bad.
+
+1:01:29.780,1:01:35.350
+I used to be so into fusion, specially helium-3
+fusion, mining in the mood. Oh my God! I've
+
+1:01:35.350,1:01:37.360
+read so many books about that stuff.
+
+1:01:37.360,1:01:39.850
+Fusion is magical. If we make that happen
+it would be magical.
+
+1:01:39.850,1:01:43.780
+I took this fusion class when I was at Georgia
+Tech and I will never forget it. We started
+
+1:01:43.780,1:01:46.230
+studying and I go, "Man, this is really hard."
+
+1:01:46.230,1:01:50.930
+Charged particles don't want to get near each
+other. Bare nuclei are both charged, positive
+
+1:01:50.930,1:01:52.240
+charged, they want to avoid each other.
+
+1:01:52.240,1:01:55.490
+And my professor had a really great way of
+putting it. "It's like going to the mini golf."
+
+1:01:55.490,1:01:59.050
+He says, "You know how in mini golf you've
+got the volcano, and the volcano's got the
+
+1:01:59.050,1:02:02.870
+hole at the very top, and you've got to putt
+your ball in a way that it goes all the way
+
+1:02:02.870,1:02:07.990
+up the side of the volcano, and 'phwep!' falls
+in the hole." He goes, "OK. That's like fusion.
+
+1:02:07.990,1:02:12.570
+The ball is like a nucleus, and the volcano
+is the scattering effect.
+
+1:02:12.570,1:02:16.570
+So any time you want to have a nucleus go
+to another nucleus, it scatters; it rolls
+
+1:02:16.570,1:02:19.830
+up the mountain and it rolls down the side,
+it rolls over here, over there... and only
+
+1:02:19.830,1:02:23.770
+when you just perfectly get it on the right
+angle does it go in the volcano." Now, the
+
+1:02:23.770,1:02:27.030
+problem with fusion, he goes, "You can't steer
+the ball, you have to have enough temperature
+
+1:02:27.030,1:02:30.600
+so that it can make it all the way up the
+side of the volcano and fall in, and then
+
+1:02:30.600,1:02:34.030
+you have to have enough balls because you
+can't steer them there at the mini golf park",
+
+1:02:34.030,1:02:37.760
+that's density, "and then because they're
+flying all over the place, you've got to make
+
+1:02:37.760,1:02:40.500
+sure that there's a fence around the mini
+golf park so that they don't get away." That's
+
+1:02:40.500,1:02:40.810
+confinement.
+
+1:02:40.810,1:02:45.240
+He said, "Those are your three things, density,
+temperature, and confinement, to make fusion
+
+1:02:45.240,1:02:45.490
+happen."
+
+1:02:45.440,1:02:49.350
+I said, "Dude, that's really hard!" So, I
+came up with another analogy, "So, I guess
+
+1:02:49.350,1:02:54.500
+fission would be like the mini golf park except
+now the volcano was flush, the hole was about
+
+1:02:54.500,1:02:58.580
+this big around, the balls are going slow,
+and every time the ball goes in the hole,
+
+1:02:58.580,1:02:59.860
+two more balls come out."
+
+1:02:59.860,1:03:02.800
+He goes, "Yeah, that's pretty good."
+
+1:03:02.800,1:03:07.870
+I've looked at focus fusion, I've looked at
+steam-piston fusion, I've looked at D-helium-3
+
+1:03:07.870,1:03:11.590
+and P-boron, and all these other kind of things
+and I'm still going, "I'm just not buying
+
+1:03:11.590,1:03:12.110
+it yet."
+
+1:03:12.110,1:03:14.740
+You're saying the business case isn't there.
+That's what you're saying.
+
+1:03:14.740,1:03:20.280
+It's just so darn hard! I mean, a fusion reactor
+is a big vacuum tube at 10 keV, which is like
+
+1:03:20.280,1:03:26.510
+15 patrillion degrees, and then inside this
+are superconducting magnets that are held
+
+1:03:26.510,1:03:31.610
+in liquid helium, and all of this is jacketed
+in a lithium blanket that will breed megacuries
+
+1:03:31.610,1:03:37.650
+of tritium, which will then be injected into
+this reactor which is driven by these giant
+
+1:03:37.650,1:03:38.120
+neutral-ion beams.
+
+1:03:38.120,1:03:42.530
+I mean, it's like, "Oh my gosh! Can we make
+this thing any more complicated then it is?"
+
+1:03:42.530,1:03:46.840
+And even then you can't hold the confinement
+for more than a few microseconds in the Tokamak
+
+1:03:46.840,1:03:49.650
+configuration, which is the most favored and
+desired.
+
+1:03:49.650,1:03:54.420
+Thorium's actually a little bit more down
+to earth. If you go to the liquid form, force
+
+1:03:54.420,1:03:59.340
+yourself to make that technology commitment,
+50 years from now, people will go, "Of course
+
+1:03:59.340,1:04:00.530
+that's the answer!"
+
+1:04:00.530,1:04:04.190
+Fusion is so hard that we can build a fusion
+reactor, and we can have 100 PhDs working
+
+1:04:04.190,1:04:07.680
+on it. Fission is so easy that we can take
+a couple of kids out of high school, train
+
+1:04:07.680,1:04:09.910
+them for a few months, and they can be running
+a nuclear submarine.
+
+1:04:09.910,1:04:16.130
+Want to build a reactor to bring energy for
+the oil sands. This would be the perfect opportunity.
+
+1:04:16.130,1:04:21.630
+Well, if we have a reactor like this, do we
+need the oil sands?
+
+1:04:21.630,1:04:28.630
+I mean, that's the way I look at it; I don't
+know a lot about oil sands, but I know that
+
+1:04:28.810,1:04:33.160
+it's a particularly hard way to get oil. People
+in the middle east can get oil a whole lot
+
+1:04:33.160,1:04:37.570
+cheaper from their place then people can get
+it from the oil sands. If I can beat them
+
+1:04:37.570,1:04:41.050
+by a million to one, maybe we ought to do
+that.
+
+1:04:41.050,1:04:46.220
+If you were to make the oil sands just a little
+tiny bit cleaner, then they would perk up
+
+1:04:46.220,1:04:50.450
+their ears, as opposed to clean energy in
+and of itself, because it relates to something
+
+1:04:50.450,1:04:50.930
+they know.
+
+1:04:50.930,1:04:54.920
+I sat on the plane next to a guy who was in
+the oil business, and he was telling me all
+
+1:04:54.920,1:04:58.020
+about the oil sands, and how much money they're
+making and so forth. I was just sort of sitting
+
+1:04:58.020,1:04:59.770
+there, taking it in, listening...
+
+1:04:59.770,1:05:02.210
+Gas... How much does gas cost here?
+
+1:05:02.210,1:05:04.620
+A dollar... A dollar ten?
+
+1:05:04.620,1:05:07.630
+Gas costs a dollar ten?
+
+1:05:07.630,1:05:13.210
+Yeah, it's expensive, because we have more
+tax on gasoline, which I think is a good idea.
+
+1:05:13.210,1:05:14.790
+What do you pay for gas?
+
+1:05:14.790,1:05:16.390
+I'm paying like, $3.50 for gas.
+
+1:05:16.390,1:05:17.130
+Really?
+
+1:05:17.130,1:05:18.550
+I thought gas was cheaper in America!
+
+1:05:18.550,1:05:21.020
+The Canadian dollar's almost on par, isn't
+it?
+
+1:05:21.020,1:05:21.330
+Yeah.
+
+1:05:21.330,1:05:24.660
+Oh wait... you all do it in liters!
+
+1:05:24.660,1:05:29.970
+Do we pump your car with gas and go, "I just
+pumped twelve gallons of gas into my car.
+
+1:05:29.970,1:05:34.040
+Do you know how much napalm that would make?
+If I dropped that on a village, I would kill
+
+1:05:34.040,1:05:38.440
+5,000 little children!" You know, and you're
+like, "No! Of course not! I'm going to get
+
+1:05:38.440,1:05:42.280
+into my car and drive 300 miles on it!" I
+mean, it's all about what you do; none of
+
+1:05:42.280,1:05:46.970
+this stuff is inherently good or bad, it's
+what you decide to do with it.
+
+1:05:46.970,1:05:50.830
+You know, one of the things that doesn't earn
+me a lot of friends is the notion when we
+
+1:05:50.830,1:05:56.120
+talk about, "Oh, so-and-so can't enrich uranium,"
+I go, "No offense, but who are we to tell
+
+1:05:56.120,1:06:01.030
+anybody what they can do?" I mean, uranium's
+uranium, and it's not exactly like we have
+
+1:06:01.030,1:06:02.520
+a monopoly on the stuff.
+
+1:06:02.520,1:06:05.630
+Same thing goes for things like plutonium.
+Plutonium is... I'm not the biggest fan of
+
+1:06:05.630,1:06:10.100
+plutonium because I'm not crazy about the
+plutonium fast-breeder reactor, but there's
+
+1:06:10.100,1:06:15.420
+nothing good or bad about plutonium. Plutonium
+just is. It's what you decide to do with it.
+
+1:06:15.420,1:06:18.700
+Now, we've made a lot of plutonium in our
+reactors. What are we going to do with it?
+
+1:06:18.700,1:06:21.790
+Are we going to drop it in a hole in the ground,
+or are we going to feed it to a reactor like
+
+1:06:21.790,1:06:25.690
+LFTR and make power out of it? I think that's
+a whole lot smarter thing to do.
+
+1:06:25.690,1:06:29.130
+The other day I was debating some anti-nukes,
+and they were getting on LFTR because they
+
+1:06:29.130,1:06:33.820
+said, "Oh, this is going to use uranium. You
+know, from nuclear weapons!" And I said, "I
+
+1:06:33.820,1:06:38.700
+think you guys would be all over that! Take
+nuclear weapons, take them apart, take the
+
+1:06:38.700,1:06:41.640
+uranium out, burn it up, make electricity!
+You want to leave it in the bomb? What do
+
+1:06:41.640,1:06:42.470
+you want to do with it?"
+
+1:06:42.470,1:06:47.470
+The Navy has as many reactors as we have in
+the civilian world. Think about the security
+
+1:06:47.470,1:06:52.630
+posture that the US would have if we didn't
+have this nuclear capability. Submarines can
+
+1:06:52.630,1:06:57.250
+stay underwater and go under the polar ice
+cap. If you look the ground forces today,
+
+1:06:57.250,1:07:01.750
+we seem to be using a lot of energy, people
+wonder if we could cut that down. The energy
+
+1:07:01.750,1:07:03.710
+is used for good purposes.
+
+1:07:03.710,1:07:09.370
+So, the reason that we can fight in the night,
+take out enemies without losing our own soldiers
+
+1:07:09.370,1:07:15.120
+is because we have energy powered capabilities.
+We have sensors, radios, all sorts of things
+
+1:07:15.120,1:07:18.330
+that give us the advantage, and they're all
+based on energy. The way that we're sustaining
+
+1:07:18.330,1:07:21.910
+the force is we're trucking liquids over the
+ground.
+
+1:07:21.910,1:07:26.260
+When I was waiting to go into Iraq since we
+began invasion in 2003 some of generals couldn't
+
+1:07:26.260,1:07:31.030
+get spare parts or supplies out forward because
+the convoys were busy carrying fuel and water.
+
+1:07:31.030,1:07:35.270
+More significantly, cost in lives, half of
+our losses in Iraq are associated with the
+
+1:07:35.270,1:07:36.040
+supply chain.
+
+1:07:36.040,1:07:39.480
+If we didn't have to carry all that liquid
+- 80 percent of the supply chain - we might
+
+1:07:39.480,1:07:43.750
+be able to find another way, something called
+an adaptive brigade. This force could provide
+
+1:07:43.750,1:07:48.090
+its own energy and water and not really have
+to be resupplied for say a month at a time.
+
+1:07:48.090,1:07:52.280
+If you need energy during the day, put about
+a hundred acres of solar panels.
+
+1:07:52.280,1:07:54.940
+If you have a threat out there, that might
+not work too well because you have to secure
+
+1:07:54.940,1:07:59.240
+the whole perimeter and so now all your soldiers
+spend their time patrolling the hundred acre
+
+1:07:59.240,1:08:00.210
+solar farm.
+
+1:08:00.210,1:08:06.920
+What if we had a reactor that was so safe
+and simple and economical that you could take
+
+1:08:06.920,1:08:12.060
+it out to the battlefield and use it, and
+then when you leave, leave it for the host
+
+1:08:12.060,1:08:13.910
+nation and they run it.
+
+1:08:13.910,1:08:18.349
+Prosperity is related to energy. If we can
+bring people to about 2,000 kilowatt hours
+
+1:08:18.349,1:08:24.150
+per year of electrical energy, they have a
+chance of achieving prosperity. Now, of course,
+
+1:08:24.150,1:08:29.329
+prosperity depends upon the rule of law, good
+government, property rights, education, but
+
+1:08:29.329,1:08:36.329
+electric power for heat, light, transportation,
+safety and so on is a critical element of
+
+1:08:37.499,1:08:38.579
+prosperity today.
+
+1:08:38.579,1:08:43.449
+Developing countries know this. Energy in
+coal use is growing rapidly in all the developing
+
+1:08:43.449,1:08:47.679
+countries. They want to achieve that level
+of prosperity and they're being supported
+
+1:08:47.679,1:08:49.130
+by Peabody Coal.
+
+1:08:49.130,1:08:54.679
+The National Academy of Sciences said that
+every freshwater fish in the United States
+
+1:08:54.679,1:09:00.019
+of America now has dangerous levels of mercury
+in its flesh. And that mercury is coming from
+
+1:09:00.019,1:09:01.670
+coal burning power plants.
+
+1:09:01.670,1:09:06.739
+My levels of mercury came back 10 times the
+amount of what the EPA considers safe. I was
+
+1:09:06.739,1:09:11.819
+told by Dr. David Carpenter, who is the national
+authority on mercury toxins, that a woman
+
+1:09:11.819,1:09:15.819
+with my levels of mercury in her blood would
+have children with cognitive impairment with
+
+1:09:15.819,1:09:16.999
+permanent brain damage.
+
+1:09:16.999,1:09:21.119
+I said, "Do you mean she might have?" And
+he said, "No, no, no. The science is very
+
+1:09:21.119,1:09:26.539
+clear right now." Her children would have
+some level of permanent neurological impairment,
+
+1:09:26.539,1:09:30.650
+probably as a permanent IQ loss in those kids
+of five to seven points.
+
+1:09:30.650,1:09:36.559
+There are now 640,000 children born in this
+country every year who've been exposed to
+
+1:09:36.559,1:09:41.409
+dangerous levels of mercury in their mother's
+wombs. Ozone and particulates from coal burning
+
+1:09:41.409,1:09:48.409
+power plants kill 60,000 Americans a year.
+A million asthma attacks, a million lost workdays
+
+1:09:49.639,1:09:51.230
+every year.
+
+1:09:51.230,1:09:55.079
+That's part of the cost of coal that they
+don't tell you about when they say "Oh, it's
+
+1:09:55.079,1:09:57.679
+only, you know, ten cents a kilowatt hour."
+
+1:09:57.679,1:10:04.090
+Both light water reactors and CANDUs do not
+use very much of the energy in the fuel and
+
+1:10:04.090,1:10:08.320
+they leave behind two classes of materials.
+One is the actual fission products - that's
+
+1:10:08.320,1:10:12.239
+what happens when you fission the stuff. Then
+there is what's called the transuranics. That's
+
+1:10:12.239,1:10:15.880
+what happens when the uranium absorbs the
+neutron and doesn't fission, and turns into
+
+1:10:15.880,1:10:19.190
+plutonium, americium and curium and few other,
+most of it is plutonium.
+
+1:10:19.190,1:10:23.280
+The overwhelming majority of transuranics
+are plutonium. So when you talk to people
+
+1:10:23.280,1:10:28.530
+about waste disposal, they say, "What's the
+concern?" Well, most of the stuff that's in
+
+1:10:28.530,1:10:32.900
+the fuel is just uranium. It's no more radioactive
+than it was when you stuck it in, and it's
+
+1:10:32.900,1:10:35.130
+not really a concern.
+
+1:10:35.130,1:10:40.630
+And the fission products, they are very radioactive
+when they are created, but they decay rather
+
+1:10:40.630,1:10:46.199
+quickly. They don't really have long-term
+radioactivity. They just decay too fast, it
+
+1:10:46.199,1:10:49.679
+is the deal. There are a few of them that
+have very long half-lives but that means their
+
+1:10:49.679,1:10:53.110
+radioactivity levels are extremely low and
+they just don't really pose a hazard.
+
+1:10:53.110,1:10:59.159
+The real challenge with spent fuel management
+is the presence of those transuranics - plutonium,
+
+1:10:59.159,1:11:03.679
+americium, curium - because they have moderate
+half-lives and they have complicated decay
+
+1:11:03.679,1:11:06.690
+chains. When you're looking at a Yucca mountain
+or a disposal site you say, "What are we going
+
+1:11:06.690,1:11:07.219
+to do with that?"
+
+1:11:07.219,1:11:13.059
+The basic advantage of LFTR over that approach
+is we don't form those transuranics. We burn
+
+1:11:13.059,1:11:20.059
+up essentially all of the fuel in this process
+because we don't remove fuel from the reactor
+
+1:11:20.119,1:11:22.999
+until it's a fission product.
+
+1:11:22.999,1:11:27.019
+General idea is you don't want uranium, thorium,
+or anything else to end up in your waste stream
+
+1:11:27.019,1:11:31.380
+and that's a pretty straightforward proposition
+in this fluid-fueled reactor. So our waste
+
+1:11:31.380,1:11:37.650
+story is a lot different. You can also then
+turn around and go back and take some of the
+
+1:11:37.650,1:11:42.840
+waste that's already been created in our uranium-fueled
+reactors and potentially destroy those long
+
+1:11:42.840,1:11:44.780
+lived transuranics through fission.
+
+1:11:44.780,1:11:49.570
+Waiting them out to decay is a very slow process.
+Plutonium 239, for instance, has a 24,000
+
+1:11:49.570,1:11:52.820
+year half-life. That's a long time you're
+going to be waiting for that to decay. On
+
+1:11:52.820,1:11:56.530
+the other hand, you can fission it and then
+those fission products will decay very rapidly
+
+1:11:56.530,1:12:00.230
+and you also get an energy release and a neutron
+release, both of which are good.
+
+1:12:00.230,1:12:04.190
+A thousand kilograms of U-233 is roughly what
+we've got. Ninety percent of that'll fission.
+
+1:12:04.190,1:12:09.760
+We can make about 500 to $600 million in electricity
+and another 50 or $60 million on the fission
+
+1:12:09.760,1:12:15.510
+of the uranium-235. Almost all of it will
+ultimately end up fissioning. Out of about
+
+1:12:15.510,1:12:20.849
+a thousand kilograms, about 15 kilograms of
+plutonium-238 will be left over. This is good
+
+1:12:20.849,1:12:27.760
+stuff. NASA is desperate for this stuff. Plutonium-238
+is different than plutonium-239, the stuff
+
+1:12:27.760,1:12:30.739
+we use in bombs. In fact it's worthless for
+bombs.
+
+1:12:30.739,1:12:35.219
+These radioisotope thermoelectric generators
+are based on plutonium-238 and this is the
+
+1:12:35.219,1:12:39.650
+only way that we've been able to explore the
+outer solar system. The United States is unique.
+
+1:12:39.650,1:12:44.710
+It's the only country in the world that has
+sent space probes beyond the Asteroid Belt
+
+1:12:44.710,1:12:49.210
+and it's all been based on having this technology.
+Short answer, we're out of this stuff. It
+
+1:12:49.210,1:12:53.900
+'s gone. We've used it all up. The Russians
+used to sell us some. They've sold us all
+
+1:12:53.900,1:12:55.139
+their inventory. It's gone.
+
+1:12:55.139,1:12:59.340
+NASA's got billions of dollars of deep space
+missions hinging on having enough of this
+
+1:12:59.340,1:13:04.480
+stuff to run the batteries to let the thing
+call home. We will be able to make this in
+
+1:13:04.480,1:13:08.369
+LFTR. If you've heard sometimes about us saying
+"We burn up 99 percent of the fuel and there's
+
+1:13:08.369,1:13:14.599
+one percent left", the one percent left is
+that stuff and it's worth almost as much as
+
+1:13:14.599,1:13:15.670
+the stuff we burn up.
+
+1:13:15.670,1:13:18.179
+In addition, it would make medical molybdenum-99.
+
+1:13:18.179,1:13:23.360
+We are about to shut down the one reactor
+in Canada that is making molybdenum-99 for
+
+1:13:23.360,1:13:28.469
+medical purposes in 2015. There are hundreds
+of thousands of patients that will not be
+
+1:13:28.469,1:13:35.010
+able to get their molybdenum-99 that they
+need for diagnostic procedures when that happens.
+
+1:13:35.010,1:13:40.179
+We can make molybdenum-99 just in normal course
+of operation and we can remove it very easily.
+
+1:13:40.179,1:13:46.320
+There are four natural decay chains of alpha-emitting
+radioisotopes. One starts with U-238, U-235,
+
+1:13:46.320,1:13:53.099
+thorium-232, and then there's one that's extinct
+because it has no long-lived precursors on
+
+1:13:53.099,1:13:57.550
+it. It was there in the supernova billions
+of years ago. It's gone now. It's on the U-233
+
+1:13:57.550,1:14:03.079
+decay chain. There's a special product on
+there, bismuth-213, that could be a smart
+
+1:14:03.079,1:14:07.849
+bomb against cancer. They attach the bismuth-213
+to an antibody.
+
+1:14:07.849,1:14:12.780
+That bismuth only has a half-life of 45 minutes
+so it's very radioactive and it's going away
+
+1:14:12.780,1:14:17.980
+quickly. But in that time, that antibody can
+go and find a cancer cell. The bismuth decays
+
+1:14:17.980,1:14:22.469
+and alpha particle goes through the cell,
+and it kills the cancer. The radiation technique
+
+1:14:22.469,1:14:27.900
+we use in cancer therapy today, they're all
+based on beta-emitting isotopes, not on alpha-emitting
+
+1:14:27.900,1:14:34.429
+isotopes. They have a big kill radius. They're
+not very directable. It's OK, but it's really
+
+1:14:34.429,1:14:35.789
+not a smart bomb.
+
+1:14:35.789,1:14:39.920
+Alpha-admitting isotopes are really rare.
+It's hard to get them. It's hard to get the
+
+1:14:39.920,1:14:44.059
+right kind, the right chemical one that will
+lock onto the right thing that's close enough
+
+1:14:44.059,1:14:48.249
+to being stable that even after it decays,
+it doesn't just decay ten more times in the
+
+1:14:48.249,1:14:51.780
+body. Bismuth-213 is one decay away from being
+done.
+
+1:14:51.780,1:14:57.949
+And it's especially good against dispersed
+cancers, like leukemia, cancer of the blood.
+
+1:14:57.949,1:15:01.949
+Not tumorous cancers, where there's a big
+hard lump that you can go in and cut out with
+
+1:15:01.949,1:15:06.639
+surgery, but stuff that's hard to get to.
+Pancreatic cancer - you get pancreatic cancer,
+
+1:15:06.639,1:15:10.260
+you're probably looking at a death sentence,
+that's how bad it is.
+
+1:15:10.260,1:15:17.260
+Here's the problem, bismuth-213 is unique
+in this capability and bismuth-213 can only
+
+1:15:17.730,1:15:19.780
+be generated from the decay of Uranium-233.
+
+1:15:19.780,1:15:26.780
+I sometimes even lie in bed thinking, if my
+kid had leukemia, how hard would I be working
+
+1:15:27.239,1:15:32.510
+on getting this therapy ready for them to
+save lives and if it's that important, why
+
+1:15:32.510,1:15:34.679
+aren't I going full bore on it right now?
+
+1:15:34.679,1:15:36.280
+How much did it cost to build?
+
+1:15:36.280,1:15:40.969
+What's your ballpark figure? Is this Home
+Depot stuff, or...
+
+1:15:40.969,1:15:47.969
+No. No, I think a first unit which is probably
+going to be on the order of 20/30 megawatts
+
+1:15:48.949,1:15:52.900
+electric is - we're looking at several hundred
+million dollars to develop that, but then
+
+1:15:52.900,1:15:58.670
+taking a step beyond that to utility-class
+scale reactor, probably another several hundred
+
+1:15:58.670,1:15:59.369
+million dollars.
+
+1:15:59.369,1:16:03.440
+You're probably looking at a billion dollars
+to bring it up to utility-class, but when
+
+1:16:03.440,1:16:08.550
+you consider what it's going to do, that's
+really not all that much money. A lot of it
+
+1:16:08.550,1:16:12.719
+is the engineering and then the regulation
+is a huge question mark.
+
+1:16:12.719,1:16:15.619
+It's actually not a lot of money, in a sense.
+
+1:16:15.619,1:16:20.710
+I've learned it's not about the number, it's
+about the uncertainty on the number. You can
+
+1:16:20.710,1:16:24.460
+go to an investment bank right now and you
+can say "I want to build and oil drilling
+
+1:16:24.460,1:16:29.449
+platform and it's going to cost 12 billion
+dollars," and they will write you a check
+
+1:16:29.449,1:16:33.730
+for that because you can go and say, "I've
+built 50 of these platforms before, here's
+
+1:16:33.730,1:16:37.039
+about where the price came out. It's going
+to go in this area, which right now is producing
+
+1:16:37.039,1:16:39.949
+this much oil, it's going to be out here.
+It's going to take this long to recover this
+
+1:16:39.949,1:16:44.489
+much oil based on how we've done it the other
+50 times." And they go, there's not a lot
+
+1:16:44.489,1:16:46.550
+of uncertainty in doing this.
+
+1:16:46.550,1:16:49.260
+You start by not making a full LFTR...
+
+1:16:49.260,1:16:49.599
+Yes.
+
+1:16:49.599,1:16:53.360
+...but making like a little piece. Take some
+of these by-products and you use that money
+
+1:16:53.360,1:16:55.920
+to get this little first stage that starts
+making money...
+
+1:16:55.920,1:16:59.179
+Are you sure that we don't have ethernet plugged
+into the back of your head somewhere?
+
+1:16:59.179,1:16:59.960
+We're doing wireless here. I don't think.
+
+1:16:59.960,1:17:01.010
+Could you repeat the question?
+
+1:17:01.010,1:17:01.909
+No.
+
+1:17:01.909,1:17:08.909
+No. I'm sorry, this question's not covered
+by an NDA.
+
+1:17:10.900,1:17:12.269
+We got some smart people in this room.
+
+1:17:12.269,1:17:17.420
+In aerospace engineering, we were taught to
+put development costs and unit costs in the
+
+1:17:17.420,1:17:20.650
+separate category. It's like you build a fighter
+and you spend billions of dollars to design
+
+1:17:20.650,1:17:25.510
+it, but then you run off copies for 20 million
+dollars apiece. That's how they build 737s
+
+1:17:25.510,1:17:26.980
+or other airplanes.
+
+1:17:26.980,1:17:30.199
+If you want to go, "What's the unit cost going
+to be?", there's reason to think this is going
+
+1:17:30.199,1:17:35.739
+to be a lot less expensive than what we have
+today if we set the development in another
+
+1:17:35.739,1:17:35.989
+column.
+
+1:17:35.800,1:17:39.329
+The reason why, number one, low pressure operation.
+That's the biggest one. When you don't have
+
+1:17:39.329,1:17:45.099
+to have 96 steel pressure vessels, huge concrete
+containments. Number two, you don't have to
+
+1:17:45.099,1:17:48.999
+fabricate fuel. You don't have to enrich it.
+You don't have to fabricate it and you don't
+
+1:17:48.999,1:17:52.269
+have to have the approach to disposal as we
+do today.
+
+1:17:52.269,1:17:57.869
+Those two features right away are a big deal.
+Number three is the safety systems. High pressure,
+
+1:17:57.869,1:18:00.889
+water cooler reactors have an abundance of
+safety systems designed to always keep the
+
+1:18:00.889,1:18:03.659
+core covered with water. So, if one system
+has 99 percent reliability; well, you need
+
+1:18:03.659,1:18:08.130
+another one that also has it so that you can
+get 99.9 and maybe statisticians will get
+
+1:18:08.130,1:18:09.800
+mad at me, I might be doing it wrong.
+
+1:18:09.800,1:18:14.369
+One of the things that makes the conventional
+reactors so expensive the containment vessel
+
+1:18:14.369,1:18:18.969
+and you've touched on that. The other is all
+the security apparatus around the maintaining
+
+1:18:18.969,1:18:22.929
+of the fissile material so that it doesn't
+get diverted for military purposes.
+
+1:18:22.929,1:18:27.300
+I've scratched my head about that with existing
+reactors because our reactors, at least in
+
+1:18:27.300,1:18:29.349
+the United States, don't use highly registered
+uranium.
+
+1:18:29.349,1:18:33.650
+Well, that's one of the fears and that's one
+of the security reasons around it. Whether
+
+1:18:33.650,1:18:34.599
+it's real or not -
+
+1:18:34.599,1:18:36.989
+Yeah, I guess I would have to challenge whether
+it's real or not.
+
+1:18:36.989,1:18:40.929
+It wasn't that many years ago that we were
+able to show parties of visitors around the
+
+1:18:40.929,1:18:45.929
+site and actually show them what good condition
+the site is in and how safe it is. It's only
+
+1:18:45.929,1:18:51.639
+since 9/11 that we've had to stop inviting
+visitors. We've always had a very open policy;
+
+1:18:51.639,1:18:55.690
+very keen to show people how good we are at
+what we do and how safe the plant is. It's
+
+1:18:55.690,1:18:59.940
+very difficult to convince yourself that things
+are safe because you can't see what's going
+
+1:18:59.940,1:19:00.519
+on.
+
+1:19:00.519,1:19:04.130
+Even the plutonium inside the reactor is what's
+called reactor-grade plutonium, which isn't
+
+1:19:04.130,1:19:04.420
+suitable.
+
+1:19:04.420,1:19:08.289
+Try going to any facilitate in North America
+now, they have SWAT teams and -
+
+1:19:08.289,1:19:12.269
+I've toured a nuclear power plant. We've really
+got the working when we went in there. I'm
+
+1:19:12.269,1:19:15.869
+not exactlysure what the basis of that was,
+whether they were worried about theft of fissile
+
+1:19:15.869,1:19:19.920
+material - that would be pretty hard. I'd
+have to go and depressurize the core, take
+
+1:19:19.920,1:19:24.599
+the lid off, get access to all the spent fuel,
+somehow remove it from the spent fuel pool
+
+1:19:24.599,1:19:29.429
+into some sort of transport cask, take it
+off the site to a reprocessing facility that
+
+1:19:29.429,1:19:32.769
+doesn't exist and - I mean, I just go "There's
+got to be another reason they have all that
+
+1:19:32.769,1:19:33.019
+security."
+
+1:19:32.769,1:19:34.010
+Watch the TV news.
+
+1:19:34.010,1:19:37.499
+Well, you know. It just seems to me, when
+there's a subject that I know a little bit
+
+1:19:37.499,1:19:40.489
+about and watch how the news covers it, I
+get frustrated really quickly.
+
+1:19:40.489,1:19:45.489
+I think just about every media outlet I've
+seen is drumming up fear. From the New York
+
+1:19:45.489,1:19:47.749
+Times to the Huffington Post to the Fox News.
+
+1:19:47.749,1:19:51.079
+There's been a recent spike in infant deaths
+in Philadelphia and there's one expert right
+
+1:19:51.079,1:19:55.510
+now who is saying, "It's radioactive levels
+in our water that's to blame for that."
+
+1:19:55.510,1:19:59.510
+This has been a very bipartisan approach to
+scaring the public.
+
+1:19:59.510,1:20:05.670
+Radiation comes across the ocean. It is dissipated
+by wind current and salt spray, but it is
+
+1:20:05.670,1:20:08.269
+reaching the shore of California.
+
+1:20:08.269,1:20:14.349
+There's radiation all over the place, every
+single day, but you're talking the damaging
+
+1:20:14.349,1:20:18.900
+radiation. That's the thing we're most concerned
+about and even in Chernobyl, that didn't get
+
+1:20:18.900,1:20:21.920
+to the United States in damaging amounts.
+How is it going to do that?
+
+1:20:21.920,1:20:24.570
+OK, you know what Bernie. From your mouth,
+to God's ears.
+
+1:20:24.570,1:20:29.269
+Our media is not built around effectively
+and accurately disseminating information to
+
+1:20:29.269,1:20:32.610
+the public. Our media is built around...
+
+1:20:32.610,1:20:39.300
+Thank you. Our media is built around putting
+your eyeballs on their print or on their website
+
+1:20:39.300,1:20:44.929
+and keeping them there. The best way to keep
+them there is to scare you to death.
+
+1:20:44.929,1:20:51.929
+Only 24 hours after the most horrendous tragic,
+gargantuan natural disaster of an earthquake
+
+1:20:52.190,1:20:57.249
+followed by the tsunami, the only story in
+town was about Fukushima.
+
+1:20:57.249,1:21:02.099
+As an engineer, we are taught that our responsibility
+is to accurately and effectively communicate
+
+1:21:02.099,1:21:06.289
+and disseminate information both to other
+engineers and to the public at large.
+
+1:21:06.289,1:21:09.670
+So an engineer gets on TV and they say, "What's
+going to happen, Dr. So-and-So?", and he goes,
+
+1:21:09.670,1:21:13.329
+"Well, there's a possibility several things
+could happen. A very low probability event
+
+1:21:13.329,1:21:15.960
+is that this might happen, but it's much more
+likely that --" "Oh, wait. Let's get back
+
+1:21:15.960,1:21:20.010
+to that low probability event. Now, in that
+low probability event, what could happen?"
+
+1:21:20.010,1:21:23.389
+"You know, I guess it's possible that - but
+this is really unlikely, and the wind would
+
+1:21:23.389,1:21:27.570
+have to blow this way and --" "Well, let's
+go that way." The poor engineer, he's thinking
+
+1:21:27.570,1:21:30.369
+we're up 10^-12 now, or something like that.
+
+1:21:30.369,1:21:36.249
+And they're going, "Does Godzilla form?" "Well,
+you know, a double ended DNA break, I suppose
+
+1:21:36.249,1:21:42.030
+in the right gene, could actually trigger
+an increased growth rate of hormone, which
+
+1:21:42.030,1:21:43.969
+could actually lead to mild gigantism."
+
+1:21:43.969,1:21:48.280
+They only wanted to know about the risks from
+the nuclear incident. And what they particularly
+
+1:21:48.280,1:21:52.719
+wanted to know, and asked many times was what
+is the worst case scenario.
+
+1:21:52.719,1:21:58.760
+Godzilla is coming tomorrow. It's like "Oh
+man, we're like 10^-32 at this point. The
+
+1:21:58.760,1:22:02.110
+proton is going to decay before this happens."
+
+1:22:02.110,1:22:06.989
+You already have a terrible scare story. It
+wasn't as if we were asking them to cover
+
+1:22:06.989,1:22:10.550
+the good news, not the bad news. There was
+plenty of bad news.
+
+1:22:10.550,1:22:14.749
+I had a friend of mine. She and her husband
+are diplomats in China and she wrote me as
+
+1:22:14.749,1:22:19.210
+breathlessly as you can in an email and she
+said, "Kirk, are we going to be OK? I'm in
+
+1:22:19.210,1:22:22.199
+China, are we going to be all right?" I said,
+"Don't worry. The iodine-131 would have to
+
+1:22:22.199,1:22:26.570
+blow all the way around the world and then
+come back around to get you in China and there
+
+1:22:26.570,1:22:29.039
+wouldn't be enough of it, has an eight and
+a half day life, so it would have decayed
+
+1:22:29.039,1:22:30.789
+to nothing right about here." Blah, blah,
+blah.
+
+1:22:30.789,1:22:33.670
+But, she was scared to death and this is a
+smart girl.
+
+1:22:33.670,1:22:38.719
+The Science Media Center's job was to line
+up people who know about radiation, who know
+
+1:22:38.719,1:22:43.889
+about its affects on humans and without exception,
+they said from the beginning, "This is a very,
+
+1:22:43.889,1:22:49.519
+very serious incident, but in terms of it
+being a threat, even to people in Tokyo, never
+
+1:22:49.519,1:22:55.670
+mind to people in Glasgow, they were expressing,
+time after time, apart from the people in
+
+1:22:55.670,1:23:01.090
+the exclusion zone, that this threat was very,
+very, very, very small." And indeed, they
+
+1:23:01.090,1:23:03.469
+still feel it is very small.
+
+1:23:03.469,1:23:07.130
+Nuclear experts have a vested interest in
+playing down nuclear incidents.
+
+1:23:07.130,1:23:12.920
+We have journalists coming to us and saying,
+"My editor has said to me, what are the apologists
+
+1:23:12.920,1:23:18.050
+saying today?" because we were running almost
+daily press briefings, with different experts.
+
+1:23:18.050,1:23:22.739
+None of them actually worked for industry
+as it happened, but yeah, there was this idea,
+
+1:23:22.739,1:23:29.739
+that they would say that, wouldn't they? These
+leading scientists, who publish and peer-review
+
+1:23:29.869,1:23:36.670
+journals, who work for very respected scientific
+institutions, are playing down an incident
+
+1:23:36.670,1:23:40.409
+because they support the nuclear industry.
+That is quite a charge.
+
+1:23:40.409,1:23:47.110
+I was just reading an article this morning
+saying they detected radioactivity in milk
+
+1:23:47.110,1:23:51.210
+and I thought, of course they detected radioactivity
+in milk. All milk is radioactive.
+
+1:23:51.210,1:23:57.749
+Two of them said, Fiona, our editors think
+there is something uniquely terrifying about
+
+1:23:57.749,1:24:04.019
+radiation. There is something unique to that
+word that has the capacity to really terrify
+
+1:24:04.019,1:24:10.670
+people. What a strange set of news values
+that what justifies the amount of coverage
+
+1:24:10.670,1:24:13.289
+is what your editors feel terrifies people.
+
+1:24:13.289,1:24:17.479
+What they really meant to say was there was
+a particular radio-isotope they found in the
+
+1:24:17.479,1:24:22.559
+milk that came from the Japanese nuclear plant.
+The article, of course, didn't mention that,
+
+1:24:22.559,1:24:27.190
+which would make people think, "Uh-oh, my
+milk has gone from zero radioactivity to some
+
+1:24:27.190,1:24:30.099
+radioactivity which must be bad and I must
+be in real trouble now."
+
+1:24:30.099,1:24:35.260
+The way that this was covered was wrong. I
+feel confident in saying that because of how
+
+1:24:35.260,1:24:41.070
+many journalists felt uneasy about this. I
+know of journalists who were taken off this
+
+1:24:41.070,1:24:45.979
+story because what they were writing was too
+measured and that's in a really significant,
+
+1:24:45.979,1:24:47.510
+major news room in this country.
+
+1:24:47.510,1:24:51.630
+In terms of the public's perception of risk,
+things that might be true because I read them
+
+1:24:51.630,1:24:56.519
+on the Internet, Neil deGrasse Tyson tweeted
+today, "the causes of death worldwide in March
+
+1:24:56.519,1:24:59.210
+2011, starvation, three million."
+
+1:24:59.210,1:25:03.479
+Neil deGrasse Tyson, big fan of his. We've
+needed somebody like Neil deGrasse Tyson ever
+
+1:25:03.479,1:25:08.059
+since Carl Sagan died. But yeah, what's the
+first one on his list, starvation?
+
+1:25:08.059,1:25:13.360
+Starvation, 3,000,000; malaria, 250,000; car
+crashes, 100,000; quakes and tsunamis 28,000.
+
+1:25:13.360,1:25:17.369
+Body count on nuclear power death is what?
+Low.
+
+1:25:17.369,1:25:20.889
+Civilian nuclear power in the United States
+hasn't killed anyone. The body count would
+
+1:25:20.889,1:25:21.420
+be zero.
+
+1:25:21.420,1:25:26.639
+So when Three Mile Island releases some radiation,
+you'd want to incorporate statistic likelihood
+
+1:25:26.639,1:25:29.030
+of someone getting thyroid cancer in any number.
+
+1:25:29.030,1:25:33.150
+No, because even the statistical likelihood
+is theory that is not based on facts. It's
+
+1:25:33.150,1:25:38.159
+called the linear no-threshold hypothesis
+and it's not based on epidemiological data.
+
+1:25:38.159,1:25:42.729
+It's based on the assumption that radiation
+will harm you at whatever degree - to whatever
+
+1:25:42.729,1:25:44.289
+degree you are exposed.
+
+1:25:44.289,1:25:46.699
+I thought that that was established actually.
+I thought that...
+
+1:25:46.699,1:25:47.320
+No, it's established.
+
+1:25:47.320,1:25:48.309
+I've heard that there's...
+
+1:25:48.309,1:25:51.940
+It's established policy. That's where that
+no such thing as safe radiation - that comes
+
+1:25:51.940,1:25:56.400
+from the linear no-threshold hypothesis. It
+is established in regulation yet, there's
+
+1:25:56.400,1:26:01.420
+no epidemiological data to back that up. There
+is no study that says we have taken a cohort
+
+1:26:01.420,1:26:05.269
+of people and we have exposed them to one
+percent more radiation than normally would
+
+1:26:05.269,1:26:06.920
+get and we've seen one percent more cancer.
+
+1:26:06.920,1:26:11.269
+In fact, there are many places in the world
+where back room levels of radiation are substantially
+
+1:26:11.269,1:26:17.239
+higher if the linear no-threshold hypothesis
+was in fact true or even approaching truth,
+
+1:26:17.239,1:26:21.719
+you would see statistically significantly
+higher levels of cancer in those populations,
+
+1:26:21.719,1:26:26.840
+those cohorts. But what happens? Not only
+is there not higher levels of cancer, there
+
+1:26:26.840,1:26:29.550
+are actually suppressed levels of cancer.
+
+1:26:29.550,1:26:34.479
+Which leads to a theory that does have substantiation
+in the data and that's called hormesis. Hormesis
+
+1:26:34.479,1:26:38.260
+is simply a little bit is good for you and
+radiation appears to be one of these things
+
+1:26:38.260,1:26:42.999
+where a little bit more is actually good for
+you and suppresses your development of cancer.
+
+1:26:42.999,1:26:45.969
+And I say, well why would a little bit of
+radiation be good for me? When you go and
+
+1:26:45.969,1:26:49.369
+exercise, you damage your muscles, but your
+body rebuilds them and rebuilds them stronger
+
+1:26:49.369,1:26:53.809
+than they were before. Radiation stimulates
+cellular damage, but it also stimulates the
+
+1:26:53.809,1:26:55.289
+body's repair mechanism.
+
+1:26:55.289,1:26:59.420
+If hormesis became policy instead of linear
+no-threshold, we would have an incredibly
+
+1:26:59.420,1:27:03.989
+different approach to radiation. In fact,
+in some ways, we actually do accept hormesis
+
+1:27:03.989,1:27:07.469
+when it comes to natural radiation, but we
+don't accept it when it comes to artificial
+
+1:27:07.469,1:27:09.999
+radiation. The reality is, there's no difference
+between the two.
+
+1:27:09.999,1:27:14.800
+We have a three year environmental assessment
+process in Canada to build a nuclear reactor
+
+1:27:14.800,1:27:16.300
+and we have a weekend to produce a coal plant.
+
+1:27:16.300,1:27:20.739
+Coal and gas plants are able to release radioactive
+materials into the environments in much greater
+
+1:27:20.739,1:27:25.559
+amounts than a nuclear plant would ever possibly
+be allowed to because they are considered
+
+1:27:25.559,1:27:29.489
+what's called NORM, Natural Occurring Radioactive
+Materials. For instance, when you go frack
+
+1:27:29.489,1:27:34.179
+a shale and you pull gas out, a lot of radon
+comes out with that too.
+
+1:27:34.179,1:27:39.749
+You burn the gas, that radon's being released.
+Nobody counts that radon against the gas.
+
+1:27:39.749,1:27:44.539
+If they did, the regulatory commission would
+shut the gas plant down, same with coal. Coal
+
+1:27:44.539,1:27:47.769
+contains small amounts of uranium and thorium.
+They go up the stack, they're dispersed.
+
+1:27:47.769,1:27:50.369
+That's why they can't tell you how much waste
+they produced.
+
+1:27:50.369,1:27:55.130
+Yeah, and they spend a lot of money to make
+sure that regulatory agencies do not regulate
+
+1:27:55.130,1:28:00.900
+NORM for a coal or gas plant the way they
+regulate radioactive emissions from a nuclear
+
+1:28:00.900,1:28:06.070
+plant. If they did, we would be shutting down
+all of our coal and gas plants based on radioactivity
+
+1:28:06.070,1:28:07.479
+alone.
+
+1:28:07.479,1:28:10.670
+Even if linear no-threshold was actually true
+- let's say for a minute it was true, and
+
+1:28:10.670,1:28:15.249
+this was the reality of the world. You would
+still be much better off establishing an entire
+
+1:28:15.249,1:28:18.739
+world powered by nuclear power. The reason
+why is because of the radioactive releases
+
+1:28:18.739,1:28:22.440
+from coal. You would want to shut down coal
+so you could have nuclear, because coal releases
+
+1:28:22.440,1:28:25.679
+more radiation than nuclear by several orders
+of magnitude.
+
+1:28:25.679,1:28:32.130
+The notion that there is no safe amount of
+radiation is not a substantiated or even an
+
+1:28:32.130,1:28:38.469
+accurate statement. It is probably actually
+utterly inaccurate. But, it is commonly found
+
+1:28:38.469,1:28:41.639
+as a basis of public policy around the world.
+
+1:28:41.639,1:28:46.800
+That was my understanding until just now,
+that there was no safe level of radiation.
+
+1:28:46.800,1:28:50.510
+Two great books on this- "Terrestrial Energy"
+by Bill Tucker, and "The Power to Save the
+
+1:28:50.510,1:28:57.070
+World" by Gwen Cravens- go into this topic
+extensively. Until this notion of low exposure
+
+1:28:57.070,1:29:03.670
+levels of radiation is addressed and put to
+bed, it will forever dog the nuclear industry.
+
+1:29:03.670,1:29:07.760
+A sunburn is radiation damage. That's radiation
+burn. We don't call it that, but that's what
+
+1:29:07.760,1:29:13.499
+it is. Your body is responding, trying to
+prevent further radiation damage, ionizing
+
+1:29:13.499,1:29:16.780
+radiation to your skin and your cells, and
+it's generating melanin, which is a natural
+
+1:29:16.780,1:29:18.519
+shielding mechanism.
+
+1:29:18.519,1:29:22.229
+You don't want to let anybody get too much
+radiation dose at any one time and the radioactivity
+
+1:29:22.229,1:29:26.760
+that we get from nuclear reactors is extremely
+small in comparison to the radioactivity we're
+
+1:29:26.760,1:29:30.659
+getting from other sources. The biggest one
+being radon. There's a radioactive gas that's
+
+1:29:30.659,1:29:34.760
+coming out of the ground all the time. You're
+breathing it right now. It is responsible
+
+1:29:34.760,1:29:40.479
+by far for the majority of the radioactivity
+that your body receives. It's just the planet
+
+1:29:40.479,1:29:41.829
+we live on.
+
+1:29:41.829,1:29:45.159
+Inside the earth, thorium and uranium are
+decaying, and they're decaying very slowly,
+
+1:29:45.159,1:29:50.070
+but there's a lot of them and the earth is
+big. They produce most of the heat that drives
+
+1:29:50.070,1:29:54.030
+the internal processes of the earth. They
+produce the heat that drives plate tectonics,
+
+1:29:54.030,1:29:58.510
+and they produce the heat that drives the
+generation of the magnetic field. If we didn't
+
+1:29:58.510,1:30:02.340
+have the energy from thorium, we wouldn't
+have carbon recycling in the crust.
+
+1:30:02.340,1:30:07.010
+A bigger deal is the magnetic field, because
+the magnetic field is deflecting the solar
+
+1:30:07.010,1:30:11.900
+wind. If you don't have a magnetic field deflecting
+the solar wind, over billions of years your
+
+1:30:11.900,1:30:17.489
+planet ends up like Mars. Because the solar
+wind will strip off a planet's atmosphere
+
+1:30:17.489,1:30:22.909
+without the protecting nature of the magnetic
+field. So if we didn't have the energy from
+
+1:30:22.909,1:30:26.340
+thorium inside the earth, we would be on a
+dead planet.
+
+1:30:26.340,1:30:28.309
+A fun thing I tell people, I say, "What's
+green energy?" They go, "Geothermal is green
+
+1:30:28.309,1:30:33.340
+energy." Do you know where geothermal comes
+from? No. It comes from decay of Thorium inside
+
+1:30:33.340,1:30:37.780
+the earth. Is geothermal renewable? Yes! OK,
+then Thorium is renewable. "No, it's not,
+
+1:30:37.780,1:30:40.550
+you're using it up!" Well, you're using up
+Thorium as it decays inside the earth, too.
+
+1:30:40.550,1:30:45.929
+So any argument for geothermal, if it is rigorously
+pursued, is an argument for the renewability
+
+1:30:45.929,1:30:49.739
+of thorium as an energy resource. And I love
+to have that debate. They usually change the
+
+1:30:49.739,1:30:51.280
+rules on me as I get into it.
+
+1:30:51.280,1:30:56.369
+But a good one to play on your friends if
+they start giving you a hard time for coming
+
+1:30:56.369,1:31:00.829
+to protospace and talking about Thorium, you
+say, "Dude, it's green energy." "What!?"
+
+1:31:00.829,1:31:05.139
+If you're concerned with the environment,
+then you want to be aware of what the power
+
+1:31:05.139,1:31:11.139
+density of any source is. Anybody who's trying
+to sell you biofuels, or this kind of thing,
+
+1:31:11.139,1:31:16.260
+what do you do about the thermodynamic inefficiency
+of combustion engines? Fuels, that you burn,
+
+1:31:16.260,1:31:22.289
+is down in here. Whenever we burn something,
+we're using a very inefficient process. Thermodynamics
+
+1:31:22.289,1:31:26.710
+typically gives us about 30 percent of the
+energy when we burn fuel.
+
+1:31:26.710,1:31:31.369
+So every time you put a dollar's worth of
+gas in your car, kiss 60 cents goodbye, because
+
+1:31:31.369,1:31:35.639
+it's going to go out of the exhaust pipe as
+heat. And we waste 10 percent of what's generated
+
+1:31:35.639,1:31:39.699
+in transmission lines. So whenever they talk
+about these remote solar farms, or remote
+
+1:31:39.699,1:31:43.210
+wind farms or anything, you have a debt of
+10 percent that you're paying from now on,
+
+1:31:43.210,1:31:45.820
+forever. You're never going to get that energy
+back.
+
+1:31:45.820,1:31:51.820
+Five megawatt, top of the line Siemens wind
+mill, takes 10 acres. And five megawatts per
+
+1:31:51.820,1:31:56.389
+10 acres, that's half a megawatt per acre.
+If you move up to fission, you got hundreds
+
+1:31:56.389,1:32:02.229
+of thousands more watts per square foot, per
+acre, per pound. Whatever. And if you move
+
+1:32:02.229,1:32:08.519
+up to fusion, you get another 10,000 times
+that. Fusion we don't have to wait for, because
+
+1:32:08.519,1:32:12.010
+fission is good enough for us, particularly
+with the thorium cycle.
+
+1:32:12.010,1:32:16.409
+A nuclear article would be written. Author
+of the article will go to me, or Rod Adams,
+
+1:32:16.409,1:32:20.949
+or John Wheeler - somebody who's kind of known
+as a public advocate for nuclear. And then
+
+1:32:20.949,1:32:25.389
+to go find the other side, Ed Lyman, or Jim
+Riccio of Greenpeace, or one of these other
+
+1:32:25.389,1:32:29.110
+guys. Now contrast this with an article around
+solar, or wind, and I look for this all the
+
+1:32:29.110,1:32:33.389
+time. I'm always trying to see, is there another
+side in those articles? There's never another
+
+1:32:33.389,1:32:36.979
+side. "Such and such a company has announced
+they're going to put 50 megawatts of windmills
+
+1:32:36.979,1:32:39.659
+in this site. World rejoices."
+
+1:32:39.659,1:32:42.159
+And they've chewed up half the mountain to
+put the windmills up there.
+
+1:32:42.159,1:32:46.389
+They get more subsidies per megawatt hour
+than any other form of energy by one or two
+
+1:32:46.389,1:32:51.949
+orders of magnitude. I mean, it is huge! We're
+offering to buy back solar energy from people
+
+1:32:51.949,1:32:57.400
+who produce it at 35 to 50 cents a kilowatt
+hour. I mean, that's obscene. Why on Earth,
+
+1:32:57.400,1:33:00.960
+if you're making energy at your home, you
+should sell it back to the grid at whatever
+
+1:33:00.960,1:33:05.260
+the grid is buying at that time. The grid
+should not have to buy energy from you at
+
+1:33:05.260,1:33:06.989
+some massively increased price.
+
+1:33:06.989,1:33:09.400
+But they're subsidizing technology until it
+gets more efficient.
+
+1:33:09.400,1:33:12.409
+When all of these tariffs are reduced, the
+things that we're supposed to encourage, and
+
+1:33:12.409,1:33:17.179
+jump start an industry, the industry collapses.
+Solar industry in Germany and in Spain is
+
+1:33:17.179,1:33:21.739
+in utter collapse because of the projected
+removal of fees and tariffs because these
+
+1:33:21.739,1:33:26.300
+are simply not economical sources of energy.
+The subsidy may be well intentioned to try
+
+1:33:26.300,1:33:30.260
+to get the industry to get going on its own
+but that's usually not the way things work.
+
+1:33:30.260,1:33:34.539
+Every energy source is subsidized, right?
+If oil is subsidized because we're sending
+
+1:33:34.539,1:33:35.869
+people off to war...
+
+1:33:35.869,1:33:41.059
+The levels of the subsidies are substantially
+lower for established industries than they
+
+1:33:41.059,1:33:42.909
+are for things like solar and wind.
+
+1:33:42.909,1:33:46.769
+George Monbiot, who writes in The Guardian,
+he has recently come out very strongly in
+
+1:33:46.769,1:33:50.280
+support of nuclear power because of what happened
+at Fukushima Daiichi, how if survived the
+
+1:33:50.280,1:33:54.510
+earthquake and the overall effect has been
+nothing compared to the death and loss of
+
+1:33:54.510,1:33:55.559
+life from the tsunami.
+
+1:33:55.559,1:33:59.199
+Well, he mentioned in an article that he wrote
+yesterday that he talked to Caroline Lucas,
+
+1:33:59.199,1:34:04.300
+the head of the green party in the U.K. And
+he asked her why she would support subsidies
+
+1:34:04.300,1:34:07.579
+on solar and wind. She goes "I oppose subsides
+for nuclear but I support them for solar and
+
+1:34:07.579,1:34:11.340
+wind because nuclear is an established industry
+and solar and wind are still developing industries,
+
+1:34:11.340,1:34:15.960
+and they need public support in order to flourish."
+And so George, a very smart guy, said "Will
+
+1:34:15.960,1:34:20.889
+you support research into thorium reactors,
+which could provide a much safer and cheaper
+
+1:34:20.889,1:34:23.670
+means of producing nuclear power?"
+
+1:34:23.670,1:34:28.460
+No, because thorium reactors are not a proven
+technology.
+
+1:34:28.460,1:34:32.749
+On an individual level we are seeing a lot
+of people change their minds. But at the organizational
+
+1:34:32.749,1:34:38.030
+level we're not seeing any change. The people
+who run the environmentalist organizations,
+
+1:34:38.030,1:34:38.280
+and that's unfortunate.
+
+1:34:38.130,1:34:43.209
+Have you had a one-on-one where you are talking
+to someone and they get this?
+
+1:34:43.209,1:34:47.300
+It's tough for people who are further up the
+food chain in these organizations to come
+
+1:34:47.300,1:34:51.959
+out and make public policy statements. A lot
+of people get it one-on-one but they're afraid
+
+1:34:51.959,1:34:56.920
+to be the first one to stand up and say "Ra-ra-ra,
+let's go do this." It's a lot easier when
+
+1:34:56.920,1:34:58.789
+you feel like everybody else is behind you.
+
+1:34:58.789,1:35:04.249
+Why are appeals to technological advancements
+always made with regards to solar and wind?
+
+1:35:04.249,1:35:07.159
+It's going to get better it's going to get
+cheaper, it's going to get more efficient.
+
+1:35:07.159,1:35:10.719
+Don't worry about what we have now, cause
+it's going to be better next year. But yet
+
+1:35:10.719,1:35:14.869
+nuclear is assigned this position back in
+the '50s where it can never get better, it
+
+1:35:14.869,1:35:19.289
+can never incorporate a new technology, it
+can never improve and we won't even entertain
+
+1:35:19.289,1:35:20.840
+if it does get any better.
+
+1:35:20.840,1:35:25.719
+Nuclear right now means water cooled reactor,
+uranium oxide solid fuel, poor fuel efficiency
+
+1:35:25.719,1:35:31.510
+and steam turbine. That's what nuclear power
+means right now. So people look at Fukushima
+
+1:35:31.510,1:35:37.789
+Daiichi and they go, "Is this the end of nuclear
+power?" and I go, "No, it's not the end of
+
+1:35:37.789,1:35:39.300
+nuclear power, there's a zillion other ways
+to do nuclear power."
+
+1:35:39.300,1:35:44.190
+The reactor that we worked on is cooled by
+a liquid salt, a nuclear fuel in the form
+
+1:35:44.190,1:35:45.429
+of solid pebbles.
+
+1:35:45.429,1:35:50.739
+They're cooled by fluoride salts, but the
+fuel is not dissolved in the salts, it's in
+
+1:35:50.739,1:35:51.809
+a solid form.
+
+1:35:51.809,1:35:56.690
+I was invited to the director's office. The
+physicist there telling me, "What you have
+
+1:35:56.690,1:36:02.579
+invented is a new thorium uranium-233 breeder."
+Have you ever heard of about EXYDER, of course
+
+1:36:02.579,1:36:02.969
+not.
+
+1:36:02.969,1:36:07.659
+Just imagine what would happen if there was
+a light water reactor where the nuclear steam
+
+1:36:07.659,1:36:14.449
+supply system was in a single vessel, no piping
+penetrations in excess of about three inches
+
+1:36:14.449,1:36:17.570
+in diameter. I'm working on that exact reactor.
+
+1:36:17.570,1:36:22.829
+From their reaction to Fukushima, it was an
+indication that people didn't understand the
+
+1:36:22.829,1:36:29.780
+options around nuclear. Updating the old infrastructure
+will increase the safety standards significantly.
+
+1:36:29.780,1:36:36.159
+Generation two and three are still operational,
+generation 3.5 is what's being built right
+
+1:36:36.159,1:36:40.869
+now and generation four has higher safety
+standards, easier to build and so cheaper
+
+1:36:40.869,1:36:46.150
+to build better fuel utilization, drastically
+cheaper energy, even safer reactors.
+
+1:36:46.150,1:36:50.570
+Maybe there's a better way, if you can figure
+out how to do this better, I will be happy
+
+1:36:50.570,1:36:54.209
+to get off LFTR and go do whatever that is
+better. This is the best way I've be able
+
+1:36:54.209,1:36:55.499
+to come up with so far.
+
+1:36:55.499,1:36:57.449
+Can you do a recap on what the study said?
+
+1:36:57.449,1:37:01.190
+The title of the study was "Thorium was no
+panacea for nuclear energy." They were trying
+
+1:37:01.190,1:37:03.190
+to point out the deficiencies in thorium.
+
+1:37:03.190,1:37:09.829
+I didn't think they were applying a very fair
+logic to it because they would say "Thorium
+
+1:37:09.829,1:37:14.070
+in a solid fuel reactor would do blah blah
+blah. See that's not very good so thorium's
+
+1:37:14.070,1:37:14.320
+dumb."
+
+1:37:14.119,1:37:17.820
+Well no, thorium's dumb in a solid fuel reactor.
+Not "thorium's dumb."
+
+1:37:17.820,1:37:23.579
+If you're going go out there try to put something
+out to the public saying "I'm going to authoritatively
+
+1:37:23.579,1:37:28.440
+refute the use of thorium as an energy source,"
+then it behooves you to do your homework.
+
+1:37:28.440,1:37:30.880
+Is it safe as it sounds what's preventing
+North American governments from actually creating
+
+1:37:30.880,1:37:37.880
+the reactor? What's the scary thing about
+it?
+
+1:37:38.579,1:37:43.050
+Ah, you're thinking like me 10 years ago,
+you're looking for a reason why not, I don't
+
+1:37:43.050,1:37:46.989
+think there is a reason why not. There may
+be a reason why they may not be excited to
+
+1:37:46.989,1:37:47.590
+do it.
+
+1:37:47.590,1:37:49.360
+But there's no reason why they can't do it.
+
+1:37:49.360,1:37:55.659
+If I'm a company that's building CANDUs or
+light-water reactors, what competitive advantage
+
+1:37:55.659,1:37:59.900
+do I have by pursuing this other direction?
+Probably don't have any.
+
+1:37:59.900,1:38:03.570
+There's such a thing as nuclear hacking, it's
+what this whole thing is about, because we're
+
+1:38:03.570,1:38:09.429
+not talking about nuclear technology the way
+it's done now, we're talking about a completely
+
+1:38:09.429,1:38:11.690
+different approach to nuclear energy.
+
+1:38:11.690,1:38:15.940
+So maybe we'll look back in the future and
+it's meetings and gatherings like this we'll
+
+1:38:15.940,1:38:19.449
+go "Man, that was where it got started. It
+didn't get started at Westinghouse or Atomic
+
+1:38:19.449,1:38:24.909
+Energy of Canada, or GE," there's a ton we
+could do in this reactor that would even involve
+
+1:38:24.909,1:38:29.400
+the radioactive materials. All the stuff like
+the power conversion system all the chemistry,
+
+1:38:29.400,1:38:31.309
+that could all be done non-nuclear.
+
+1:38:31.309,1:38:37.249
+I don't have a lot of faith that the current
+nuclear institutions, to be honest, what exactly
+
+1:38:37.249,1:38:41.289
+do we want from them? I mean all of their
+technology is based around technology that
+
+1:38:41.289,1:38:43.039
+isn't what's going to go into this machine.
+
+1:38:43.039,1:38:47.739
+We want the fact they have the ear of governments
+and very large banks.
+
+1:38:47.739,1:38:51.829
+OK, how many- we're not exactly building lots
+of nuclear reactors right now. All their money
+
+1:38:51.829,1:38:56.690
+now is coming off fuel supply contracts. That's
+how GE and Westinghouse make money on nuclear
+
+1:38:56.690,1:39:01.329
+power today, they don't build reactors, they
+sell fuel. Now 30 years ago they were building
+
+1:39:01.329,1:39:04.889
+reactors, but that's not really going on right
+now.
+
+1:39:04.889,1:39:10.030
+So their business model is overwhelmingly
+dominated by fuel fabrications. Come on now
+
+1:39:10.030,1:39:14.539
+you say, "Guess what I got a reactor it's
+got no fuel fabrication to it," you just upended
+
+1:39:14.539,1:39:15.260
+their business model.
+
+1:39:15.260,1:39:19.489
+In the United States we're building two reactors
+right now. We're going to shut down more reactors
+
+1:39:19.489,1:39:24.590
+than that in a few years. We're not getting
+ahead of anything, we'll be lucky to hold
+
+1:39:24.590,1:39:27.329
+the line. I don't even think we're going to
+be able to do that.
+
+1:39:27.329,1:39:29.880
+What about in developing countries like China
+and India?
+
+1:39:29.880,1:39:33.690
+China's ripping it up, China's building like
+50 reactors right now.
+
+1:39:33.690,1:39:39.170
+But even China's realized, "We can't built
+reactors based around water cooling and uranium
+
+1:39:39.170,1:39:43.889
+oxide fuel, it's not going last that long."
+China's doing LFTR, even as we speak.
+
+1:39:43.889,1:39:45.709
+I found that ago a few months ago.
+
+1:39:45.709,1:39:48.579
+Where are they getting the blueprints? Or
+are they developing them?
+
+1:39:48.579,1:39:55.300
+Well, I mean they've probably got a whole
+bunch of stuff from the PDFs on my website.
+
+1:39:55.300,1:40:00.670
+It's been in the public domain for an awful
+long time. I just made it a little easier
+
+1:40:00.670,1:40:01.699
+to get.
+
+1:40:01.699,1:40:05.670
+This was about 10 years ago. I got in the
+car, I lived in Alabama and I was able to
+
+1:40:05.670,1:40:08.909
+go up to Oak Ridge then talk to some of the
+people there. And I said "Hey, I've heard
+
+1:40:08.909,1:40:13.909
+that you guys long time ago did this really,
+really cool thing. What's going on?" and they're
+
+1:40:13.909,1:40:17.360
+like "Yeah, long time ago we did a really,
+really cool thing and everybody that did it
+
+1:40:17.360,1:40:18.320
+is either retired or dead now."
+
+1:40:18.320,1:40:22.199
+I'm like "Oh, well, that's not good. What
+can we do?" and they said "Well, they wrote
+
+1:40:22.199,1:40:27.119
+a lot of papers and they wrote a lot of reports."
+I said "Oh, OK. Can I get them?" "Oh yeah"
+
+1:40:27.119,1:40:31.729
+then they took me to this file cabinet and
+it was like full of stuff. And PDF'd - not
+
+1:40:31.729,1:40:33.889
+everything but most of it, about two-thirds
+of it.
+
+1:40:33.889,1:40:40.030
+So, I had this stack of CD's and I thought
+"Oh!" Send a copy to the Secretary of Energy,
+
+1:40:40.030,1:40:44.530
+send a copy to the Director of National Labs,
+send it all out to these different places
+
+1:40:44.530,1:40:50.409
+just sure they were going to get CDs from
+a random person and put them in their computer
+
+1:40:50.409,1:40:55.179
+and study them extensively - all five Gigabytes
+of them - and come to the same conclusion
+
+1:40:55.179,1:41:00.650
+I had and change national policy. I mean,
+of course, right? If we do not get this message
+
+1:41:00.650,1:41:04.869
+out to everyone, then nothing's going to change.
+
+1:41:04.869,1:41:10.039
+In early 2010 EFT bloggers noticed that all
+these guys who were trying signing up from
+
+1:41:10.039,1:41:13.769
+Shanghai, Beijing and they started asking
+questions about this and that.
+
+1:41:13.769,1:41:17.780
+They went to Oak Ridge. They took them around
+the lab and showed them everything. And it's
+
+1:41:17.780,1:41:21.619
+funny going to Oak Ridge because they're all
+about the info and the nano and the bio and
+
+1:41:21.619,1:41:25.139
+you want to go, "What about the nuclear?"
+They never talk about that part. Well, we
+
+1:41:25.139,1:41:29.420
+get to the end of the trip and the Chinese
+official's name was Dr. Jiang Mianheng...
+
+1:41:29.420,1:41:32.979
+interesting about Dr. Jiang Mianheng, his
+father was Jiang Zemin, who used to be the
+
+1:41:32.979,1:41:38.300
+premier of China. So, this is not a poorly-placed
+guy in Chinese society.
+
+1:41:38.300,1:41:40.280
+Trained in the United States in Pennsylvania.
+
+1:41:40.280,1:41:43.989
+PhD in Electrical Engineer from Drexel University;
+very, very bright guy.
+
+1:41:43.989,1:41:46.289
+They were under a non-disclosure agreement
+between RGOE and the Chinese government.
+
+1:41:46.289,1:41:49.579
+So they get to the end of the meeting and
+I'm told by Oak Ridge people "You know we
+
+1:41:49.579,1:41:54.249
+had this great trip. Have you learned what
+you wanted to learn?" and they go "We're actually
+
+1:41:54.249,1:41:58.139
+here to learn about the molten salt reactor.
+You see, we're going to build one - we've
+
+1:41:58.139,1:42:01.070
+already got a site picked out - and we're
+going to have it built by 2020 and we're here
+
+1:42:01.070,1:42:06.340
+to learn everything we can about it." And
+in Oak Ridge we were like "Huh..."
+
+1:42:06.340,1:42:09.559
+Anybody have their earphones in their ears
+while I've been talking to try and drown me
+
+1:42:09.559,1:42:14.639
+out? Older folks like me will recall a day
+when earphones didn't look like that. The
+
+1:42:14.639,1:42:19.459
+whole trick has been the invention of a little
+magnet based on neodymium, neodymium-iron-boron
+
+1:42:19.459,1:42:23.590
+magnets. Extremely powerful magnets, and they
+use a rare earth mineral called neodymium.
+
+1:42:23.590,1:42:29.440
+And because neodymium-iron-boron magnets are
+so powerful one of the places they find application
+
+1:42:29.440,1:42:32.909
+is in the generators that sit on top of windmills.
+
+1:42:32.909,1:42:37.869
+Global demand for wind has really increased
+desire to find neodymium.
+
+1:42:37.869,1:42:41.780
+Currently it's all being mined in China. Now
+why am I talking about neodymium?
+
+1:42:41.780,1:42:46.309
+Well, because thorium is always found with
+heavy rare earth elements. If you remember
+
+1:42:46.309,1:42:49.519
+your periodic table, the lanthanides that
+column above the actinides, those are all
+
+1:42:49.519,1:42:50.539
+the rare earths.
+
+1:42:50.539,1:42:56.389
+Thorium policy in all western nations undermines
+the successful development of a domestic rare
+
+1:42:56.389,1:43:00.039
+earth market. All of the rare earths that
+most western mining companies are willing
+
+1:43:00.039,1:43:05.510
+to process are what they call bastnasites
+or carbonatites. They typically select these
+
+1:43:05.510,1:43:10.989
+rare earths not because of the high ratios
+of rare earths but simply the absence of thorium.
+
+1:43:10.989,1:43:16.599
+So consequently the only operating rare earth
+mine that just opened up this year, according
+
+1:43:16.599,1:43:22.599
+to their own filings in the USGS, produces
+essentially the lighter half of the lanthanide
+
+1:43:22.599,1:43:28.449
+scale and in fact does have some monazites,
+which are a thorium rare earth enriched mineralization,
+
+1:43:28.449,1:43:29.719
+which they dispose of.
+
+1:43:29.719,1:43:35.329
+So what happens all across America, Canada,
+and South America, there are beautiful monazite
+
+1:43:35.329,1:43:39.849
+deposits that have heavy rare earths which
+could be very commercial except for the thorium
+
+1:43:39.849,1:43:40.209
+content.
+
+1:43:40.209,1:43:45.809
+Mountain Pass was originally closed, according
+to CEO Mark Smith, because of the EPA and
+
+1:43:45.809,1:43:50.530
+the state of California and some thorium that
+came out of a ruptured tailing site. Thorium
+
+1:43:50.530,1:43:56.920
+represents this unknown and unlimited liability
+to rare earth production, so it plays into
+
+1:43:56.920,1:43:58.150
+the hands of China.
+
+1:43:58.150,1:44:03.380
+First, China provided rare earth elements
+very cheaply to everybody in the world by
+
+1:44:03.380,1:44:08.809
+their cheap labor, lack of enforceable environmental
+regulations, and their appreciate currency.
+
+1:44:08.809,1:44:12.559
+Essentially, consolidate and control the rare
+earth market.
+
+1:44:12.559,1:44:17.559
+And then they said, "Well, now all of you
+are coming to our door to buy our rare earths.
+
+1:44:17.559,1:44:22.209
+We don't want to sell the raw material anymore.
+Our manufacturers can buy it cheaper."
+
+1:44:22.209,1:44:28.909
+They impose a huge export tax on rare earth
+elements. So, one had a choice to accept a
+
+1:44:28.909,1:44:35.300
+huge tax and an increase in the price of the
+product or relocate factory into mainland
+
+1:44:35.300,1:44:40.440
+China and buy rare earth elements on the local
+market without tax.
+
+1:44:40.440,1:44:43.619
+It's a strategy and it's working pretty well.
+
+1:44:43.619,1:44:47.949
+Manufacturers which use rare earth elements
+in their products relocated their manufacturing
+
+1:44:47.949,1:44:53.349
+base inside China. The jobs in manufacturing
+transferred from the United States and western
+
+1:44:53.349,1:44:55.489
+Europe into the Chinese mainland.
+
+1:44:55.489,1:45:00.440
+They've moved all the way up the value chain
+and are actually able to leverage their position
+
+1:45:00.440,1:45:06.849
+into capturing other countries I.P. If Toyota
+really wants to build a million battery packs,
+
+1:45:06.849,1:45:11.369
+in the end, if they don't find a solution
+to the heavy rare earth problem, they'll be
+
+1:45:11.369,1:45:12.380
+building them inside China.
+
+1:45:12.380,1:45:18.840
+So what we need to be able to do is let another
+entity take that thorium, develop uses and
+
+1:45:18.840,1:45:20.309
+markets, including energy.
+
+1:45:20.309,1:45:24.519
+So, let's say, for example, you've got a single
+rare earth refinery creating about 20,000
+
+1:45:24.519,1:45:29.300
+tons of heavy rare earths a year. On current
+consumption, that's about 130 percent of domestic
+
+1:45:29.300,1:45:34.400
+consumption for rare earths. That automatically
+undermines China's advantage. Now, there's
+
+1:45:34.400,1:45:38.829
+two places on the planet Earth where you have
+a guaranteed supply of heavy rare earths.
+
+1:45:38.829,1:45:43.849
+What can your country leverage that into?
+This is the fulcrum you need to get back into
+
+1:45:43.849,1:45:46.099
+the world economy as a manufacturer.
+
+1:45:46.099,1:45:50.749
+Since 99 percent of the rare earths that we
+use, including those magnets? Well, when those
+
+1:45:50.749,1:45:53.709
+got mined, there was probably some thorium
+that came up with it that's probably sitting
+
+1:45:53.709,1:46:00.709
+in some barrels over in China right now, waiting
+for Dr. Jhang to finish his experiments with
+
+1:46:00.900,1:46:03.829
+thorium molten salt reactors and to start
+putting them to use.
+
+1:46:03.829,1:46:07.999
+This is the most important thing that's going
+to happen in the next 24 months, and whoever
+
+1:46:07.999,1:46:13.309
+gets that is essentially going to control
+the destiny and the roll out of energy for
+
+1:46:13.309,1:46:14.539
+the foreseeable future.
+
+1:46:14.539,1:46:19.119
+They need to be able to realize the promise
+of thorium. But, I'd also like to see us succeed,
+
+1:46:19.119,1:46:24.199
+you know? We were working on this stuff a
+long time ago, we made great progress on it.
+
+1:46:24.199,1:46:29.659
+We set it down in 1974 for kind of dumb reasons,
+and I think it's high time that we picked
+
+1:46:29.659,1:46:31.789
+that thread back up again.
+
+1:46:31.789,1:46:36.479
+Energy seems to correlate with influence.
+People who have energy, which used to be the
+
+1:46:36.479,1:46:41.329
+U.S., we had a lot of influence, now, there
+are others who have a lot of energy, and they
+
+1:46:41.329,1:46:42.639
+seem to be gaining influence.
+
+1:46:42.639,1:46:47.579
+The real question is whether the U.S. is missing
+a strategic national security opportunity.
+
+1:46:47.579,1:46:52.039
+We can either be on the wagon or we can buy
+foreign reactors in the future.
+
+1:46:52.039,1:46:56.979
+The worldwide energy business is about a three
+trillion dollar a year business. And an awful
+
+1:46:56.979,1:47:03.979
+lot of folks' wealth and power rides on the
+business of moving large amounts of hydro-carbon
+
+1:47:04.019,1:47:06.059
+from one place to another.
+
+1:47:06.059,1:47:12.070
+You're on a billion, million dollar idea here.
+And to switch over from fuels like oil, gas,
+
+1:47:12.070,1:47:17.940
+uranium, do you worry that might be a possible
+problem?
+
+1:47:17.940,1:47:24.400
+I'm a lot more worried about someday looking
+at our descendants and have them say, "Why
+
+1:47:24.400,1:47:28.570
+did you give us this world that we have now?
+Why did you give us this world of energy poverty,
+
+1:47:28.570,1:47:34.389
+of pollution, of war, of disease, when you
+knew there was a better way and you could
+
+1:47:34.389,1:47:37.260
+have made it happen? Why didn't you do it?"
+
+1:47:37.260,1:47:41.059
+That's the same question we'd ask these guys
+if we could go back to 1969, right? "Why didn't
+
+1:47:41.059,1:47:45.300
+you do this? You knew about it, you could
+have made it happen, but you didn't. What's
+
+1:47:45.300,1:47:46.420
+your excuse?"
+
+1:47:46.420,1:47:50.690
+Human beings have been superstitious and fearful
+for most of their history. An era of enlightenment
+
+1:47:50.690,1:47:55.380
+has been a relatively short space of human
+history, and by no means assured that it will
+
+1:47:55.380,1:47:56.789
+continue in that manner.
+
+1:47:56.789,1:48:02.079
+I really believe that if we don't have access
+to affordable and clean energy, we will revert.
+
+1:48:02.079,1:48:05.130
+We will go back to the way humans had been
+for thousands and thousands of years, which
+
+1:48:05.130,1:48:10.510
+is where the powerful and the rich oppress
+the masses, who lived terrible lives trying
+
+1:48:10.510,1:48:13.260
+to provide things for just a few people.
+
+1:48:13.260,1:48:19.639
+We will literally not only revert to barbarism
+but revert to social institutions like slavery.
+
+1:48:19.639,1:48:21.369
+And I mean that with all seriousness.
+
+1:48:21.369,1:48:24.349
+You only have a limited amount of money, you
+want to reduce greenhouse gases, so you want
+
+1:48:24.349,1:48:29.059
+to apply the dollars in ways that reduce greenhouse
+gases the most while creating the most employment
+
+1:48:29.059,1:48:30.519
+possible for that investment.
+
+1:48:30.519,1:48:35.380
+But, all the jobs that they create have to
+be built into the price of the power they
+
+1:48:35.380,1:48:38.699
+provide. Yeah, it would provide a lot of jobs
+but it's at the expense of the people that
+
+1:48:38.699,1:48:39.860
+use the energy.
+
+1:48:39.860,1:48:44.860
+If we can provide an energy source cheaper
+than from coal, all the nations, in their
+
+1:48:44.860,1:48:49.260
+own economic self-interest, will choose it
+over coal.
+
+1:48:49.260,1:48:51.349
+Nuclear energy is not terribly reliable.
+
+1:48:51.349,1:48:55.550
+It's a turbine that we just take from a gas
+plant and suspend it from a big scaffolding,
+
+1:48:55.550,1:49:01.320
+a tower, and surround it by giant mirrors
+in the desert. If a cloud passes over, or
+
+1:49:01.320,1:49:06.340
+during the evening, the utility wants a base
+load. And the way that we're going to deliver
+
+1:49:06.340,1:49:10.940
+that base load is by powering it with gas.
+We're building these all over the country,
+
+1:49:10.940,1:49:16.309
+and one of the questions we ask, we need about
+3,000 foot in altitude. We need flat land,
+
+1:49:16.309,1:49:20.949
+we need 300 days of sunlight, and we need
+to be near a gas pipe.
+
+1:49:20.949,1:49:22.439
+Hugely expensive capital costs.
+
+1:49:22.439,1:49:26.979
+Here are four independent proposals to build
+molten salt reactors and their dates. The
+
+1:49:26.979,1:49:28.559
+median is $1.98.
+
+1:49:28.559,1:49:34.079
+You look at a LFTR for one to two dollars
+a watt, you're looking at a full cost there,
+
+1:49:34.079,1:49:38.739
+because the fuel cost is so close to zero
+that you can safely ignore it.
+
+1:49:38.739,1:49:40.670
+Nuclear energy only produces electricity.
+
+1:49:40.670,1:49:45.610
+Now all our reactors today use steam turbines.
+Now we don't use that because we're stupid,
+
+1:49:45.610,1:49:51.010
+we use it because the limitations of pressurized
+water mean that you can't get it all that
+
+1:49:51.010,1:49:53.150
+hot. I mean, the reactor just doesn't get
+that hot.
+
+1:49:53.150,1:49:58.219
+With this reactor, we can get up to more like
+700 or 800C, and at those temperatures, the
+
+1:49:58.219,1:50:02.420
+gas turbine turns out to be a better fit.
+So you can generate electricity from the gas
+
+1:50:02.420,1:50:06.469
+turbine, and you've got to cool the gas, and
+every thermodynamic cycle has to reject waste
+
+1:50:06.469,1:50:07.090
+heat.
+
+1:50:07.090,1:50:10.630
+Almost no economic penalty to desalinate sea
+water.
+
+1:50:10.630,1:50:15.670
+Or we might try to synthesize fuel. We can
+configure it, not to produce electricity,
+
+1:50:15.670,1:50:20.570
+but to dissociate water. You can make ammonia
+out of hydrogen, which could be a fuel. It's
+
+1:50:20.570,1:50:25.170
+also a fertilizer. Ammonia production consumes
+more than one percent of the entire world
+
+1:50:25.170,1:50:26.610
+energy budget today.
+
+1:50:26.610,1:50:30.229
+It's about 14 years from when you put the
+project forward to when it's built, and it's
+
+1:50:30.229,1:50:31.849
+famous for cost overruns.
+
+1:50:31.849,1:50:37.959
+We used to build small reactors in a short
+period of time. May of 1961, Congress funded
+
+1:50:37.959,1:50:39.550
+Camp Century in Greenland.
+
+1:50:39.550,1:50:44.610
+The assembly is still subcritical. We began
+to transfer the fuel elements one by one,
+
+1:50:44.610,1:50:46.559
+and started loading the reactor core.
+
+1:50:46.559,1:50:50.489
+The reactor was operating under the ice 18
+months later.
+
+1:50:50.489,1:50:56.039
+The Brayton cycle uses an inert gas, so you
+don't have to worry about fuel explosions,
+
+1:50:56.039,1:51:00.599
+you get more efficiency out of the turbine
+side, and the turbines are smaller and cheaper
+
+1:51:00.599,1:51:01.400
+to build.
+
+1:51:01.400,1:51:02.400
+The risk of accidents
+
+1:51:02.400,1:51:07.110
+We can achieve safety for less cost because
+we're moving to passive safety rather than
+
+1:51:07.110,1:51:11.709
+engineered safety. We see this trend with
+reactors like AP1000 but the LFTR can take
+
+1:51:11.709,1:51:13.780
+it to a much higher level.
+
+1:51:13.780,1:51:18.400
+Commercial nuclear energy around the world
+has a very good safety record even if you
+
+1:51:18.400,1:51:23.219
+include Chernobyl. The number of deaths from
+nuclear power plant accidents is less than
+
+1:51:23.219,1:51:25.780
+a hundred around the world, ever.
+
+1:51:25.780,1:51:30.739
+Just last year we had a natural gas explosion
+at a clean energy facility in Middletown,
+
+1:51:30.739,1:51:35.110
+CT that killed seven people, a coal dust and
+methane explosion at the Upper Big Branch
+
+1:51:35.110,1:51:40.239
+coal mine which killed 29 people, and a methane
+explosion in Deepwater Horizon that killed
+
+1:51:40.239,1:51:45.679
+11 people. San Bruno fire, which was a natural
+gas pipeline running underneath a neighborhood
+
+1:51:45.679,1:51:49.320
+and it blew up and killed about eight people
+and destroyed 50 homes.
+
+1:51:49.320,1:51:53.900
+Why do you pick nuclear power to pick on?
+Why don't you pick on gas transmission? Why
+
+1:51:53.900,1:51:57.469
+don't you pick on all these other sources
+of actual deaths?
+
+1:51:57.469,1:52:01.320
+Long lived nuclear waste that has to be kept
+out of the biosphere for over a quarter of
+
+1:52:01.320,1:52:01.959
+a million years.
+
+1:52:01.959,1:52:06.199
+Really most of that waste is unburned fuel.
+There are ways to reprocess it and burn more,
+
+1:52:06.199,1:52:10.860
+but it's quite expensive and it's not economically
+advantageous in today's reactors. The breakthrough
+
+1:52:10.860,1:52:16.939
+in going to fluid fuels means you don't have
+to reprocess or recycle, you leave the nuclear
+
+1:52:16.939,1:52:18.630
+fuel in the reactor until it's burned up.
+
+1:52:18.630,1:52:22.670
+They remain in the salt and they decay in
+the salt until they give off all their decay
+
+1:52:22.670,1:52:23.499
+heat.
+
+1:52:23.499,1:52:30.499
+Here's our transuranics - these figures show
+10^-7, 10^-4, 10^-7, 10^-9 grams, this is
+
+1:52:33.479,1:52:38.900
+teeny teeny production. A thousandths of a
+gram of these dreaded materials in 10 years
+
+1:52:38.900,1:52:43.989
+of operation. This is good. Waste profile,
+much healthier.
+
+1:52:43.989,1:52:45.639
+The risk of nuclear proliferation
+
+1:52:45.639,1:52:51.849
+The proliferation hardening on this one, U-232,
+we've got protactinium. It sends out a bright
+
+1:52:51.849,1:52:57.869
+gamma cascade, so if somebody tries to run
+off with it we can catch them pretty easily.
+
+1:52:57.869,1:53:01.630
+You don't even have to look at those issues
+for nuclear to fail.
+
+1:53:01.630,1:53:06.719
+The petrochemical industry, the hydrocarbon
+industry spends a lot of money advertising.
+
+1:53:06.719,1:53:13.070
+They believe in wind and the sun. Exxon is
+talking about growing algae, all kinds of
+
+1:53:13.070,1:53:18.150
+alternatives. You'll never hear a hydrocarbon
+company talking about nuclear.
+
+1:53:18.150,1:53:25.150
+You'll see an awful lot of stories of somebody
+in the gas or oil industry working against
+
+1:53:25.179,1:53:30.900
+nuclear and trying to raise the barriers of
+entry. That's a simulated nuclear fuel pellet.
+
+1:53:30.900,1:53:37.900
+It's as much energy as a ton of coal, 147
+gallons of oil, or 17,000 cubic feet of natural
+
+1:53:38.219,1:53:39.389
+gas.
+
+1:53:39.389,1:53:44.479
+If you're making money selling hydrocarbons,
+you're going to make less money.
+
+1:53:44.479,1:53:50.340
+I was born the year they canceled this research
+in Tennessee. I feel like all I've done with
+
+1:53:50.340,1:53:55.469
+the blog, is I've stood up and said, "Here's
+this amazing work that was done before I was
+
+1:53:55.469,1:53:56.380
+even born."
+
+1:53:56.380,1:54:01.079
+This is laws of physics stuff. I didn't invent
+it, all I do promote it. Maybe I'll never
+
+1:54:01.079,1:54:04.570
+see it happen in my life, but somebody will
+do it. Once people have learned how to do
+
+1:54:04.570,1:54:07.499
+it, they'll keep using it, because it will
+make that much of difference.
+
+1:54:07.499,1:54:10.610
+Other people who are a whole lot smarter than
+me have looked at it and said, "This looks
+
+1:54:10.610,1:54:12.630
+darn pretty good, why aren't we doing this?"
+
+1:54:12.630,1:54:14.420
+How long do you think it's going to take?
+
+1:54:14.420,1:54:18.019
+At the rate we're going now in the United
+States it'll never happen. But, that's going
+
+1:54:18.019,1:54:18.280
+to change.
+
+1:54:18.280,1:54:22.170
+We're going to make it happen. I think in
+10 years we will be building LFTRs in factory
+
+1:54:22.170,1:54:23.139
+assembly lines.
+
+1:54:23.139,1:54:26.969
+We can be competitive with China on making
+patents on things that weren't thought of
+
+1:54:26.969,1:54:32.719
+in the 50's and 60's. But, if we wait, Americans,
+Canadians, and Brazilians will be buying LFTR
+
+1:54:32.719,1:54:35.559
+and molten salt technology from China and
+paying them the royalties.
+
+1:54:35.559,1:54:40.039
+We buy a lot of things from China already.
+It's not as if we're not buying enough things
+
+1:54:40.039,1:54:46.860
+from China. We are definitely keeping them
+busy. Let's go develop thorium. That's really
+
+1:54:46.860,1:54:48.559
+what I'd like to do.
+
+1:54:48.559,1:54:53.389
+If everyone in the world has a lifestyle like
+you and I can enjoy in Canada and U.S. today,
+
+1:54:53.389,1:54:59.519
+we can have world peace and we can specialize
+on what areas we're good at, and trade with
+
+1:54:59.519,1:55:02.780
+one another, and not fight over limited resources.
+
+1:55:02.780,1:55:06.209
+I think things will proceed different this
+time than they did in the 50's and 60's. Back
+
+1:55:06.209,1:55:11.780
+in the 50's and 60's, you had government appropriations
+to national labs, which lead to the development
+
+1:55:11.780,1:55:14.689
+of this technology. I don't think that's how
+it's going to happen this time. I think it's
+
+1:55:14.689,1:55:18.659
+going to be a fusion of the enthusiasts and
+private industry.
+
+1:55:18.659,1:55:23.050
+Enough people now, thanks to the Internet,
+are learning about the potential of LFTR and
+
+1:55:23.050,1:55:24.659
+thorium, and they're asking hard questions.
+
+1:55:24.659,1:55:28.920
+Mr. President, you often say there are no
+silver bullets to our energy problems. Why
+
+1:55:28.920,1:55:33.499
+is the federal government not accelerating
+research into fluid fuel molten salt reactors
+
+1:55:33.499,1:55:35.030
+that run on thorium?
+
+1:55:35.030,1:55:38.729
+Liquid fluoride thorium reactors, this is
+the kind...
+
+1:55:38.729,1:55:42.550
+You're already above my pay grade so...
+
+1:55:42.550,1:55:45.679
+I'll explain it to you because this is the
+kind of idea Washington needs to know about.
+
+1:55:45.679,1:55:51.280
+Pretty soon in 10 years we're going to buying
+these things from them if we don't start making
+
+1:55:51.280,1:55:54.729
+them right now.
+
+1:55:54.729,1:56:01.059
+The AEC report given to John F. Kennedy at
+his request in 1962, addresses directly the
+
+1:56:01.059,1:56:07.459
+fears that they had, and it specifically outlines
+what we should have done. We have not done
+
+1:56:07.459,1:56:11.769
+it. We can do the thorium breeder reactor
+which Weinberg and the Ornell team worked
+
+1:56:11.769,1:56:18.070
+on for 20 years and perfected and operated
+for four years in the 1960's.
+
+1:56:18.070,1:56:25.070
+That reactor is exactly what China now has
+a billion dollars to develop using our plans,
+
+1:56:25.219,1:56:31.999
+all our research, everything that we did as
+an American research institution 49 years
+
+1:56:31.999,1:56:38.329
+ago. Even if Washington does operate slowly,
+49 years does sound to be a little excessive.
+
+1:56:38.329,1:56:41.959
+If we don't do it, it will still be happening.
+It will just be happening in a place like
+
+1:56:41.959,1:56:46.090
+China rather than the United States. We will
+be seeing LFTRs being built in the future,
+
+1:56:46.090,1:56:46.519
+make no mistake.
+
+1:56:46.519,1:56:50.729
+A lot of environmentalists who are always
+trying to drive us towards using less energy,
+
+1:56:50.729,1:56:53.979
+because all that energy's coming from the
+consumption of fossil fuel.
+
+1:56:53.979,1:56:58.260
+Well, let's say your energy's not coming from
+the consumption of fossil fuel. Then you could
+
+1:56:58.260,1:57:03.309
+use more energy, and you could use more energy
+to accomplish things that you are not able
+
+1:57:03.309,1:57:08.860
+to do right now. Break up carbon dioxide and
+dissociate water. Make fertilizer, grow crops,
+
+1:57:08.860,1:57:09.619
+all that.
+
+1:57:09.619,1:57:14.889
+So much energy, an abundance of energy, that
+it would drive the price down to the point
+
+1:57:14.889,1:57:19.619
+where the only oil we'd be taking out of the
+ground would be the easy to get to oil. And
+
+1:57:19.619,1:57:24.079
+there's not going to be any more environmental
+devastation than there already is.
+
+1:57:24.079,1:57:28.709
+If we didn't have to worry about energy, we
+could think of so many more things to do.
+
+1:57:28.709,1:57:33.050
+If there was a lot of it and it was cheap
+and it was not harmful to the environment,
+
+1:57:33.050,1:57:34.889
+what would you do that you're not doing now?
+
+1:57:34.889,1:57:39.139
+The thing that caught my eye when I was still
+in high school was the idea of a space solar
+
+1:57:39.139,1:57:44.510
+power satellite. Gerard O'Neill The High Frontier.
+His idea was we were going to go build these
+
+1:57:44.510,1:57:47.449
+colonies. It was going to be like living in
+a shopping mall in space.
+
+1:57:47.449,1:57:53.559
+You know and, have a little home in the tube.
+
+1:57:53.559,1:57:56.840
+I don't think we're ready to live in space
+yet. We have not learned how to live in a
+
+1:57:56.840,1:58:02.510
+way where we recycle much more of our... I
+mean, if you want to live in space, you've
+
+1:58:02.510,1:58:03.689
+got to recycle everything.
+
+1:58:03.689,1:58:07.150
+It seemed like the liquid fluoride thorium
+reactor, or LFTR, could be the power source
+
+1:58:07.150,1:58:11.900
+that could make a self-sustainable lunar colony
+a reality. But I have a simple question. If
+
+1:58:11.900,1:58:17.170
+it was such a great thing for a community
+on the moon, why not a community on the earth,
+
+1:58:17.170,1:58:18.150
+self-sustaining and energy independent?
+
+1:58:18.150,1:58:23.849
+Think about "Star Trek." You can't help but
+think about "Star Trek" when your name's Kirk.
+
+1:58:23.849,1:58:28.360
+What is the world of "Star Trek" running on?
+Are they running "Star Trek" on coal? Are
+
+1:58:28.360,1:58:32.469
+they running "Star Trek" on oil sands? No.
+You don't see any oil refineries on
+
+1:58:32.469,1:58:34.269
+"Star Trek". You don't see any coal mines.
+
+1:58:34.269,1:58:40.439
+We live much better lives today because we
+have learned how to use carbon. OK, what about
+
+1:58:40.439,1:58:47.389
+thorium? Thorium has a million times the energy
+density of a carbon-hydrogen bond. What could
+
+1:58:47.389,1:58:52.809
+that mean for human civilization going out
+thousands, tens of thousands of years into
+
+1:58:52.809,1:58:55.650
+the future? Because, we're not going to run
+out of this stuff. Once we've learned how
+
+1:58:55.650,1:59:02.650
+to use it at this kind of efficiency, we will
+never run out.
+
