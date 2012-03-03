@@ -1,0 +1,6639 @@
+0:00:00.340,0:00:05.060
+Het zwaar water reactor zal gebruik maken van ongeveer 0,7
+procent van de energie van de waarde van uranium, en
+
+0:00:05.060,0:00:08.630
+het licht water reactor zal gebruik maken van ongeveer de helft
+van een procent. Beiden doen verschrikkelijk.
+
+0:00:08.630,0:00:13.380
+Bij normale druk, zal water koken op 100
+graden Celsius. Dit is lang niet warm genoeg
+
+0:00:13.380,0:00:18.280
+om effectief te genereren elektriciteit. Zodat het water
+gekoelde reactoren hebben om te draaien met meer dan 70 atmosfeer
+
+0:00:18.280,0:00:22.310
+van de druk. Je moet een watergekoelde te bouwen
+reactor als een drukvat. De nummer een
+
+0:00:22.310,0:00:24.529
+ongeluk mensen maken zich zorgen over ...
+
+0:00:24.529,0:00:28.760
+De druk is verloren, het water dat wordt gehouden
+op 300 graden Celsius [maakt spatten geluid]
+
+0:00:28.760,0:00:34.320
+spatten op stoom. Het volume neemt ongeveer
+met een factor 1000. Als je niet nood-
+
+0:00:34.320,0:00:38.010
+koeling van de brandstof in de reactor, het kan
+oververhit raken en smelten.
+
+0:00:38.010,0:00:43.829
+Dit is wat drijft het ontwerp van dit gebouw.
+Als dit gebeurt, is de stoom gevangen
+
+0:00:43.829,0:00:44.739
+in dit gebouw.
+
+0:00:44.739,0:00:50.129
+De reactoren hebben we vandaag de dag gebruiken uranium oxide
+als brandstof. Het is een keramisch materiaal, chemisch
+
+0:00:50.129,0:00:54.079
+stabiel, maar niet erg goed op het overdragen van
+warmte. Als je verliest druk, verliest u uw
+
+0:00:54.079,0:00:57.610
+water, en binnenkort uw brandstof smelt naar beneden en
+Laat de radioactieve splijtingsproducten in
+
+0:00:57.610,0:00:58.129
+het.
+
+0:00:58.129,0:01:03.629
+Dus ze hebben een reeks van noodhulpdiensten
+ontworpen om altijd de kern bedekt met
+
+0:01:03.629,0:01:08.649
+het water. We zagen het falen van dit op Fukushima
+Daiichi. Ze hadden meerdere back-diesel generatoren,
+
+0:01:08.649,0:01:13.609
+en elk had waarschijnlijk een zeer grote kans
+van het draaien op. De tsunami kwam en klopte
+
+0:01:13.609,0:01:14.369
+ze allemaal uit.
+
+0:01:14.369,0:01:16.929
+Mensen altijd zeggen: "Is kernenergie veilig?",
+en het eerste wat ik zeg is "Welke?"
+
+0:01:16.929,0:01:20.990
+Er zijn duizenden verschillende manieren om te doen
+kernenergie. Is een auto veilig? Nou, die
+
+0:01:20.990,0:01:21.240
+een?
+
+0:01:21.240,0:01:24.810
+Ik had het geluk om te leren over een ander
+vorm van kernenergie.
+
+0:01:24.810,0:01:26.549
+De vloeistof fluoride thorium reactor.
+
+0:01:26.549,0:01:30.749
+We kunnen volledig verbranden van de thorium in deze reactor
+versus slechts verbranden een deel van het uranium
+
+0:01:30.749,0:01:32.719
+in een typisch licht water reactor.
+
+0:01:32.719,0:01:37.349
+Het is niet gebaseerd op waterkoeling en het niet
+gebruik van vaste brandstof. Het is op basis van fluoride zouten
+
+0:01:37.349,0:01:42.380
+als nucleaire brandstof. Je moet ze warmen
+tot ongeveer 400 graden Celsius om ze te krijgen tot
+
+0:01:42.380,0:01:46.459
+smelt, maar dat is eigenlijk perfect voor het proberen
+aan de macht in een nucleaire reactor te genereren. Hier is
+
+0:01:46.459,0:01:50.700
+de echte magie - ze hoeven niet te werken
+bij hoge druk. Ze hebben geen water te gebruiken
+
+0:01:50.700,0:01:54.989
+voor koelvloeistof en er is niets in de reactor
+dat gaat een grote verandering in de dichtheid te maken.
+
+0:01:54.989,0:01:59.149
+In tegenstelling tot de vaste brandstoffen die kunnen smelten
+Als u stopt met het koelen, deze vloeibare fluoride
+
+0:01:59.149,0:02:00.599
+brandstoffen zijn al gesmolten.
+
+0:02:00.599,0:02:04.389
+Bij normaal gebruik heb je een klein stukje
+van bevroren zout dat je hebt bewaard bevroren door
+
+0:02:04.389,0:02:08.989
+blazen koele gas over de buitenkant van de pijp.
+Als er een noodsituatie en je verliest alles
+
+0:02:08.989,0:02:13.400
+de kracht om je kerncentrale, de
+kleine ventilator stopt met blazen, de bevroren stekker
+
+0:02:13.400,0:02:18.269
+van zout smelt, en de vloeistof fluoride brandstof
+in de reactor afvoeren uit het vat
+
+0:02:18.269,0:02:20.769
+door de lijn en in de naam een ??andere tank
+een afvoer tank.
+
+0:02:20.769,0:02:25.209
+In watergekoelde reactoren, moet u hebben over het algemeen
+aan de macht geven om de plant te houden van de
+
+0:02:25.209,0:02:29.620
+water circuleert en om een ??kernsmelting te voorkomen.
+Maar als je verliest kracht om de LFTR, het sluit
+
+0:02:29.620,0:02:32.420
+zich neer helemaal zelf, zonder menselijke tussenkomst.
+
+0:02:32.420,0:02:37.519
+Een verbluffend indrukwekkend niveau van veiligheid,
+zelfs als er fysieke schade aan de reactor.
+
+0:02:37.519,0:02:41.430
+Thorium is een natuurlijk voorkomend nucleaire brandstof
+dat is vier keer vaker voor bij de aarde
+
+0:02:41.430,0:02:46.040
+korst dan uranium. Het is zo dicht dat energie
+U kunt het bezit van een levenslange voorraad van thorium
+
+0:02:46.040,0:02:50.299
+energie in de palm van je hand. We kunnen
+gebruik van thorium ongeveer 200 keer efficiënter
+
+0:02:50.299,0:02:54.879
+dan zijn we met behulp van uranium nu. Omdat het
+LFTR is in staat bijna volledig los
+
+0:02:54.879,0:03:00.140
+de energie in thorium, dit vermindert het afval
+gegenereerd dan uranium met een factor van honderden,
+
+0:03:00.140,0:03:02.469
+en door factoren van miljoenen meer dan fossiele brandstoffen.
+
+0:03:02.469,0:03:06.519
+We zijn nog steeds gaan vloeibare brandstoffen nodig
+voertuigen en machines, maar we kunnen genereren
+
+0:03:06.519,0:03:10.239
+deze vloeibare brandstoffen uit de kooldioxide
+in de atmosfeer en uit het water, net als
+
+0:03:10.239,0:03:14.719
+de natuur doet. We kunnen genereren van waterstof door
+water te splitsen en te combineren met carbon
+
+0:03:14.719,0:03:20.219
+geoogst van CO2 in de atmosfeer, waardoor
+brandstoffen zoals methanol, ammoniak, en dimethyl
+
+0:03:20.219,0:03:23.629
+ether, wat een directe vervanging worden
+voor dieselbrandstof.
+
+0:03:23.629,0:03:28.769
+Stel je voor koolstof-neutraal benzine en diesel,
+duurzaam en zelf geproduceerd.
+
+0:03:28.769,0:03:34.719
+U kunt dat uranium-235 is op een lijn zien met
+zilver en platina. Kun je je voorstellen branden
+
+0:03:34.719,0:03:39.209
+platina voor energie? En dat is wat we
+doen met onze nucleaire energiebronnen vandaag de dag,
+
+0:03:39.209,0:03:44.670
+wij branden deze extreem zeldzame spul, en
+we zijn niet brandt thorium.
+
+0:03:44.670,0:03:49.290
+Sommige mensen zijn soort van milieuactivisten,
+en zij zeggen Luister ', kernenergie is niet
+
+0:03:49.290,0:03:53.409
+duurzaam. We zullen opraken van uranium. "
+OK, ik zal dat punt wijken voor u, als we
+
+0:03:53.409,0:04:00.180
+praten over de nucleaire technologie van vandaag.
+In 2007 hebben we gebruikt 5 miljard ton kolen, 31
+
+0:04:00.180,0:04:05.529
+miljard vaten olie en 5000 miljard kubieke
+meter aardgas, samen met 65.000 ton
+
+0:04:05.529,0:04:07.670
+van uranium in de wereld van de energie te produceren.
+
+0:04:07.670,0:04:11.900
+Ik heb een vriend die probeert om een ??zeldzame start
+de aarde mijn in Missouri. "Jim, hoeveel thorium
+
+0:04:11.900,0:04:16.709
+denk je dat je zult handtastelijkheden tot een jaar? "
+En gaat hij, "Ik denk dat ongeveer 5.000 ton." 5000
+
+0:04:16.709,0:04:22.860
+ton thorium zou leveren van de planeet met
+al zijn energie voor een jaar. En hij gaat
+
+0:04:22.860,0:04:26.630
+"En er is net een ontelbaar andere plaatsen op
+aarde, die net zijn als mijn mijne. Het is een leuke
+
+0:04:26.630,0:04:30.300
+de mijne, maar het is niet uniek, het is niet zo
+is het een plek op aarde waar deze wordt gevonden. "
+
+0:04:30.300,0:04:35.960
+Elke keer als de mensheid in staat is geweest om toegang te krijgen
+een nieuwe bron van energie, heeft dit geleid tot zeer ernstig
+
+0:04:35.960,0:04:41.669
+maatschappelijke implicaties. De mens had slaven
+voor duizenden en duizenden jaren. Wanneer
+
+0:04:41.669,0:04:45.830
+we geleerd hoe koolstof onze slaaf te maken, in plaats
+van andere menselijke wezens, zijn we begonnen om te leren
+
+0:04:45.830,0:04:48.330
+hoe ze kunnen worden beschaafde mensen.
+
+0:04:48.330,0:04:54.750
+Thorium heeft een miljoen keer de energiedichtheid
+van een koolstof-waterstof-binding. Wat zou dat
+
+0:04:54.750,0:04:59.270
+betekenen voor de menselijke beschaving? Omdat we
+niet van plan om opraken van dit spul. We zullen
+
+0:04:59.270,0:05:06.270
+nooit opraakt. Het is gewoon te vaak voor.
+
+0:05:12.910,0:05:19.910
+Op onze Facebook-pagina, de gender-demografische
+is ongeveer 87 procent mannelijk, 13 procent vrouw.
+
+0:06:10.259,0:06:15.300
+Ik heb nog nooit een voorstander van nucleaire
+energie. Het is omdat van de consumptie, toch?
+
+0:06:15.300,0:06:20.610
+Het stelt ons in staat om continu te consumeren die
+Ik denk dat onhoudbaar is.
+
+0:06:20.610,0:06:23.889
+Denk je dat andere vormen van energie wordt voorkomen
+ons van het nuttigen van zo veel?
+
+0:06:23.889,0:06:29.550
+Als we lopen uit, ja. Ik denk dat we
+zal beginnen te rantsoen en opnieuw te gebruiken dingen
+
+0:06:29.550,0:06:31.129
+in tegenstelling tot alleen het creëren van een nieuwe.
+
+0:06:31.129,0:06:34.750
+Hoe zit het met zonne-en wind dan? De zon zal
+altijd schijnen, de wind zal altijd waaien.
+
+0:06:34.750,0:06:36.110
+Die geven ons leven.
+
+0:06:36.110,0:06:38.580
+Dunne pap van een dieet van energie.
+
+0:06:38.580,0:06:42.240
+Yeah. Ik geloof dat we niet echt waarderen
+wat we hebben, en ik alleen voor mezelf spreken.
+
+0:06:42.240,0:06:47.690
+Dus je intuïtief waarnemen wind-en zonne-energie
+als energiebronnen die niet op de
+
+0:06:47.690,0:06:49.729
+hetzelfde meten met zoals olie en gas.
+
+0:06:49.729,0:06:54.050
+In de ruimte die we nu aan ze met behulp van,
+en ik denk dat als we de omvang van versterken
+
+0:06:54.050,0:06:58.740
+zowel wind-en zonne-energie, dan zijn we ook gaan
+te kijken naar een grotere vernietiging ook.
+
+0:06:58.740,0:07:04.229
+Dus je erkennen dat wind-en zonne-energie milieuvriendelijk zijn
+invasieve vormen van energieopwekking? Ze
+
+0:07:04.229,0:07:05.590
+nemen veel van het gebied.
+
+0:07:05.590,0:07:06.220
+Yeah.
+
+0:07:06.220,0:07:11.479
+Om onaanvaardbare niveaus van voorkomen
+vernietiging van het milieu te beperken hoeveel wind
+
+0:07:11.479,0:07:12.330
+en zonne-energie we binnen
+
+0:07:12.330,0:07:16.629
+We moeten om ze te gebruiken op verschillende manieren integreren
+ze binnen reeds bestaande structuren.
+
+0:07:16.629,0:07:20.009
+Ik heb eigenlijk bekeek dit met mijn eigen huis.
+Als ik had betrekking op de woning met zonnepanelen hoe
+
+0:07:20.009,0:07:23.650
+veel zou ik te maken en het probleem was was het niet
+lang niet genoeg. Hun prestaties naar beneden gegaan.
+
+0:07:23.650,0:07:26.789
+Elke keer als ik ga op het dak schoon te maken
+de zonnepanelen zal ik mijn leven te zetten op
+
+0:07:26.789,0:07:27.039
+risico.
+
+0:07:26.990,0:07:29.210
+We hebben dakdekkers, hebben we mensen die dat doen
+professioneel.
+
+0:07:29.210,0:07:33.720
+Mijn broer is een dakwerker. Het is een ruige werk. Dat is
+waarom een ??21-jarige als hij uit was dakbedekking
+
+0:07:33.720,0:07:37.159
+daken en het maken van het grote geld, want hij was
+waardoor zijn leven in gevaar, net als de kolen
+
+0:07:37.159,0:07:37.580
+mijnwerkers.
+
+0:07:37.580,0:07:42.699
+Je opvatten als een goede zaak te beperken
+energievoorziening toch?
+
+0:07:42.699,0:07:43.979
+Yeah. Ik doe.
+
+0:07:43.979,0:07:50.020
+Naar een lage energie levensstijl zal bijna
+zeker correleren aan het gaan naar een lagere kwaliteit van leven
+
+0:07:50.020,0:07:50.780
+levensstijl.
+
+0:07:50.780,0:07:54.500
+Terwijl de efficiency is het waard te worden nagestreefd
+en we zouden waarschijnlijk allemaal kloppen 25 procent
+
+0:07:54.500,0:07:58.789
+van ons energieverbruik uit, dat is niet
+bijna genoeg om de behoefte aan fossiele elimineren
+
+0:07:58.789,0:07:59.270
+brandstoffen.
+
+0:07:59.270,0:08:02.849
+Elizabeth May, weet je, ze kunnen zeggen:
+en ik zou waarschijnlijk met haar eens: "We moeten
+
+0:08:02.849,0:08:05.780
+streven naar een meer energie-efficiënt levensstijl, "
+absoluut.
+
+0:08:05.780,0:08:10.060
+Wanneer u kwam oliezanden / teerzanden debat
+ontwikkeling in Calgary, het instellen van soort van
+
+0:08:10.060,0:08:14.550
+een verwachting van wat aanvaardbaar zou zijn.
+Je zei dat bepaalde rendement op de energie-efficiëntie.
+
+0:08:14.550,0:08:19.169
+Sommige nucleaire technologie die volgens mij
+veelbelovend, vloeibare fluoride thorium reactor.
+
+0:08:19.169,0:08:21.729
+Ons beleid is zeer eenvoudig te begrijpen, geen
+kernenergie.
+
+0:08:21.729,0:08:25.490
+Is er meer nuance eiste daar ... zorgen
+over kernenergie kan worden aangepakt met
+
+0:08:25.490,0:08:26.979
+technologieën van de toekomst?
+
+0:08:26.979,0:08:31.490
+Sinds de Groenen hebben een beleid tegen kernenergie
+energie, zouden we ooit opnieuw met een aantal
+
+0:08:31.490,0:08:35.360
+van de nieuwe technologieën die worden besproken
+maar nog niet bestaan? Ik denk dat het antwoord is,
+
+0:08:35.360,0:08:35.890
+natuurlijk.
+
+0:08:35.890,0:08:40.100
+Als Groenen de hele wereld vond een aantal reden om opnieuw te beoordelen
+kernenergie, maar we hebben slechts een beperkte hoeveelheid
+
+0:08:40.100,0:08:44.210
+van het geld. U wilt broeikasgassen terug te dringen.
+Dus u wilt de dollars toe te passen op een manier die
+
+0:08:44.210,0:08:47.690
+verminderen van de broeikasgassen het meest, terwijl
+het creëren van de meeste werkgelegenheid mogelijk voor
+
+0:08:47.690,0:08:48.480
+die investering.
+
+0:08:48.480,0:08:53.310
+We verspillen 60 procent van alle energie die
+worden gebruikt in Canada. En dat komt omdat van inefficiënte
+
+0:08:53.310,0:08:58.390
+bouw en transport design. Onze infrastructuur
+is ontworpen voor goedkope en overvloedige energie.
+
+0:08:58.390,0:09:03.000
+Dus, geen verrassing, er is heel veel
+afval. Wat u wilt doen is het verbeteren van de productiviteit
+
+0:09:03.000,0:09:04.140
+waarmee we energie gebruiken.
+
+0:09:04.140,0:09:07.820
+Als je door de hele hiërarchie
+van keuzes en opties die we hebben en we
+
+0:09:07.820,0:09:13.760
+hebben een lange lijst van opties die wel werken
+goed, kernenergie is in de lijst, omdat
+
+0:09:13.760,0:09:19.440
+Het is niet erg betrouwbaar zijn, het is enorm duur
+hoofdstad kosten, maar heel weinig banen gecreëerd en het
+
+0:09:19.440,0:09:24.850
+alleen produceert elektriciteit. Het gaat over 14 jaar
+vanaf het moment dat je project aan als het
+
+0:09:24.850,0:09:29.510
+gebouwd en het is beroemd voor kostenoverschrijdingen. De
+het risico van ongevallen, lang leven nucleair afval
+
+0:09:29.510,0:09:32.760
+dat moet worden geweerd van de biosfeer voor
+een kwart van een miljoen jaar. Het risico van
+
+0:09:32.760,0:09:36.760
+de verspreiding van kernwapens voor gebruik in militaire
+voorwaarden, hoeft u niet eens te kijken naar die
+
+0:09:36.760,0:09:41.100
+aspecten van nucleaire om te falen.
+
+0:09:41.100,0:09:45.740
+We moeten streven naar een meer energie-efficiënt levensstijlen,
+absoluut. Hoe ver kunnen we gaan, hoewel? Zullen
+
+0:09:45.740,0:09:50.890
+dat genoeg zijn om het te maken, zodat we niet nodig hebben
+tot een betere en nieuwere vormen van energieopwekking?
+
+0:09:50.890,0:09:52.730
+Ik denk het niet. Ik denk niet dat eens in de buurt.
+
+0:09:52.730,0:09:54.760
+Je ziet niet wind-en zonne-energie als ...
+
+0:09:54.760,0:09:59.170
+We hebben geprobeerd te zetten zonne-en windenergie
+online voor decennia. Het is nog steeds op de bestelbon
+
+0:09:59.170,0:10:04.260
+van ongeveer een procent van de totale energieproductie
+in de Verenigde Staten. Wind wordt geciteerd in termen
+
+0:10:04.260,0:10:10.320
+van zijn capaciteit. Zoals je zult zeggen dat dit een
+drie megawatt windmolen. Als ik een 3000
+
+0:10:10.320,0:10:14.720
+megawatt kerncentrale, 1000 van deze windmolens
+gelijkwaardig zijn aan een van deze. De wind is
+
+0:10:14.720,0:10:18.060
+alleen blazen ongeveer 15 procent van de tijd,
+een op de zes.
+
+0:10:18.060,0:10:21.760
+Dat de correlatie wordt het absoluut zinloos
+nu, is omdat men loopt de hele tijd en
+
+0:10:21.760,0:10:25.670
+de andere is en draait alleen een van de zes
+tijden. Als u had een auto en je dacht "Ik ben
+
+0:10:25.670,0:10:29.470
+ga uit en stap in mijn auto en draai
+de ontsteking, en ik heb een een op de zes kans
+
+0:10:29.470,0:10:33.910
+de auto gaat zetten. "Hoe nuttig zou
+dat de auto voor u? De wind industrie zegt,
+
+0:10:33.910,0:10:37.940
+"Dat is OK, Chelsea, moet u zes hebben
+auto's. "Energie is alles over de betrouwbaarheid.
+
+0:10:37.940,0:10:44.540
+Kunnen we aandacht besteden aan de problemen met het gebruik van batterijen
+die maken grote vooruitgang met niets
+
+0:10:44.540,0:10:45.470
+meer dan een laptop?
+
+0:10:45.470,0:10:49.690
+Het is een zeer, zeer dure propositie aan
+gebruik van de batterij back-up voor het raster. Het is niet
+
+0:10:49.690,0:10:53.770
+ooit kunnen worden gerealiseerd op een rooster
+niveau van voor als gevolg van hoeveel het kost
+
+0:10:53.770,0:10:55.280
+naar een watt uur op te slaan in een accu.
+
+0:10:55.280,0:10:58.170
+Je bent zelfs niet te kijken naar lithium-ion, je bent
+te kijken naar goedkope batterijen. Je weet, je bent
+
+0:10:58.170,0:11:01.930
+kijken naar zoals lood-zuur, echt goedkoop batterijen.
+Want je moet veel van hen. Het is beter
+
+0:11:01.930,0:11:04.730
+om een ??stelletje waardeloze die dan aan een te krijgen
+paar echt goede.
+
+0:11:04.730,0:11:09.050
+Als we een high-geleidende of ... wat doen
+je ze belt?
+
+0:11:09.050,0:11:09.480
+Supergeleidende?
+
+0:11:09.480,0:11:10.870
+Intermitterende stroom uit meerdere bronnen.
+
+0:11:10.870,0:11:14.210
+Wilt u een hoogspanningsleiding te maken,
+u wilt maken van de economische geval loont
+
+0:11:14.210,0:11:17.040
+voor jou. Je moet hoe elektriciteit tonen
+zal worden gegooid in die lijn bijna
+
+0:11:17.040,0:11:21.140
+de hele tijd. Anders is het niet de moeite waard gebouw,
+het kost te veel geld.
+
+0:11:21.140,0:11:24.000
+Dus het idee dat "OK, er zal worden
+een windpark hier, is er naar een zonne-energie
+
+0:11:24.000,0:11:27.440
+aanbod hier, en daar gaat een wind
+boerderij hier, en een van deze drie op
+
+0:11:27.440,0:11:31.500
+te allen tijde zullen moeten werken, maar we moeten de macht
+transmissielijnen aan alle van hen. 'bedoel ik
+
+0:11:31.500,0:11:34.750
+dat is gewoon onzinnig. Mensen die voorstellen
+die nog niet lopen van de nummers.
+
+0:11:34.750,0:11:37.580
+Mensen willen niet naar centrales zien en te
+hoogspanningslijnen. Ze zullen vechten
+
+0:11:37.580,0:11:42.300
+met hand en tand tegen de overbrenging van het vermogen
+lijnen. We moeten een betrouwbare bron van energie hebben
+
+0:11:42.300,0:11:45.260
+dat is dicht bij waar de energie nodig is
+om te worden geconsumeerd.
+
+0:11:45.260,0:11:47.310
+Ik weet hoe je kunt meer vrouwen aan boord te krijgen.
+
+0:11:47.310,0:11:47.780
+Op OK.
+
+0:11:47.780,0:11:48.760
+Ga Oprah.
+
+0:11:48.760,0:11:52.720
+Oh! Hoe kon ik in haar boek club?
+
+0:11:52.720,0:11:57.850
+Velen van jullie hebben deel uitgemaakt van een klasse in de nucleaire
+de wetenschap en de politiek rondom dat.
+
+0:11:57.850,0:11:59.530
+Heel erg bedankt voor het verbinden van mij vandaag.
+
+0:11:59.530,0:12:01.380
+Dank u wel, Kiki, ik ben blij dat
+hier.
+
+0:12:01.380,0:12:03.010
+Hey, jullie zijn een mooi techy groep, toch?
+
+0:12:03.010,0:12:06.240
+Er was een teken dat was te praten over wat
+hacking over ging. Er is zoiets als
+
+0:12:06.240,0:12:07.190
+nucleaire hacken.
+
+0:12:07.190,0:12:12.600
+Ik ben erg blij om hier vandaag bij u en
+een deel van deze discussie.
+
+0:12:12.600,0:12:16.280
+Het antwoord is energie goedkoper is dan uit steenkool.
+
+0:12:16.280,0:12:21.030
+Allerlei dingen die ons het voordeel
+en ze zijn allemaal gebaseerd op energie.
+
+0:12:21.030,0:12:26.380
+Gebaseerd op de aanname dat we bereid zijn
+om alleen te offeren 160 miljoen mensen het leven
+
+0:12:26.380,0:12:31.890
+naar de zee stijgt, klimaatverandering, enzovoort,
+dan januari 2011, moeten we beginnen met het verminderen van
+
+0:12:31.890,0:12:34.520
+CO2-emissie met vier procent per jaar ...
+
+0:12:34.520,0:12:40.630
+Nou ja, doen we dat?
+
+0:12:40.630,0:12:47.630
+Ik was twee jaar en tien maanden oud toen ik
+zag Star Wars. Het is mijn vroegste herinnering. Mijn
+
+0:12:51.820,0:12:56.520
+vader geloofde niet dat ik eigenlijk herinnerde
+dat tot ik begon eigenlijk met betrekking details
+
+0:12:56.520,0:12:59.700
+vanaf de dag dat het gebeurde. Hij zei dat na het
+alles wat ik kon praten over was ruimte.
+
+0:12:59.700,0:13:04.770
+Ik heb 10 jaar gewerkt bij de NASA. In het begin
+van mijn tijd daar in 2000, dit is het soort
+
+0:13:04.770,0:13:09.350
+van gemeenschap Ik dacht aan. Het had allemaal
+van dezelfde behoeften als een gemeenschap op aarde
+
+0:13:09.350,0:13:15.480
+zou hebben, maar het had een aantal zeer unieke beperkingen.
+Er is geen kolen op de maan, is er geen aardolie,
+
+0:13:15.480,0:13:20.630
+er is geen aardgas, er is geen wind, er is
+geen sfeer. De maan draait de aarde een keer
+
+0:13:20.630,0:13:25.030
+een maand. Gedurende twee weken, de zon ondergaat
+en uw zonnepanelen maken geen energie.
+
+0:13:25.030,0:13:28.530
+Als u wilt proberen om voldoende energie op te slaan
+in accu's voor twee weken, het is gewoon simpelweg
+
+0:13:28.530,0:13:29.060
+is niet praktisch.
+
+0:13:29.060,0:13:34.400
+Ik dacht kernenergie dom was. Ik had geen
+belangstelling voor. Ik was als "Ah, oude rommel,
+
+0:13:34.400,0:13:37.120
+Wie zou willen worden in dat? "Het was niet
+totdat ik besefte dat deze efficiëntie waren
+
+0:13:37.120,0:13:39.910
+mogelijk dat ik begon steeds echt geïnteresseerd.
+
+0:13:39.910,0:13:43.590
+Ik ben in dit maatje van het kantoor van mij. Hij heeft
+dit boek op zijn plank en het boek heette
+
+0:13:43.590,0:13:47.090
+"Vloeibare brandstof Reactors". Hij gebruikt om op het werk
+Oak Ridge National Labs in Tennessee en hij
+
+0:13:47.090,0:13:51.900
+zei: "Ja, weg terug toen ze dat deden
+wat spullen op deze in het Oak Ridge, "gaat hij
+
+0:13:51.900,0:13:57.440
+"Ik ging gewoon naar de bibliotheek en ik heb deze
+oud boek. "Het werd geschreven in 1958 en hij zei:
+
+0:13:57.440,0:14:01.350
+"Ik ben al betekenis te kijken doorheen. Wist ik
+een klein beetje over, maar niet veel. "
+
+0:14:01.350,0:14:06.080
+Dus ik nam het boek mee naar huis, een grote oude dik boek,
+Het was ongeveer 1.000 pagina's, worstelen echt
+
+0:14:06.080,0:14:10.080
+moeilijk om te proberen de nucleaire concepten begrijpen
+in het boek, maar het was intrigerend genoeg om te
+
+0:14:10.080,0:14:15.150
+me en het leek echt anders dan de
+soort van nucleaire energie die we nu hebben. Ze
+
+0:14:15.150,0:14:18.860
+vermelden ook in dit boek veel over thorium.
+Thorium, thorium, thorium, thorium. Ik was
+
+0:14:18.860,0:14:20.680
+als "Dude, wat is het nou thorium?"
+
+0:14:20.680,0:14:24.820
+Maar ik was geïntrigeerd genoeg begon ik onderzoek
+zoveel als ik kon. Ik was online te lezen,
+
+0:14:24.820,0:14:27.450
+Ik las blogs vooral Rod Adams.
+
+0:14:27.450,0:14:31.460
+Belastingbetalers in de Verenigde Staten stuurden me naar
+zee op onderzeeërs. Ik woon in een omgeving
+
+0:14:31.460,0:14:36.810
+dat was 100 procent kernenergie aangedreven. Het is
+iets dat de mensen gewoon niet horen.
+
+0:14:36.810,0:14:42.240
+Niemand in de wereld wist dat een zichzelf onderhoudende
+kettingreactie van kernsplijting was zelfs mogelijk tot
+
+0:14:42.240,0:14:48.170
+tot ergens rond 1938. Heel weinig mensen
+begrijp al deze opties die beschikbaar zijn
+
+0:14:48.170,0:14:49.330
+in nucleaire energie.
+
+0:14:49.330,0:14:54.820
+Nu met vloeibare fluoride thorium reactoren,
+geen hoogactief afval materiaal dat wordt gegenereerd
+
+0:14:54.820,0:14:59.910
+en het kan ook minder voorraden van de bestaande
+afval. Dus gezien het feit dat, is er meer aan de overheid
+
+0:14:59.910,0:15:01.880
+kunnen doen om de technologie te testen?
+
+0:15:01.880,0:15:06.780
+De realiteit is dat we afval hebben, dus het is
+niet van plan om het kernafval te verbeteren.
+
+0:15:06.780,0:15:11.800
+Vergeef mijn onwetendheid, maar wat is thorium?
+
+0:15:11.800,0:15:17.190
+Als alleen mijn O-level leraar wetenschappen kon zien
+me nu. Het is vernoemd naar de Noorse god Thor
+
+0:15:17.190,0:15:22.230
+en ik weet dat de edele barones zullen blij zijn
+om te weten dat het dimorf en er zijn
+
+0:15:22.230,0:15:29.230
+allerlei andere feiten die ze kan vinden
+in Wikipedia, als inderdaad, ik deed.
+
+0:15:30.050,0:15:33.700
+Mijne heren, mijne heren ... mijne heren.
+
+0:15:33.700,0:15:40.540
+Het ministerie van Energie geciteerd mijn website
+als enige technische bron voor de gesmolten
+
+0:15:40.540,0:15:45.350
+zout reactor in hun Generatie IV als ze
+voor het eerst gepubliceerd is. Mensen zeggen: "Nou dat is
+
+0:15:45.350,0:15:51.240
+een hele eer, "nee het is eigenlijk heel zielig
+want ik ben Joe zit in mijn garage te doen
+
+0:15:51.240,0:15:55.420
+een website en deze is de enige technische
+bron die u bedacht?
+
+0:15:55.420,0:15:59.890
+Doet de administratie te begrijpen alle
+opties die beschikbaar zijn? Nee Is er iemand echt
+
+0:15:59.890,0:16:06.890
+begrijpen duidelijk het feit dat kernenergie
+is een volledig ontwrichtende technologie?
+
+0:16:07.810,0:16:11.920
+De vloeistof fluoride thorium reactor, zag ik
+sommigen van jullie soort glimlach als het brengt
+
+0:16:11.920,0:16:15.750
+en dat doet mij betreft een beetje. Wat
+bent u horen over LFTR dat is niet ... wat
+
+0:16:15.750,0:16:18.330
+bent u horen over het gesmolten zout reactoren
+dat is er niet?
+
+0:16:18.330,0:16:23.640
+Ik zou echt verbaasd zijn als onze leidende positie
+weet dit. Ik denk niet dat ze lezen
+
+0:16:23.640,0:16:27.880
+blogs. Het feit dat we een internet vandaag de dag
+gaat uiteindelijk het verschil maken.
+
+0:16:27.880,0:16:32.310
+Je weet dat we hadden Bronstijd en we hadden Iron
+Leeftijd en we hadden de Industriële Revolutie.
+
+0:16:32.310,0:16:36.010
+Ik denk echt dat honderden jaren van nu,
+zullen ze zeggen dat er een Thorium Age dat begon.
+
+0:16:36.010,0:16:39.550
+Laat me je vertellen hoe dit spul werd ontdekt.
+Er was een man genaamd Glenn Seaborg die werkte
+
+0:16:39.550,0:16:46.000
+in Berkeley Labs in Californië in 1942. Deze
+was de man die ontdekte plutonium. Komst
+
+0:16:46.000,0:16:52.200
+uit het ontdekken van plutonium dacht hij: "Ik vraag me af
+als we kunnen thorium hit met een neutron en draai
+
+0:16:52.200,0:16:54.560
+in iets. "Je moet onthouden, kernsplijting
+was drie jaar eerder ontdekt, zodat
+
+0:16:54.560,0:16:55.950
+ze waren nog in het allereerste begin.
+
+0:16:55.950,0:16:58.720
+Dus hij kreeg deze grad student. Je weet wel, iedereen
+die is al een grad student weet wat het is
+
+0:16:58.720,0:17:02.190
+zoals wanneer een professor zegt: "Goed. I
+wil je in te gaan op de nucleaire lab en draai
+
+0:17:02.190,0:17:07.740
+op het neutron bombardement systeem en bloot
+deze steekproef van radioactief materiaal en vinden
+
+0:17:07.740,0:17:09.449
+uit wat er gebeurt. "
+
+0:17:09.449,0:17:13.079
+"Het is een oorlog nu, is het niet, meneer, toch?
+Ik kon op het front. "
+
+0:17:13.079,0:17:13.589
+"Ja, je zou kunnen."
+
+0:17:13.589,0:17:15.529
+"OK. Ja meneer. Absoluut. Off ik ga."
+
+0:17:15.529,0:17:20.110
+Dus de grad student ging af, en hij deed het
+experiment. En kwam hij terug naar Seaborg, en
+
+0:17:20.110,0:17:25.019
+zei hij: "Ja, ik heb het gedaan, meneer. ik heb gemaakt
+iets nieuws. Thorium heeft absorberen de neutronen.
+
+0:17:25.019,0:17:28.279
+Het werd uranium-233. Is dat niet cool? '
+
+0:17:28.279,0:17:32.860
+Seaborg zei: "Ja, absoluut. OK nu!, Het laten
+neem de volgende stap, arme grad student!
+
+0:17:32.860,0:17:37.830
+Ik wil dat je om terug te gaan. Nu wil ik dat je hit
+het met een neutron en zien of het zal kernsplijting.
+
+0:17:37.830,0:17:40.309
+Want ik denk dat het zal kernsplijting. Ik denk dat het zal
+splijting net als uranium-235. "
+
+0:17:40.309,0:17:41.840
+"OK. Ja meneer."
+
+0:17:41.840,0:17:46.409
+Afgaat, doet het experiment, komt terug
+en zegt: "Yep, je hebt gelijk was. Het deed kernsplijting.
+
+0:17:46.409,0:17:49.960
+Je bent te corrigeren. Het is een nieuwe vorm van kernenergie
+brandstof. "
+
+0:17:49.960,0:17:55.090
+Dan Seaborg popped de echt, echt belangrijk
+vraag. Hij zei: "Nu wil ik dat je figuur gaan
+
+0:17:55.090,0:18:02.090
+uit hoeveel neutronen kwam uit toen het fissioned.
+Want als dat aantal is minder dan 2, we hebben echt
+
+0:18:02.470,0:18:07.720
+hebben hier geen een verhaal. Als dit nummer ...
+je komt terug, en zeggen dat het net als 1.5, dan ...
+
+0:18:07.720,0:18:13.899
+interessant feit gaat in de achterkant van het boek.
+Maar als dat aantal is boven de 2, dan is dat
+
+0:18:13.899,0:18:14.580
+een big deal. "
+
+0:18:14.580,0:18:19.850
+Gaat terug, komt terug. "Meneer, het nummer is
+2.5. "
+
+0:18:19.850,0:18:25.289
+Seaborg kijkt naar zijn grad student. Dit is
+December 1942, en hij zei: "Je hebt zojuist
+
+0:18:25.289,0:18:28.279
+een $ 50 biljard ontdekking. "
+
+0:18:28.279,0:18:32.860
+Grad student was als "Uhh!"
+
+0:18:32.860,0:18:39.860
+Seaborg was volkomen gelijk. Hij had bedacht
+erop dat thorium zou kunnen dienen als een in wezen
+
+0:18:40.159,0:18:47.029
+onbeperkt nucleaire brandstof. En hij wist hoe overvloedig
+thorium was in de korst van de Aarde. En
+
+0:18:47.029,0:18:53.100
+realiseerde hij zich dat door dit proces, indien
+je had een aantal uranium-233, zou je katalyseren
+
+0:18:53.100,0:18:56.549
+het verbranden van thorium voor onbepaalde tijd.
+
+0:18:56.549,0:19:01.690
+U bent splijting van uranium-233, maar je bent
+het maken van een nieuwe. Dus het is niet echt een katalysator
+
+0:19:01.690,0:19:06.580
+in de ware zin dat een chemische katalysator
+wordt niet verbruikt in een reactie. Maar je kunt
+
+0:19:06.580,0:19:08.950
+bijna denken als een pseudo-katalysator.
+
+0:19:08.950,0:19:12.830
+Dus we nemen het van de eerste beginselen. Laten we
+praten een beetje over wat kernsplijting is.
+
+0:19:12.830,0:19:17.820
+U heeft splijtbaar kernen. Dat betekent dat deze is
+een kern. Als je er met een neutron, het is
+
+0:19:17.820,0:19:23.250
+naar kernsplijting en opgesplitst in twee stukken,
+twee splijtingsproducten. En ook aanzienlijk,
+
+0:19:23.250,0:19:28.059
+dit een neutron gaat om de vorming paaien
+van twee of drie extra neutronen.
+
+0:19:28.059,0:19:33.740
+Waarom doen we care? Hier is waarom we care ...
+
+0:19:33.740,0:19:40.529
+Omdat elke kilo van splijtbaar materiaal
+zal produceren evenveel energie als 13.000 vaten
+
+0:19:40.529,0:19:47.490
+van de olie. Kernsplijting is een miljoen keer
+meer energie-dicht dan een chemische reactie.
+
+0:19:47.490,0:19:52.320
+Beschaving heeft veranderd vooruitgang
+in de technologie een stuk bescheidener dan
+
+0:19:52.320,0:19:52.990
+deze.
+
+0:19:52.990,0:19:57.320
+Als je iets kernsplijting, het breekt in
+deze twee stukken, maar ze zijn radioactief.
+
+0:19:57.320,0:19:58.419
+Waarom zijn ze radioactief?
+
+0:19:58.419,0:20:03.929
+En dit is een grafiek die het aantal shows
+van protonen in de materie en het aantal neutronen.
+
+0:20:03.929,0:20:09.470
+Nu, als het aantal protonen en het aantal
+van neutronen waren hetzelfde, al die isotopen
+
+0:20:09.470,0:20:12.100
+zou blijven op deze mooie lijn hier, kunt u
+zien?
+
+0:20:12.100,0:20:16.840
+Maar ze doen dat niet. In het begin,
+Het is een ongeveer gelijk aantal protonen en
+
+0:20:16.840,0:20:21.399
+neutronen. Maar als ze zwaarder, ze zeker
+krijgen op de zeer neutronen-rijke kant van de dingen.
+
+0:20:21.399,0:20:26.429
+Zie je deze zwarte stippen? Dat zijn de stabiele
+nucliden en al de andere jongens zijn radioactief.
+
+0:20:26.429,0:20:31.360
+De sterke nucleaire krachten die de kern
+samen, worden de protonen het indrukken van de kern
+
+0:20:31.360,0:20:35.090
+uit elkaar. OK, de protonen zijn positief
+betalen willen ze uit elkaar scheuren het ding. De
+
+0:20:35.090,0:20:40.289
+neutronen zijn het toevoegen van meer van dat sterke nucleaire
+kracht lijm, houden alles bij elkaar en
+
+0:20:40.289,0:20:43.379
+ze zijn niet het toevoegen van meer van de push-het-uit elkaar
+spul.
+
+0:20:43.379,0:20:49.480
+Manier waarop hier beneden zijn uranium en thorium en
+ze hebben ongeveer anderhalf keer zo veel
+
+0:20:49.480,0:20:54.850
+neutronen als protonen. Wanneer u barsten ze in
+de helft van de twee stukken die je krijgt erven die
+
+0:20:54.850,0:21:00.110
+verhouding, maar het is de verkeerde verhouding voor hen. Ze
+zijn hier wilden ze meer als te
+
+0:21:00.110,0:21:02.059
+een en een kwart in plaats van een en een half.
+
+0:21:02.059,0:21:05.620
+Ze hebben te veel neutronen. De natuur heeft een
+handige proces voor de bevestiging van dit kleine probleem
+
+0:21:05.620,0:21:09.659
+Het heet beta-verval. Een neutron in wezen
+verandert in een proton en het spuugt een elektron.
+
+0:21:09.659,0:21:14.159
+Wanneer u kernsplijting een kern waarom is wat je
+eruit radioactief? En het heeft te maken met
+
+0:21:14.159,0:21:18.759
+Deze proton en het neutron balans. Het saldo
+is verkeerd voor wat je hebt gemaakt, ook al
+
+0:21:18.759,0:21:20.440
+Het was goed voor wat je begonnen bent.
+
+0:21:20.440,0:21:26.590
+Dit zijn de massa nummers van elk van deze
+en ze gaan twee brede pieken van de distributie.
+
+0:21:26.590,0:21:30.990
+Dit is de kleinere splijting product en dit
+is de grotere splijting product, omdat elke
+
+0:21:30.990,0:21:35.620
+splijting genereert twee van hen. Maar omdat
+ze zijn rijk aan neutronen moeten ze bèta-verval
+
+0:21:35.620,0:21:38.240
+een paar keer voordat ze een stabiele bereiken
+kern.
+
+0:21:38.240,0:21:42.879
+Laten we het hebben slechts een minuut over radioactiviteit
+want ik had een verkeerd idee van wat
+
+0:21:42.879,0:21:46.710
+radioactiviteit werd. Ik dacht dat als je had
+iets dat zijn als een half-leven van een
+
+0:21:46.710,0:21:51.090
+dag, en je had iets dat een half-life had
+van een miljoen jaar, betekende dit dat de kerel
+
+0:21:51.090,0:21:55.970
+dat was radioactief voor een dag is als brrrrrr
+voor een dag en dan, 'Opp! ik klaar ben. " En de
+
+0:21:55.970,0:21:59.700
+dude met half-life voor een miljoen jaar is
+als brrrrrrrrr voor een miljoen jaar en gedaan.
+
+0:21:59.700,0:22:00.419
+Op OK.
+
+0:22:00.419,0:22:04.649
+Dus ga je die een van deze is meer gevaarlijk?
+Nou, zeker degene die heeft een half-life
+
+0:22:04.649,0:22:08.649
+van een miljoen jaar, want dat moet wel
+zoals radioactieve eeuwig en de dude's radioactief
+
+0:22:08.649,0:22:11.509
+voor een dag, dat is geen big deal, toch?
+
+0:22:11.509,0:22:17.340
+Het helemaal mis. Op OK. Volkomen achteruit. De
+kerel die is radioactief voor een dag is echt,
+
+0:22:17.340,0:22:23.370
+echt radioactief. The Dude dat is radioactief
+voor een miljoen jaar is nauwelijks radioactief
+
+0:22:23.370,0:22:27.649
+helemaal. Welke van deze twee is meer gevaarlijk?
+Van de een die radioactief voor een dag door een
+
+0:22:27.649,0:22:29.480
+long shot.
+
+0:22:29.480,0:22:35.870
+Dus uw radioactiviteit is direct en omgekeerd
+proportioneel aan je half-life. Dus al deze
+
+0:22:35.870,0:22:40.289
+jongens die reële korte halveringstijd hebben, heel,
+erg gevaarlijk, maar ze zijn echt weggaat
+
+0:22:40.289,0:22:45.580
+snel. Deze man, 2,3 miljoen jaar, geen probleem.
+Het gaat niet om je pijn te doen. Het is gewoon niet
+
+0:22:45.580,0:22:47.240
+bijna radioactief genoeg.
+
+0:22:47.240,0:22:51.409
+Nu Hoe zit het met thorium en uranium? Beide zijn
+van nature voorkomende materialen. Thorium heeft
+
+0:22:51.409,0:22:57.909
+slechts een isotoop thorium-232. Het heeft een 14
+miljard jaar half-life. Dus toen het heelal
+
+0:22:57.909,0:23:02.039
+is twee keer zo oud is als het nu is, thorium zal
+slechts vervallen een half-life.
+
+0:23:02.039,0:23:06.330
+Wat levert het u vertellen hoe radioactief thorium
+is?
+
+0:23:06.330,0:23:12.350
+Nauwelijks. Dat is waarom het nog steeds rond.
+Uranium, twee isotopen uranium-235, uranium-238
+
+0:23:12.350,0:23:16.379
+beide zijn natuurlijk radioactief. U-238 is
+een vijf miljard jaar half-life, dat mooie's
+
+0:23:16.379,0:23:19.899
+oud, dat is hoe oud de aarde is, dat is hoe
+oud het universum is.
+
+0:23:19.899,0:23:24.019
+Uranium-235 aan de andere kant heeft een veel kortere
+half-life, zevenhonderd miljoen jaar. Op OK.
+
+0:23:24.019,0:23:27.240
+Hoe vaak komt dit spul op de aarde? Meest
+van de aarde is gemaakt van zuurstof. Is dat niet
+
+0:23:27.240,0:23:32.499
+vreemd? Net als 46 procent van de korst van de
+de aarde is zuurstof. Omdat alles is geoxideerd,
+
+0:23:32.499,0:23:35.879
+alle rotsen, dan silicium, aluminium, ijzer,
+calcium, een heleboel dingen.
+
+0:23:35.879,0:23:40.759
+Nou hier is thorium op 10 delen per miljoen,
+maar er is andere dingen die we denken
+
+0:23:40.759,0:23:45.740
+dat is nog minder vaak, beryllium, tin,
+wolfraam. Hier is uranium, twee en een half delen
+
+0:23:45.740,0:23:50.960
+per miljoen. Wolfraam, aluminium, kwik,
+zilver, en geen verrassing waar is goud? Dat is
+
+0:23:50.960,0:23:52.710
+waarom meisjes wil dat je het aan hen te geven.
+
+0:23:52.710,0:23:58.070
+Nu, laten we zeggen dat we waren op zoek naar uranium-235
+alsof het haar eigen ding. Het is minder dan
+
+0:23:58.070,0:24:03.350
+een procent van uranium, het gaat over 0,7 procent
+uranium. Je kunt zien dat uranium-235 is op
+
+0:24:03.350,0:24:07.450
+vergelijkbaar met de overvloed van zilver en platina.
+
+0:24:07.450,0:24:12.889
+Kun je je voorstellen verbranding platina voor energie?
+Dat zou alleen noten. Het is gek. En dat is
+
+0:24:12.889,0:24:18.039
+letterlijk wat we doen met onze nucleaire
+energiebronnen vandaag. We branden van deze uiterst
+
+0:24:18.039,0:24:25.009
+zeldzame dingen en we zijn niet het verbranden van de gemeenschappelijke
+dingen, de uranium-238 en de thorium. Wij zijn
+
+0:24:25.009,0:24:27.539
+het verlaten van dat spul onverbrand.
+
+0:24:27.539,0:24:32.570
+Sommige mensen die zijn soort van milieuactivisten,
+zeggen ze: "Luister eens, kernenergie is niet duurzaam."
+
+0:24:32.570,0:24:36.940
+Ze zeggen tegen me: "We zullen opraken van
+uranium. 'Ik zei: "OK. Ik zal opleveren dat punt
+
+0:24:36.940,0:24:41.950
+voor u als we het over nucleaire vandaag
+technologie. Aan de andere kant, als we beginnen
+
+0:24:41.950,0:24:45.840
+na te denken over een aantal van deze andere dingen
+we kunnen doen, dat verhaal verandert. "
+
+0:24:45.840,0:24:51.559
+Thorium op zichzelf is niet van plan vrij te geven
+kernenergie. Maar als je de thorium
+
+0:24:51.559,0:24:55.669
+met een neutron, zal de thorium absorberen de
+neutronen en het zal afkeren van thorium-232
+
+0:24:55.669,0:25:02.249
+in de thorium-233. Thorium-233 heeft slechts een half-life
+van soortgelijke 20 minuten, zo is het echt radioactief?
+
+0:25:02.249,0:25:08.730
+Oh ja, roken radioactieve, echt, echt
+hot stuff. Het gaat om verval in protactinium-233,
+
+0:25:08.730,0:25:10.559
+die heeft een halfwaardetijd van ongeveer een maand.
+
+0:25:10.559,0:25:14.379
+Dus, pretty darn hot stuff. Je waarschijnlijk niet
+ofwel willen knoeien met dit spul. Dan
+
+0:25:14.379,0:25:18.879
+het zal dan vervallen ongeveer een maand om uranium-233,
+die heeft een halfwaardetijd van ongeveer 160.000 jaar,
+
+0:25:18.879,0:25:22.200
+en is veel minder radioactief.
+
+0:25:22.200,0:25:27.409
+Uranium-233, als je er met een neutron
+het zal kernsplijting. Naast het vrijgeven van
+
+0:25:27.409,0:25:32.700
+al die energie, zal het vrijgeven twee of drie
+extra neutronen. U hebt een van die
+
+0:25:32.700,0:25:37.559
+neutronen om te gaan zoeken andere thorium en u
+moet weer een van die neutronen te vinden
+
+0:25:37.559,0:25:41.169
+nog een uranium-233 om de reactie te gaan.
+
+0:25:41.169,0:25:47.759
+Sommige van deze splijtingsproducten hebben een echt
+grote neiging tot neutronen te eten. De manier waarop ze
+
+0:25:47.759,0:25:53.009
+beschrijven dit in kernreacties is ze
+noem het een dwarsdoorsnede. Hoe waarschijnlijk is een
+
+0:25:53.009,0:25:58.759
+reactie zal worden? Een van die kernsplijting
+producten is de naam xenon-135, en hier is de
+
+0:25:58.759,0:26:04.590
+doorsnede ten opzichte van twee nucleaire brandstoffen.
+Zie deze kleine Bitty jongens? Stel je voor dat we
+
+0:26:04.590,0:26:07.960
+darten of iets, en gooien ze.
+Welke gaan we te raken?
+
+0:26:07.960,0:26:14.090
+Wanneer xenon-135 vormen uit kernsplijting, kijk naar
+al deze keten, bla, bla, bla. Waar is
+
+0:26:14.090,0:26:21.090
+135? OK, dat is niet bijzonder ongewoon
+evenement om die bepaalde man te vormen. Xenon-135
+
+0:26:24.769,0:26:29.999
+heeft een halfwaardetijd van negen uur. Het is erg radioactief,
+maar in die negen uur, het wil echt
+
+0:26:29.999,0:26:30.940
+om te eten uw neutron.
+
+0:26:30.940,0:26:31.190
+Dit blijkt een groot probleem voor de echte
+kernreactoren. Het messes up hoe zij willen
+
+0:26:31.169,0:26:32.879
+te bedienen door het bestaan ??van xenon.
+Dit was eigenlijk een bijdragende effect
+
+0:26:32.879,0:26:39.289
+de ramp in Tsjernobyl was de aanwezigheid van
+xenon-135. En het is echt moeilijk om te gaan met
+
+0:26:39.289,0:26:45.580
+in vaste brandstof reactoren. Xenon was zo'n grote
+deal, in feite was dit een van de eerste reactoren
+
+0:26:45.580,0:26:50.499
+dat ooit werd gebouwd. Dit was de Hanford
+reactor in Washington. Ze bouwden dit tijdens
+
+0:26:50.499,0:26:54.360
+het Manhattan-project om plutonium te maken voor
+nucleaire wapens.
+
+0:26:54.360,0:26:58.740
+Toen ze voor het eerst haar gebouwd, ze zette hem op
+en alles leek te gaan. Na ongeveer
+
+0:26:58.740,0:27:05.340
+een dag of twee draaien, alle van een plotselinge
+de kracht ging en viel, bijna tot nul.
+
+0:27:05.340,0:27:09.480
+Zij waren als: "Wat de heck is dat?",
+en ze konden er niet uit. Ze vertrokken
+
+0:27:09.480,0:27:15.970
+het alleen, en na ongeveer 12 of 18 uur te
+ging en kwam terug naar de macht weer, en
+
+0:27:15.970,0:27:21.100
+hij hield daar. Ze zijn als: "Wat?", En
+vrij snel het gaat en druppels weer uit. Ze zijn
+
+0:27:21.100,0:27:25.139
+te gaan, "Dit heeft geen zin, we zijn niet te doen
+alles! Het ding is het inschakelen van en draaien
+
+0:27:25.139,0:27:27.399
+af, en het is het inschakelen van en het is te draaien
+uit te schakelen. "
+
+0:27:27.399,0:27:33.929
+Wat was er aan de hand was, zou de reactor weer
+op, en xenon-135 zou beginnen op te bouwen.
+
+0:27:33.929,0:27:37.769
+En zoals het opgebouwd, zou het beginnen te eten
+al deze neuronen, rechts. En ze waren en
+
+0:27:37.769,0:27:41.110
+het zou de reactor weer naar beneden.
+
+0:27:41.110,0:27:44.869
+Dan na een tijdje weg zou verval, en
+zodra het vervallen weg [maakt oplopende vliegtuig
+
+0:27:44.869,0:27:50.330
+geluid] de reactor weer terug zou komen op.
+Het was dus het volgen van deze op en neer effect.
+
+0:27:50.330,0:27:53.320
+Gewoon gek, ik bedoel, deze jongens niet eens
+weet wat xenon-135 was, want dit was
+
+0:27:53.320,0:27:58.720
+een van de eerste nucleaire reactoren ooit gebouwd.
+Gelukkig voor ons, de man die de bouw van deze reactor
+
+0:27:58.720,0:28:00.789
+was deze man, Eugene Wigner.
+
+0:28:00.789,0:28:02.399
+Hij was ongelooflijk briljant, misschien een van de
+de slimste jongens die ooit geleefd heeft. Won de
+
+0:28:02.399,0:28:05.110
+Nobelprijs. Hij zou alleen maar in bed liggen, in een poging
+om erachter te komen: "Hoe ver voor de Duitsers
+
+0:28:05.110,0:28:08.529
+zijn wij? Waar denk je dat ze zijn? "Hij
+was gewoon altijd gaming is en proberen te achterhalen
+
+0:28:08.529,0:28:08.830
+het uit.
+
+0:28:08.830,0:28:13.139
+Hij had gedacht: "Wat kan mis gaan
+In deze machine bouwde ik. 'Hij gaat: "Wel,
+
+0:28:13.139,0:28:18.639
+Er zou iets dat we maken dat zijn
+zal zeer, zeer absorptie van neutronen.
+
+0:28:18.639,0:28:24.559
+En dat iets wat we zouden kunnen maken snel verval.
+En als het was echt absorberend en het vervallen
+
+0:28:24.559,0:28:26.220
+snel, zou de reactor te doen ... dit! "
+
+0:28:26.220,0:28:32.249
+Hij wist niet wat het nog was! Hij was gewoon
+hypothese dat zoiets bestond! En
+
+0:28:32.249,0:28:36.149
+dus als deze machine van zijn begonnen met het doen
+dit, gaat hij, "ik denk dat ik weet wat er gaande is
+
+0:28:36.149,0:28:40.980
+op. "Er waren een heleboel plaatsen om te zetten in
+extra brandstof, en hij was in staat om dit op te heffen
+
+0:28:40.980,0:28:44.789
+effect. Ik bedoel, we zijn echt geluk hij deed
+dit, of zouden we niet hebben kunnen afmaken
+
+0:28:44.789,0:28:48.980
+het Manhattan Project. Zodat zij in staat waren om
+volledig de creatie van plutonium in orde
+
+0:28:48.980,0:28:50.820
+om de eerste nucleaire wapen.
+
+0:28:50.820,0:28:55.610
+Ze namen natuurlijk uranium, en ze gescheiden
+deze twee isotopen, hoogverrijkt in
+
+0:28:55.610,0:29:02.460
+uranium-235. Ze nemen uranium-235 uit
+minder dan een procent tot 90-plus procent willen.
+
+0:29:02.460,0:29:07.989
+En dit was echt moeilijk. Het kostte grote fabrieken,
+erg moeilijk om isotopische verrijking te doen.
+
+0:29:07.989,0:29:12.720
+Maar dit is hoe ze het uranium voor de gedane
+de eerste nucleaire wapen gebruikt in de oorlog. Deze
+
+0:29:12.720,0:29:16.529
+was de bom op Hiroshima. Het heette "Little
+Jongen, "en ze nooit getest, omdat ze
+
+0:29:16.529,0:29:17.499
+al wist dat het was gaan werken.
+
+0:29:17.499,0:29:22.850
+Toen ze zei: "Wel, wat kunnen we doen met
+al deze junk uranium-238, de 99,3 procent
+
+0:29:22.850,0:29:27.299
+van maken? "Nou, had Seaborg al bedacht
+dat je zou kunnen blootgesteld aan neutronen, en u
+
+0:29:27.299,0:29:29.649
+kon het in Plutonium.
+
+0:29:29.649,0:29:35.239
+Na een korte afkoelingsperiode, de nu
+zeer bestraalde splijtstof staven werden getransporteerd
+
+0:29:35.239,0:29:38.119
+T-plant in Hanford de 200 gebied.
+
+0:29:38.119,0:29:43.669
+Nu, plutonium is een ander chemisch element
+dan uranium, zodat ze kunnen chemisch worden gescheiden.
+
+0:29:43.669,0:29:49.929
+Het proces leverde minuten hoeveelheden plutonium.
+Van het gewicht, de duurste materiaal op
+
+0:29:49.929,0:29:50.659
+de planeet.
+
+0:29:50.659,0:29:56.789
+En chemisch scheiden van zaken is als een
+bazillion keer makkelijker dan isotopisch scheiden
+
+0:29:56.789,0:29:57.929
+het. Omdat uranium-235 en uranium-238 zijn
+identiek chemisch. Er is geen chemische
+
+0:29:57.929,0:29:59.019
+verschil tussen hen. Maar er is een chemische
+verschil tussen plutonium en uranium,
+
+0:29:59.019,0:30:02.580
+dus het was een stuk makkelijker om een ??chemische scheiding doen
+van het plutonium die u had gemaakt.
+
+0:30:02.580,0:30:07.440
+En dat is hoe ze de eerste nucleaire gemaakt
+wapen, de Drie-eenheid ontploffing in New Mexico, en
+
+0:30:07.440,0:30:11.730
+dat is ook hoe maakten ze de bom Nagasaki,
+Fat Man. Seaborg zegt: "OK, goed, misschien zijn we
+
+0:30:11.730,0:30:15.759
+kan hetzelfde doen met Thorium. Misschien
+kunnen we bloot aan neutronen, en we kunnen maken
+
+0:30:15.759,0:30:22.279
+het in uranium-233. Uranium zal chemisch worden
+scheidbaar van Thorium, en we kunnen gaan maken
+
+0:30:22.279,0:30:23.649
+een bom van te maken. "Right? Klinkt goed.
+
+0:30:23.649,0:30:28.489
+Dus gingen ze op zoek naar, en het blijkt
+uit, nee, het is een heel slecht idee, want als
+
+0:30:28.489,0:30:34.489
+u hebt gemaakt van de uranium-233, je was altijd
+het maken van uranium-232. Hier is het verval keten
+
+0:30:34.489,0:30:41.489
+dat uranium-232 is op. Het springt naar beneden een
+jaar, drie dagen, 55 seconden, 0.16 seconden,
+
+0:30:42.619,0:30:49.440
+en het naar beneden springt om deze jongens - bismut-212,
+thallium-208 en deze twee vervalproducten
+
+0:30:49.440,0:30:50.879
+hebben harder gamma emissie.
+
+0:30:50.879,0:30:56.850
+Ze zetten uit zeer, zeer sterke gammastraling.
+En deze gammastralen zijn super slecht nieuws als
+
+0:30:56.850,0:31:01.119
+u wilt gaan en een praktische nucleaire bouwen
+apparaat. Want nummer een ze je vermoorden
+
+0:31:01.119,0:31:04.649
+als je werkt op hen, nummer twee, ze vertellen
+iedereen die het heeft gamma-ray detectoren waar
+
+0:31:04.649,0:31:05.830
+het spul is.
+
+0:31:05.830,0:31:10.259
+Dus heel snel ze gingen, OK, we
+kan werken met uranium-235, dat lijkt OK,
+
+0:31:10.259,0:31:15.929
+we kunnen werken met plutonium, dat lijkt OK,
+maar dit uranium-233 spul is slecht nieuws voor
+
+0:31:15.929,0:31:17.739
+het maken van een kernwapen.
+
+0:31:17.739,0:31:23.389
+Thorium werd gereserveerd als een potentiële nucleaire
+wapens alle brandstof tijdens de oorlog. Na het
+
+0:31:23.389,0:31:26.629
+oorlog, raapten ze op dit weer, omdat
+Nu waren ze denken, "Laten we erover praten
+
+0:31:26.629,0:31:32.549
+het maken van de macht in plaats van het maken van kernwapens. "
+Dit is een grafiek die de absorptie neiging vertoont
+
+0:31:32.549,0:31:36.369
+van elk van deze verschillende nucleaire brandstoffen
+een functie van de neutron energie.
+
+0:31:36.369,0:31:40.830
+Dit is wat de thermische energie genoemd, dit
+betekent dat ze zijn manier vertraagd. Dit is
+
+0:31:40.830,0:31:45.619
+snelle energie, dat een neutron betekent dat nog steeds
+gaat echt snel. Kijk eens hoe veel groter de
+
+0:31:45.619,0:31:50.070
+doorsneden zijn in thermisch dan ze zijn
+in snel.
+
+0:31:50.070,0:31:55.039
+Wat is deze man hier beneden, is dit snelle tijden
+25. Het nemen van deze rij, want je kunt nauwelijks
+
+0:31:55.039,0:32:01.389
+zien deze kleine Bitty puntjes, en ik heb geblazen
+het omhoog met een factor 25. U kunt enkele proporties
+
+0:32:01.389,0:32:05.269
+hier. Nu, wat deze kleuren betekenen is de rode
+betekent dat het gaat om de neutronen te absorberen
+
+0:32:05.269,0:32:08.369
+en de blauwe houdt in dat het gaat op te nemen
+het neutron en splijtingsproducten.
+
+0:32:08.369,0:32:12.159
+Wat je wilt, je wilt blauw. Dikke blauwe is
+goed. Nou ja, veel blauw, want als je
+
+0:32:12.159,0:32:14.739
+hit van deze dudes met neutronen, je wilt dat ze
+splijting.
+
+0:32:14.739,0:32:20.690
+Kijk naar plutonium, wow, grote doel, toch?
+Maar een derde van de tijd is het gewoon
+
+0:32:20.690,0:32:26.330
+aan het neutron in thermische splijting te eten. Dat is
+niet goed. Aan de andere kant, in een snelle splitsing,
+
+0:32:26.330,0:32:32.700
+kijk naar die, wow, zou kernsplijting bijna
+de hele tijd. We willen dat was, maar kijk eens hoe
+
+0:32:32.700,0:32:37.499
+veel van deze kleine puntjes gaan we nodig hebben
+toe te voegen aan dit formaat. We gaan aan de behoefte
+
+0:32:37.499,0:32:38.429
+veel.
+
+0:32:38.429,0:32:45.119
+Hoeveel energie heeft het neutron hebben dat
+je pardoes de nucleaire brandstof? Hoe energie
+
+0:32:45.119,0:32:50.389
+hadden ze en vervolgens hoeveel neutronen hebben
+je kick als je smack het naar kernsplijting?
+
+0:32:50.389,0:32:56.070
+Deze kleine Bitty puntjes, ze verschijnen in dit
+een deel van de curve. Dit is de snelle regio,
+
+0:32:56.070,0:32:59.749
+dit is de thermische regio. Op de thermische
+regio, kijk eens wie is het best doet, kijk naar
+
+0:32:59.749,0:33:06.749
+uranium-233, ongeveer 2,3. Kijk naar plutonium,
+is dat diepe, lage twee daar. Dat is wat
+
+0:33:09.169,0:33:14.999
+maakt het dat je niet kunt branden op uranium-238
+in een thermische reactor spectrum, zoals een water-
+
+0:33:14.999,0:33:17.220
+gekoelde reactor zoals een CANDU of als een water-
+reactor.
+
+0:33:17.220,0:33:23.129
+Je kan het gewoon niet doen. Dus ze kijken naar die
+en zeggen, man, we kunnen gewoon niet branden uraniun-238
+
+0:33:23.129,0:33:26.789
+in de thermische reactor. Het kan gewoon niet worden gedaan.
+Deze jongens zijn niet afgeschrikt, zeiden ze: "Nou,
+
+0:33:26.789,0:33:28.799
+Hier is wat wij doen zullen, zullen we net gemaakt hebben een
+snelle reactor, want kijk hoe goed het wordt
+
+0:33:28.799,0:33:33.609
+in de snelle regio, wow, het wordt boven de twee,
+drie, wow! Dit is echt goed! "Dit was
+
+0:33:33.609,0:33:39.190
+het ontstaan ??van het idee van de snelle fokker
+reactor, een reactor die was gebaseerd op die
+
+0:33:39.190,0:33:42.320
+snelle neutronen en plutonium brandstof.
+
+0:33:42.320,0:33:47.480
+Maar uranium-233 aan de andere kant, OK, het
+krijgt een beetje beter in de snelle, maar dang
+
+0:33:47.480,0:33:50.019
+het is nog steeds verdomd goed recht in de thermische.
+
+0:33:50.019,0:33:55.779
+Grote doelen, een stuk eenvoudiger, iedereen die is
+duwen thorium zei: "We thermische wilt. Deze
+
+0:33:55.779,0:33:59.710
+is het soort reactor we willen bouwen "en
+iedereen die is duwen plutonium zei: "Nee,
+
+0:33:59.710,0:34:03.019
+nee, nee, we willen een snelle reactor, dat is de
+enige manier om het te doen. "
+
+0:34:03.019,0:34:06.480
+Wat deden we echt doen, hebben we ook niet doen
+een van deze. In werkelijkheid, al onze reactoren
+
+0:34:06.480,0:34:12.660
+vandaag zijn brandende uranium-235, die is net als
+brandende platina, zeer, zeer, zeer zeldzaam. Wij
+
+0:34:12.660,0:34:17.510
+uiteindelijk niet te nemen een van deze paden.
+Dit was de grote verdeeldheid in het begin,
+
+0:34:17.510,0:34:19.960
+ging het om thorium of gaat het om
+worden plutonium.
+
+0:34:19.960,0:34:25.120
+Wigner was niet succesvol in het overtuigen van de
+grootste deel van de nucleaire gemeenschap om de te nemen
+
+0:34:25.120,0:34:30.470
+thorium aanpak. Ze door en grote zei:
+"We gaan het plutonium route te gaan." Een
+
+0:34:30.470,0:34:35.590
+van de redenen waarom was dat ze hadden ontwikkeld
+een groot deel van begrip over plutonium
+
+0:34:35.590,0:34:40.280
+van het wapenprogramma. Ze had de
+spul. Ze hadden gewerkt met de chemie.
+
+0:34:40.280,0:34:46.860
+Ze had gemaakt brandstof van te maken. Ze gaan, "We krijgen
+deze. Thorium? We hebben niet echt geknoeid met
+
+0:34:46.860,0:34:49.960
+thorium. Het zou zijn alsof beginnen. "
+
+0:34:49.960,0:34:55.000
+Dat neiging er was om te gaan en te doen wat
+wist je al hoe dat te doen. Het plutonium
+
+0:34:55.000,0:35:01.080
+was zo veel beter ontwikkeld dan de thorium.
+Dus, Wigner was niet erg succesvol in
+
+0:35:01.080,0:35:06.990
+het maken van bekeerlingen in de nucleaire gemeenschap.
+Hij maakte een bekeerling - Alvin Weinberg.
+
+0:35:06.990,0:35:10.000
+Hij was zijn leerling tijdens het Manhattan Project.
+
+0:35:10.000,0:35:14.650
+Weinberg got it. Hij kreeg het grote plaatje. "We
+nodig thorium. We hebben thorium reactor. Wij
+
+0:35:14.650,0:35:19.500
+nodig vloeibare brandstof. Ik zie het. Ik zie wat wij hebben
+moet doen. "Weinberg kreeg een baan aangeboden te worden
+
+0:35:19.500,0:35:25.370
+de directeur van Oak Ridge National Labs in
+1955. Hij was 35 jaar oud. Hij was een jaar jonger
+
+0:35:25.370,0:35:30.090
+dan ik. Ik ben daar zit gaan, "Dude,
+toen Weinberg was van mijn leeftijd was hij actief Oak
+
+0:35:30.090,0:35:34.200
+Ridge National Lab. Wat doe ik? Ik ben in
+een kelder ergens. "
+
+0:35:34.200,0:35:35.130
+[Gelach]
+
+0:35:35.130,0:35:37.890
+Ik ben gewoon plagen.
+
+0:35:37.890,0:35:38.810
+[Gelach]
+
+0:35:38.810,0:35:43.420
+Het is niet mijn moeder de kelder zo voel ik me beter.
+
+0:35:43.420,0:35:48.460
+Dus hij gaat naar Oak Ridge en Wigner zei: "Alvin,
+je moet daar heen te gaan want je hebt
+
+0:35:48.460,0:35:53.490
+om te gaan kijken of u deze thorium te laten werken.
+Het is zo belangrijk. 'Alvin heb het.
+
+0:35:53.490,0:35:58.410
+Hier was een citaat uit zijn boek. Hij zei: "Tot
+dan had ik nooit echt waardering voor de volledige
+
+0:35:58.410,0:36:02.330
+betekenis van de kweker. "Toen hij praat
+over de fokker hij bedoelt eigenlijk de thorium
+
+0:36:02.330,0:36:08.750
+reactor. "Maar nu werd ik geobsedeerd door de
+idee dat de hele toekomst van de mensheid afhankelijk is
+
+0:36:08.750,0:36:14.710
+op de fokker. "Het idee dat als je niet
+gaan en toegang tot de energieën van thorium, we zijn
+
+0:36:14.710,0:36:18.180
+niet van plan om het te maken. We kunnen het niet maken op
+de uranium-235.
+
+0:36:18.180,0:36:21.290
+Een van de eerste dingen die toen gebeurd
+hij naar Oak Ridge, de Atomic Energy Commission
+
+0:36:21.290,0:36:25.210
+belde hem op en zei: "U bent klaar in de
+reactor business. We geven alle reactor
+
+0:36:25.210,0:36:30.830
+werken aan Argon National Labs in Chicago en
+jullie maken geen deel uit van de deal niet meer. "
+
+0:36:30.830,0:36:35.160
+Argon National Labs werd volledig gaan voor de
+plutonium snel fokker. Dat er hele
+
+0:36:35.160,0:36:37.080
+ding was om het plutonium snel fokker te doen.
+
+0:36:37.080,0:36:42.290
+Recht uit de vleermuis, Weinberg was als, "Oh
+mijn gosh! Wat gaan we doen? "Over dat
+
+0:36:42.290,0:36:47.750
+tijd, de Air Force zei: "De marine heeft gebouwd
+hun nucleaire onderzeeërs en het leger heeft
+
+0:36:47.750,0:36:52.290
+kom langs en ze hebben dezelfde technologie
+als de marine, de watergekoelde reactor. Ze zijn
+
+0:36:52.290,0:36:57.210
+doen hun ding, maar de Air Force wil
+het bouwen van een nucleair aangedreven bommenwerper. "Betekent dat,
+
+0:36:57.210,0:36:58.400
+alleen geluid gek?
+
+0:36:58.400,0:36:58.800
+[Gelach]
+
+0:36:58.800,0:37:00.840
+Het was gewoon helemaal gek.
+
+0:37:00.840,0:37:06.570
+Weinberg was een man van de praktijk en hij zei:
+'Hah, nucleair aangedreven bommenwerper? Dat is waarschijnlijk is
+
+0:37:06.570,0:37:09.150
+echt een dom idee. "
+
+0:37:09.150,0:37:11.530
+Maar de militaire veel geld heeft, "Het was niet
+dat ik ineens omgezet in een geloof
+
+0:37:11.530,0:37:11.800
+in de nucleaire vliegtuigen. Het was eerder was dit
+de enige weg open voor ORNL voor de voortzetting van
+
+0:37:11.800,0:37:16.640
+in reactor ontwikkeling. Dat het doel was
+onbereikbaar, zo niet dom was niet zo belangrijk. "
+
+0:37:16.640,0:37:17.870
+[Gelach]
+
+0:37:17.870,0:37:24.640
+"Een hoge temperatuur reactor nuttig zou kunnen zijn
+voor andere doeleinden, zelfs als het nooit aangedreven
+
+0:37:24.640,0:37:26.410
+een vliegtuig. 'Hij wist dat om de nucleaire maken
+vliegtuig werken, konden ze niet gebruiken watergekoelde
+
+0:37:26.410,0:37:30.330
+reactoren. Ze konden geen gebruik van hoge druk
+reactoren. Ze konden geen gebruik van ingewikkelde solide
+
+0:37:30.330,0:37:35.620
+brandstof reactoren. Ze moesten iets hebben
+dat was zo glad, dat was zo veilig, dat
+
+0:37:35.620,0:37:40.170
+was zo eenvoudig, dat werken bij een lage druk-hoog
+temperatuur, en had alle functies die u
+
+0:37:40.170,0:37:41.950
+wilde erin. Ze wist niet eens wat het
+werd.
+
+0:37:41.950,0:37:48.260
+Als dit vliegtuig nucleaire programma niet was
+vastgesteld, het gesmolten zout reactor zou
+
+0:37:48.260,0:37:54.880
+nog nooit uitgevonden, want het is gewoon
+te radicaal, te verschillend, te volledig
+
+0:37:54.880,0:38:00.380
+uit van de bal veld van alles voor
+dat het gekomen door een evolutionaire
+
+0:38:00.380,0:38:06.720
+ontwikkeling. Het moest worden gedwongen in het leven
+door de eisen die waren zo moeilijk te
+
+0:38:06.720,0:38:09.160
+te bereiken, en vervolgens nucleaire vliegtuig was dat.
+
+0:38:09.160,0:38:13.190
+Dus ze begon te werken op deze hoge temperatuur
+reactor, en hier was hun idee. Deze reactor
+
+0:38:13.190,0:38:13.440
+zou deze hoge temperaturen te produceren
+warmte. Het zou worden geleid naar een turbo
+
+0:38:13.420,0:38:13.800
+straalmotor. De lucht zou worden gezogen
+in, gecomprimeerd. Dan in plaats van een brander hier
+
+0:38:13.800,0:38:14.050
+Dat zou het injecteren van brandstof, zoals een verbranding
+systeem, zou u deze warmtewisselaar
+
+0:38:13.980,0:38:14.230
+met een reactor. Het zou de lucht warm,
+dan is de lucht zou uitlaatgassen door de turbine
+
+0:38:13.980,0:38:14.230
+en maak stuwkracht.
+
+0:38:13.980,0:38:14.230
+Dus het is hetzelfde idee als een straalmotor, het is
+alleen de warmte bron was de reactor in plaats
+
+0:38:14.020,0:38:16.060
+dan de verbranding van brandstof. Onthoud dit
+werd uitgevonden voordat we hadden ICBM's of iets
+
+0:38:16.060,0:38:20.040
+als dat. Dit was een dag des oordeels wapen. Als
+je dit ding vliegen naar Rusland, het is de
+
+0:38:20.040,0:38:23.890
+einde van de wereld. Dus ze wist niet eens
+wat voor soort reactor zou zijn, en zij
+
+0:38:23.890,0:38:27.040
+begon te werken en kwam met de gesmolten
+zout concept.
+
+0:38:27.040,0:38:30.550
+Ze wisten niet of het zou werken, dus dit
+bouwde deze proof of principle reactor, de zogenaamde
+
+0:38:30.550,0:38:35.720
+de Aircraft Reactor Experiment. Ze circuleerden
+de vloeistof fluoride zout in deze buizen te
+
+0:38:35.720,0:38:38.230
+produceren twee en een half megawatt thermische
+macht.
+
+0:38:38.230,0:38:44.420
+Xenon is een gas. Wat gebeurt er met gassen in een
+vloeistof. De gasvormige splijtingsproducten, xenon
+
+0:38:44.420,0:38:45.470
+net kwam recht uit het zout.
+
+0:38:45.470,0:38:50.690
+Kun je je voorstellen als wat is er gebeurd met slechte Wigner
+in zijn Washington reactor is er gebeurd met de
+
+0:38:50.690,0:38:54.930
+kerel die vliegen naar Rusland? Hij zou willen worden, "Dit
+is uw gezagvoerder. We gaan te hebben
+
+0:38:54.930,0:38:58.570
+te maken een noodlanding boven Siberië.
+Xenon-niveau is net iets te hoog
+
+0:38:58.570,0:39:02.330
+in de reactor daar, dus we gaan gewoon
+in te stellen naar beneden op de toendra hier voor negen uur
+
+0:39:02.330,0:39:07.470
+terwijl dat oude xenon gaat naar beneden komen.
+We zullen branden en opstijgen kort. "
+
+0:39:07.470,0:39:08.390
+Weet je, ik bedoel dat niet gaat werken.
+
+0:39:08.390,0:39:11.120
+En het liep voor ongeveer 11 dagen in 1954.
+
+0:39:11.120,0:39:15.140
+Het bereikte de hoogste temperaturen die waren
+ooit is bereikt door een nucleaire reactor op
+
+0:39:15.140,0:39:16.370
+naar dat punt.
+
+0:39:16.370,0:39:21.440
+En bewezen aan hen die, in wezen, hun
+idee was juist - dat je zou kunnen houden
+
+0:39:21.440,0:39:26.250
+kernsplijting reacties binnen in een zout, dat
+het zou werken bij hoge temperatuur en lage
+
+0:39:26.250,0:39:30.810
+druk, dat het zeer stabiel. En de
+reden waarom het was zo stabiel was, als het zout
+
+0:39:30.810,0:39:35.900
+zou opwarmen, zouden er minder splijtbaar
+materiaal in de nucleaire reactor kern, en
+
+0:39:35.900,0:39:38.020
+zo kernsplijting werd minder waarschijnlijk.
+
+0:39:38.020,0:39:42.500
+Omgekeerd, als het zout afgekoeld, is er
+was meer materiaal, omdat het zout was contracting,
+
+0:39:42.500,0:39:43.920
+en kernsplijting werd meer waarschijnlijk.
+
+0:39:43.920,0:39:46.830
+De ingenieurs die er zijn, dat is een dynamisch
+stabiel systeem.
+
+0:39:46.830,0:39:49.450
+Het wordt heter, koelt af, krijgt te koel,
+warmt op.
+
+0:39:49.450,0:39:55.530
+Nou, tegen die tijd ging het over 1960. ICBM's
+gingen geweldig. We hadden geperfectioneerd lucht-lucht
+
+0:39:55.530,0:39:58.960
+tanken. De luchtmacht ging, "Oh, man,
+weet je, ik denk niet dat we echt die behoefte
+
+0:39:58.960,0:40:00.930
+nucleaire bommenwerper meer. "
+
+0:40:00.930,0:40:04.400
+Weinberg verzoek aan de Commissie voor Atoomenergie
+in de Verenigde Staten voor geld en hij kreeg
+
+0:40:04.400,0:40:09.590
+een beetje. Hij kreeg genoeg om een ??demonstratie te bouwen
+reactor, dat moest minder dan
+
+0:40:09.590,0:40:12.860
+10 megawatt. Ze bouwden het, en het heette
+het gesmolten zout reactoren Experiment. Het liep
+
+0:40:12.860,0:40:14.640
+1965-69.
+
+0:40:14.640,0:40:19.070
+Het bleek dat thorium was een geweldige pasvorm
+in deze reactor.
+
+0:40:19.070,0:40:22.520
+Dit is wat heet een twee vloeistof, gesmolten
+zout reactor ontwerp.
+
+0:40:22.520,0:40:25.990
+Wat is gesmolten zout reactor in relatie tot
+LFTR en vice versa?
+
+0:40:25.990,0:40:30.860
+LFTR is een gesmolten zout reactor. Alle LFTRs zijn
+gesmolten zout reactoren, maar niet alle gesmolten zout
+
+0:40:30.860,0:40:31.810
+reactoren zijn LFTRs.
+
+0:40:31.810,0:40:37.690
+Je hebt deze kern vloeistof, een lithium-beryllium
+zout, met uranium tetrafluoride in.
+
+0:40:37.690,0:40:41.160
+Nu wat u wilt doen is dat u wilt verplaatsen
+dat brandstof die je hebt gemaakt van de deken in
+
+0:40:41.160,0:40:45.740
+de kern. En hier is hoe je het doet. U neemt
+deze stroom van deze deken zout uitgeschakeld en u
+
+0:40:45.740,0:40:48.850
+zet het in dit fluoride volatiliteit kolom.
+
+0:40:48.850,0:40:54.930
+Je slaat het zout met fluor gas, en wat krijgt
+gebeuren is ... Uranium heeft twee soorten van fluor
+
+0:40:54.930,0:41:00.540
+zegt het zal worden inch Er is uranium tetrafluoride,
+vier fluoride-ionen, en er is uraniumhexafluoride,
+
+0:41:00.540,0:41:02.780
+zes fluoride-ionen.
+
+0:41:02.780,0:41:04.270
+Uraanhexafluoride is een gas.
+
+0:41:04.270,0:41:06.650
+Uranium tetrafluoride is in oplossing.
+
+0:41:06.650,0:41:11.000
+Als je geraakt het met fluor het zal beginnen
+naar zeepbel uit het zout, net als bellen
+
+0:41:11.000,0:41:15.160
+in uw pop. En dat is geweldig want dit
+is een handige truc. Dit is een manier om je te krijgen
+
+0:41:15.160,0:41:19.210
+uranium product te komen van de deken
+en alles achterlaten.
+
+0:41:19.210,0:41:25.100
+Dit zou niet werken als thorium had ook deze
+dezelfde truc. Als thorium zou veranderen in een hexafluoride
+
+0:41:25.100,0:41:29.780
+in een gas, zouden we de kreek. Maar dit is
+een van deze kleine wonderen van de natuur.
+
+0:41:29.780,0:41:33.370
+Dus je kunt zitten en pond thorium met
+fluoride alles wat je maar wilt. Het gaat niet veranderen.
+
+0:41:33.370,0:41:39.020
+Het gaat voor een verblijf in oplossing. Maar het uranium
+zal komen als uraniumhexafluoride, een gas.
+
+0:41:39.020,0:41:42.690
+Nou nu moet je om het te verplaatsen in de kern
+zouten. Dus breng je een stroom van kern zout
+
+0:41:42.690,0:41:47.810
+meer dan hier en u voorstellen dit uraanhexafluoride
+hier. En nu je er met een beetje waterstof
+
+0:41:47.810,0:41:48.780
+gas.
+
+0:41:48.780,0:41:54.680
+De waterstof zal zeggen tot UF6, "Hey man, ik
+wil die twee fluorines een heel stuk slechter
+
+0:41:54.680,0:42:01.380
+dan jij. 'Ahh! UF6 vast komt te zitten boven op de
+tankstation, heeft op te geven twee fluorines
+
+0:42:01.380,0:42:05.460
+je weet en druppels van UF6 terug in UF4. Whoop!
+Het is in oplossing nu.
+
+0:42:05.460,0:42:11.210
+Dus nu, je hebt net getankt uw core-zout
+met uranium tetrafluoride. Cool truc, hè?
+
+0:42:11.210,0:42:15.670
+Je bent continu tanken uw reactor,
+de hele tijd. U bent altijd tanken de
+
+0:42:15.670,0:42:21.980
+kern met nieuwe uranium-233. En uranium-233
+wordt verbruikt, maar de neutronen uit de
+
+0:42:21.980,0:42:23.770
+kernsplijting zijn het maken van nieuwe uranium-233.
+
+0:42:23.770,0:42:29.820
+OK, goed uit de top van deze kolom komt
+fluorwaterstofzuur - HF. U stuurt dat naar beneden
+
+0:42:29.820,0:42:34.490
+om dit electrolyzer apparaat. En je raakt het
+met wat elektriciteit en de HF zal splitsen
+
+0:42:34.490,0:42:39.950
+in waterstof gas en fluor gas. En raad eens
+wat - nu heb je geregenereerd je twee reactanten.
+
+0:42:39.950,0:42:44.770
+Dus je fluor en je waterstof klaar
+voor de taak opnieuw om deze truc te laten werken.
+
+0:42:44.770,0:42:48.410
+Dit is een stuk dat je kan eigenlijk af te kopen van de
+plank. Dus dit is wel cool! Dit is een gesloten
+
+0:42:48.410,0:42:55.410
+cyclus voor hoe u uw nieuwe brandstof te krijgen van hier
+naar hier. Je bent in wezen het omzetten van thorium
+
+0:42:56.650,0:43:00.880
+in energie. Eerst in U233, en vervolgens in
+energie door middel van kernsplijting. Nu natuurlijk ben je
+
+0:43:00.880,0:43:05.150
+met maximaal enkele thorium om dit te doen. Dus moet je
+te hebben een beetje feed van thorium fluoride,
+
+0:43:05.150,0:43:09.090
+je nodig hebt om een ??aantal nieuwe thorium worden opgenomen in de
+deken te halen voor de thorium je bent
+
+0:43:09.090,0:43:11.070
+consumeren. Maar een zeer efficiënte reactie.
+
+0:43:11.070,0:43:14.370
+Laat me je voorstellen aan een typische nucleaire
+reactor.
+
+0:43:14.370,0:43:18.480
+Watts Bar Plant in Tennessee, Ik heb eigenlijk
+geweest om deze nucleaire reactor voorheen. Deze
+
+0:43:18.480,0:43:23.080
+heeft een onderscheid van de nieuwste nucleaire
+reactor in de Verenigde Staten. Dit kwam online
+
+0:43:23.080,0:43:28.460
+in 1996.
+Een grote drukwaterreactor schip. 150
+
+0:43:28.460,0:43:33.400
+atmosferen, vaste nucleaire brandstof. Fission is
+er aan de hand. Water wordt door middel van gepompt. Het is
+
+0:43:33.400,0:43:37.050
+heter. Dit water gaat vervolgens door
+een stoomgenerator en in een andere lus van water
+
+0:43:37.050,0:43:41.900
+stoom wordt verhoogd. Het gaat om de turbine,
+draait de turbine, die de generator draait
+
+0:43:41.900,0:43:43.200
+maakt elektriciteit.
+
+0:43:43.200,0:43:46.390
+Dit is de stoomturbine. En toen ik was
+bij Watts Bar dit is het deel I moet gaan
+
+0:43:46.390,0:43:46.970
+te zien.
+
+0:43:46.970,0:43:53.970
+Er was geen Skitch van stof op iets!
+Nu, als iemand van jullie zijn geweest om een ??kolencentrale
+
+0:43:54.500,0:43:59.410
+en gezien het dezelfde stoom turbine, omdat ze
+maken gebruik van dezelfde technologie in een kolencentrale. Het
+
+0:43:59.410,0:44:06.410
+is niets zoals dit. Een kolencentrale is vuil,
+het stinkt, het is smerig, en het is druipt.
+
+0:44:06.900,0:44:10.370
+Dit ding was bijna antisepticum in de weg
+het eruit.
+
+0:44:10.370,0:44:10.620
+Is er behoefte aan dat?
+
+0:44:10.370,0:44:17.370
+Ik weet het niet. Dus ik ben naast deze permanente
+machine. Je kunt niet echt een persoon, over
+
+0:44:17.840,0:44:19.550
+yay hoog hier.
+
+0:44:19.550,0:44:25.860
+Het is deze lage druk turbine. En deze
+is het draaien van de as, die draait dit.
+
+0:44:25.860,0:44:29.960
+Nu in de voorkant van deze man is dit kleine ding
+genaamd de hoge druk turbine. En je
+
+0:44:29.960,0:44:30.700
+kan niet echt zien. Je ziet de grote drie
+lagedrukturbines, maar je niet ziet de
+
+0:44:30.700,0:44:32.090
+hoge-druk turbine. De hoge druk turbine
+is weinig Bitty. Het is als een eenderde van de grootte
+
+0:44:32.090,0:44:37.200
+van de generator. De hoge-druk turbine
+maakt ongeveer tweederde van het koppel dat de
+
+0:44:37.200,0:44:38.310
+draaien van de as.
+
+0:44:38.310,0:44:42.490
+En de lagedrukturbines maken over de
+een derde van het koppel dat het draaien van de
+
+0:44:42.490,0:44:46.790
+as. Deze kleine kerel is bijna allemaal doet
+het werk en deze grote, grote, grote jongens zijn
+
+0:44:46.790,0:44:47.930
+nauwelijks iets te doen.
+
+0:44:47.930,0:44:51.740
+Als de stoom gaat in de hoge-druk
+turbine, het is dicht. Het heeft veel energie
+
+0:44:51.740,0:44:55.980
+en een beetje volume. Maar dan moet je laten blazen
+naar beneden als het gaat over de hoge druk turbine
+
+0:44:55.980,0:44:58.000
+en wordt een lage-druk stoom.
+
+0:44:58.000,0:45:02.670
+Dat is waarom deze machines moeten zo darn
+groot. Omdat de stoom die ze te verwarmen
+
+0:45:02.670,0:45:07.200
+heeft al verloren de overgrote meerderheid van de
+energie dat het gaat op te geven.
+
+0:45:07.200,0:45:12.380
+Dit is de reactor zelf, het reactorvat
+hier is waar alle regelstaven slide
+
+0:45:12.380,0:45:16.840
+in en uit de kern. En dan is er deze
+vier stoomgeneratoren, zo groot zo niet groter
+
+0:45:16.840,0:45:20.190
+dan de reactoren en ze hebben ook moeten werken
+bij deze zeer hoge druk.
+
+0:45:20.190,0:45:27.190
+Er zijn vier van hen. Kijk eens aan. Een, twee,
+drie, vier, vijf, zes, zeven, acht. Groot
+
+0:45:27.430,0:45:28.280
+leidingen.
+
+0:45:28.280,0:45:32.630
+De nummer een ongeluk mensen maken zich zorgen over
+met dit soort reactor is wat heet
+
+0:45:32.630,0:45:38.460
+de double-ended pijp te breken. Een van deze
+acht pijpen, voor welke reden dan ook, scharen.
+
+0:45:38.460,0:45:44.600
+En ineens, de druk is verloren in de
+reactor. Dat water dat wordt gehouden water
+
+0:45:44.600,0:45:51.490
+op 300 graden Celsius door 150 atmosferen van druk,
+wanneer je de druk verliest knippert om stoom,
+
+0:45:51.490,0:45:57.070
+vrijwel direct tot stoom. En wanneer dat gebeurt,
+het volume stijgt ongeveer met een factor van
+
+0:45:57.070,0:46:02.330
+1.000. Dus wat was yay dicht is nu niet zo
+dichte meer.
+
+0:46:02.330,0:46:07.600
+Het andere ding dat gebeurt, is stoom niet
+weg te nemen warmte bijna even goed als vloeibaar water
+
+0:46:07.600,0:46:12.960
+doet van een oppervlak. Dus alle van een plotselinge uw
+brandstofstaven worden niet bijna net zo effectief gekoeld
+
+0:46:12.960,0:46:17.030
+als ze eerst waren. Nu splijting stopt
+omdat een van de dingen die het water aan het doen is
+
+0:46:17.030,0:46:21.400
+is het vertragen van de neutronen. Dus zonder de
+water van de kernsplijting reactie stopt. Je hoeft niet
+
+0:46:21.400,0:46:27.550
+moeten regelstaven in of wat dan ook. De
+reactor zal direct uitgeschakeld. Maar het
+
+0:46:27.550,0:46:30.470
+zal nog steeds het genereren van warmte uit die kernsplijting
+producten.
+
+0:46:30.470,0:46:35.810
+Hier is wat er gebeurt als je een dubbel-ended
+pijp te breken. U krijgt dit hele insluiting
+
+0:46:35.810,0:46:36.890
+vat gevuld met water.
+
+0:46:36.890,0:46:41.010
+Nu, ik wil u alles vertellen omdat
+Ik probeer te focussen op negatieve situaties
+
+0:46:41.010,0:46:44.870
+hier. Ik vertel je dit omdat dit is
+Wat drijft het ontwerp van dit gebouw. Deze
+
+0:46:44.870,0:46:51.660
+gebouw is de omvang is en het is de manier waarop
+het is juist om tegemoet dit evenement.
+
+0:46:51.660,0:46:57.650
+Ze hebben ontwierp deze reactor dus als dit gebeurt,
+de stoom wordt opgevangen in dit gebouw
+
+0:46:57.650,0:46:58.750
+en niet meer uit.
+
+0:46:58.750,0:47:03.060
+Kijk naar de grootte van de reactor. Kijk naar de
+grootte van de containment gebouw. Het is enorm.
+
+0:47:03.060,0:47:09.150
+Het is veel groter dan de reactor en het is
+alles aangestuurd door die duizend tot een verschil
+
+0:47:09.150,0:47:14.830
+in de dichtheid tussen stoom en vloeibaar water.
+Nu als dit gebeurt, moet je uitzoeken
+
+0:47:14.830,0:47:21.060
+een manier om weer water op de splijtstofstaven naar
+koel ze. Dus ze hebben een reeks van nood
+
+0:47:21.060,0:47:25.380
+systemen in deze reactor en ze werken op
+alle verschillende stadia van de druk.
+
+0:47:25.380,0:47:28.200
+Dus het idee is als je nog steeds onder hoge druk
+en je hebt om water te halen daar, hebben we
+
+0:47:28.200,0:47:31.210
+kreeg een systeem voor. Als je hebt verloren een aantal
+van uw druk en je hebt om water te halen
+
+0:47:31.210,0:47:34.460
+daar, we hebben een systeem voor. Als
+je hebt verloren al uw druk en we hebben
+
+0:47:34.460,0:47:37.900
+om het water daar, we hebben een systeem
+voor. Dus er is een hoop van systemen en
+
+0:47:37.900,0:47:42.200
+dan is er back-ups om deze systemen, en
+het is allemaal gedreven door deze hoge druk en
+
+0:47:42.200,0:47:43.450
+door het gebruik van water.
+
+0:47:43.450,0:47:43.920
+Ja, meneer?
+
+0:47:43.920,0:47:49.100
+Heeft de stuurstang raketschild houden
+de regelstaven van ponsen een gat door
+
+0:47:49.100,0:47:53.550
+het dak als de stoom explosie het bereikt
+reactor kamer?
+
+0:47:53.550,0:47:58.340
+Precies. Hier is de controle-stang aandrijfmechanisme.
+Hier is de staven. Als u zich niet dit deel,
+
+0:47:58.340,0:48:03.450
+laten we zeggen dat de las-mislukte, en dit ding
+gaat "boom" en schieten de regelstaven,
+
+0:48:03.450,0:48:07.020
+dat is er om te voorkomen dat ze slechte dingen doen
+als ponsen een gat in de top.
+
+0:48:07.020,0:48:12.300
+Dat is eigenlijk gebeurde een keer. Dat was
+een leger reactor en ze hadden niet een inperking
+
+0:48:12.300,0:48:16.410
+gebouw. Een arme man kreeg gespietst aan het
+het plafond door een regelstang zo ...
+
+0:48:16.410,0:48:18.530
+Dat moet de coolste manier om te sterven te zijn.
+
+0:48:18.530,0:48:21.900
+Dat was een echt slechte dag. Als hij niet te krijgen
+gespietst de straling ging hem halen.
+
+0:48:21.900,0:48:26.810
+De pinhole camera gespot diverse locaties
+en bronnen van gammastraling een hoge activiteit
+
+0:48:26.810,0:48:33.170
+buiten het reactorvat vermoedelijk uit
+reactor geblazen componenten van de kern door
+
+0:48:33.170,0:48:34.920
+de kracht van de 500 PSI explosie.
+
+0:48:34.920,0:48:38.480
+Het reactorvat is ongeveer negen centimeter dik
+staal. Wanneer u hebt negen centimeter dik staal
+
+0:48:38.480,0:48:42.460
+en het moet in kernreactoren en heeft
+perfect te zijn, kun je niet gaan en las negen
+
+0:48:42.460,0:48:46.850
+centimeter dik staal. Ze niet maken dat
+manier. Ze smeden het in een stuk. Niet veel
+
+0:48:46.850,0:48:53.800
+mensen hebben de mogelijkheid om een ??10-meter te bouwen
+diameter, 20 meter lange, uit een stuk, negen
+
+0:48:53.800,0:48:57.920
+cm dik smeden. In feite is er precies
+een plaats in de wereld je kunt bouwen dit.
+
+0:48:57.920,0:49:00.670
+Het heet een plek Japan Steel Works in Japan.
+
+0:49:00.670,0:49:03.320
+Het is een beperkende factor, want je zegt "I
+willen heel veel van kernreactoren te bouwen. "
+
+0:49:03.320,0:49:07.670
+Of je gaat naar een nieuwe zware smeden te bouwen,
+dat is echt alleen voor deze taak, of je bent
+
+0:49:07.670,0:49:11.460
+gaat om een ??lange tijd wachten om je reactor te krijgen
+in de rij om te gaan doen.
+
+0:49:11.460,0:49:14.160
+Laat me diss op het water een paar keer.
+
+0:49:14.160,0:49:16.960
+Hier is waarom water is niet zo'n groot ding
+voor de binnenkant van een nucleaire reactor. Aantal
+
+0:49:16.960,0:49:22.430
+een, het kan niet de temperatuur hack, die we al
+over gesproken dat. Nummer twee, het is een covalent
+
+0:49:22.430,0:49:27.790
+gebonden stof. De zuurstof heeft een covalente
+band met twee waterstofatomen. Geen een van die
+
+0:49:27.790,0:49:33.440
+obligaties is sterk genoeg om te overleven krijgen van
+sloeg rond door een gamma of een neutron. Ze zijn
+
+0:49:33.440,0:49:37.600
+gewoon te snel. En ja hoor, ze kloppen
+de waterstofatomen schoon uit.
+
+0:49:37.600,0:49:42.310
+Nu, in een watergekoelde reactor, heb je een
+systeem genaamd een recombiner dat zal
+
+0:49:42.310,0:49:47.890
+het waterstofgas en zuurstofgas, dat is
+altijd gemaakt van de kernreactie
+
+0:49:47.890,0:49:51.740
+en zet ze weer in elkaar, want chemisch
+ze veel liever water dan dat waterstof
+
+0:49:51.740,0:49:56.420
+en zuurstof. Het is een geweldig systeem, zolang
+deze werkt en het systeem pompt.
+
+0:49:56.420,0:50:01.030
+Nou ja, Fukushima Daiichi, het probleem was
+dat het pompvermogen gestopt. Wanneer de pompen
+
+0:50:01.030,0:50:07.140
+energie gestopt, water was nog steeds busted
+uit elkaar. Waterstof is echt licht, en hoewel
+
+0:50:07.140,0:50:11.780
+het wil weer met zuurstof zal het
+distantiëren vrij snel. De waterstof wordt
+
+0:50:11.780,0:50:15.430
+zitten aan de bovenkant van het schip en de zuurstof
+zal zitten in een laag eronder, en dan is er
+
+0:50:15.430,0:50:16.200
+het water.
+
+0:50:16.200,0:50:20.630
+De ontwerpers van die bepaalde reactor had
+met opzet het zo dat je zou
+
+0:50:20.630,0:50:24.830
+vent de waterstof buiten de insluiting
+gebouw. Dit is altijd al soort van controversieel.
+
+0:50:24.830,0:50:29.310
+Ze geleide de waterstof naar de bovenste dekken
+van de reactor, die buiten het containment.
+
+0:50:29.310,0:50:33.870
+Ze zijn gewoon een soort van dunne stalen frame
+er structuur op. En een, twee, drie, we
+
+0:50:33.870,0:50:38.460
+zeggen dat het gebeuren op het nieuws. Eerst een gevuld
+met waterstof, moet een bepaald punt, boem.
+
+0:50:38.460,0:50:41.620
+Het nieuws zei: "O, We hebben een nucleaire explosie had."
+en ik heb zoiets van, "Nee, we niet. Het was niet een
+
+0:50:41.620,0:50:44.720
+nucleaire explosie. Het was een waterstof gas explosie. "
+Het heeft niet barsten de insluiting.
+
+0:50:44.720,0:50:49.690
+Ik wil niet om het te verminderen te veel, maar het
+was niet zo eng als het klonk. Het
+
+0:50:49.690,0:50:51.420
+gebeurde een, twee, drie.
+
+0:50:51.420,0:50:56.900
+De tsunami trof ongeveer een uur nadat de reactoren
+werden stilgelegd. Fission was allang verdwenen door de
+
+0:50:56.900,0:51:01.130
+moment dat de tsunami kwam. Maar de reactoren
+waren nog steeds het beheren van verval warmte. De tsunami
+
+0:51:01.130,0:51:05.000
+kwam en vernietigde de diesel generatoren,
+maar ze had nog steeds batterijen en accu's die
+
+0:51:05.000,0:51:06.810
+liep voor ongeveer acht uur.
+
+0:51:06.810,0:51:10.790
+Dat acht uur was de belangrijkste tijd
+van alles. Als je tot acht uur te kiezen voor
+
+0:51:10.790,0:51:14.350
+Zorg ervoor dat de pompen nog werkten,
+die eerste acht uur waren de belangrijkste
+
+0:51:14.350,0:51:18.760
+tijd. Tegen de tijd dat de accu's liep droog en
+de pompen gestopt, de reactor had gekregen
+
+0:51:18.760,0:51:24.230
+voorbij het ergste deel van zijn verval warmte comedown.
+Het was nog steeds gaande, heeft verval warmte niet
+
+0:51:24.230,0:51:28.370
+uit te schakelen, en het blijft zelfs in de verbruikte splijtstof.
+Dat verval warmte verder te bouwen. Hitte was
+
+0:51:28.370,0:51:30.160
+niet worden verwijderd uit de reactor.
+
+0:51:30.160,0:51:32.840
+Waarom waren ze niet met de stroom van de
+reactor om de pompen te draaien? Omdat de reactor
+
+0:51:32.840,0:51:33.400
+was uitgeschakeld.
+
+0:51:33.400,0:51:38.360
+Dit toont als je dom ontwerpen, iets
+ergs zal gebeuren, zelfs na 40 jaar. Een vriend
+
+0:51:38.360,0:51:42.620
+van mij werd voor het eerst de nucleaire veiligheid van GE's engineer
+en werkte hij aan de Fukushima plant, en
+
+0:51:42.620,0:51:46.860
+ze zouden hebben gesprekken met de ambtenaren TEPCO
+en ingenieurs en ze zouden allemaal knikken hun
+
+0:51:46.860,0:51:50.750
+hoofden in lange vergaderingen en zeggen: "We zullen dit doen,
+zullen we dat doen, 'en dan zijn ze af te gaan na
+
+0:51:50.750,0:51:55.620
+de vergadering en doen wat ze wilden. Dat is
+waarom had je een 15 meter hoge zeewering met een 45-voet
+
+0:51:55.620,0:51:58.850
+golf die over, en diesel generatoren en
+brandstof in de kelder.
+
+0:51:58.850,0:52:02.940
+Het heeft niets te maken met kernenergie, is het
+heeft te maken met slecht beheer en je zou niet
+
+0:52:02.940,0:52:09.940
+zelfs het ontwerpen van een eenvoudige fabriek de manier waarop
+werd ontworpen. Ik weet zeker dat je zou kunnen praten met de
+
+0:52:11.550,0:52:15.750
+Japanse vertegenwoordiger hier over TEPCO's
+het management krijgt geschopt jaar geleden voor
+
+0:52:15.750,0:52:18.290
+fraude en andere dingen. Ze hebben gehad een geschiedenis.
+
+0:52:18.290,0:52:23.170
+Laat me praten over het nucleaire huidige brandstof, omdat de
+dat is voor beide kokend water reactoren,
+
+0:52:23.170,0:52:28.540
+drukwaterreactoren en CANDUs. Deze
+is een handvol van deze uranium oxide brandstofcel pellets.
+
+0:52:28.540,0:52:33.630
+De kerel heeft handschoenen aan en het is gemakkelijk te denken
+Hij heeft handschoenen aan om hem te beschermen tegen de
+
+0:52:33.630,0:52:37.410
+uraniumoxide, maar nu ik heb geleerd je
+over de ware aard van radioactiviteit, kunt u
+
+0:52:37.410,0:52:41.030
+kunnen gaan: "Ik ben niet zo zeker van dat spul, zodat het
+gevaarlijk na alles, "en je zou juist zijn.
+
+0:52:41.030,0:52:45.630
+Hij is niet het beschermen van zichzelf van het uranium,
+hij is de bescherming van het uranium uit zichzelf.
+
+0:52:45.630,0:52:49.910
+Dat spul moet blijven super zuiver en super
+schoon en u niet wilt dat aan een van je te krijgen
+
+0:52:49.910,0:52:55.090
+olie, of vet of zweet op de nucleaire brandstof die is
+ga in een brandstof staaf dus dat is wat
+
+0:52:55.090,0:52:56.330
+de handschoenen zijn voor.
+
+0:52:56.330,0:53:00.660
+Ze nemen deze brandstof pellets en schuif ze
+onderaan deze zirkonium buizen en ze daadwerkelijk
+
+0:53:00.660,0:53:05.180
+zal scheiden van de pellets in de lengte
+van de brandstof samenstel volgens verrijking.
+
+0:53:05.180,0:53:08.440
+Ze zetten de meest verrijkt die in de
+midden, en dan zullen ze soort van daling
+
+0:53:08.440,0:53:13.800
+de verrijking langs de lengte van de brandstof
+assemblages. Het is echt, echt duur
+
+0:53:13.800,0:53:15.930
+te fabriceren vaste brandstof.
+
+0:53:15.930,0:53:21.180
+Terug in de dag, hun business model voor
+hoe je een nucleaire reactor was soms
+
+0:53:21.180,0:53:26.540
+aangeduid als een 'scheermesjes business model, "
+met andere woorden verkopen deze reactoren aan nutsbedrijven
+
+0:53:26.540,0:53:31.670
+vrijwel tegen kostprijs om ze te vergrendelen
+in een lange termijn leveringscontract.
+
+0:53:31.670,0:53:35.500
+Het was goed geld voor hen, want zodra iemand
+aankoop van uw reactor, ze gaan kopen
+
+0:53:35.500,0:53:39.460
+uw Westinghouse 17x17 reeks brandstof. Ze zijn
+niet van plan om te gaan "Hey, GE, wat voor soort deal
+
+0:53:39.460,0:53:42.240
+kunt u mij op deze? "En wordt verteld" Dude,
+je heb geen reactor. 'Je werkt
+
+0:53:42.240,0:53:46.400
+met die vent, is er geen markt die er
+als je eenmaal bouwen van de reactor, bent u met behulp van zijn
+
+0:53:46.400,0:53:49.630
+brandstof. Als hij beslist om de prijs te veranderen
+je, nou, dat is moeilijk.
+
+0:53:49.630,0:53:53.410
+Hier is de reactor. Het heeft de deksel eraf,
+en dan zullen ze vullen het geheel aan
+
+0:53:53.410,0:53:57.120
+een niveau met water, dus maken ze de hele
+ding in een zwembad. Vul dit hele
+
+0:53:57.120,0:54:02.030
+ding met water, omdat het water is
+stralingswerende. Ze nemen de splijtstofpakketten
+
+0:54:02.030,0:54:06.480
+uit en zet het in de bestraalde splijtstof zwembad. Deze
+is wat ze moeten doen ongeveer elke 18 maanden
+
+0:54:06.480,0:54:10.800
+naar de reactor. Ze zullen uit te nemen ongeveer een derde
+van de brandstof en dan zullen ze belasting in ongeveer
+
+0:54:10.800,0:54:14.850
+Een derde nieuwe verse brandstof en dan zullen ze herschikking
+de brandstof die al is daar. Ze zullen
+
+0:54:14.850,0:54:17.430
+verplaatsen vanuit het centrum naar de periferie.
+
+0:54:17.430,0:54:21.170
+Het is als "Lord of the Rings", "The Great
+Eye is kijken, "nee, het is echt niet in de
+
+0:54:21.170,0:54:26.050
+oog. Hier is wat het werkelijk is. Het is een cross-sectie
+van nucleaire brandstof. Dit is uraniumoxide en
+
+0:54:26.050,0:54:30.290
+als je het in een reactor voor een tijdje,
+een van de dingen die xenon doet, het is een gas,
+
+0:54:30.290,0:54:35.610
+dus het is weg, weg, veel minder dicht dan massieve
+brandstof. Wanneer u dit gas te maken, het begint te
+
+0:54:35.610,0:54:38.540
+breken de solide structuur van de brandstof.
+
+0:54:38.540,0:54:43.510
+De vaste brandstof begint te zwellen en barsten
+en de gassen, de krypton en xenon de
+
+0:54:43.510,0:54:47.680
+beginnen te vullen, en je begint om dit te krijgen
+centrale vide. Dit is eigenlijk een gat in de
+
+0:54:47.680,0:54:50.300
+brandstof. Splijting product gassen zal accumuleren
+hier.
+
+0:54:50.300,0:54:55.440
+Wigner hield niet van vaste brandstof. Hij was een chemische
+ingenieur van opleiding en hij dacht: "Wat
+
+0:54:55.440,0:55:00.200
+soort van industrieel proces gaan we chemisch lopen
+op basis van vaste stof? "Hij gaat 'Wij niet. Alles
+
+0:55:00.200,0:55:04.740
+we doen, gebruiken we als vloeistoffen of gassen, omdat
+kunnen we volledig meng ze. "U kunt
+
+0:55:04.740,0:55:08.560
+een vloeistof, kunt u volledig mixen. U kunt nemen
+een gas, kunt u volledig mixen. U kunt geen
+
+0:55:08.560,0:55:12.490
+een solide en volledig meng dit tenzij u deze
+in een vloeistof of een gas.
+
+0:55:12.490,0:55:17.110
+Om een ??idee te geven, hier is wat we doen vandaag.
+We maken deze vaste uranium oxide brandstofcel en
+
+0:55:17.110,0:55:21.600
+Er is een enkele pellet, en dan gaan we zetten ze
+in deze grote reactor splijtstofelementen, zirconium
+
+0:55:21.600,0:55:24.760
+buizen, die als 12 meter lang en ongeveer
+deze grote rond. Daarna steken ze in de
+
+0:55:24.760,0:55:29.660
+reactor en bestralen ze voor een paar
+jaar. We branden, maar om een ??kleine hoeveelheid van de
+
+0:55:29.660,0:55:32.910
+uranium dat is daar nemen we het uit en
+We houden het in een bestraalde splijtstof zwembad. Het is niet
+
+0:55:32.910,0:55:34.010
+zeer efficiënt.
+
+0:55:34.010,0:55:38.740
+Het zwaar water reactor zal gebruik maken van ongeveer 0,7
+procent energie waarde en de licht water ...
+
+0:55:38.740,0:55:44.120
+Reactoren in de Verenigde Staten, we extraheren
+ongeveer de helft van een procent van de energie die
+
+0:55:44.120,0:55:47.750
+in het uranium. Je kunt je voorstellen gaat uw
+baas zeggen: "Ik ontwikkelde een nieuw systeem", "Well
+
+0:55:47.750,0:55:53.450
+hoe efficiënt is het? "," Het is minder dan 1 procent ",
+"Neem me niet kwalijk, wat heb je bouwen? Ik denk dat je
+
+0:55:53.450,0:55:56.460
+moeten werken aan dat weer gaan, "weet je.
+We zouden gewoon niet accepteren.
+
+0:55:56.460,0:56:00.640
+Ik ben een ingenieur. Als je zo ver weg 100
+procent, man, ik wil een heel stuk dichterbij komen
+
+0:56:00.640,0:56:05.290
+Weinberg en deed ook. Ze wilden om naar
+bijna 100 procent van de energie gebruik.
+
+0:56:05.290,0:56:08.710
+Het gesmolten zout reactor experiment was het
+kern deel van uit. Ze hadden geen een deken
+
+0:56:08.710,0:56:12.480
+er omheen, ze wilde gewoon zien of ze
+kon de eerste stap om te werken, en ze
+
+0:56:12.480,0:56:13.610
+waren succesvol.
+
+0:56:13.610,0:56:17.970
+Nadat ze voltooide de gesmolten zout reactor
+experiment, gingen ze naar de Atomic Energy
+
+0:56:17.970,0:56:21.920
+Commissie ze zei: "He, G, kunnen we
+wat meer geld? We willen graag nu gaan en te bouwen
+
+0:56:21.920,0:56:27.640
+het echte werk. We willen graag de deken te bouwen
+en haak een power conversie systeem aan en
+
+0:56:27.640,0:56:32.120
+maken elektriciteit, "ze had het gevoel dat ze geschoten
+de maan. De Commissie voor Atoomenergie helaas
+
+0:56:32.120,0:56:34.110
+niet delen hun ijver.
+
+0:56:34.110,0:56:39.160
+Ze hadden erg veel geïnvesteerd in een alternatieve
+technologie, het plutonium snelle kweekreactor
+
+0:56:39.160,0:56:46.160
+op basis van vaste brandstoffen en het draaien van overvloedige
+uranium-238 in plutonium-239 en dan branden
+
+0:56:46.280,0:56:50.800
+het in de reactor. Het ging om een ??heel andere
+set van technologieën die nog veel meer waren
+
+0:56:50.800,0:56:56.770
+lijn met de licht water reactoren. Het is grappig,
+zelfs op dat moment 50 jaar geleden, niemand dacht
+
+0:56:56.770,0:57:00.850
+het licht water reactor, het zwaar water reactor
+zou rond erg lang. Ze waren gewoon
+
+0:57:00.850,0:57:04.740
+gewoon te inefficiënt in hun gebruik van kernenergie
+brandstof.
+
+0:57:04.740,0:57:08.000
+Zoals ik al zei, de Commissie voor Atoomenergie
+zei: "He, wat denk, we zetten dit alles
+
+0:57:08.000,0:57:12.080
+geld in de snelle fokker. We hebben al deze
+bedrijven rij om de snelle fokker te doen.
+
+0:57:12.080,0:57:17.720
+Ze hebben zelfs een daadwerkelijk gebouwd in Monroe, Michigan.
+Het had een kernsmelting. Ze waren onverschrokken,
+
+0:57:17.720,0:57:22.140
+zij werden naar voren bewegen en dus vertelden ze
+Weinberg om een ??wandeling te maken.
+
+0:57:22.140,0:57:26.330
+Het verhaal krijgt een iets ingewikkelder te
+want naast het feit dat een thorium goeroe,
+
+0:57:26.330,0:57:30.860
+Weinberg was ook de uitvinder van
+de onder druk staande water reactor. Hij had uitgevonden
+
+0:57:30.860,0:57:37.680
+hij en zijn patent gekregen voor het in 1947, zodat
+Het was een beetje een lastig ding om te hebben
+
+0:57:37.680,0:57:44.250
+de uitvinder van het licht water reactor pleiten
+voor iets heel, heel, heel anders.
+
+0:57:44.250,0:57:48.410
+En kreeg een beetje erger dan dat ook, want
+Weinberg was nooit echt gek over de
+
+0:57:48.410,0:57:51.430
+licht water reactor. Hij hield niet van het feit
+dat het moest draaien op echt hoge druk.
+
+0:57:51.430,0:57:57.330
+Er zou een ongeval op een dag waar je zijn
+waren niet in staat om de druk of te behouden
+
+0:57:57.330,0:58:02.800
+blijven koelen. Er zou een kernsmelting zijn,
+er kan een vrijkomen van radioactiviteit zijn.
+
+0:58:02.800,0:58:08.480
+Komt dit je bekend voor? En hij was
+het maken van genoeg van een stank over dit dat er
+
+0:58:08.480,0:58:10.530
+was een congres leider genaamd Chet Holifield ...
+
+0:58:10.530,0:58:13.720
+Een lid van de gezamenlijke Congressional Atomic
+Energie-Comite ...
+
+0:58:13.720,0:58:18.520
+Die vertelde Alvin Weinberg, zei hij, "Als je
+zo bezorgd over de veiligheid van kernenergie,
+
+0:58:18.520,0:58:23.090
+is het misschien tijd voor u om de nucleaire verlaten
+bedrijf. "Hij was niet vraagtekens bij de waarde
+
+0:58:23.090,0:58:28.550
+of het belang van kernenergie, als er iets
+hij was veel meer overtuigd, dat dan
+
+0:58:28.550,0:58:29.890
+iemand anders.
+
+0:58:29.890,0:58:34.800
+Wat hij vragen was of de juiste
+weg zijn genomen in de ontwikkeling van de nucleaire
+
+0:58:34.800,0:58:39.710
+reactoren. Hij was bijzonder goed geschikt
+om die vraag omdat zijn rol als
+
+0:58:39.710,0:58:45.140
+uitvinder van de overheersende technologie zodat hij was
+zachtjes de deur gewezen.
+
+0:58:45.140,0:58:50.480
+Nadat hij was vertrokken Oak Ridge u zich kunt voorstellen
+dingen niet goed gaan voor het onderzoeksteam
+
+0:58:50.480,0:58:54.750
+de Commissie voor Atoomenergie, in opdracht
+een rapport WASH 1222 ik noem het wit
+
+0:58:54.750,0:58:56.420
+Was 1222.
+
+0:58:56.420,0:59:01.810
+Omdat ze echt nitpicked op drie zeer,
+zeer kleine problemen over de reactor en zei:
+
+0:59:01.810,0:59:06.990
+kijk hier grote problemen. Ik denk niet dat we kunnen
+ga vooruit totdat deze zijn opgelost. Wanneer
+
+0:59:06.990,0:59:11.940
+het tijd werd om te praten over de veiligheid en
+de prestaties van de reactor kunnen er
+
+0:59:11.940,0:59:18.940
+een aantal voordelen die niet zijn gekwantificeerd
+maar met betrekking tot deze aanpak, maar je weet dat we
+
+0:59:19.510,0:59:23.080
+gewoon echt niet zeker van.
+
+0:59:23.080,0:59:26.570
+Gewoon brandt me omdat ik denk dat grote, grote,
+grote fout gemaakt in de Verenigde Staten lopen
+
+0:59:26.570,0:59:27.900
+weg van deze.
+
+0:59:27.900,0:59:31.660
+Zodat ze al hun chips snel kweekreactor
+en dat werkte niet zo goed voor hen.
+
+0:59:31.660,0:59:35.540
+Ze beginnen het bouwen van een in Tennessee. De
+het programma terecht gekomen in het krijgen geannuleerd door Carter
+
+0:59:35.540,0:59:40.410
+in 1979 en werd kort opgewekt door Reagan
+in 1981 en daarna weer opgeheven. Dus dat is
+
+0:59:40.410,0:59:43.760
+wat er gebeurd is om te vasten broeden reactor in de
+Verenigde Staten, een paar landen gehouden
+
+0:59:43.760,0:59:44.280
+gaan met het.
+
+0:59:44.280,0:59:48.720
+De Fransen ging met hem in de jaren tachtig bouwden ze
+Phenix en Superphenix en dan zijn ze geëindigd
+
+0:59:48.720,0:59:52.470
+boven af ??te sluiten is er snel fokker ook en
+de Japanners probeerde het, maar ze hadden een aantal
+
+0:59:52.470,0:59:55.720
+maar een zogenaamde Monju en het was gesloten
+naar beneden sinds het midden van de jaren '90.
+
+0:59:55.720,0:59:59.490
+Dan een paar maanden geleden keerden zij terug
+op en dan iemand liet een kraan in vloeibare
+
+0:59:59.490,1:00:03.840
+natrium en dan sluit het weer af, zodat
+u weet heeft iedereen de snelle fokker geprobeerd
+
+1:00:03.840,1:00:05.620
+reactor. Ik denk dat de Russische's proberen
+het.
+
+1:00:05.620,1:00:09.690
+Ik heb een paar goede vrienden in de nucleaire industrie.
+Ze zijn zeer grote voorstanders van de snelle fokker
+
+1:00:09.690,1:00:15.050
+reactor. De gemeenschappelijke naam voor nu is de integrale
+een snelle reactor. Ik ben niet de grootste fan een reactor
+
+1:00:15.050,1:00:19.220
+dat vol is van vloeibaar natrium. Als een van u
+zijn chemici hier je waarschijnlijk herinneren natrium
+
+1:00:19.220,1:00:26.220
+heeft een grote infinity voor zowat alles.
+
+1:00:27.740,1:00:29.740
+Wat zijn uw gedachten over de lopende golf
+reactor?
+
+1:00:29.740,1:00:34.120
+De reizende wave reactor is een andere vorm
+van een vloeibaar metaal snelle kweekreactor. Het
+
+1:00:34.120,1:00:38.290
+is een bijzonder moeilijke implementatie
+van die reactor. Dat de reactor is al hard
+
+1:00:38.290,1:00:42.590
+te bouwen op de eerste plaats, met de reizende
+wave ze het nog ingewikkelder te maken door
+
+1:00:42.590,1:00:47.370
+zeggen: we gaan de brandstof te verlaten in de
+reactor voor de levensduur van de reactor.
+
+1:00:47.370,1:00:52.880
+Fysiek propageren dit deflagratie golf,
+een nucleaire conversie en branden golf. Waarom
+
+1:00:52.880,1:00:56.880
+op aarde zou je een dergelijke harde reactor
+en maken het nog moeilijker met welk doel? Wat
+
+1:00:56.880,1:01:01.120
+is je doel? En alles wat ik heb kunnen lezen
+voor zover het hun doel is dat ze willen
+
+1:01:01.120,1:01:04.000
+nooit meer te recycleren of vervanging van de brandstof.
+
+1:01:04.000,1:01:07.430
+Aan het einde van hun leven hun concept is
+gewoon begraven het ding in de grond en laat
+
+1:01:07.430,1:01:12.850
+het daar. Ik denk, "Je hoeft niet laten een
+stelletje plutonium in een pool van vloeibaar natrium
+
+1:01:12.850,1:01:17.270
+ondergronds voor een langere periode van tijd
+dat is een slechte vervreemding optie. "
+
+1:01:17.270,1:01:21.400
+Ze hebben aangetrokken Bill Gate die natuurlijk
+is een extreem rijke man. Als Bill Gates
+
+1:01:21.400,1:01:24.810
+wil besparen een hoop geld dat hij kan krijgen in
+contact met mij en ik denk dat ik hem kan praten
+
+1:01:24.810,1:01:25.820
+van reizen golf.
+
+1:01:25.820,1:01:29.780
+Hij zal niet terug mijn oproepen. Voel je niet slecht.
+
+1:01:29.780,1:01:35.350
+Vroeger was ik zo in de fusie, speciaal helium-3
+fusion, de mijnbouw in de stemming. Oh my God! Ik heb
+
+1:01:35.350,1:01:37.360
+Lees zo veel boeken over dat spul.
+
+1:01:37.360,1:01:39.850
+Fusion is magisch. Als we dat gebeuren
+Het zou magisch.
+
+1:01:39.850,1:01:43.780
+Ik nam deze fusie klas toen ik op Georgia
+Tech en ik zal het nooit vergeten. We zijn gestart
+
+1:01:43.780,1:01:46.230
+studeren en ik ga, "Man, dit is echt hard."
+
+1:01:46.230,1:01:50.930
+Geladen deeltjes willen niet dicht bij elkaar te krijgen
+andere. Bare kernen zijn beide geladen, positief
+
+1:01:50.930,1:01:52.240
+opgeladen, willen ze met elkaar te voorkomen.
+
+1:01:52.240,1:01:55.490
+En mijn professor had een geweldige manier van
+te zeggen. "Het is als naar de mini-golf."
+
+1:01:55.490,1:01:59.050
+Hij zegt: "Je weet hoe in mini-golf die je hebt
+kreeg de vulkaan en de vulkaan kreeg de
+
+1:01:59.050,1:02:02.870
+gat op de top, en je moet putt
+je bal in een manier dat het gaat helemaal
+
+1:02:02.870,1:02:07.990
+de kant van de vulkaan, en 'phwep!' valt
+in het gat. "Hij zegt:" OK. Dat is hetzelfde als fusie.
+
+1:02:07.990,1:02:12.570
+De bal is als een kern, en de vulkaan
+is de verstrooiing effect.
+
+1:02:12.570,1:02:16.570
+Dus elke keer dat je wilt hebben een kern gaan
+naar een andere kern, het verstrooit, het rolt
+
+1:02:16.570,1:02:19.830
+de berg op en rolt langs de zijkant,
+het rolt hier, daar ... en alleen
+
+1:02:19.830,1:02:23.770
+als je gewoon perfect te krijgen op de juiste
+hoek gaat het naartoe in de vulkaan. Now ", de
+
+1:02:23.770,1:02:27.030
+probleem met fusion, gaat hij, "Je kunt niet sturen
+de bal, moet je voldoende temperatuur hebben
+
+1:02:27.030,1:02:30.600
+zodat hij kan het helemaal naar boven de
+kant van de vulkaan en vallen in, en vervolgens
+
+1:02:30.600,1:02:34.030
+heb je genoeg ballen hebt, omdat je
+kan er niet sturen ze op de mini-golf park ",
+
+1:02:34.030,1:02:37.760
+dat is dichtheid, "en dan omdat ze
+vliegen all over the place, heb je te maken
+
+1:02:37.760,1:02:40.500
+zeker van dat er een hek rond de mini-
+golf park, zodat ze niet weg. "Dat is
+
+1:02:40.500,1:02:40.810
+opsluiting.
+
+1:02:40.810,1:02:45.240
+Hij zei: "Dat zijn je drie dingen, dichtheid,
+temperatuur en opsluiting, om fusie te maken
+
+1:02:45.240,1:02:45.490
+gebeuren. "
+
+1:02:45.440,1:02:49.350
+Ik zei: "Dude, dat is echt moeilijk!" Dus, ik
+kwam met een andere analogie: "Dus, ik denk dat
+
+1:02:49.350,1:02:54.500
+kernsplijting zou zijn als de mini-golf park met uitzondering van
+Nu de vulkaan flush was, het gat was ongeveer
+
+1:02:54.500,1:02:58.580
+deze grote rond, zijn de ballen gaan langzaam,
+en elke keer als de bal gaat in het gat,
+
+1:02:58.580,1:02:59.860
+twee meer ballen naar buiten komen. "
+
+1:02:59.860,1:03:02.800
+Hij gaat, "Ja, dat is behoorlijk goed."
+
+1:03:02.800,1:03:07.870
+Ik heb gekeken naar richten fusion, heb ik gekeken naar
+stoom-zuiger fusion, heb ik gekeken naar D-helium-3
+
+1:03:07.870,1:03:11.590
+en P-boor, en al die andere soort dingen
+en ik ben nog steeds, "Ik ben niet te kopen
+
+1:03:11.590,1:03:12.110
+het nog niet. "
+
+1:03:12.110,1:03:14.740
+Je zegt de business case is er niet.
+Dat is wat je zegt.
+
+1:03:14.740,1:03:20.280
+Het is gewoon zo verdomd hard! Ik bedoel, een fusiereactor
+is een grote vacuum buis bij 10 keV, die is als
+
+1:03:20.280,1:03:26.510
+15 patrillion graden, en vervolgens binnen deze
+zijn supergeleidende magneten die worden gehouden
+
+1:03:26.510,1:03:31.610
+in vloeibare helium, en dit alles is dubbelwandig
+in een lithium deken dat ras megacuries
+
+1:03:31.610,1:03:37.650
+van tritium, zal die dan worden geïnjecteerd in
+deze reactor, die wordt aangedreven door deze reusachtige
+
+1:03:37.650,1:03:38.120
+neutraal-ion balken.
+
+1:03:38.120,1:03:42.530
+Ik bedoel, het is net als, 'Oh my gosh! Kunnen we
+dit ding niet meer ingewikkelder dan het is? "
+
+1:03:42.530,1:03:46.840
+En zelfs dan kun je niet vasthouden van de opsluiting
+voor meer dan een paar microseconden in de Tokamak
+
+1:03:46.840,1:03:49.650
+configuratie, die is de meest favoriete en
+gewenst.
+
+1:03:49.650,1:03:54.420
+Thorium is eigenlijk een beetje meer naar beneden
+naar de aarde. Als je naar de vloeibare vorm, kracht
+
+1:03:54.420,1:03:59.340
+jezelf om die technologie verbintenis aan te gaan,
+50 jaar van nu, zullen de mensen gaan, "Natuurlijk
+
+1:03:59.340,1:04:00.530
+Dat is het antwoord! "
+
+1:04:00.530,1:04:04.190
+Fusion is zo hard dat we een fusie te bouwen
+reactor, en we kunnen 100 PhD's hebben werken
+
+1:04:04.190,1:04:07.680
+op. Fission is zo eenvoudig dat we kunnen nemen
+een paar kinderen van de middelbare school, trein
+
+1:04:07.680,1:04:09.910
+ze voor een paar maanden, en ze kunnen worden uitgevoerd
+een nucleaire onderzeeër.
+
+1:04:09.910,1:04:16.130
+Wil je een reactor te bouwen om energie te brengen voor
+de oliezanden. Dit zou de perfecte gelegenheid zijn.
+
+1:04:16.130,1:04:21.630
+Nou, als we een reactor als dit, doen we
+hebben de oliezanden?
+
+1:04:21.630,1:04:28.630
+Ik bedoel, dat is de manier waarop ik kijk naar het, ik weet niet
+weten veel over oliezanden, maar ik weet dat
+
+1:04:28.810,1:04:33.160
+Het is een bijzonder harde manier om olie te krijgen. Mensen
+in het Midden-Oosten kan de olie een heel stuk te krijgen
+
+1:04:33.160,1:04:37.570
+goedkoper van hun plaats dan mensen kunnen krijgen
+deze uit de oliezanden. Als ik kan ze verslaan
+
+1:04:37.570,1:04:41.050
+met een miljoen tot een, misschien moeten we zouden moeten doen
+dat.
+
+1:04:41.050,1:04:46.220
+Als je om de oliezanden net een beetje
+heel klein beetje schoner, dan zouden ze opfleuren
+
+1:04:46.220,1:04:50.450
+hun oren, in tegenstelling tot schone energie in
+en van zichzelf, omdat het betrekking heeft op iets
+
+1:04:50.450,1:04:50.930
+ze weten.
+
+1:04:50.930,1:04:54.920
+Ik zat in het vliegtuig naast een man die in
+de olie-industrie, en hij vertelde me alles
+
+1:04:54.920,1:04:58.020
+over de oliezanden, en hoeveel geld ze
+maken enzovoort. Ik was gewoon soort van zitten
+
+1:04:58.020,1:04:59.770
+daar, het nemen van het in-, luister ...
+
+1:04:59.770,1:05:02.210
+Gas ... Hoeveel kost gaskosten hier?
+
+1:05:02.210,1:05:04.620
+Een dollar ... Een dollar tien?
+
+1:05:04.620,1:05:07.630
+Gas kost een dollar tien?
+
+1:05:07.630,1:05:13.210
+Ja, het is duur, want we hebben meer
+belasting op benzine, waarvan ik denk dat is een goed idee.
+
+1:05:13.210,1:05:14.790
+Wat betaalt u voor gas?
+
+1:05:14.790,1:05:16.390
+Ik betaal graag, 3,50 dollar voor gas.
+
+1:05:16.390,1:05:17.130
+Echt waar?
+
+1:05:17.130,1:05:18.550
+Ik dacht gas goedkoper was in Amerika!
+
+1:05:18.550,1:05:21.020
+De Canadese dollar is bijna op een lijn, is niet
+het?
+
+1:05:21.020,1:05:21.330
+Yeah.
+
+1:05:21.330,1:05:24.660
+Oh wacht ... je allemaal doen in liters!
+
+1:05:24.660,1:05:29.970
+Hebben we uw auto pomp met gas en gaan, "Ik heb net
+gepompt twaalf liter benzine in mijn auto.
+
+1:05:29.970,1:05:34.040
+Weet je hoeveel napalm dat zou te maken?
+Als ik liet dat op een dorp, dan zou ik dood
+
+1:05:34.040,1:05:38.440
+5.000 kleine kinderen! "Weet je, en je bent
+zoals: "Nee! Natuurlijk niet! ik ga krijgen
+
+1:05:38.440,1:05:42.280
+in mijn auto en rijd 300 mijl op het! "I
+bedoel, het is allemaal om wat je doet, geen van
+
+1:05:42.280,1:05:46.970
+dit spul is van nature goed of slecht, het is
+wat je besluit mee te maken.
+
+1:05:46.970,1:05:50.830
+Je weet wel, een van de dingen die niet verdient
+me een hoop vrienden is het idee als we
+
+1:05:50.830,1:05:56.120
+over praten, "Oh, zo-en-zo niet kan verrijken uranium,"
+Ik ga, "Nee misdrijf, maar wie zijn wij om te vertellen
+
+1:05:56.120,1:06:01.030
+iedereen wat ze kunnen doen? "Ik bedoel, uranium's
+uranium, en het is niet precies zoals we hebben
+
+1:06:01.030,1:06:02.520
+een monopolie op het spul.
+
+1:06:02.520,1:06:05.630
+Hetzelfde geldt voor zaken als plutonium.
+Plutonium is ... Ik ben niet de grootste fan van
+
+1:06:05.630,1:06:10.100
+plutonium want ik ben niet gek over de
+plutonium snelle kweekreactor, maar er is
+
+1:06:10.100,1:06:15.420
+niets goed of slecht over plutonium. Plutonium
+gewoon is. Het is wat je besluit mee te maken.
+
+1:06:15.420,1:06:18.700
+Nu hebben we een veel plutonium in onze
+reactoren. Wat gaan we doen?
+
+1:06:18.700,1:06:21.790
+Gaan we te laten vallen in een gat in de grond,
+of gaan we te voeden tot een reactor als
+
+1:06:21.790,1:06:25.690
+LFTR en maak kracht eruit? Ik denk dat
+een stuk slimmer is om te doen.
+
+1:06:25.690,1:06:29.130
+De andere dag was ik debatteren over een aantal anti-kernwapens,
+en ze kregen op LFTR, omdat ze
+
+1:06:29.130,1:06:33.820
+zei: "O, dit gaat om uranium te gebruiken. U
+weet wel, van de nucleaire wapens! "En ik zei:" Ik
+
+1:06:33.820,1:06:38.700
+denk dat jullie zouden allemaal over dat zijn! Nemen
+nucleaire wapens, neem ze uit elkaar, neem de
+
+1:06:38.700,1:06:41.640
+uranium uit, burn it up, maken elektriciteit!
+Je wilt het laten in de bom? Wat doen
+
+1:06:41.640,1:06:42.470
+wilt u ermee doen? '
+
+1:06:42.470,1:06:47.470
+De marine heeft zo veel reactoren zoals we hebben in
+de civiele wereld. Denk na over de beveiliging
+
+1:06:47.470,1:06:52.630
+houding die de VS zouden hebben als we niet
+hebben deze nucleaire capaciteit. Onderzeeërs kunnen
+
+1:06:52.630,1:06:57.250
+verblijf onder water en ga onder het poolijs
+cap. Als je kijkt de grondtroepen van vandaag,
+
+1:06:57.250,1:07:01.750
+we lijken te zijn met veel energie, mensen
+vraag me af of we dat kon bezuinigen. De energie
+
+1:07:01.750,1:07:03.710
+wordt gebruikt voor goede doeleinden.
+
+1:07:03.710,1:07:09.370
+Dus, de reden dat we kunnen vechten in de nacht,
+nemen vijanden zonder verlies van onze eigen soldaten
+
+1:07:09.370,1:07:15.120
+is want we hebben energie aangedreven mogelijkheden.
+We hebben sensoren, radio's, allerlei dingen
+
+1:07:15.120,1:07:18.330
+dat geeft ons het voordeel, en ze zijn allemaal
+op basis van energie. De manier waarop we het behoud
+
+1:07:18.330,1:07:21.910
+de kracht is dat we trucking vloeistoffen over de
+de grond.
+
+1:07:21.910,1:07:26.260
+Toen ik zat te wachten om te gaan in Irak sinds we
+begon invasie in 2003 een aantal van generaals konden niet
+
+1:07:26.260,1:07:31.030
+krijgen onderdelen of benodigdheden uit naar voren, omdat
+de konvooien waren druk bezig brandstof en water.
+
+1:07:31.030,1:07:35.270
+Nog belangrijker, de kosten in het leven, de helft van de
+onze verliezen in Irak worden geassocieerd met de
+
+1:07:35.270,1:07:36.040
+supply chain.
+
+1:07:36.040,1:07:39.480
+Als we niet al die vloeibare dragen
+- 80 procent van de supply chain - we zouden kunnen
+
+1:07:39.480,1:07:43.750
+in staat zijn om een ??andere weg te vinden, iets wat de naam
+een adaptieve brigade. Deze kracht zou kunnen bieden
+
+1:07:43.750,1:07:48.090
+zijn eigen energie en water en niet echt
+worden bevoorraad voor bijvoorbeeld een maand per keer.
+
+1:07:48.090,1:07:52.280
+Als u energie gedurende de dag, zet over
+een honderd hectare aan zonnepanelen.
+
+1:07:52.280,1:07:54.940
+Als je een bedreiging die er zijn, dat kan
+niet al te goed, want je moet beveiligen
+
+1:07:54.940,1:07:59.240
+de gehele omtrek en dus nu al je soldaten
+besteden hun tijd patrouilleren in het Honderd Bunder
+
+1:07:59.240,1:08:00.210
+solar farm.
+
+1:08:00.210,1:08:06.920
+Wat als we hadden een reactor die was zo veilig
+en eenvoudig en voordelig dat je zou kunnen nemen
+
+1:08:06.920,1:08:12.060
+het uit naar het slagveld en gebruiken, en
+dan wanneer u vertrekt, laat het voor de host-
+
+1:08:12.060,1:08:13.910
+natie en ze uit te voeren.
+
+1:08:13.910,1:08:18.349
+Welvaart is gerelateerd aan energie. Als we kunnen
+brengt mensen tot ongeveer 2.000 kilowatt uur
+
+1:08:18.349,1:08:24.150
+per jaar van elektrische energie, hebben ze een
+kans op het bereiken van welvaart. Nu, natuurlijk,
+
+1:08:24.150,1:08:29.329
+welvaart hangt af van de rechtsstaat, goed
+de overheid, eigendomsrechten, het onderwijs, maar
+
+1:08:29.329,1:08:36.329
+elektrische energie voor warmte, licht, vervoer,
+veiligheid en ga zo maar door is een cruciaal element van
+
+1:08:37.499,1:08:38.579
+welvaart vandaag.
+
+1:08:38.579,1:08:43.449
+Ontwikkelingslanden weten dit. Energie in
+het gebruik van steenkool groeit snel in alle ontwikkelingslanden
+
+1:08:43.449,1:08:47.679
+landen. Ze willen dat niveau te bereiken
+van welvaart en ze worden ondersteund
+
+1:08:47.679,1:08:49.130
+door Peabody Coal.
+
+1:08:49.130,1:08:54.679
+De National Academy of Sciences zei dat
+alle zoetwatervissen in de Verenigde Staten
+
+1:08:54.679,1:09:00.019
+of America heeft nu gevaarlijke niveaus van kwik
+in zijn vlees. En dat kwik is afkomstig uit
+
+1:09:00.019,1:09:01.670
+de verbranding van kolen centrales.
+
+1:09:01.670,1:09:06.739
+Mijn niveaus van kwik terug kwam 10 keer de
+hoogte van wat de EPA beschouwt veilig. Ik was
+
+1:09:06.739,1:09:11.819
+verteld door dr. David Carpenter, die de nationale
+autoriteit op het gebied van kwik giftige stoffen, dat een vrouw
+
+1:09:11.819,1:09:15.819
+met mijn niveau van kwik in haar bloed zou
+hebben kinderen met een cognitieve stoornissen met
+
+1:09:15.819,1:09:16.999
+blijvende hersenbeschadiging.
+
+1:09:16.999,1:09:21.119
+Ik zei: "Bedoel je dat ze zou kunnen hebben? ' En
+Hij zei: "Nee, nee, nee. De wetenschap is erg
+
+1:09:21.119,1:09:26.539
+duidelijk nu. 'Haar kinderen zou hebben
+een zekere mate van blijvende neurologische stoornis,
+
+1:09:26.539,1:09:30.650
+waarschijnlijk als een blijvend verlies van IQ die kinderen
+van vijf tot zeven punten.
+
+1:09:30.650,1:09:36.559
+Er zijn nu 640.000 kinderen geboren in deze
+land ieder jaar die er blootgesteld aan
+
+1:09:36.559,1:09:41.409
+gevaarlijke niveaus van kwik in hun moeder
+baarmoeders. Ozon en deeltjes uit de verbranding van kolen
+
+1:09:41.409,1:09:48.409
+energiecentrales doden 60.000 Amerikanen een jaar.
+Een miljoen astma-aanvallen, een miljoen verloren werkdagen
+
+1:09:49.639,1:09:51.230
+per jaar.
+
+1:09:51.230,1:09:55.079
+Dat is een deel van de kosten van steenkool, dat zij
+niet vertellen over als ze zeggen: "Oh, het is
+
+1:09:55.079,1:09:57.679
+alleen, je weet wel, tien cent per kilowattuur. "
+
+1:09:57.679,1:10:04.090
+Beide lichtwaterreactoren en CANDUs niet
+maken gebruik van zeer veel van de energie in de brandstof en
+
+1:10:04.090,1:10:08.320
+laten ze achter twee klassen van materialen.
+Een daarvan is de eigenlijke splijtingsproducten - dat is
+
+1:10:08.320,1:10:12.239
+wat er gebeurt als je splijting het spul. Dan
+is er wat heet de transuranics. Dat is
+
+1:10:12.239,1:10:15.880
+wat er gebeurt als het uranium absorbeert de
+neutron en niet kernsplijting, en gaat over in
+
+1:10:15.880,1:10:19.190
+plutonium, americium en curium en een paar andere,
+het meeste is plutonium.
+
+1:10:19.190,1:10:23.280
+De overgrote meerderheid van transuranics
+zijn plutonium. Dus wanneer je praat met mensen
+
+1:10:23.280,1:10:28.530
+over afvalverwerking, zeggen ze, "Wat is het
+zorg? "Nou, het grootste deel van het spul dat in
+
+1:10:28.530,1:10:32.900
+de brandstof is gewoon uranium. Het is niet meer radioactief
+dan toen je stopte het in, en het is
+
+1:10:32.900,1:10:35.130
+niet echt een punt van zorg.
+
+1:10:35.130,1:10:40.630
+En de splijtingsproducten, ze zijn zeer radioactief
+wanneer ze zijn gemaakt, maar ze eerder verval
+
+1:10:40.630,1:10:46.199
+snel. Ze hebben niet echt op lange termijn
+radioactiviteit. Ze verval te snel, het
+
+1:10:46.199,1:10:49.679
+is de deal. Er zijn een paar van hen die
+hebben een zeer lange halfwaardetijd, maar dat betekent dat hun
+
+1:10:49.679,1:10:53.110
+niveaus van radioactiviteit zijn extreem laag en
+ze gewoon niet echt een gevaar vormen.
+
+1:10:53.110,1:10:59.159
+De echte uitdaging met beheer van bestraalde splijtstof
+is de aanwezigheid van deze transuranics - plutonium,
+
+1:10:59.159,1:11:03.679
+americium, curium - omdat ze matig
+half-leven en ze hebben ingewikkelde verval
+
+1:11:03.679,1:11:06.690
+ketens. Wanneer u op zoek bent naar een Yucca Mountain
+of een stortplaats u zeggen: "Wat gaan we
+
+1:11:06.690,1:11:07.219
+mee te maken? '
+
+1:11:07.219,1:11:13.059
+Het belangrijkste voordeel van LFTR over die aanpak
+is dat we geen vorm die transuranics. We verbranden
+
+1:11:13.059,1:11:20.059
+tot nagenoeg alle van de brandstof in dit proces
+omdat we niet verwijderen brandstof uit de reactor
+
+1:11:20.119,1:11:22.999
+totdat het een splijting product.
+
+1:11:22.999,1:11:27.019
+Algemene idee is dat je niet wilt uranium, thorium,
+of iets anders om te eindigen in de afvalstroom
+
+1:11:27.019,1:11:31.380
+en dat is een vrij eenvoudig voorstel
+In deze vloeistof-brandstof reactor. Dus ons afval
+
+1:11:31.380,1:11:37.650
+verhaal is heel anders. U kunt ook dan
+Draai je om en ga terug en nemen een deel van de
+
+1:11:37.650,1:11:42.840
+afval dat al is gemaakt in onze uranium-brandstof
+reactoren en mogelijk vernietigen van die lange
+
+1:11:42.840,1:11:44.780
+leefde transuranics door kernsplijting.
+
+1:11:44.780,1:11:49.570
+Wachten ze tot verval is een zeer langzaam proces.
+Plutonium 239, bijvoorbeeld, heeft een 24.000
+
+1:11:49.570,1:11:52.820
+jaar half-life. Dat is een lange tijd dat je
+gaan te wachten om dat te verval. Op
+
+1:11:52.820,1:11:56.530
+de andere kant, je kunt kernsplijting en vervolgens
+die splijtingsproducten zal zeer snel kunnen bederven
+
+1:11:56.530,1:12:00.230
+en je krijgt ook een energie-release en een neutron
+release, die beide zijn goed.
+
+1:12:00.230,1:12:04.190
+Duizend kilo U-233 is ongeveer wat
+we hebben. Negentig procent van dat zal kernsplijting.
+
+1:12:04.190,1:12:09.760
+Kunnen we ongeveer 500 tot $ 600 miljoen in elektriciteit
+en nog eens 50 of $ 60 miljoen op de kernsplijting
+
+1:12:09.760,1:12:15.510
+van het uranium-235. Bijna alle het zal
+Uiteindelijk eindigen splijting. Uit van ongeveer
+
+1:12:15.510,1:12:20.849
+een duizend kilo, ongeveer 15 kilo
+plutonium-238 zal worden overgelaten over. Dit is goed
+
+1:12:20.849,1:12:27.760
+spul. NASA is wanhopig op zoek naar dit spul. Plutonium-238
+is anders dan plutonium-239, het spul
+
+1:12:27.760,1:12:30.739
+we gebruiken in bommen. In feite is het waardeloos voor
+bommen.
+
+1:12:30.739,1:12:35.219
+Deze radio-isotoop thermo-elektrische generatoren
+zijn gebaseerd op plutonium-238 en dit is de
+
+1:12:35.219,1:12:39.650
+enige manier waarop we in staat geweest om het te verkennen
+buitenste zonnestelsel. De Verenigde Staten is uniek.
+
+1:12:39.650,1:12:44.710
+Het is het enige land in de wereld die heeft
+gestuurd ruimtesondes voorbij de Asteroid Belt
+
+1:12:44.710,1:12:49.210
+en het is allemaal gebaseerd op het hebben van deze technologie.
+Korte antwoord, we zijn uit van dit spul. Het
+
+1:12:49.210,1:12:53.900
+'S weg. Wij gebruiken het allemaal. De Russen
+gebruikt worden om ons wat te verkopen. Ze hebben ons allemaal verkocht
+
+1:12:53.900,1:12:55.139
+hun inventaris. Het is weg.
+
+1:12:55.139,1:12:59.340
+Kreeg miljarden NASA's dollars van diepe ruimte
+missies scharnierend op het hebben van genoeg van
+
+1:12:59.340,1:13:04.480
+spul om de batterijen leeg om het ding te laten
+bellen naar huis. We zullen in staat zijn dit te maken in
+
+1:13:04.480,1:13:08.369
+LFTR. Als je hebt wel eens gehoord over ons zeggen
+"We verbranden 99 procent van de brandstof en er is
+
+1:13:08.369,1:13:14.599
+links een procent ", de linker een procent is
+dat spul en het is bijna net zoveel als de moeite waard
+
+1:13:14.599,1:13:15.670
+de dingen die we verbranden.
+
+1:13:15.670,1:13:18.179
+Daarnaast zou het medisch molybdeen-99.
+
+1:13:18.179,1:13:23.360
+We staan ??op het afsluiten van de reactor een
+in Canada, dat is het maken van molybdeen-99 voor
+
+1:13:23.360,1:13:28.469
+medische doeleinden in 2015. Er zijn honderden
+van duizenden patiënten die niet worden
+
+1:13:28.469,1:13:35.010
+in staat om hun molybdeen-99, dat krijgen ze
+behoefte aan diagnostische procedures als dat gebeurt.
+
+1:13:35.010,1:13:40.179
+We kunnen gewoon molybdeen-99 in normale
+van de werking en we kunnen verwijderen heel gemakkelijk.
+
+1:13:40.179,1:13:46.320
+Er zijn vier natuurlijke verval ketens van alfa-emitting
+radio-isotopen. Men begint met een U-238, U-235,
+
+1:13:46.320,1:13:53.099
+thorium-232, en dan is er een die uitgestorven
+omdat het geen lang leven voorlopers op
+
+1:13:53.099,1:13:57.550
+het. Het was daar in de supernova miljarden
+van jaren geleden. Het is nu verdwenen. Het is op de U-233
+
+1:13:57.550,1:14:03.079
+verval keten. Er is een speciaal product op
+daar, bismut-213, zou dat een slim
+
+1:14:03.079,1:14:07.849
+bom tegen kanker. Ze hechten het bismut-213
+naar een antilichaam.
+
+1:14:07.849,1:14:12.780
+Dat bismut heeft slechts een halfwaardetijd van 45 minuten
+dus het is zeer radioactief en het gaat weg
+
+1:14:12.780,1:14:17.980
+snel. Maar in die tijd, dat antilichaam kan
+op zoek gaan naar een kankercel. Het bismut vervalt
+
+1:14:17.980,1:14:22.469
+en alfa-deeltjes gaat door de cel,
+en het doodt de kanker. De straling techniek
+
+1:14:22.469,1:14:27.900
+we gebruiken in de behandeling van kanker vandaag, ze zijn allemaal
+op basis van beta-emitterende isotopen, niet op alfa-emitting
+
+1:14:27.900,1:14:34.429
+isotopen. Ze hebben een grote radius te doden. Ze zijn
+niet erg richtbaar. Het is OK, maar het is echt
+
+1:14:34.429,1:14:35.789
+niet een slimme bom.
+
+1:14:35.789,1:14:39.920
+Alfa-toe isotopen zijn echt zeldzaam.
+Het is moeilijk om hen. Het is moeilijk om de
+
+1:14:39.920,1:14:44.059
+juiste soort, de juiste chemische, die zal
+lock op het juiste ding dat is dicht genoeg
+
+1:14:44.059,1:14:48.249
+om niet stabiel dat zelfs na het vergaat,
+het niet alleen verval tien keer in de
+
+1:14:48.249,1:14:51.780
+lichaam. Bismut-213 is een verval verwijderd van
+gedaan.
+
+1:14:51.780,1:14:57.949
+En het is vooral goed tegen verspreid
+vormen van kanker, zoals leukemie, kanker van het bloed.
+
+1:14:57.949,1:15:01.949
+Niet tumor vormen van kanker, waar er een grote
+harde knobbel die je kunt gaan en knip uit met
+
+1:15:01.949,1:15:06.639
+chirurgie, maar dingen die moeilijk te bereiken.
+Alvleesklierkanker - je krijgt alvleesklierkanker,
+
+1:15:06.639,1:15:10.260
+je bent waarschijnlijk op zoek naar een doodvonnis,
+dat is hoe erg het is.
+
+1:15:10.260,1:15:17.260
+Hier is het probleem, bismut-213 is uniek
+in deze mogelijkheid gebruik en bismut-213 kan alleen
+
+1:15:17.730,1:15:19.780
+worden gegenereerd uit het verval van uranium-233.
+
+1:15:19.780,1:15:26.780
+Ik heb soms zelfs in bed liggen denken, als mijn
+jongen had leukemie, hoe hard ik werken
+
+1:15:27.239,1:15:32.510
+bij het krijgen van deze therapie klaar voor hen te
+levens te redden en als het zo belangrijk is, waarom
+
+1:15:32.510,1:15:34.679
+ben ik niet met volle droeg er op dit moment?
+
+1:15:34.679,1:15:36.280
+Hoeveel heeft het gekost?
+
+1:15:36.280,1:15:40.969
+Wat is je Ballpark figuur? Is deze Home
+Depot spul, of ...
+
+1:15:40.969,1:15:47.969
+Nee, ik denk dat een eerste eenheid die waarschijnlijk is
+gaat worden in de orde van 20/30 megawatt
+
+1:15:48.949,1:15:52.900
+elektrisch is - we zijn op zoek naar enkele honderden
+miljoen dollar om dat te ontwikkelen, maar dan
+
+1:15:52.900,1:15:58.670
+het nemen van een stap verder dan dat voor utility-klasse
+schaal reactor, waarschijnlijk nog een paar honderd
+
+1:15:58.670,1:15:59.369
+miljoen dollar.
+
+1:15:59.369,1:16:03.440
+U bent waarschijnlijk op zoek naar een miljard dollar
+om het aan nut-klasse, maar wanneer
+
+1:16:03.440,1:16:08.550
+je bedenkt wat het gaat doen, dat is
+eigenlijk niet zo veel geld. Een veel van
+
+1:16:08.550,1:16:12.719
+is de engineering en vervolgens de regeling
+is een groot vraagteken.
+
+1:16:12.719,1:16:15.619
+Het is eigenlijk niet veel geld, in een zin.
+
+1:16:15.619,1:16:20.710
+Ik heb geleerd dat het niet over het aantal, het is
+over de onzekerheid over het aantal. U kunt
+
+1:16:20.710,1:16:24.460
+ga naar een investment bank op dit moment en u
+kan zeggen "Ik wil bouwen en olieboringen
+
+1:16:24.460,1:16:29.449
+platform en het gaat tot 12 miljard kosten
+dollars, "en zij zullen schrijf je een cheque
+
+1:16:29.449,1:16:33.730
+voor dat, omdat u kunt gaan en zeggen: "Ik heb
+bouwde 50 van deze platformen voor, hier is
+
+1:16:33.730,1:16:37.039
+over waar de prijs kwam. Het gaat
+te gaan in dit gebied, dat op dit moment is het produceren van
+
+1:16:37.039,1:16:39.949
+deze veel olie, gaat het hier uit.
+Het gaat zo lang te nemen om dit te herstellen
+
+1:16:39.949,1:16:44.489
+veel olie gebaseerd op hoe we hebben gedaan het de andere
+50 keer. 'En ze gaan, er is niet veel
+
+1:16:44.489,1:16:46.550
+van onzekerheid in om dit te doen.
+
+1:16:46.550,1:16:49.260
+Je begint door niet het maken van een volledig LFTR ...
+
+1:16:49.260,1:16:49.599
+Ja.
+
+1:16:49.599,1:16:53.360
+... Maar het maken als een klein stuk. Neem wat
+van deze bijproducten en je gebruikt dat geld
+
+1:16:53.360,1:16:55.920
+om dit kleine eerste fase die begint
+het maken van geld ...
+
+1:16:55.920,1:16:59.179
+Weet je zeker dat we geen ethernet aangesloten hebben
+in de achterkant van je hoofd ergens?
+
+1:16:59.179,1:16:59.960
+We doen wireless hier. Ik denk niet dat.
+
+1:16:59.960,1:17:01.010
+Kunt u de vraag herhalen?
+
+1:17:01.010,1:17:01.909
+Nee.
+
+1:17:01.909,1:17:08.909
+Nee het spijt me, is deze vraag niet onder
+door een NDA.
+
+1:17:10.900,1:17:12.269
+We hebben een aantal slimme mensen in deze kamer.
+
+1:17:12.269,1:17:17.420
+Luchtvaart-en Ruimtevaarttechniek, waren we geleerd
+zet ontwikkeling van de kosten en de kosten per eenheid in de
+
+1:17:17.420,1:17:20.650
+aparte categorie. Het is alsof je bouwt een vechter
+en je besteedt miljarden dollars te ontwerpen
+
+1:17:20.650,1:17:25.510
+, maar dan loop je weg voor 20 miljoen exemplaren
+dollar per stuk. Dat is hoe ze 737's bouwen
+
+1:17:25.510,1:17:26.980
+of een andere vliegtuigen.
+
+1:17:26.980,1:17:30.199
+Als u wilt gaan, "Wat is de kosten per eenheid te gaan
+te zijn? ", is er reden om te denken dat dit gaat
+
+1:17:30.199,1:17:35.739
+worden een stuk minder duur dan wat we hebben
+vandaag de dag als we de ontwikkeling in een andere
+
+1:17:35.739,1:17:35.989
+kolom.
+
+1:17:35.800,1:17:39.329
+De reden waarom, nummer een, lage druk werking.
+Dat is de grootste. Wanneer u niet beschikt over
+
+1:17:39.329,1:17:45.099
+tot 96 stalen drukvaten, grote beton
+verpakking. Nummer twee, hoeft u niet te
+
+1:17:45.099,1:17:48.999
+fabriceren brandstof. Je hoeft het niet te verrijken.
+Je hoeft het niet te verzinnen en je hoeft niet
+
+1:17:48.999,1:17:52.269
+moeten de aanpak van de verwijdering, we hebben
+doen vandaag.
+
+1:17:52.269,1:17:57.869
+Deze twee functies zijn meteen een big deal.
+Nummer drie is de veiligheidssystemen. Hoge druk,
+
+1:17:57.869,1:18:00.889
+waterkoeler reactoren hebben een overvloed aan
+veiligheidssystemen ontwikkeld om altijd de
+
+1:18:00.889,1:18:03.659
+kern bedekt met water. Dus, als een systeem
+heeft 99 procent betrouwbaarheid; goed, moet je
+
+1:18:03.659,1:18:08.130
+een ander dat ook is het zo dat je kunt
+krijgen 99,9 en misschien statistici krijgen
+
+1:18:08.130,1:18:09.800
+boos op mij, dan zou ik moeten doen het verkeerd.
+
+1:18:09.800,1:18:14.369
+Een van de dingen die de conventionele maakt
+reactoren zo duur het insluitingsvat
+
+1:18:14.369,1:18:18.969
+en je hebt aangeraakt dat. De andere is alle
+het veiligheidsapparaat rond het behoud van
+
+1:18:18.969,1:18:22.929
+van de splijtbare stof, zodat het niet
+krijgen misbruikt voor militaire doeleinden.
+
+1:18:22.929,1:18:27.300
+Ik heb krassen op mijn hoofd over dat met de bestaande
+reactoren omdat onze reactoren, althans in
+
+1:18:27.300,1:18:29.349
+de Verenigde Staten, geen gebruik maken van zeer geregistreerde
+uranium.
+
+1:18:29.349,1:18:33.650
+Nou, dat is een van de angsten en dat is een
+van de redenen van veiligheid eromheen. Of
+
+1:18:33.650,1:18:34.599
+het is echt of niet -
+
+1:18:34.599,1:18:36.989
+Ja, ik denk dat ik zou moeten of de uitdaging
+het is echt of niet.
+
+1:18:36.989,1:18:40.929
+Het was niet dat vele jaren geleden dat we
+in staat om partijen van de bezoekers rondleiden door het
+
+1:18:40.929,1:18:45.929
+site en eigenlijk laten zien wat goede staat
+de site is en hoe veilig het is. Het is alleen maar
+
+1:18:45.929,1:18:51.639
+sinds 9 / 11 die we hebben gehad om te stoppen met uitnodigende
+bezoekers. We hebben altijd een heel open beleid;
+
+1:18:51.639,1:18:55.690
+erg op gebrand om mensen te laten zien hoe goed we zijn op
+wat wij doen en hoe veilig de plant is. Het is
+
+1:18:55.690,1:18:59.940
+erg moeilijk om jezelf ervan te overtuigen dat de dingen
+zijn veilig omdat je niet kunt zien wat er aan de hand
+
+1:18:59.940,1:19:00.519
+op.
+
+1:19:00.519,1:19:04.130
+Zelfs het plutonium in de reactor is wat er
+genoemd reactor-grade plutonium, die niet
+
+1:19:04.130,1:19:04.420
+geschikt.
+
+1:19:04.420,1:19:08.289
+Kun je proberen om elke faciliteren in Noord-Amerika
+Nu, ze hebben SWAT teams en -
+
+1:19:08.289,1:19:12.269
+Ik heb toerde een kerncentrale. We hebben echt
+kreeg de werken als we gingen daar. Ik ben
+
+1:19:12.269,1:19:15.869
+niet exactlysure wat de basis van die was,
+of ze zich zorgen over diefstal van splijtstoffen
+
+1:19:15.869,1:19:19.920
+materiaal - dat zou behoorlijk hard. Ik zou
+moeten gaan en drukloos de kern, nemen
+
+1:19:19.920,1:19:24.599
+het deksel eraf, toegang krijgen tot alle verbruikte splijtstof,
+een of andere manier haal hem uit de verbruikte splijtstof zwembad
+
+1:19:24.599,1:19:29.429
+in een soort van vervoer vat, neem het
+buiten de site om een ??opwerkingsfabriek dat
+
+1:19:29.429,1:19:32.769
+bestaat niet en - ik bedoel, ik ga gewoon "Er is
+moet een andere reden hebben ze al die worden
+
+1:19:32.769,1:19:33.019
+zekerheid. "
+
+1:19:32.769,1:19:34.010
+Bekijk het TV nieuws.
+
+1:19:34.010,1:19:37.499
+Nou, weet je. Het lijkt alleen maar om mij, wanneer
+er is een onderwerp dat ik een beetje weet
+
+1:19:37.499,1:19:40.489
+over en kijk hoe het nieuws zij betrekking heeft, ik
+krijg heel snel gefrustreerd.
+
+1:19:40.489,1:19:45.489
+Ik denk dat zowat elke media-uitgang heb ik
+gezien is drummen op angst. Van de New York
+
+1:19:45.489,1:19:47.749
+Keer om de Huffington Post naar de Fox News.
+
+1:19:47.749,1:19:51.079
+Er is al een recente piek in de kindersterfte
+in Philadelphia en er is een deskundige rechts
+
+1:19:51.079,1:19:55.510
+nu die zegt: "Het is radioactief niveau
+in ons water dat is de schuld van dat. "
+
+1:19:55.510,1:19:59.510
+Dit is een zeer tweeledige benadering van de
+bang voor het publiek.
+
+1:19:59.510,1:20:05.670
+Straling komt over de oceaan. Het is afgevoerd
+door wind de huidige en zout spray, maar het is
+
+1:20:05.670,1:20:08.269
+het bereiken van de kust van Californië.
+
+1:20:08.269,1:20:14.349
+Er is straling all over the place, elke
+enkele dagen, maar je spreekt de schadelijke
+
+1:20:14.349,1:20:18.900
+straling. Dat is het ding zijn we het meest bezorgd
+over en zelfs in Tsjernobyl, deed dat niet
+
+1:20:18.900,1:20:21.920
+naar de Verenigde Staten in schadelijke hoeveelheden.
+Hoe gaat dat doen?
+
+1:20:21.920,1:20:24.570
+OK, weet je wat Bernie. Uit uw mond,
+om Gods oren.
+
+1:20:24.570,1:20:29.269
+Onze media is niet gebouwd rond effectief
+en nauwkeurig verspreiden van informatie aan
+
+1:20:29.269,1:20:32.610
+het publiek. Onze media is opgebouwd rond ...
+
+1:20:32.610,1:20:39.300
+Dank u. Onze media is opgebouwd rond zetten
+uw oogbollen op hun af te drukken of op hun website
+
+1:20:39.300,1:20:44.929
+en houden ze daar. De beste manier om te houden
+ze is er om u bang te maken tot de dood.
+
+1:20:44.929,1:20:51.929
+Slechts 24 uur na de meest gruwelijke tragische,
+gigantische natuurramp van een aardbeving
+
+1:20:52.190,1:20:57.249
+gevolgd door de tsunami, het enige verhaal in
+stad werd over Fukushima.
+
+1:20:57.249,1:21:02.099
+Als een ingenieur, wordt ons geleerd dat onze verantwoordelijkheid
+is om te communiceren accuraat en effectief
+
+1:21:02.099,1:21:06.289
+en verspreiden van informatie, zowel naar andere
+ingenieurs en aan het grote publiek.
+
+1:21:06.289,1:21:09.670
+Dus een ingenieur krijgt op tv en ze zeggen: "Wat is
+gaat gebeuren, Dr So-en-zo? ", en hij gaat,
+
+1:21:09.670,1:21:13.329
+"Nou, er is een mogelijkheid om verschillende dingen
+zou kunnen gebeuren. Een zeer kleine kans event
+
+1:21:13.329,1:21:15.960
+is dat dit gebeuren zou, maar het is nog veel meer
+waarschijnlijk dat - "" Oh, wacht. Laten we eens terug te krijgen
+
+1:21:15.960,1:21:20.010
+aan dat een lage waarschijnlijkheid evenement. Nu, in die
+lage kans geval kan er gebeuren? "
+
+1:21:20.010,1:21:23.389
+'Weet je, ik denk dat het mogelijk is dat - maar
+dit is echt onwaarschijnlijk, en de wind zou
+
+1:21:23.389,1:21:27.570
+zo te blazen en - "" Nou, laat
+gaan op die manier. "De arme ingenieur, hij denkt
+
+1:21:27.570,1:21:30.369
+we een stijging van 10 ^ -12 nu, of iets dergelijks.
+
+1:21:30.369,1:21:36.249
+En ze gaan, "Is Godzilla vorm?" "Nou,
+je weet wel, een dubbele eindigde DNA te breken, denk ik
+
+1:21:36.249,1:21:42.030
+in de juiste gen, kon eigenlijk leiden
+een hogere groei van hormoon, dat
+
+1:21:42.030,1:21:43.969
+kan daadwerkelijk leiden tot milde reuzengroei. "
+
+1:21:43.969,1:21:48.280
+Ze wilde alleen maar over de risico's weten uit
+het kernongeval. En wat ze vooral
+
+1:21:48.280,1:21:52.719
+wilde weten, en vroeg vaak was wat
+is het worst case scenario.
+
+1:21:52.719,1:21:58.760
+Godzilla komt morgen. Het is net als "Oh
+man, we zijn net 10 ^ -32 op dit punt. De
+
+1:21:58.760,1:22:02.110
+proton gaat verval voordat dit gebeurt. "
+
+1:22:02.110,1:22:06.989
+Je hebt al een vreselijk schrikken verhaal. Het
+was niet zo dat we vroegen hen om te dekken
+
+1:22:06.989,1:22:10.550
+het goede nieuws, niet het slechte nieuws. Er was
+veel slecht nieuws.
+
+1:22:10.550,1:22:14.749
+Ik had een vriend van mij. Zij en haar man
+zijn diplomaten in China en schreef ze mij als
+
+1:22:14.749,1:22:19.210
+ademloos als je kan in een e-mail en ze
+zei: "Kirk, zullen we wel goed? Ik ben in
+
+1:22:19.210,1:22:22.199
+China, zullen we allemaal in orde? "Zei ik,
+'Maak je geen zorgen. Het jodium-131 ??zou moeten
+
+1:22:22.199,1:22:26.570
+klap de hele weg over de hele wereld en dan
+rond terug te komen om je in China en er
+
+1:22:26.570,1:22:29.039
+zou niet genoeg van krijgen, heeft een acht-en
+een halve dag leven, dus het zou vervallen
+
+1:22:29.039,1:22:30.789
+niets gelijk hier. "Blah, blah,
+blah.
+
+1:22:30.789,1:22:33.670
+Maar, ze was doodsbang en dit is een
+slimme meid.
+
+1:22:33.670,1:22:38.719
+Het Science Media Center's taak was om lijn
+tot mensen die weten over straling, die weten
+
+1:22:38.719,1:22:43.889
+over haar invloed op mens en zonder uitzondering,
+ze zeiden vanaf het begin, "Dit is een zeer,
+
+1:22:43.889,1:22:49.519
+zeer ernstig incident, maar in termen van het
+een bedreiging, zelfs voor mensen die in Tokyo, nooit
+
+1:22:49.519,1:22:55.670
+denken aan mensen in Glasgow, werden zij uitdrukken,
+keer op keer, met uitzondering van de mensen in
+
+1:22:55.670,1:23:01.090
+de uitsluiting zone, dat deze bedreiging zeer was,
+heel, heel, heel klein. 'En inderdaad, ze
+
+1:23:01.090,1:23:03.469
+nog steeds het gevoel het is erg klein.
+
+1:23:03.469,1:23:07.130
+Nucleaire experts hebben een belang bij
+bagatellisering van nucleaire incidenten.
+
+1:23:07.130,1:23:12.920
+We hebben journalisten komen naar ons en zeggen:
+"Mijn uitgever heeft tot mij gezegd, wat zijn de apologeten
+
+1:23:12.920,1:23:18.050
+zei vandaag? "want we waren bijna rennend
+dagbladpers briefings, met verschillende experts.
+
+1:23:18.050,1:23:22.739
+Geen van hen werkelijk zijn gewerkt voor de industrie
+als het gebeurd is, maar ja, er was dit idee,
+
+1:23:22.739,1:23:29.739
+dat ze dat zou zeggen, zouden ze niet? Deze
+vooraanstaande wetenschappers, die publiceren en peer-review
+
+1:23:29.869,1:23:36.670
+tijdschriften, die werken voor zeer gerespecteerde wetenschappelijke
+instellingen, spelen naar beneden een incident
+
+1:23:36.670,1:23:40.409
+omdat ze de nucleaire industrie.
+Dat is nogal een lading.
+
+1:23:40.409,1:23:47.110
+Ik was net lezen van een artikel deze morgen
+zeggen dat ze ontdekt radioactiviteit in de melk
+
+1:23:47.110,1:23:51.210
+en ik dacht, natuurlijk hebben ze ontdekt radioactiviteit
+in melk. Alle melk is radioactief.
+
+1:23:51.210,1:23:57.749
+Twee van hen zeiden, Fiona, onze redactie denken
+er is iets uniek angstaanjagend over
+
+1:23:57.749,1:24:04.019
+straling. Er is iets uniek is voor die
+woord dat de capaciteit om echt te verschrikken heeft
+
+1:24:04.019,1:24:10.670
+mensen. Wat een vreemde set van nieuws waarden
+dat rechtvaardigt wat het bedrag van de dekking
+
+1:24:10.670,1:24:13.289
+is wat uw redactie angst aanjaagt mensen zich voelen.
+
+1:24:13.289,1:24:17.479
+Wat ze eigenlijk bedoelde te zeggen was dat er
+een bepaalde radio-isotopen vonden ze in de
+
+1:24:17.479,1:24:22.559
+melk die uit de Japanse kerncentrale.
+Het artikel is natuurlijk niet gezegd dat,
+
+1:24:22.559,1:24:27.190
+wat zouden de mensen denken, "Uh-oh, mijn
+melk is gegaan van nul radioactiviteit tot op zekere
+
+1:24:27.190,1:24:30.099
+radioactiviteit die moeten worden slecht en ik moet
+nu in de problemen. "
+
+1:24:30.099,1:24:35.260
+De manier waarop dit was bedekt was verkeerd. Ik
+vertrouwen door te zeggen dat vanwege de manier waarop
+
+1:24:35.260,1:24:41.070
+veel journalisten voelde zich ongemakkelijk over. Ik
+weet van journalisten die werden uit dit
+
+1:24:41.070,1:24:45.979
+verhaal, want wat ze schrijven was te
+gemeten en dat is in een echt groot,
+
+1:24:45.979,1:24:47.510
+belangrijke nieuws kamer in dit land.
+
+1:24:47.510,1:24:51.630
+In termen van de perceptie van het publiek van risico's,
+dingen die zouden kunnen waar zijn, want ik lees ze
+
+1:24:51.630,1:24:56.519
+op het internet, Neil deGrasse Tyson tweeted
+vandaag de dag, "de oorzaken van de dood wereldwijd maart
+
+1:24:56.519,1:24:59.210
+2011, verhongering, drie miljoen. "
+
+1:24:59.210,1:25:03.479
+Neil deGrasse Tyson, grote fan van zijn. We hebben
+nodig iemand als Neil deGrasse Tyson ooit
+
+1:25:03.479,1:25:08.059
+sinds Carl Sagan overleden. Maar ja, wat is het
+eerste op zijn lijst, honger?
+
+1:25:08.059,1:25:13.360
+Verhongering, 3000000, malaria, 250000; auto
+crashes, 100000, aardbevingen en tsunami's 28.000.
+
+1:25:13.360,1:25:17.369
+Body rekenen op kernenergie de dood is wat?
+Laag.
+
+1:25:17.369,1:25:20.889
+Civiele kernenergie in de Verenigde Staten
+heeft niet gedood niemand. Het lichaam zou tellen
+
+1:25:20.889,1:25:21.420
+nul zijn.
+
+1:25:21.420,1:25:26.639
+Dus als Three Mile Island releases enkele straling,
+je zou willen maken van statistische kans op te nemen
+
+1:25:26.639,1:25:29.030
+van iemand die het krijgen van schildklierkanker in een willekeurig aantal.
+
+1:25:29.030,1:25:33.150
+Nee, want zelfs de statistische kans op
+is theorie die niet gebaseerd is op feiten. Het is
+
+1:25:33.150,1:25:38.159
+genaamd de lineaire no-drempel hypothese
+en het is niet gebaseerd op epidemiologische gegevens.
+
+1:25:38.159,1:25:42.729
+Het is gebaseerd op de veronderstelling dat straling
+zal u kwaad doen op welk mate - naar wat
+
+1:25:42.729,1:25:44.289
+mate u bent blootgesteld.
+
+1:25:44.289,1:25:46.699
+Ik dacht dat dat daadwerkelijk is opgericht.
+Ik dacht dat ...
+
+1:25:46.699,1:25:47.320
+Nee, het is gevestigd.
+
+1:25:47.320,1:25:48.309
+Ik heb gehoord dat er ...
+
+1:25:48.309,1:25:51.940
+Het is vast beleid. Dat is waar dat
+niet zoiets als veilig straling - die komt
+
+1:25:51.940,1:25:56.400
+van de lineaire no-drempel hypothese. Het
+is gevestigd in regelgeving nog, er is
+
+1:25:56.400,1:26:01.420
+geen epidemiologische gegevens aan die een back-up. Er
+is geen studie die zegt dat we hebben een cohort genomen
+
+1:26:01.420,1:26:05.269
+van mensen en we hebben blootgesteld hen om een
+procent meer straling dan normaal
+
+1:26:05.269,1:26:06.920
+krijgen en we hebben gezien een procent meer kanker.
+
+1:26:06.920,1:26:11.269
+In feite zijn er veel plaatsen in de wereld
+waar de achterkamer niveaus van straling aanzienlijk
+
+1:26:11.269,1:26:17.239
+hoger zijn als de lineaire no-drempel hypothese
+was in feite waar is of zelfs benaderen de waarheid,
+
+1:26:17.239,1:26:21.719
+zou je statistisch significant te zien
+hogere niveaus van kanker in deze populaties,
+
+1:26:21.719,1:26:26.840
+deze cohorten. Maar wat gebeurt er? Niet alleen de
+is er niet een hoger niveau van kanker, is er
+
+1:26:26.840,1:26:29.550
+zijn eigenlijk onderdrukt niveaus van kanker.
+
+1:26:29.550,1:26:34.479
+Die leidt tot een theorie die wel onderbouwing
+in de gegevens en dat heet hormese. Hormese
+
+1:26:34.479,1:26:38.260
+is gewoon een beetje is goed voor u en
+straling lijkt een van deze dingen
+
+1:26:38.260,1:26:42.999
+waar een klein beetje meer is eigenlijk goed voor
+u en onderdrukt de ontwikkeling van kanker.
+
+1:26:42.999,1:26:45.969
+En ik zeg, goed waarom zou een beetje
+straling goed voor mij? Als je naar en
+
+1:26:45.969,1:26:49.369
+oefening, u schade aan uw spieren, maar uw
+lichaam bouwt en herbouwt ze hen sterker
+
+1:26:49.369,1:26:53.809
+dan voorheen. Straling stimuleert
+cellulaire schade, maar het stimuleert ook de
+
+1:26:53.809,1:26:55.289
+lichaam te herstellen mechanisme.
+
+1:26:55.289,1:26:59.420
+Als hormese werd het beleid in plaats van lineaire
+no-drempel, zouden we hebben een ongelooflijk
+
+1:26:59.420,1:27:03.989
+andere benadering van de straling. In feite,
+in sommige opzichten, we eigenlijk doen aanvaarden hormese
+
+1:27:03.989,1:27:07.469
+wanneer komt het aan natuurlijke straling, maar we
+niet accepteren als het gaat om kunstmatige
+
+1:27:07.469,1:27:09.999
+straling. De werkelijkheid is, is er geen verschil
+tussen de twee.
+
+1:27:09.999,1:27:14.800
+We hebben een drie jaar milieubeoordeling
+proces in Canada om een ??kernreactor te bouwen
+
+1:27:14.800,1:27:16.300
+en we hebben een weekend om een ??kolencentrale te produceren.
+
+1:27:16.300,1:27:20.739
+Kolen en gas centrales zijn in staat om los radioactieve
+materialen in de omgeving in veel grotere
+
+1:27:20.739,1:27:25.559
+hoeveelheden dan een kerncentrale ooit zou mogelijk
+mogen, omdat ze worden beschouwd als
+
+1:27:25.559,1:27:29.489
+wat heet NORM, Natuurlijk voorkomende radioactieve
+Materialen. Bijvoorbeeld, als je gaat Frack
+
+1:27:29.489,1:27:34.179
+een schalie en trek je gas uit, veel van radon
+komt met dat ook.
+
+1:27:34.179,1:27:39.749
+Je verbrandt het gas, dat radon vrijkomt.
+Niemand geldt dat radon tegen het gas.
+
+1:27:39.749,1:27:44.539
+Als ze dat deed, de regelgevende commissie zou
+sloot de gascentrale naar beneden, ook met kolen. Kolen
+
+1:27:44.539,1:27:47.769
+bevat kleine hoeveelheden uranium en thorium.
+Ze gaan de stack, zijn ze verspreid.
+
+1:27:47.769,1:27:50.369
+Dat is waarom ze kunnen je niet vertellen hoeveel afval
+ze geproduceerd.
+
+1:27:50.369,1:27:55.130
+Ja, en ze besteden veel geld te maken
+zeker van dat de regelgevende agentschappen niet reguleren
+
+1:27:55.130,1:28:00.900
+NORM voor een kolen of gascentrale de manier waarop ze
+reguleren radioactieve uitstoot van een nucleaire
+
+1:28:00.900,1:28:06.070
+plant. Als ze dat deden, zouden we het afsluiten van
+al onze kolen en gas installaties op basis van radioactiviteit
+
+1:28:06.070,1:28:07.479
+alleen.
+
+1:28:07.479,1:28:10.670
+Zelfs als er voor lineaire no-drempel is eigenlijk wel waar
+- Laten we zeggen een minuut dat het waar was, en
+
+1:28:10.670,1:28:15.249
+dit was de realiteit van de wereld. Je zou
+nog veel beter af zijn tot oprichting van een volledig
+
+1:28:15.249,1:28:18.739
+wereld dat werd aangedreven door kernenergie. De reden dat
+waarom is het gevolg van de radioactieve releases
+
+1:28:18.739,1:28:22.440
+uit steenkool. Je zou willen sluiten steenkool
+dus je zou kunnen hebben kernenergie, omdat steenkool releases
+
+1:28:22.440,1:28:25.679
+meer straling dan nucleaire door verschillende ordes
+van grootte.
+
+1:28:25.679,1:28:32.130
+Het idee dat er geen veilige hoeveelheid
+straling is niet onderbouwd een, of zelfs een
+
+1:28:32.130,1:28:38.469
+nauwkeurige opgave. Het is waarschijnlijk zelfs
+volkomen onjuist. Maar, het is vaak gevonden
+
+1:28:38.469,1:28:41.639
+als een basis van openbare orde rond de wereld.
+
+1:28:41.639,1:28:46.800
+Dat was mijn begrip tot net nu,
+dat er geen veilig niveau van de straling.
+
+1:28:46.800,1:28:50.510
+Twee grote boeken over dit-"Terrestrial Energy"
+door Bill Tucker, en "The Power to the Save
+
+1:28:50.510,1:28:57.070
+World "door Gwen Cravens-go in dit onderwerp
+uitgebreid. Totdat dit idee van lage blootstelling
+
+1:28:57.070,1:29:03.670
+niveaus van straling is gericht en te maken aan
+bed, zal het voor altijd de hond de nucleaire industrie.
+
+1:29:03.670,1:29:07.760
+Een zonnebrand is stralingsschade. Dat is straling
+branden. We doen niet noemen, maar dat is wat
+
+1:29:07.760,1:29:13.499
+het is. Je lichaam reageert, probeert te
+voorkomen van verdere schade door straling, ioniserende
+
+1:29:13.499,1:29:16.780
+straling op uw huid en uw cellen en
+Het is het genereren van melanine, dat is een natuurlijke
+
+1:29:16.780,1:29:18.519
+afscherming mechanisme.
+
+1:29:18.519,1:29:22.229
+Je wilt niet te laat niemand te veel
+stralingsdosis op een bepaald moment en de radioactiviteit
+
+1:29:22.229,1:29:26.760
+die we krijgen van kernreactoren is zeer
+klein in vergelijking met de radioactiviteit we
+
+1:29:26.760,1:29:30.659
+om van andere bronnen. De grootste
+wordt radon. Er is een radioactief gas dat is
+
+1:29:30.659,1:29:34.760
+komt uit de grond de hele tijd. Je bent
+ademen het nu. Het is verantwoordelijk
+
+1:29:34.760,1:29:40.479
+veruit het grootste deel van de radioactiviteit
+dat uw lichaam krijgt. Het is gewoon de planeet
+
+1:29:40.479,1:29:41.829
+we leven.
+
+1:29:41.829,1:29:45.159
+In de aarde, thorium en uranium zijn
+verval, en ze zijn heel langzaam verval,
+
+1:29:45.159,1:29:50.070
+maar er is veel van hen en de aarde is
+groot. Ze produceren het grootste deel van de warmte die drives
+
+1:29:50.070,1:29:54.030
+de interne processen van de aarde. Ze
+productie van de warmte die de platentektoniek drives,
+
+1:29:54.030,1:29:58.510
+en ze produceren de warmte die de drives
+generatie van het magnetisch veld. Als we niet
+
+1:29:58.510,1:30:02.340
+hebben de energie van thorium, zouden we niet
+hebben koolstof recycling in de korst.
+
+1:30:02.340,1:30:07.010
+Een groter deal is het magnetisch veld, omdat de
+het magnetisch veld is het afbuigen van de zonne-energie
+
+1:30:07.010,1:30:11.900
+wind. Als u niet beschikt over een magnetisch veld afbuigen
+de zonnewind, gedurende miljarden jaren uw
+
+1:30:11.900,1:30:17.489
+planeet eindigt zoals Mars. Omdat de zonne-energie
+wind zal strippen van een planeet sfeer
+
+1:30:17.489,1:30:22.909
+zonder de bescherming van de natuur van de magnetische
+veld. Dus als we niet de energie uit
+
+1:30:22.909,1:30:26.340
+thorium in de aarde, zouden we op een
+dode planeet.
+
+1:30:26.340,1:30:28.309
+Een leuk ding Ik vertel mensen, zeg ik, "Wat is
+groene energie? 'Ze gaan, "Geothermische is groen
+
+1:30:28.309,1:30:33.340
+energie. "Weet u waar aardwarmte komt
+uit? Nee, het komt van verval van Thorium binnen
+
+1:30:33.340,1:30:37.780
+de aarde. Is geothermische hernieuwbare? Ja! OK,
+dan Thorium is hernieuwbaar. "Nee, het is niet,
+
+1:30:37.780,1:30:40.550
+je gebruikt it up! "Nou, je gebruikt op
+Thorium als het vergaat in de aarde, ook.
+
+1:30:40.550,1:30:45.929
+Dus elke argument voor geothermische energie, als het rigoureus
+nagestreefd, is een argument voor de hernieuwbaarheid
+
+1:30:45.929,1:30:49.739
+van thorium als een energiebron. En ik hou van
+te hebben dat debat. Ze hebben meestal veranderen
+
+1:30:49.739,1:30:51.280
+regels voor mij als ik in.
+
+1:30:51.280,1:30:56.369
+Maar een goede om te spelen op je vrienden als
+ze beginnen met het geven u een harde tijd voor de komende
+
+1:30:56.369,1:31:00.829
+naar protoSPACE en praten over Thorium, je
+zeggen: "Dude, het is groene energie." "Wat?"
+
+1:31:00.829,1:31:05.139
+Als u bezorgd bent met het milieu,
+dan wil je op de hoogte van wat de macht
+
+1:31:05.139,1:31:11.139
+dichtheid van elke bron is. Iedereen die probeert
+om u te verkopen biobrandstoffen, of dit soort dingen,
+
+1:31:11.139,1:31:16.260
+wat doe je over de thermodynamische inefficiëntie
+van verbrandingsmotoren? Brandstoffen, dat je verbrandt,
+
+1:31:16.260,1:31:22.289
+is in hier. Telkens als we iets branden,
+we gebruiken een zeer inefficiënt proces. Thermodynamica
+
+1:31:22.289,1:31:26.710
+meestal geeft ons ongeveer 30 procent van de
+energie als we brandstof te verbranden.
+
+1:31:26.710,1:31:31.369
+Dus elke keer als je een dollar waarde van
+gas in uw auto, kus 60 cent vaarwel, omdat
+
+1:31:31.369,1:31:35.639
+het gaat om uit te gaan van de uitlaatpijp als
+warmte. En we afval 10 procent van wat er gegenereerd
+
+1:31:35.639,1:31:39.699
+in transmissielijnen. Dus wanneer ze praten
+over deze afgelegen zonne-energie bedrijven, of op afstand
+
+1:31:39.699,1:31:43.210
+windparken of iets, heb je een schuld van
+10 procent die u betaalt vanaf nu,
+
+1:31:43.210,1:31:45.820
+voor altijd. Je bent nooit gaat die energie te krijgen
+terug.
+
+1:31:45.820,1:31:51.820
+Vijf megawatt, top van de lijn Siemens wind
+molen, duurt 10 hectare. En vijf megawatt per
+
+1:31:51.820,1:31:56.389
+10 hectare, dat is half een megawatt per hectare.
+Als je je verplaatsen naar kernsplijting, je hebt honderden
+
+1:31:56.389,1:32:02.229
+van duizenden meer watt per vierkante voet, per
+acre, per pond. Wat dan ook. En als u verhuist
+
+1:32:02.229,1:32:08.519
+tot fusion, krijg je nog een 10.000 keer
+dat. Fusion we niet te wachten op, omdat de
+
+1:32:08.519,1:32:12.010
+splijting is goed genoeg voor ons, in het bijzonder
+met de thorium-cyclus.
+
+1:32:12.010,1:32:16.409
+Een nucleaire artikel zou worden geschreven. Auteur
+van het artikel gaat naar mij, of Rod Adams,
+
+1:32:16.409,1:32:20.949
+of John Wheeler - iemand die is een beetje bekend
+als een openbaar pleitbezorger voor kernenergie. En dan
+
+1:32:20.949,1:32:25.389
+om te gaan vinden de andere kant, Ed Lyman, of Jim
+Riccio van Greenpeace, of een van deze andere
+
+1:32:25.389,1:32:29.110
+jongens. Nu contrast dit met een artikel rond
+zonne-energie, of wind, en ik kijk voor dit alles de
+
+1:32:29.110,1:32:33.389
+tijd. Ik ben altijd proberen om te zien, is er een andere
+kant in deze artikelen? Er is nooit een ander
+
+1:32:33.389,1:32:36.979
+kant. "Die en die een bedrijf heeft aangekondigd
+ze gaan tot 50 megawatt windmolens zetten
+
+1:32:36.979,1:32:39.659
+op deze site. Wereld verheugt zich. "
+
+1:32:39.659,1:32:42.159
+En ze hebben gekauwd up de helft van de berg naar
+zet de windmolens daar.
+
+1:32:42.159,1:32:46.389
+Ze krijgen meer subsidies per megawatt uur
+dan elke andere vorm van energie door een of twee
+
+1:32:46.389,1:32:51.949
+ordes van grootte. Ik bedoel, het is enorm! Wij zijn
+aan te bieden terug te kopen zonne-energie van mensen
+
+1:32:51.949,1:32:57.400
+die het produceren van 35 tot 50 cent een kilowatt
+uur. Ik bedoel, dat obsceen is. Waarom op aarde,
+
+1:32:57.400,1:33:00.960
+als je energie maken bij u thuis, kunt u
+moet verkopen het terug aan het net op welk
+
+1:33:00.960,1:33:05.260
+het rooster is het kopen op dat moment. Het raster
+zouden niet moeten energie afnemen van u op
+
+1:33:05.260,1:33:06.989
+een aantal enorm toegenomen prijs.
+
+1:33:06.989,1:33:09.400
+Maar ze zijn subsidiëren van technologie tot het
+wordt efficiënter.
+
+1:33:09.400,1:33:12.409
+Wanneer al deze tarieven worden verlaagd, de
+dingen die we geacht worden aan te moedigen, en
+
+1:33:12.409,1:33:17.179
+jump start een industrie, de industrie stort.
+Zonne-industrie in Duitsland en in Spanje is
+
+1:33:17.179,1:33:21.739
+in diepe instorten als gevolg van de geprojecteerde
+het verwijderen van de vergoedingen en tarieven, omdat deze
+
+1:33:21.739,1:33:26.300
+zijn gewoon niet zuinig energiebronnen.
+De subsidie ??kan worden goede bedoelingen om te proberen
+
+1:33:26.300,1:33:30.260
+om de industrie aan de slag op zijn eigen
+maar dat is meestal niet de manier waarop dingen werken.
+
+1:33:30.260,1:33:34.539
+Elke energiebron wordt gesubsidieerd, toch?
+Als olie wordt gesubsidieerd omdat we sturen
+
+1:33:34.539,1:33:35.869
+mensen af ??naar de oorlog ...
+
+1:33:35.869,1:33:41.059
+De niveaus van de subsidies in hoofdzaak
+lager voor gevestigde industrieën dan ze
+
+1:33:41.059,1:33:42.909
+zijn voor zaken als zonne-en windenergie.
+
+1:33:42.909,1:33:46.769
+George Monbiot, die schrijft in The Guardian,
+Hij is onlangs komen heel sterk in
+
+1:33:46.769,1:33:50.280
+ondersteuning van kernenergie als gevolg van wat er gebeurd is
+bij Fukushima Daiichi, hoe als overleefde de
+
+1:33:50.280,1:33:54.510
+aardbeving en het totale effect is
+niets in vergelijking met de dood en het verlies van
+
+1:33:54.510,1:33:55.559
+het leven van de tsunami.
+
+1:33:55.559,1:33:59.199
+Nou, hij genoemd in een artikel dat hij schreef
+gisteren dat hij sprak met Caroline Lucas,
+
+1:33:59.199,1:34:04.300
+het hoofd van de groene partij in de U. K. en
+vroeg hij haar waarom ze zou steunen subsidies
+
+1:34:04.300,1:34:07.579
+op zonne-en wind. Ze gaat "I afneemt tegen
+voor nucleaire maar ik steun ze voor zonne-en
+
+1:34:07.579,1:34:11.340
+wind, want kernenergie is een gevestigde industrie
+en zonne-en windenergie nog in ontwikkeling industrie,
+
+1:34:11.340,1:34:15.960
+en ze hebben steun van het publiek om te gedijen. "
+En zo George, een heel slimme jongen, zei: "Will
+
+1:34:15.960,1:34:20.889
+steunt u het onderzoek naar thorium reactoren,
+die kunnen resulteren in een veel veiliger en goedkoper
+
+1:34:20.889,1:34:23.670
+middel van het produceren van kernenergie? "
+
+1:34:23.670,1:34:28.460
+Nee, want thorium reactoren zijn geen bewezen
+technologie.
+
+1:34:28.460,1:34:32.749
+Op individueel niveau zien we een veel
+van de mensen van gedachten veranderen. Maar op de organisatorische
+
+1:34:32.749,1:34:38.030
+niveau hebben we het niet zien van een verandering. De mensen
+die lopen van de milieubeweging organisaties,
+
+1:34:38.030,1:34:38.280
+en dat is jammer.
+
+1:34:38.130,1:34:43.209
+Heeft u een een-op-een, waar u in gesprek bent
+aan iemand en krijgen ze dit?
+
+1:34:43.209,1:34:47.300
+Het is moeilijk voor mensen die verder zijn de
+voedselketen in deze organisaties om te komen
+
+1:34:47.300,1:34:51.959
+uit en maken de openbare orde verklaringen. Heel veel
+van de mensen krijgen een-op-een, maar ze zijn bang
+
+1:34:51.959,1:34:56.920
+de eerste om op te staan ??en worden "Ra-ra-ra zeggen,
+laten we gaan dit doen. "Het is een stuk gemakkelijker als
+
+1:34:56.920,1:34:58.789
+u het gevoel dat iedereen achter je.
+
+1:34:58.789,1:35:04.249
+Waarom zijn beroep op technologische ontwikkelingen
+altijd gemaakt met betrekking tot zonne-en windenergie?
+
+1:35:04.249,1:35:07.159
+Het zal beter het gaat om
+goedkoper, het gaat om efficiënter te maken.
+
+1:35:07.159,1:35:10.719
+Nu niet druk over wat we hebben, veroorzaken
+het gaat beter worden volgend jaar. Maar toch
+
+1:35:10.719,1:35:14.869
+kernenergie is toegewezen deze positie terug in de
+de jaren '50 waar het kan nooit beter, het
+
+1:35:14.869,1:35:19.289
+kan nooit voorzien van een nieuwe technologie,
+kan nooit verbeteren en we zullen niet eens vermaken
+
+1:35:19.289,1:35:20.840
+als het niet beter te krijgen.
+
+1:35:20.840,1:35:25.719
+Nucleaire juiste middelen nu watergekoelde reactor,
+uraniumoxide vaste brandstof, slechte brandstofverbruik
+
+1:35:25.719,1:35:31.510
+en stoom turbine. Dat is wat kernenergie
+betekent op dit moment. Dus mensen kijken naar Fukushima
+
+1:35:31.510,1:35:37.789
+Daiichi gaan en zij, "Is dit het einde van de nucleaire
+de macht? "en ik ga," Nee, het is niet het einde van de
+
+1:35:37.789,1:35:39.300
+kernenergie, er is een ontelbaar andere manieren
+te doen kernenergie. "
+
+1:35:39.300,1:35:44.190
+De reactor die we gewerkt wordt gekoeld door
+een vloeibaar zout, een nucleaire brandstof in de vorm
+
+1:35:44.190,1:35:45.429
+van vaste kiezels.
+
+1:35:45.429,1:35:50.739
+Ze zijn gekoeld door fluoride zouten, maar de
+brandstof is niet opgelost in de zouten, het is in
+
+1:35:50.739,1:35:51.809
+een vaste vorm.
+
+1:35:51.809,1:35:56.690
+Ik was uitgenodigd op kantoor van de directeur. De
+fysicus daar vertelde me: "Wat heb je
+
+1:35:56.690,1:36:02.579
+uitgevonden is een nieuwe thorium uranium-233 fokker. "
+Heb je ooit gehoord van ongeveer EXYDER, natuurlijk
+
+1:36:02.579,1:36:02.969
+niet.
+
+1:36:02.969,1:36:07.659
+Stel je eens voor wat er zou gebeuren als er
+een licht water reactor waar de nucleaire stoom
+
+1:36:07.659,1:36:14.449
+aanbod systeem werd in een enkel schip, geen leidingen
+penetraties van meer dan ongeveer drie centimeter
+
+1:36:14.449,1:36:17.570
+in diameter. Ik ben bezig met die exacte reactor.
+
+1:36:17.570,1:36:22.829
+Uit hun reactie op Fukushima, het was een
+aanwijzing dat mensen niet het begrijpen
+
+1:36:22.829,1:36:29.780
+opties rond kernenergie. Het bijwerken van de oude infrastructuur
+aanzienlijk zal stijgen de veiligheidsnormen.
+
+1:36:29.780,1:36:36.159
+Generatie twee en drie zijn nog steeds operationeel,
+generatie 3.5 is wat het recht wordt gebouwd
+
+1:36:36.159,1:36:40.869
+nu en vier generatie heeft een hogere veiligheid
+normen, gemakkelijker te bouwen en zo goedkoper
+
+1:36:40.869,1:36:46.150
+op te bouwen een betere benutting van de brandstof, drastisch
+goedkopere energie, nog veiliger reactoren.
+
+1:36:46.150,1:36:50.570
+Misschien is er een betere manier, als je figuur kan
+hoe u dit beter doen, zal ik gelukkig zijn
+
+1:36:50.570,1:36:54.209
+uitstappen LFTR en gaan doen wat dat is
+beter. Dit is de beste manier die ik heb kunnen
+
+1:36:54.209,1:36:55.499
+om te komen met tot nu toe.
+
+1:36:55.499,1:36:57.449
+Kun je een samenvatting van wat de studie zei?
+
+1:36:57.449,1:37:01.190
+De titel van de studie was "Thorium is geen
+wondermiddel voor kernenergie. "Ze probeerden
+
+1:37:01.190,1:37:03.190
+wijzen op de tekortkomingen in thorium.
+
+1:37:03.190,1:37:09.829
+Ik dacht niet dat ze een zeer eerlijke toepassing van
+logica in, omdat ze zouden zeggen "Thorium
+
+1:37:09.829,1:37:14.070
+in een vaste brandstof reactor zou doen bla bla
+blah. Zie dat is niet erg goed, dus thorium's
+
+1:37:14.070,1:37:14.320
+dom. "
+
+1:37:14.119,1:37:17.820
+Nou nee, thorium is dom in een vaste brandstof reactor.
+Niet "thorium is dom."
+
+1:37:17.820,1:37:23.579
+Als je gaat naar daar te proberen om iets
+aan het publiek te zeggen "Ik ga gezag
+
+1:37:23.579,1:37:28.440
+weerleggen het gebruik van thorium als energiebron, "
+dan past het u te doen je huiswerk.
+
+1:37:28.440,1:37:30.880
+Is het veilig is als het klinkt wat is het voorkomen van
+Noord-Amerikaanse regeringen van het zelf creëren van
+
+1:37:30.880,1:37:37.880
+de reactor? Wat is het eng ding over
+het?
+
+1:37:38.579,1:37:43.050
+Ah, je denken als ik 10 jaar geleden,
+u zoekt een reden waarom niet, ik weet niet
+
+1:37:43.050,1:37:46.989
+denken dat er een reden waarom niet. Er kunnen
+een reden zijn waarom ze niet kan worden opgewekt om
+
+1:37:46.989,1:37:47.590
+doen.
+
+1:37:47.590,1:37:49.360
+Maar er is geen enkele reden waarom ze niet kunnen doen.
+
+1:37:49.360,1:37:55.659
+Als ik een bedrijf dat het gebouw van CANDUs of
+licht-water-reactoren, wat concurrentievoordeel
+
+1:37:55.659,1:37:59.900
+heb ik door het nastreven van deze andere richting?
+Waarschijnlijk hebben geen.
+
+1:37:59.900,1:38:03.570
+Er is zoiets als nucleaire hacking, het is
+wat dit hele gedoe is over, omdat we
+
+1:38:03.570,1:38:09.429
+het niet over de nucleaire technologie de manier waarop
+het is nu klaar, we hebben het over een volledig
+
+1:38:09.429,1:38:11.690
+andere aanpak van kernenergie.
+
+1:38:11.690,1:38:15.940
+Dus misschien zullen we terugkijken in de toekomst en
+Het is vergaderingen en bijeenkomsten als dit zullen we
+
+1:38:15.940,1:38:19.449
+gaan "Man, dat was waar het begon. Het
+niet aan de slag bij Westinghouse of Atomic
+
+1:38:19.449,1:38:24.909
+Energie van Canada, of GE, "er is een ton we
+zou kunnen doen in deze reactor dat ook zou betekenen
+
+1:38:24.909,1:38:29.400
+de radioactieve stoffen. Al de dingen zoals
+de kracht conversie systeem al de chemie,
+
+1:38:29.400,1:38:31.309
+dat alle kan worden gedaan niet-nucleair.
+
+1:38:31.309,1:38:37.249
+Ik heb niet veel vertrouwen dat de huidige
+nucleaire instellingen, om eerlijk te zijn, wat er nu precies
+
+1:38:37.249,1:38:41.289
+willen we van ze? Ik bedoel al hun
+technologie is gebaseerd op technologie die
+
+1:38:41.289,1:38:43.039
+is niet wat er aan de hand te gaan in deze machine.
+
+1:38:43.039,1:38:47.739
+Wij willen dat het feit dat ze het oor van de overheid
+en zeer grote banken.
+
+1:38:47.739,1:38:51.829
+OK, hoeveel-dat we niet precies bouwkavels
+van kernreactoren op dit moment. Al hun geld
+
+1:38:51.829,1:38:56.690
+nu komt de brandstoftoevoer af contracten. Dat is
+hoe GE en Westinghouse geld te verdienen op de nucleaire
+
+1:38:56.690,1:39:01.329
+de macht vandaag de dag, doen ze niet bouwen reactoren, ze
+verkopen brandstof. Nu 30 jaar geleden waren ze bouwen
+
+1:39:01.329,1:39:04.889
+reactoren, maar dat is niet echt aan de hand op de rechter
+nu.
+
+1:39:04.889,1:39:10.030
+Dus hun business model is overweldigend
+gedomineerd door brandstof verzinsels. Kom op nu
+
+1:39:10.030,1:39:14.539
+zeg je, "Raad eens wat ik een reactor het heeft
+heb geen splijtstoffabricage om het, "je gewoon omgekiept
+
+1:39:14.539,1:39:15.260
+hun business model.
+
+1:39:15.260,1:39:19.489
+In de Verenigde Staten zijn we het bouwen van twee reactoren
+op dit moment. We gaan af te sluiten meer reactoren
+
+1:39:19.489,1:39:24.590
+dan die in een paar jaar. We zijn niet krijgen
+voorsprong van iets, zullen we geluk hebben om vast te houden
+
+1:39:24.590,1:39:27.329
+de lijn. Ik weet niet eens denken dat we gaan
+in staat zijn om dat te doen.
+
+1:39:27.329,1:39:29.880
+Hoe zit het in ontwikkelingslanden zoals China
+en India?
+
+1:39:29.880,1:39:33.690
+China's rippen it up, China gebouw als
+50 reactoren nu.
+
+1:39:33.690,1:39:39.170
+Maar zelfs in China gerealiseerd, "We kunnen niet gebouwd
+reactoren gebaseerd op waterkoeling en uranium
+
+1:39:39.170,1:39:43.889
+oxide brandstofcel, gaat het niet zo lang. "
+Doen LFTR China, zelfs als we spreken.
+
+1:39:43.889,1:39:45.709
+Ik vond dat geleden een paar maanden geleden.
+
+1:39:45.709,1:39:48.579
+Waar zijn ze het krijgen van de blauwdrukken? Of
+zijn ze de ontwikkeling ervan?
+
+1:39:48.579,1:39:55.300
+Nou, ik bedoel ze hebben waarschijnlijk een hele kreeg
+heleboel dingen van de PDF's op mijn website.
+
+1:39:55.300,1:40:00.670
+Het is in het publieke domein voor een verschrikkelijk
+lange tijd. Ik maakte het een beetje makkelijker
+
+1:40:00.670,1:40:01.699
+te krijgen.
+
+1:40:01.699,1:40:05.670
+Dit was ongeveer 10 jaar geleden. Ik kreeg in de
+auto, woonde ik in Alabama en ik was in staat om
+
+1:40:05.670,1:40:08.909
+ga naar Oak Ridge praat dan met een aantal van de
+mensen daar. En ik zei: "Hey, ik heb gehoord
+
+1:40:08.909,1:40:13.909
+dat jullie lange tijd geleden deed dit echt,
+echt cool ding. Wat is er aan de hand? "En ze zijn
+
+1:40:13.909,1:40:17.360
+als "Ja, lang geleden deden we een echt,
+echt cool ding en iedereen die het deed
+
+1:40:17.360,1:40:18.320
+is met pensioen of nu dood. "
+
+1:40:18.320,1:40:22.199
+Ik ben als "Oh, nou, dat is niet goed. Wat
+kunnen we doen? "en ze zei:" Nou, ze schreven
+
+1:40:22.199,1:40:27.119
+een hoop papieren en ze schreef veel van de rapporten. "
+Ik zei: "Oh, OK. Kan ik ze vinden? ' "Oh yeah"
+
+1:40:27.119,1:40:31.729
+toen namen ze me naar dit bestand kast en
+het was als vol met rommel. En PDF'd - niet
+
+1:40:31.729,1:40:33.889
+alles, maar het grootste deel, ongeveer tweederde
+ervan.
+
+1:40:33.889,1:40:40.030
+Dus, ik had deze stapel CD's en ik dacht
+"Oh!" Stuur een kopie aan de minister van Energie,
+
+1:40:40.030,1:40:44.530
+stuur een kopie naar de directeur van de National Labs,
+stuur het allemaal op deze verschillende plaatsen
+
+1:40:44.530,1:40:50.409
+gewoon zeker dat ze zouden gaan naar cd's te krijgen van
+een willekeurig persoon en zet ze in hun computer
+
+1:40:50.409,1:40:55.179
+en uitvoerig bestuderen - alle vijf gigabytes
+van hen - en kom tot dezelfde conclusie
+
+1:40:55.179,1:41:00.650
+Ik had en verandering nationaal beleid. Ik bedoel,
+natuurlijk, toch? Als we niet dit bericht
+
+1:41:00.650,1:41:04.869
+aan iedereen, dan is er niets gaat veranderen.
+
+1:41:04.869,1:41:10.039
+In het begin van 2010 EFT bloggers opgevallen dat alle
+deze jongens die probeerden het aanmelden van
+
+1:41:10.039,1:41:13.769
+Shanghai, Beijing en ze begonnen te vragen
+vragen over dit en dat.
+
+1:41:13.769,1:41:17.780
+Ze gingen naar Oak Ridge. Ze namen ze rond
+het lab en liet ze alles. En het is
+
+1:41:17.780,1:41:21.619
+grappig naar Oak Ridge, want ze zijn allemaal
+over de info en de nano en de bio-en
+
+1:41:21.619,1:41:25.139
+u wilt gaan, "Hoe zit het met kernenergie?"
+Ze praat nooit over dat deel. Nou, we
+
+1:41:25.139,1:41:29.420
+naar het einde van de reis en de Chinese
+de officiële naam is Dr Jiang Mianheng ...
+
+1:41:29.420,1:41:32.979
+interessante over Dr Jiang Mianheng, zijn
+vader was Jiang Zemin, die vroeger de
+
+1:41:32.979,1:41:38.300
+premier van China. Dus, dit is niet een slecht geplaatste
+man in de Chinese samenleving.
+
+1:41:38.300,1:41:40.280
+Opgeleid in de Verenigde Staten in Pennsylvania.
+
+1:41:40.280,1:41:43.989
+PhD in Electrical Engineer van de Drexel University;
+zeer, zeer helder vent.
+
+1:41:43.989,1:41:46.289
+Ze stonden onder een non-disclosure agreement
+tussen RGOE en de Chinese overheid.
+
+1:41:46.289,1:41:49.579
+Zo krijgen ze aan het einde van de vergadering en
+Ik ben verteld door Oak Ridge mensen "Je weet dat we
+
+1:41:49.579,1:41:54.249
+had deze grote reis. Heb je geleerd wat
+je wilde leren? "en ze gaan" We zijn eigenlijk
+
+1:41:54.249,1:41:58.139
+hier voor meer informatie over de gesmolten zout reactor.
+Je ziet, we gaan naar een te bouwen - we hebben
+
+1:41:58.139,1:42:01.070
+al een locatie uitgezocht - en we zijn
+gaan het hebben gebouwd in 2020 en we zijn hier
+
+1:42:01.070,1:42:06.340
+om te leren alles wat we kunnen over. "En
+in Oak Ridge waren we als "Huh ..."
+
+1:42:06.340,1:42:09.559
+Iedereen hebben hun oordopjes in hun oren
+terwijl ik heb gesproken om te proberen en me verdrinken
+
+1:42:09.559,1:42:14.639
+uit? Oudere mensen zoals mij zal een dag herinneren
+wanneer oortelefoon zag er niet uit zo. De
+
+1:42:14.639,1:42:19.459
+hele truc is de uitvinding van een klein
+magneet op basis van neodymium, neodymium-ijzer-boor
+
+1:42:19.459,1:42:23.590
+magneten. Extreem krachtige magneten, en ze
+gebruik maken van een zeldzame aarde mineraal genoemd neodymium.
+
+1:42:23.590,1:42:29.440
+En omdat neodymium-ijzer-boron magneten zijn
+zo krachtig een van de plaatsen waar ze toepassing vinden
+
+1:42:29.440,1:42:32.909
+is in de generatoren die zitten op de top van de windmolens.
+
+1:42:32.909,1:42:37.869
+Wereldwijde vraag naar windenergie is echt toegenomen
+verlangen om neodymium te vinden.
+
+1:42:37.869,1:42:41.780
+Op dit moment is het allemaal gedolven in China. Nu
+Daarom heb ik het over neodymium?
+
+1:42:41.780,1:42:46.309
+Goed, want thorium wordt altijd gevonden met
+zware zeldzame aarden. Als je nog
+
+1:42:46.309,1:42:49.519
+uw periodieke tabel, de lanthaniden dat
+kolom boven de actiniden, dat zijn allemaal
+
+1:42:49.519,1:42:50.539
+de zeldzame aarden.
+
+1:42:50.539,1:42:56.389
+Thorium-beleid in alle westerse landen ondermijnt
+de succesvolle ontwikkeling van een binnenlandse zeldzame
+
+1:42:56.389,1:43:00.039
+aarde markt. Alle van de zeldzame aarden, dat
+de meeste westerse mijnbouwbedrijven bereid zijn
+
+1:43:00.039,1:43:05.510
+te verwerken zijn wat ze noemen bastnasites
+of carbonatites. Ze meestal kiezen deze
+
+1:43:05.510,1:43:10.989
+zeldzame aarden niet vanwege de hoge ratio's
+van zeldzame aarden, maar eenvoudigweg de afwezigheid van thorium.
+
+1:43:10.989,1:43:16.599
+Dus dan ook het enige besturingssysteem zeldzame aarde
+van mij die net geopend dit jaar, volgens
+
+1:43:16.599,1:43:22.599
+om hun eigen depots in de USGS, produceert
+vooral de lichtere helft van het lanthanide
+
+1:43:22.599,1:43:28.449
+schaal en in feite heeft wel enkele monazites,
+die een thorium zeldzame aarde verrijkt mineralisatie,
+
+1:43:28.449,1:43:29.719
+dat zij beschikken.
+
+1:43:29.719,1:43:35.329
+Dus wat gebeurt er in heel Amerika, Canada,
+en Zuid-Amerika, zijn er mooie monaziet
+
+1:43:35.329,1:43:39.849
+deposito's die zware zeldzame aarden die zijn
+zou heel commercieel zijn, behalve voor de thorium
+
+1:43:39.849,1:43:40.209
+inhoud.
+
+1:43:40.209,1:43:45.809
+Mountain Pass was oorspronkelijk gesloten, volgens
+CEO Mark Smith, als gevolg van de EPA en
+
+1:43:45.809,1:43:50.530
+de staat van Californië en een aantal thorium dat
+kwam uit een gescheurde tailing site. Thorium
+
+1:43:50.530,1:43:56.920
+vertegenwoordigt deze onbekende en onbeperkte aansprakelijkheid
+naar zeldzame aarde productie, dus het speelt in
+
+1:43:56.920,1:43:58.150
+de handen van China.
+
+1:43:58.150,1:44:03.380
+De eerste, China voorzien zeldzame aarde-elementen
+erg goedkoop om iedereen in de wereld door
+
+1:44:03.380,1:44:08.809
+hun goedkope arbeidskrachten, gebrek aan afdwingbare milieu
+regelgeving, en hun waarderen valuta.
+
+1:44:08.809,1:44:12.559
+Wezen, consolideren en de controle van de zeldzame
+aarde markt.
+
+1:44:12.559,1:44:17.559
+En toen zeiden ze: "Wel, nu allen van je
+komen naar onze deur om onze zeldzame aarden kopen.
+
+1:44:17.559,1:44:22.209
+We willen niet dat de grondstof niet meer te verkopen.
+Onze fabrikanten kunnen kopen goedkoper. "
+
+1:44:22.209,1:44:28.909
+Ze leggen een enorme belasting op export zeldzame aarde
+elementen. Dus, een had een keuze om een ??te accepteren
+
+1:44:28.909,1:44:35.300
+enorme belastingen en een verhoging van de prijs van de
+product of verplaats de fabriek in het vasteland
+
+1:44:35.300,1:44:40.440
+China en kopen zeldzame aarde-elementen op de lokale
+markt zonder belasting.
+
+1:44:40.440,1:44:43.619
+Het is een strategie en het is erg goed werkt.
+
+1:44:43.619,1:44:47.949
+Fabrikanten die zeldzame aarde-elementen te gebruiken
+in hun producten brachten hun productie
+
+1:44:47.949,1:44:53.349
+basis in China. De banen in de productie
+overgeheveld uit de Verenigde Staten en West-
+
+1:44:53.349,1:44:55.489
+Europa in het Chinese vasteland.
+
+1:44:55.489,1:45:00.440
+Ze zijn verhuisd helemaal tot de waardeketen
+en zijn eigenlijk in staat om gebruik te maken van hun positie
+
+1:45:00.440,1:45:06.849
+in het vastleggen van andere landen I.P. Als Toyota
+echt wil bouwen aan een miljoen accu's,
+
+1:45:06.849,1:45:11.369
+op het einde, als ze niet vinden van een oplossing
+de zware zeldzame aarde probleem, zullen ze
+
+1:45:11.369,1:45:12.380
+ze te bouwen in China.
+
+1:45:12.380,1:45:18.840
+Dus wat we nodig hebben om te kunnen doen, is laten een ander
+entiteit te nemen dat thorium, het ontwikkelen van toepassingen en
+
+1:45:18.840,1:45:20.309
+markten, waaronder energie.
+
+1:45:20.309,1:45:24.519
+Dus, laten we bijvoorbeeld zeggen, heb je een enkele
+zeldzame aarde raffinaderij het creëren van ongeveer 20.000
+
+1:45:24.519,1:45:29.300
+ton zware zeldzame aarden een jaar. Op de huidige
+verbruik, dat is ongeveer 130 procent van de binnenlandse
+
+1:45:29.300,1:45:34.400
+verbruik voor zeldzame aarden. Die automatisch
+ondermijnt China's voordeel. Nu, er is
+
+1:45:34.400,1:45:38.829
+twee plaatsen op de planeet Aarde waar je
+een gegarandeerde levering van zware zeldzame aarden.
+
+1:45:38.829,1:45:43.849
+Wat kan je land benutten dat in?
+Dit is het steunpunt je nodig hebt om weer in
+
+1:45:43.849,1:45:46.099
+de wereldeconomie als een fabrikant.
+
+1:45:46.099,1:45:50.749
+Omdat 99 procent van de zeldzame aarden, dat we
+gebruik, met inbegrip van die magneten? Nou, als die
+
+1:45:50.749,1:45:53.709
+werd bepaald, was er waarschijnlijk een thorium
+die kwam met dat waarschijnlijk zit
+
+1:45:53.709,1:46:00.709
+in een aantal vaten meer dan in China op dit moment, wachtend
+voor Dr Jhang zijn experimenten eindigen met
+
+1:46:00.900,1:46:03.829
+thorium gesmolten zout reactoren en om te beginnen
+waardoor ze te gebruiken.
+
+1:46:03.829,1:46:07.999
+Dit is het belangrijkste ding dat er aan de hand
+te gebeuren in de komende 24 maanden, en wie
+
+1:46:07.999,1:46:13.309
+krijgt die in wezen gaat om de controle
+het lot en de uitrol van energie voor
+
+1:46:13.309,1:46:14.539
+de nabije toekomst.
+
+1:46:14.539,1:46:19.119
+Ze moeten in staat zijn om de belofte te realiseren
+van thorium. Maar, ik zou ook graag zien dat wij slagen,
+
+1:46:19.119,1:46:24.199
+weet je wel? We werkten aan dit spul een
+lange tijd geleden, hebben we grote vooruitgang geboekt op.
+
+1:46:24.199,1:46:29.659
+We zetten het neer in 1974 voor het soort van domme redenen,
+en ik denk dat het hoog tijd dat we geplukt
+
+1:46:29.659,1:46:31.789
+dat de draad weer naar boven.
+
+1:46:31.789,1:46:36.479
+Energie lijkt te correleren met invloed.
+Mensen die energie, die vroeger de
+
+1:46:36.479,1:46:41.329
+VS, hadden we een veel invloed, nu is er
+zijn anderen die veel energie, en ze
+
+1:46:41.329,1:46:42.639
+lijken steeds meer invloed.
+
+1:46:42.639,1:46:47.579
+De echte vraag is of de VS ontbreekt
+een strategische nationale veiligheid kans.
+
+1:46:47.579,1:46:52.039
+We kunnen zowel op de wagen of we kunnen kopen
+buitenlandse reactoren in de toekomst.
+
+1:46:52.039,1:46:56.979
+De wereldwijde energie bedrijf is ongeveer drie
+triljoen dollar per jaar business. En een vreselijke
+
+1:46:56.979,1:47:03.979
+veel mensen 'rijkdom en macht rijdt op de
+activiteiten van het verplaatsen van grote hoeveelheden hydro-carbon
+
+1:47:04.019,1:47:06.059
+van de ene plaats naar de andere.
+
+1:47:06.059,1:47:12.070
+U bent op een miljard, miljoen dollar idee hier.
+En om over te schakelen van brandstoffen zoals olie, gas,
+
+1:47:12.070,1:47:17.940
+uranium, doe je je zorgen dat zou een mogelijke
+probleem?
+
+1:47:17.940,1:47:24.400
+Ik ben veel meer zorgen over een dag op zoek naar
+op onze nakomelingen en laat ze zeggen: "Waarom
+
+1:47:24.400,1:47:28.570
+heb je ons deze wereld die we nu hebben?
+Waarom heb je ons deze wereld van energie armoede,
+
+1:47:28.570,1:47:34.389
+van vervuiling, van oorlog, van de ziekte, als je
+wist dat er een betere manier en je kon
+
+1:47:34.389,1:47:37.260
+hebben het gebeuren? Waarom heb je het niet? '
+
+1:47:37.260,1:47:41.059
+Dat is dezelfde vraag die we zou vragen deze jongens
+als we teruggaan naar 1969, toch? "Waarom niet
+
+1:47:41.059,1:47:45.300
+je dit doen? Je wist het, je kon
+hebben het gebeuren, maar je deed het niet. Wat is er
+
+1:47:45.300,1:47:46.420
+jouw excuus? '
+
+1:47:46.420,1:47:50.690
+Menselijke wezens zijn bijgelovig en bang
+het grootste deel van hun geschiedenis. Een tijdperk van verlichting
+
+1:47:50.690,1:47:55.380
+is een relatief korte ruimte van de menselijke
+geschiedenis, en in geen geval verzekerd dat het zal
+
+1:47:55.380,1:47:56.789
+blijven op die manier.
+
+1:47:56.789,1:48:02.079
+Ik geloof echt dat als we geen toegang hebben tot
+om betaalbare en schone energie, zullen we terugkeren.
+
+1:48:02.079,1:48:05.130
+We zullen terug gaan naar de manier waarop mensen waren
+voor duizenden en duizenden jaren, die
+
+1:48:05.130,1:48:10.510
+is waar de machtigen en de rijken onderdrukken
+de massa's, die leefde verschrikkelijke leven proberen
+
+1:48:10.510,1:48:13.260
+om dingen voor een paar mensen.
+
+1:48:13.260,1:48:19.639
+We zullen letterlijk niet alleen terug te keren naar barbarij
+maar terug te keren naar maatschappelijke instellingen, zoals de slavernij.
+
+1:48:19.639,1:48:21.369
+En dat bedoel ik met alle ernst.
+
+1:48:21.369,1:48:24.349
+Je hoeft alleen maar een beperkte hoeveelheid geld, je
+wil de uitstoot van broeikasgassen terug te dringen, dus je wilt
+
+1:48:24.349,1:48:29.059
+om de dollars toe te passen op een manier die de uitstoot te verminderen
+gassen het meest tijdens het maken van de meeste werkgelegenheid
+
+1:48:29.059,1:48:30.519
+mogelijk voor die investering.
+
+1:48:30.519,1:48:35.380
+Maar, alle banen die zij creëren moeten
+worden ingebouwd in de prijs van de macht die ze
+
+1:48:35.380,1:48:38.699
+te bieden. Ja, het zou zorgen voor veel banen
+maar het is ten koste van de mensen die
+
+1:48:38.699,1:48:39.860
+gebruik maken van de energie.
+
+1:48:39.860,1:48:44.860
+Als we kunnen een bron van energie goedkoper
+dan uit steenkool, alle naties, in hun
+
+1:48:44.860,1:48:49.260
+eigen economisch eigenbelang, kiest het
+meer dan steenkool.
+
+1:48:49.260,1:48:51.349
+Kernenergie is niet erg betrouwbaar.
+
+1:48:51.349,1:48:55.550
+Het is een turbine die we gewoon uit een gas
+plant en hang deze van een grote steiger,
+
+1:48:55.550,1:49:01.320
+een toren, en omring het door reusachtige spiegels
+in de woestijn. Als een wolk voorbij gaat, of
+
+1:49:01.320,1:49:06.340
+'s avonds, het hulpprogramma wil een basis
+belasting. En de manier waarop we gaan leveren
+
+1:49:06.340,1:49:10.940
+dat de basisbelasting is door voeding met gas.
+We bouwen deze het hele land,
+
+1:49:10.940,1:49:16.309
+en een van de vragen die we stellen, moeten we over
+3000 voet in hoogte. We hebben vlak land,
+
+1:49:16.309,1:49:20.949
+moeten we 300 dagen van zonlicht, en we moeten
+om in de buurt van een gasleiding.
+
+1:49:20.949,1:49:22.439
+Enorm duur kapitaalkosten.
+
+1:49:22.439,1:49:26.979
+Hier zijn vier onafhankelijke voorstellen om te bouwen
+gesmolten zout reactoren en hun data. De
+
+1:49:26.979,1:49:28.559
+mediaan is 1,98 dollar.
+
+1:49:28.559,1:49:34.079
+Je kijkt naar een LFTR voor een tot twee dollar
+een watt, je kijkt naar een volledige kosten daar,
+
+1:49:34.079,1:49:38.739
+omdat de brandstofkosten zo dicht bij nul
+dat u veilig kunt negeren.
+
+1:49:38.739,1:49:40.670
+Kernenergie produceert alleen elektriciteit.
+
+1:49:40.670,1:49:45.610
+Nu al onze reactoren gebruiken tegenwoordig stoomturbines.
+Nu hoeven we niet gebruiken, dat omdat we dom,
+
+1:49:45.610,1:49:51.010
+we gebruiken het omdat de beperkingen van de onder druk
+water betekent dat je niet kunt krijgen al dat
+
+1:49:51.010,1:49:53.150
+heet. Ik bedoel, de reactor werkt gewoon niet
+dat heet.
+
+1:49:53.150,1:49:58.219
+Met deze reactor kunnen we tot wel meer als
+700 of 800C, en bij deze temperaturen, de
+
+1:49:58.219,1:50:02.420
+gasturbine blijkt te zijn een betere pasvorm.
+Dus je kunt elektriciteit opwekken uit het gas
+
+1:50:02.420,1:50:06.469
+turbine, en je hebt om het gas te koelen, en
+elke thermodynamische cyclus te weigeren afval
+
+1:50:06.469,1:50:07.090
+warmte.
+
+1:50:07.090,1:50:10.630
+Bijna geen economische sanctie op zee ontzilten
+het water.
+
+1:50:10.630,1:50:15.670
+Of we kunnen proberen om brandstof te synthetiseren. Wij kunnen
+configureren, en niet om elektriciteit te produceren,
+
+1:50:15.670,1:50:20.570
+maar om water te scheiden. U kunt ammoniak
+uit waterstof, die zouden kunnen worden een brandstof. Het is
+
+1:50:20.570,1:50:25.170
+ook een meststof. Ammoniak productie verbruikt
+meer dan een procent van de hele wereld
+
+1:50:25.170,1:50:26.610
+energiebudget vandaag.
+
+1:50:26.610,1:50:30.229
+Het gaat over 14 jaar vanaf het moment dat je de
+project aan wanneer het is gebouwd, en het is
+
+1:50:30.229,1:50:31.849
+beroemd voor kostenoverschrijdingen.
+
+1:50:31.849,1:50:37.959
+We gebruikt om kleine reactoren te bouwen in een korte
+periode. Mei van 1961, het Congres gefinancierd
+
+1:50:37.959,1:50:39.550
+Camp Century in Groenland.
+
+1:50:39.550,1:50:44.610
+De montage is nog steeds onderkritisch. We begonnen
+de brandstof elementen een voor een overdracht,
+
+1:50:44.610,1:50:46.559
+en begon het laden van de reactorkern.
+
+1:50:46.559,1:50:50.489
+De reactor was die onder het ijs 18
+maanden later.
+
+1:50:50.489,1:50:56.039
+De Brayton cyclus maakt gebruik van een inert gas, dus je
+geen zorgen te maken over brandstof explosies,
+
+1:50:56.039,1:51:00.599
+krijg je meer rendement uit de turbine
+kant, en de turbines zijn kleiner en goedkoper
+
+1:51:00.599,1:51:01.400
+om te bouwen.
+
+1:51:01.400,1:51:02.400
+Het risico op ongevallen
+
+1:51:02.400,1:51:07.110
+We kunnen bereiken veiligheid voor minder kosten, omdat
+we verhuizen naar passieve veiligheid in plaats van
+
+1:51:07.110,1:51:11.709
+ontworpen veiligheid. We zien deze trend met
+reactoren, zoals AP1000, maar de LFTR kan nemen
+
+1:51:11.709,1:51:13.780
+naar een veel hoger niveau.
+
+1:51:13.780,1:51:18.400
+Commerciële nucleaire energie over de hele wereld
+heeft een zeer goede veiligheidsprofiel, zelfs als u
+
+1:51:18.400,1:51:23.219
+onder andere Tsjernobyl. Het aantal sterfgevallen door
+kerncentrale ongelukken lager is dan
+
+1:51:23.219,1:51:25.780
+een honderd over de hele wereld, ooit.
+
+1:51:25.780,1:51:30.739
+Vorig jaar hadden we een natuurlijke gasexplosie
+op een schone energie-faciliteit in Middletown,
+
+1:51:30.739,1:51:35.110
+CT dat zeven mensen gedood, een kolen-stof-en
+methaan explosie in de Upper Big Branch
+
+1:51:35.110,1:51:40.239
+kolenmijn die 29 mensen gedood, en een methaan
+explosie in Deepwater Horizon, dat gedood
+
+1:51:40.239,1:51:45.679
+11 mensen. San Bruno vuur, dat was een natuurlijk
+gasleiding loopt onder een wijk
+
+1:51:45.679,1:51:49.320
+en het ontplofte en doodde ongeveer acht mensen
+en vernietigd 50 woningen.
+
+1:51:49.320,1:51:53.900
+Waarom kies je kernenergie op te halen aan de hand?
+Waarom ga je niet plukken op gas transmissie? Waarom
+
+1:51:53.900,1:51:57.469
+je niet ingaan op al die andere bronnen
+van de werkelijke sterfte?
+
+1:51:57.469,1:52:01.320
+Langlevend nucleair afval dat moet worden gehouden
+uit van de biosfeer voor meer dan een kwart van de
+
+1:52:01.320,1:52:01.959
+een miljoen jaar.
+
+1:52:01.959,1:52:06.199
+Echt het grootste deel van dat afval is onverbrande brandstof.
+Er zijn manieren om het opnieuw verwerken en verbranden meer,
+
+1:52:06.199,1:52:10.860
+maar het is vrij duur en het is niet economisch
+voordelig in reactoren van vandaag. De doorbraak
+
+1:52:10.860,1:52:16.939
+in het gaan naar vloeibare brandstoffen betekent dat u niet over
+opnieuw te verwerken of te recycleren, verlaat u de nucleaire
+
+1:52:16.939,1:52:18.630
+brandstof in de reactor totdat het verbrand.
+
+1:52:18.630,1:52:22.670
+Ze blijven in het zout en ze in verval
+het zout tot ze geven al hun verval
+
+1:52:22.670,1:52:23.499
+warmte.
+
+1:52:23.499,1:52:30.499
+Hier is onze transuranics - Deze cijfers tonen
+10 ^ -7, 10 ^ -4, 10 ^ -7, 10 ^ -9 gram, dit is
+
+1:52:33.479,1:52:38.900
+teeny teeny productie. Een duizendsten van een
+gram van deze gevreesde materialen in 10 jaar
+
+1:52:38.900,1:52:43.989
+van de exploitatie. Dat is goed. Afval profiel,
+veel gezonder.
+
+1:52:43.989,1:52:45.639
+Het risico van nucleaire proliferatie
+
+1:52:45.639,1:52:51.849
+De proliferatie verharding op dit ene, U-232,
+we hebben protactinium. Het stuurt een heldere
+
+1:52:51.849,1:52:57.869
+gamma cascade, dus als iemand probeert te lopen
+weg ermee kunnen we ze vangen vrij gemakkelijk.
+
+1:52:57.869,1:53:01.630
+Je hoeft niet eens te kijken naar deze problemen
+voor nucleaire om te falen.
+
+1:53:01.630,1:53:06.719
+De petrochemische industrie, de koolwaterstof
+industrie besteedt veel geld reclame.
+
+1:53:06.719,1:53:13.070
+Zij geloven in de wind en de zon. Exxon is
+praten over het kweken van algen, alle soorten
+
+1:53:13.070,1:53:18.150
+alternatieven. Je zult nooit horen een koolwaterstof
+bedrijf praten over kernenergie.
+
+1:53:18.150,1:53:25.150
+Je ziet een heleboel verhalen van iemand
+in de gas-of olie-industrie werkt tegen
+
+1:53:25.179,1:53:30.900
+nucleaire en proberen om de barrières van het verhogen
+invoer. Dat is een gesimuleerde nucleaire brandstof pellet.
+
+1:53:30.900,1:53:37.900
+Het is net zoveel energie als een ton steenkool, 147
+liter olie, of 17.000 kubieke voet van de natuurlijke
+
+1:53:38.219,1:53:39.389
+gas.
+
+1:53:39.389,1:53:44.479
+Als je geld verkopen van koolwaterstoffen,
+je gaat minder geld te verdienen.
+
+1:53:44.479,1:53:50.340
+Ik ben geboren het jaar waarin zij geannuleerde dit onderzoek
+in Tennessee. Ik voel me alsof alles wat ik heb gedaan met
+
+1:53:50.340,1:53:55.469
+de blog, is dat ik heb stond op en zei: "Hier is
+deze geweldige werk dat werd gedaan voordat ik werd
+
+1:53:55.469,1:53:56.380
+zelfs geboren. "
+
+1:53:56.380,1:54:01.079
+Dit is wetten van de fysica spullen. Ik heb niet uitgevonden
+het, alles wat ik doe promoten. Misschien zal ik nooit meer
+
+1:54:01.079,1:54:04.570
+zien gebeuren in mijn leven, maar iemand zal
+doen. Zodra mensen hebben geleerd hoe dat te doen
+
+1:54:04.570,1:54:07.499
+, zullen ze blijven gebruiken, want het zal
+maken dat een groot deel van verschil.
+
+1:54:07.499,1:54:10.610
+Andere mensen die een heel stuk slimmer dan de
+mij keek ernaar en zei: "Dit ziet er
+
+1:54:10.610,1:54:12.630
+darn best goed, waarom niet doen we dit? "
+
+1:54:12.630,1:54:14.420
+Hoe lang denk je dat het gaat duren?
+
+1:54:14.420,1:54:18.019
+Tegen het tarief dat we nu gaan in de Verenigde
+Verklaart het zal nooit gebeuren. Maar dat gaat
+
+1:54:18.019,1:54:18.280
+om te veranderen.
+
+1:54:18.280,1:54:22.170
+We gaan het te laten gebeuren. Ik denk dat in
+10 jaar zullen we bouwen LFTRs in de fabriek
+
+1:54:22.170,1:54:23.139
+assemblagelijnen.
+
+1:54:23.139,1:54:26.969
+We kunnen concurreren met China op het maken van
+patenten op dingen die niet aan gedacht
+
+1:54:26.969,1:54:32.719
+in de jaren '50 en '60. Maar als we wachten, Amerikanen,
+Canadezen, Brazilianen en zal kopen LFTR
+
+1:54:32.719,1:54:35.559
+en gesmolten zout technologie van China en
+betalen ze de royalty's.
+
+1:54:35.559,1:54:40.039
+We kopen een heleboel dingen uit China reeds.
+Het is niet alsof we niet genoeg dingen te kopen
+
+1:54:40.039,1:54:46.860
+uit China. We zijn zeker te houden
+bezig. Laten we gaan ontwikkelen thorium. Dat is echt
+
+1:54:46.860,1:54:48.559
+wat ik zou willen doen.
+
+1:54:48.559,1:54:53.389
+Als iedereen in de wereld heeft een levensstijl
+jij en ik kan genieten van Canada en de VS vandaag,
+
+1:54:53.389,1:54:59.519
+kunnen we wereldvrede en we kunnen specialiseren
+op welke gebieden we goed in zijn, en de handel met
+
+1:54:59.519,1:55:02.780
+elkaar, en niet vechten om beperkte middelen.
+
+1:55:02.780,1:55:06.209
+Ik denk dat dingen zullen gaan anders deze
+tijd dan ze deden in de 50's en 60's. Terug
+
+1:55:06.209,1:55:11.780
+in de 50's en 60's, je had de regering de kredieten
+aan de nationale laboratoria, die leiden tot de ontwikkeling
+
+1:55:11.780,1:55:14.689
+van deze technologie. Ik denk niet dat dat is hoe
+Het gaat deze keer gebeuren. Ik denk dat het
+
+1:55:14.689,1:55:18.659
+gaan naar een fusie van de liefhebbers te zijn en
+prive-sector.
+
+1:55:18.659,1:55:23.050
+Genoeg mensen die nu, dankzij het internet,
+leren over de mogelijkheden van LFTR en
+
+1:55:23.050,1:55:24.659
+thorium, en ze vragen harde vragen.
+
+1:55:24.659,1:55:28.920
+Meneer de President, je vaak zeggen dat er geen
+zilveren kogels om onze energie problemen. Waarom
+
+1:55:28.920,1:55:33.499
+is de federale overheid niet versnellen
+onderzoek naar vloeibare brandstof gesmolten zout reactoren
+
+1:55:33.499,1:55:35.030
+die draaien op thorium?
+
+1:55:35.030,1:55:38.729
+Vloeibare fluoride thorium reactoren, dit is
+het soort ...
+
+1:55:38.729,1:55:42.550
+Je bent al boven mijn klas betalen dus ...
+
+1:55:42.550,1:55:45.679
+Ik zal het u uitleggen, want dit is de
+soort van idee Washington moet weten over.
+
+1:55:45.679,1:55:51.280
+Al snel in 10 jaar gaan we aan het kopen van
+deze dingen van hen als we niet beginnen met het maken
+
+1:55:51.280,1:55:54.729
+ze nu.
+
+1:55:54.729,1:56:01.059
+De AEC-rapport aan John F. Kennedy op
+zijn verzoek in 1962, komt tegemoet aan de
+
+1:56:01.059,1:56:07.459
+vreest dat ze hadden, en het schetst specifiek
+wat we moeten doen. We hebben niet gedaan
+
+1:56:07.459,1:56:11.769
+het. We kunnen het thorium kweekreactor
+die Weinberg en het team werkte Ornell
+
+1:56:11.769,1:56:18.070
+op voor 20 jaar en geperfectioneerd en wordt geëxploiteerd
+voor vier jaar in de jaren 1960.
+
+1:56:18.070,1:56:25.070
+Dat de reactor is precies wat China nu heeft
+een miljard dollar te ontwikkelen met behulp van onze plannen,
+
+1:56:25.219,1:56:31.999
+al ons onderzoek, alles wat we deden als
+een Amerikaanse onderzoeksinstelling 49 jaar
+
+1:56:31.999,1:56:38.329
+geleden. Zelfs als Washington werkt langzaam werkt,
+49 jaar klinkt een beetje overdreven.
+
+1:56:38.329,1:56:41.959
+Als we dat niet doen, zal het nog steeds gebeuren.
+Het zal alleen gebeuren in een plaats als
+
+1:56:41.959,1:56:46.090
+China dan de Verenigde Staten. We zullen
+moeten zien LFTRs wordt gebouwd in de toekomst,
+
+1:56:46.090,1:56:46.519
+vergis je niet.
+
+1:56:46.519,1:56:50.729
+Veel milieuactivisten die altijd
+proberen ons te rijden naar het gebruik van minder energie,
+
+1:56:50.729,1:56:53.979
+want al die energie komt uit de
+verbruik van fossiele brandstoffen.
+
+1:56:53.979,1:56:58.260
+Nou, laten we zeggen dat je energie komt niet uit
+het verbruik van fossiele brandstoffen. Dan kun je
+
+1:56:58.260,1:57:03.309
+gebruiken meer energie, en je zou meer energie gebruiken
+te bereiken dingen die je niet in staat bent
+
+1:57:03.309,1:57:08.860
+te doen nu. Break up kooldioxide en
+dissociëren water. Maak kunstmest, groeien gewassen,
+
+1:57:08.860,1:57:09.619
+dat allemaal.
+
+1:57:09.619,1:57:14.889
+Zoveel energie, een overvloed aan energie, die
+Het zou rijden de prijs naar beneden tot het punt
+
+1:57:14.889,1:57:19.619
+waar de enige olie die we zouden nemen uit de
+de grond zou het gemakkelijk te bereiken olie. En
+
+1:57:19.619,1:57:24.079
+er is niet van plan te zijn meer milieu
+verwoesting dan is er reeds.
+
+1:57:24.079,1:57:28.709
+Als we niet zorgen te maken over energie, hebben we
+zou kunnen denken aan zo veel meer dingen te doen.
+
+1:57:28.709,1:57:33.050
+Als er veel van en het was goedkoop
+en het was niet schadelijk voor het milieu,
+
+1:57:33.050,1:57:34.889
+wat zou je doen dat je niet nu?
+
+1:57:34.889,1:57:39.139
+Het ding dat mijn aandacht trok toen ik nog
+op de middelbare school was het idee van een ruimte zonne-energie
+
+1:57:39.139,1:57:44.510
+power satelliet. Gerard O'Neill The High Frontier.
+Zijn idee was dat we zouden gaan deze bouwen
+
+1:57:44.510,1:57:47.449
+kolonies. Het zou net als wonen in
+een winkelcentrum in de ruimte.
+
+1:57:47.449,1:57:53.559
+Je weet wel, en hebben een huisje in de buis.
+
+1:57:53.559,1:57:56.840
+Ik denk niet dat we klaar om te leven in de ruimte
+nog niet. We hebben niet geleerd hoe te leven in een
+
+1:57:56.840,1:58:02.510
+manier waar we recyclen veel meer van onze ... Ik
+bedoel, als je wilt leven in de ruimte, je hebt
+
+1:58:02.510,1:58:03.689
+kreeg om alles te recyclen.
+
+1:58:03.689,1:58:07.150
+Het leek alsof de vloeistof fluoride thorium
+reactor, of LFTR, kan de stroombron worden
+
+1:58:07.150,1:58:11.900
+dat zou kunnen maken een zelfvoorzienend maankolonie
+een realiteit. Maar ik heb een simpele vraag. Als
+
+1:58:11.900,1:58:17.170
+het was zo'n groot ding voor een gemeenschap
+op de maan, waarom dan niet een gemeenschap op de aarde,
+
+1:58:17.170,1:58:18.150
+zelfvoorzienend en energie onafhankelijk?
+
+1:58:18.150,1:58:23.849
+Denk na over "Star Trek". Je kan het niet helpen, maar
+na te denken over "Star Trek" als je de naam van de Kirk.
+
+1:58:23.849,1:58:28.360
+Wat is de wereld van de "Star Trek" draait op?
+Zijn ze lopen "Star Trek" op steenkool? Zijn
+
+1:58:28.360,1:58:32.469
+ze lopen "Star Trek" op oliezanden? Nee.
+Je ziet geen olie raffinaderijen op
+
+1:58:32.469,1:58:34.269
+"Star Trek". Je ziet geen kolenmijnen.
+
+1:58:34.269,1:58:40.439
+We leven veel beter leven vandaag de dag, omdat we
+hebben geleerd hoe ze gebruik van koolstof. OK, hoe zit het
+
+1:58:40.439,1:58:47.389
+thorium? Thorium heeft een miljoen keer de energie-
+dichtheid van een koolstof-waterstof-binding. Wat zou
+
+1:58:47.389,1:58:52.809
+dat voor de menselijke beschaving uit te gaan
+duizenden, tienduizenden jaren in
+
+1:58:52.809,1:58:55.650
+de toekomst? Want we gaan draaien
+uit van dit spul. Zodra we hebben geleerd hoe
+
+1:58:55.650,1:59:02.650
+Om het te gebruiken bij dit soort van efficiëntie, zullen we
+nooit opraakt.

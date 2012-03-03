@@ -1,0 +1,6636 @@
+0:00:00.340,0:00:05.060
+The þungur vatni kjarnaofni mun nota u.þ.b. 0,7
+prósent af verðmæti orku úran, og
+
+0:00:05.060,0:00:08.630
+ljósið vatnið reactor vilja nota um það bil helmingur
+eitt prósent. Þeir báðir gera hræðileg.
+
+0:00:08.630,0:00:13.380
+Á venjulegum þrýstingi, vatn mun sjóða við 100
+gráður á Celsíus. Þetta er ekki nærri heitur nóg
+
+0:00:13.380,0:00:18.280
+til að búa til rafmagn á áhrifaríkan hátt. Svo vatni
+kælt reactors að keyra á yfir 70 andrúmsloft
+
+0:00:18.280,0:00:22.310
+þrýstingi. Þú þarft að byggja upp vatn kælt
+reactor sem þola yfirþrýsting. Númer eitt
+
+0:00:22.310,0:00:24.529
+slys fólk hafa áhyggjur óður í ...
+
+0:00:24.529,0:00:28.760
+Þrýstingur er glatað, vatn sem er haldin
+við 300 gráður á Celsíus [gerir splashing hljóð]
+
+0:00:28.760,0:00:34.320
+splashes til gufu. Rúmmál hans eykst u.þ.b.
+með stuðlinum 1000. Ef þú færð ekki neyðartilvikum
+
+0:00:34.320,0:00:38.010
+kælivökva á eldsneyti í kjarnaofninn, getur það
+kostnaður og bræða.
+
+0:00:38.010,0:00:43.829
+Þetta er það sem rekur hönnun þessarar byggingar.
+Ef þetta gerist, er allt gufa tekin
+
+0:00:43.829,0:00:44.739
+í þessari byggingu.
+
+0:00:44.739,0:00:50.129
+The reactors við höfum notað í dag úran oxíð
+sem eldsneyti. Það er keramik efni, efnafræðilega
+
+0:00:50.129,0:00:54.079
+stöðugt, en ekki mjög góður á að flytja
+hita. Ef þú missir þrýsting, þú missa þinn
+
+0:00:54.079,0:00:57.610
+vatn, og brátt eldsneyti mun bráðna niður og
+losa geislavirka vörur fission innan
+
+0:00:57.610,0:00:58.129
+það.
+
+0:00:58.129,0:01:03.629
+Svo þeir hafa röð af kerfi neyðartilvikum
+ætlað er að alltaf að halda algerlega þakið
+
+0:01:03.629,0:01:08.649
+vatn. Við sáum the bilun af þessu á Fukushima
+Daiichi. Þeir höfðu margar varabúnaður dísel rafala,
+
+0:01:08.649,0:01:13.609
+og hver og einn hafði líklega mjög miklar líkur
+á Kveikt. The tsunami kom og bankaði
+
+0:01:13.609,0:01:14.369
+þeim öllum út.
+
+0:01:14.369,0:01:16.929
+Fólk segir alltaf: "Er kjarnorku öruggt?",
+og það fyrsta sem ég segi er: "Hver einn?"
+
+0:01:16.929,0:01:20.990
+Það eru þúsundir af mismunandi leiðir til að gera
+kjarnorku. Er bíll öruggt? Jæja, þar sem
+
+0:01:20.990,0:01:21.240
+einn?
+
+0:01:21.240,0:01:24.810
+Ég hafði gæfu til að læra um mismunandi
+formi kjarnorku.
+
+0:01:24.810,0:01:26.549
+Vökvinn flúoríðs Þórín reactor.
+
+0:01:26.549,0:01:30.749
+Við getum að fullu brenna upp Þórín í kjarnaofni
+móti aðeins brenna hluti af úran
+
+0:01:30.749,0:01:32.719
+í a dæmigerður ljósi vatni kjarnaofni.
+
+0:01:32.719,0:01:37.349
+Það er ekki byggð á kælivatn og það virkar ekki
+nota fast eldsneyti. Það er byggt á sölt flúoríð
+
+0:01:37.349,0:01:42.380
+sem kjarnorkueldsneyti. Þú verður að hita þá upp
+í um 400 gráður á Celsíus að fá þá til
+
+0:01:42.380,0:01:46.459
+brætt, en það er í raun fullkominn fyrir að reyna
+til að mynda orku í kjarnakljúfur. Hér er
+
+0:01:46.459,0:01:50.700
+alvöru galdur - þeir þurfa ekki að starfa
+undir miklum þrýstingi. Þeir þurfa ekki að nota vatn
+
+0:01:50.700,0:01:54.989
+fyrir kælivökva og það er ekkert í reactor
+sem er að fara að gera miklar breytingar á þéttleika.
+
+0:01:54.989,0:01:59.149
+Ólíkt því sem eldsneyti í föstu formi sem hægt er brætt niður
+Ef þú hættir kælingu þá þessi fljótandi flúoríð
+
+0:01:59.149,0:02:00.599
+eldsneyti er nú þegar bráðnar.
+
+0:02:00.599,0:02:04.389
+Í venjulegum rekstri, hefur þú a lítill stykki
+frystra salti sem þú hefur haldið fryst af
+
+0:02:04.389,0:02:08.989
+blása kaldur gas yfir utan pípa.
+Ef það er í neyðartilvikum og þú tapar öllum
+
+0:02:08.989,0:02:13.400
+vald til að kjarnorkuver þitt,
+lítill blásari stöðvast blása, frosnum stinga
+
+0:02:13.400,0:02:18.269
+af salti bráðnar, og fljótandi flúoríð eldsneyti
+inni í kjarnaofninn holræsi út úr skipinu
+
+0:02:18.269,0:02:20.769
+gegnum línuna og í annað geymi sem kallast
+a holræsi tankur.
+
+0:02:20.769,0:02:25.209
+Í vatni kæla reactors, hefur þú almennt
+til að veita orku til álversins að halda
+
+0:02:25.209,0:02:29.620
+vatn í blóðrás og til að koma í veg fyrir bræðsluslys.
+En ef þú missir vald til LFTR, lokaður það
+
+0:02:29.620,0:02:32.420
+sig niður allt af sjálfu sér án þess að mannshöndin.
+
+0:02:32.420,0:02:37.519
+A staggeringly áhrifamikill öryggisstig,
+jafnvel ef það er til tjóns á reactor.
+
+0:02:37.519,0:02:41.430
+Þórín er náttúruleg kjarnorkueldsneyti
+sem er fjórum sinnum algengari hjá jarðar
+
+0:02:41.430,0:02:46.040
+skorpu en úran. Það er svo orku þétt að
+þú getur haldið ævi framboð Þórín
+
+0:02:46.040,0:02:50.299
+orku í lófa þínum. Við gætum
+nota Þórín um 200 sinnum skilvirkari
+
+0:02:50.299,0:02:54.879
+en við erum að nota úran núna. Vegna þess að
+LFTR er fær um nánast alveg sleppt
+
+0:02:54.879,0:03:00.140
+orku í Þórín þetta minnkar úrgangur
+mynda yfir úran af þáttum af hundruðum,
+
+0:03:00.140,0:03:02.469
+og þætti milljónir á jarðefnaeldsneyti.
+
+0:03:02.469,0:03:06.519
+Við erum enn að fara að þurfa fljótandi eldsneyti fyrir
+ökutækjum og vélum, en við getum búið til
+
+0:03:06.519,0:03:10.239
+þessum fljótandi eldsneyti úr koltvísýring
+í andrúmsloftinu og vatni, líkt
+
+0:03:10.239,0:03:14.719
+náttúrunni gerir. Við gætum búið til vetni með
+skipta vatni og sameina það með kolefni
+
+0:03:14.719,0:03:20.219
+safnað frá CO2 í andrúmsloftinu, sem gerir
+eldsneyti eins og metanól, ammoníak og dímetýl
+
+0:03:20.219,0:03:23.629
+eter, sem gæti verið bein skipti
+fyrir eldsneyti dísel.
+
+0:03:23.629,0:03:28.769
+Ímyndaðu þér kolefni hlutlaus bensín og dísel,
+sjálfbær og sjálfstætt framleitt.
+
+0:03:28.769,0:03:34.719
+Þú getur séð að úran-235 er á sambærileg við
+silfur og platínu. Getur þú ímyndað þér brennandi
+
+0:03:34.719,0:03:39.209
+Platinum fyrir orku? Og það er það sem við erum
+gera með kjarnorku okkar heimildum í dag,
+
+0:03:39.209,0:03:44.670
+Við erum að brenna þetta afar sjaldgæft efni, og
+við erum ekki brennandi Þórín.
+
+0:03:44.670,0:03:49.290
+Sumir eru eins konar umhverfissinna,
+og þeir segja: "Heyrið, kjarnorku er ekki
+
+0:03:49.290,0:03:53.409
+sjálfbær. Við erum að fara að keyra út af úran. "
+Allt í lagi, mun ég skila þeim tímapunkti að þér, ef við erum
+
+0:03:53.409,0:04:00.180
+tala um kjarnorku tækni í dag.
+Á árinu 2007 við notuðum 5 milljarða tonn af kolum, 31
+
+0:04:00.180,0:04:05.529
+milljarðar tunna af olíu og 5000000000000 tenings
+metra af jarðgasi, ásamt 65.000 tonn
+
+0:04:05.529,0:04:07.670
+á úran til að framleiða orku í heiminum.
+
+0:04:07.670,0:04:11.900
+ÉG hafa a vinur hver er að reyna að hefja sjaldgæft
+jörð mitt í Missouri. "Jim, hversu mikið Þórín
+
+0:04:11.900,0:04:16.709
+Heldurðu að þú munt vera pawing upp ári? "
+Og hann fer, "Ég held að um 5.000 tonn." 5,000
+
+0:04:16.709,0:04:22.860
+tonn af Þórín myndi framboð á jörðinni með
+alla orku sína í eitt ár. Og hann fer
+
+0:04:22.860,0:04:26.630
+"Og það er eins og zillion öðrum stöðum á
+jörð, sem eru bara eins og minn minn. Þess 'a ágætur
+
+0:04:26.630,0:04:30.300
+mitt, en það er ekki einstakt, það er ekki eins og þetta
+er einn staður á jörðinni þar sem það er að finna. "
+
+0:04:30.300,0:04:35.960
+Í hvert skipti sem mannkynið hefur tekist að aðgang
+nýja orkugjafa, það hefur leitt til mikil
+
+0:04:35.960,0:04:41.669
+félagslegum áhrif. Menn höfðu þræla
+fyrir þúsundir og þúsundir ára. Þegar
+
+0:04:41.669,0:04:45.830
+Við lærðum hvernig á að gera kolefni þræll okkar, í staðinn
+annarra manna, höfum við tekið að læra
+
+0:04:45.830,0:04:48.330
+hvernig á að vera hægt að siðmenntuðum fólk.
+
+0:04:48.330,0:04:54.750
+Þórín hefur milljón sinnum orku þéttleika
+af kolefni-vetni skuldabréf. Hvað gæti það
+
+0:04:54.750,0:04:59.270
+för með sér fyrir mönnum siðmenningu? Þar sem við erum
+ekki að fara að keyra út af þessu efni. Við munum
+
+0:04:59.270,0:05:06.270
+aldrei hlaupa út. Það er einfaldlega of algengt.
+
+0:05:12.910,0:05:19.910
+Á Facebook síðu okkar, kyn lýðfræðilegar
+er um 87 prósent karla, 13 prósent kvenna.
+
+0:06:10.259,0:06:15.300
+Ég hef aldrei verið talsmaður fyrir kjarnorku
+orku. Það er vegna neyslu, ekki satt?
+
+0:06:15.300,0:06:20.610
+Það gerir okkur kleift að stöðugt neyta að
+Ég trúi er ósjálfbær.
+
+0:06:20.610,0:06:23.889
+Telur þú að annars konar orku mun koma í veg
+okkur frá neyslu eins mikið?
+
+0:06:23.889,0:06:29.550
+Ef við erum að keyra út af því, já. Ég held að við
+verður að byrja að sóknir það og endurnotkun hluti
+
+0:06:29.550,0:06:31.129
+öfugt við bara að búa til nýjan.
+
+0:06:31.129,0:06:34.750
+Hvað um sól og vindur þá? Sólin mun
+alltaf skína, vindurinn mun alltaf blása.
+
+0:06:34.750,0:06:36.110
+Þeir gefa okkur líf stuðning.
+
+0:06:36.110,0:06:38.580
+Thin gruel á mataræði orku.
+
+0:06:38.580,0:06:42.240
+Já. Ég tel að við í raun ekki að meta
+það sem við höfum, og ég tala bara fyrir sjálfan mig.
+
+0:06:42.240,0:06:47.690
+Svo þú skynjar innsæi vind og sólarorku
+eins og að vera orkugjafa sem ekki eru á
+
+0:06:47.690,0:06:49.729
+Sama sambærileg við eins og olíu og gas.
+
+0:06:49.729,0:06:54.050
+Í umfangi sem við erum nú að nota þær,
+og ég held að ef við magna gildissvið
+
+0:06:54.050,0:06:58.740
+bæði vindur og sól, svo við erum líka að fara
+að vera að horfa á stærri eyðileggingu eins og heilbrigður.
+
+0:06:58.740,0:07:04.229
+Svo þú grein fyrir því að vindur og sól eru umhverfisvænar
+ífarandi form af kynslóð orku? Þeir
+
+0:07:04.229,0:07:05.590
+taka upp a einhver fjöldi af svæðinu.
+
+0:07:05.590,0:07:06.220
+Já.
+
+0:07:06.220,0:07:11.479
+Í því skyni að koma í veg fyrir óviðunandi stig
+umhverfismálum eyðileggingu takmarka hve mikið vindur
+
+0:07:11.479,0:07:12.330
+og sól við setjum inn
+
+0:07:12.330,0:07:16.629
+Við verðum að nota þá á mismunandi vegu innlimun
+þeim innan núverandi skipulagi.
+
+0:07:16.629,0:07:20.009
+Ég horfði reyndar á þetta með mínu eigin heimili.
+Ef ég huldu hús með sólarplötur hvernig
+
+0:07:20.009,0:07:23.650
+mikið myndi ég gera og málið var það var ekki
+næstum nóg. Frammistöðu þeirra fór niður.
+
+0:07:23.650,0:07:26.789
+Hvert einasta sinn sem ég fer á þakinu til að hreinsa
+á sólarplötur ég ætla að setja líf mitt í
+
+0:07:26.789,0:07:27.039
+áhættu.
+
+0:07:26.990,0:07:29.210
+Við höfum roofers, höfum við fólk sem gera það
+faglega.
+
+0:07:29.210,0:07:33.720
+Bróðir minn er roofer. Það er gróft starf. Það er
+hvers vegna 21-ára gamall eins og hann var út roofing
+
+0:07:33.720,0:07:37.159
+þök og gera stór fé vegna þess að hann var
+setja líf hans í hættu, rétt eins og kol
+
+0:07:37.159,0:07:37.580
+miners.
+
+0:07:37.580,0:07:42.699
+Þú skynja það eins gott að hemja
+orkuframboði ekki satt?
+
+0:07:42.699,0:07:43.979
+Já. Ég geri.
+
+0:07:43.979,0:07:50.020
+Fara á litla orku lífsstíl verður nánast
+vissulega í samhengi við að fara í minni gæðum úr sér gengin
+
+0:07:50.020,0:07:50.780
+lífsstíl.
+
+0:07:50.780,0:07:54.500
+Þó að hagkvæmni verður að vera stunduð
+og við gætum líklega öll högg 25 prósent
+
+0:07:54.500,0:07:58.789
+af orkunotkun út okkar, það er ekki
+næstum nóg til að útrýma þörfinni fyrir jarðefnaeldsneyti
+
+0:07:58.789,0:07:59.270
+eldsneyti.
+
+0:07:59.270,0:08:02.849
+Elizabeth May, þú veist, hún kann að vera að segja,
+og ég myndi líklega sammála henni, "Við ættum að
+
+0:08:02.849,0:08:05.780
+stunda fleiri orka duglegur lífsstíl, "
+algerlega.
+
+0:08:05.780,0:08:10.060
+Þegar þú komst til umræðu olíu Sands / tar sandur
+þróun í Calgary, setja þig svona
+
+0:08:10.060,0:08:14.550
+að væntingar um hvað væri viðunandi.
+Þú sagðir tilteknum arðsemi orkunýtingu.
+
+0:08:14.550,0:08:19.169
+Sumir kjarnorku tækni sem ég held að séu
+alveg efnilegur, fljótandi flúoríðs Þórín reactor.
+
+0:08:19.169,0:08:21.729
+Stefna okkar er mjög einfalt að skilja, ekki
+kjarnorku.
+
+0:08:21.729,0:08:25.490
+Er meira Litbrigði krafist þar ... áhyggjur
+Um kjarnorku má beint við
+
+0:08:25.490,0:08:26.979
+framtíðinni tækni?
+
+0:08:26.979,0:08:31.490
+Þar sem Greens hafa stefnu gegn kjarnorkuvopnum
+orku, myndum við endurskoða alltaf með einhverjum
+
+0:08:31.490,0:08:35.360
+nýju tækni sem er til umræðu
+en eru ekki enn til? Ég held að svarið sé,
+
+0:08:35.360,0:08:35.890
+auðvitað.
+
+0:08:35.890,0:08:40.100
+Ef Greens fannst um allan heim af einhverjum ástæðum til að endurmeta
+kjarnorku, en við höfum aðeins takmarkað magn
+
+0:08:40.100,0:08:44.210
+af peningum. Þú vilt draga græna lofttegundir hús.
+Svo þú vilt að beita dollara á þann hátt sem
+
+0:08:44.210,0:08:47.690
+draga græna lofttegundir hús mest á meðan
+skapa sem mest atvinnu kleift
+
+0:08:47.690,0:08:48.480
+að fjárfesting.
+
+0:08:48.480,0:08:53.310
+Við úrgangur 60 prósent af öllum orku sem er
+sem notuð eru í Kanada. Og það er vegna óhagkvæmt
+
+0:08:53.310,0:08:58.390
+bygging og samgöngur hönnun. Innviði okkar
+er hannað fyrir ódýr og nóg orka.
+
+0:08:58.390,0:09:03.000
+Svo, ekki að undra, það er hellingur og hellingur af
+úrgangs. Það sem þú vilt gera er að bæta framleiðni
+
+0:09:03.000,0:09:04.140
+sem við notum orku.
+
+0:09:04.140,0:09:07.820
+Þegar þú horfir í gegnum allt stigveldi
+val og möguleikar sem við höfum og við
+
+0:09:07.820,0:09:13.760
+hafa a langur listi yfir valkosti sem vinna alveg
+Jæja, kjarnorku er niður listann vegna
+
+0:09:13.760,0:09:19.440
+það er ekki hræðilega áreiðanlegar, það er gríðarlega dýrt
+Capitol kostnaður, mjög fáir störf og
+
+0:09:19.440,0:09:24.850
+aðeins framleiðir rafmagn. Það er um 14 ár
+frá þegar þú verkefninu fram til að þegar það er
+
+0:09:24.850,0:09:29.510
+byggt og það er frægur fyrir overruns kostnaður. The
+hættu á slysum, bjó lengi kjarnorkuúrgangi
+
+0:09:29.510,0:09:32.760
+sem hefur að geyma út af lífríkinu fyrir
+fjórðungur af milljón ára. Hættan á
+
+0:09:32.760,0:09:36.760
+útbreiðslu kjarnorkuvopna til notkunar í herinn
+hugtök, heldur þú ekki einu sinni að líta á þær
+
+0:09:36.760,0:09:41.100
+málefni kjarnorkuvopn til að mistakast.
+
+0:09:41.100,0:09:45.740
+Við ættum að stunda fleiri orka duglegur lífsstíl,
+algerlega. Hversu langt getum við farið, þó? Will
+
+0:09:45.740,0:09:50.890
+það að vera nóg að gera það svo að við þurfum ekki
+að hafa betri og nýrri mynd af kynslóð orku?
+
+0:09:50.890,0:09:52.730
+Ég held ekki. Ég held ekki einu sinni nálægt.
+
+0:09:52.730,0:09:54.760
+Þú sérð ekki vind og sólarorku sem ...
+
+0:09:54.760,0:09:59.170
+Við höfum verið að reyna að setja sól og vindur
+netinu í áratugi. Það er enn á röð
+
+0:09:59.170,0:10:04.260
+um eitt prósent af öllum orkuframleiðslu
+í Bandaríkjunum. Vindur er vitnað í skilmálum
+
+0:10:04.260,0:10:10.320
+á getu sína. Eins og þú munt segja að þetta er
+þrjú megavattstundum vindmylla. Ef ég hef 3.000
+
+0:10:10.320,0:10:14.720
+megavattstundum kjarnorku planta, 1000 af þessum vindmyllum
+eru jafngildir einn af þessum. Vindur er
+
+0:10:14.720,0:10:18.060
+aðeins blása um 15 prósent af the tími,
+eitt af sex.
+
+0:10:18.060,0:10:21.760
+Það fylgni verður algerlega tilgangslaust
+nú, vegna þess að einn er í gangi allan tímann og
+
+0:10:21.760,0:10:25.670
+hitt er aðeins í gangi einn af sex
+sinnum. Ef þú átt bíl og þú hélst "Ég er
+
+0:10:25.670,0:10:29.470
+að fara að fara út og fá í bílinn minn og snúa
+kviknar, og ég er með einn í sex tækifæri
+
+0:10:29.470,0:10:33.910
+bíllinn er að fara að kveikja á. "Hversu gagnleg væri
+að bíllinn sé með yður? Vindurinn iðnaður segir:
+
+0:10:33.910,0:10:37.940
+"Það er allt í lagi, Chelsea, þú þarft að hafa sex
+bíla. "Energy er allt um áreiðanleika.
+
+0:10:37.940,0:10:44.540
+Getum við tölu þeirra áhyggjum með rafhlöðum
+sem eru að gera miklu framfarir með ekkert
+
+0:10:44.540,0:10:45.470
+meira en fartölvu?
+
+0:10:45.470,0:10:49.690
+Það er mjög, mjög dýrt tillögur til
+Notkun rafhlaða varabúnaður fyrir rist. Það hefur ekki
+
+0:10:49.690,0:10:53.770
+alltaf verið fær um að vera leikinn á rist
+stig fyrr vegna þess hversu mikið það kostar
+
+0:10:53.770,0:10:55.280
+að geyma watta klukkustund í rafhlöðu.
+
+0:10:55.280,0:10:58.170
+Þú ert ekki einu sinni að horfa á litíum, þú ert
+horfa á ódýr rafhlöður. Þú veist, þú ert
+
+0:10:58.170,0:11:01.930
+horfa á eins og blý-sýru, mjög ódýr rafhlöður.
+Þar sem þú þarft mikið af þeim. Það er betra
+
+0:11:01.930,0:11:04.730
+að fá fullt af ömurlegur sjálfur en að fá
+nokkrar virkilega góður sjálfur.
+
+0:11:04.730,0:11:09.050
+Ef við hefðum a hár-leiðandi eða ... hvað
+þú kallar þá?
+
+0:11:09.050,0:11:09.480
+Ofurleiðari?
+
+0:11:09.480,0:11:10.870
+Hléum orku frá mörgum heimildum.
+
+0:11:10.870,0:11:14.210
+Ef þú vilt gera sending máttur lína,
+þú vilt gera hagfræðileg rök borga
+
+0:11:14.210,0:11:17.040
+fyrir þig. Þú þarft að sýna hvernig rafmagn
+er að fara að vera kastað inn í þessi lína næstum
+
+0:11:17.040,0:11:21.140
+allan tímann. Annars er það ekki þess virði að byggja,
+það kostar of mikið fé.
+
+0:11:21.140,0:11:24.000
+Svo hugmynd að "OK, það er að fara að vera
+a vindur bæ hér, það er að fara að vera sól
+
+0:11:24.000,0:11:27.440
+array hér, og það er að fara að vera vindur
+bæ hérna, og einn af þessum þremur á
+
+0:11:27.440,0:11:31.500
+hvenær verður að vinna, en við munum hafa vald
+háspennulína þeim öllum. "ég meina
+
+0:11:31.500,0:11:34.750
+það er bara nonsensical. Fólk sem leggja
+sem keyra ekki tölurnar.
+
+0:11:34.750,0:11:37.580
+Fólk vill ekki sjá virkjanir og
+máttur háspennulínur. Þeir munu berjast
+
+0:11:37.580,0:11:42.300
+tönn og nagli á móti sendingu völd
+línum. Við þurfum að hafa áreiðanlega orkugjafa
+
+0:11:42.300,0:11:45.260
+sem er nálægt þar sem orku er þörf
+að neyta.
+
+0:11:45.260,0:11:47.310
+Ég veit hvernig þú getur fengið fleiri konur um borð.
+
+0:11:47.310,0:11:47.780
+OK.
+
+0:11:47.780,0:11:48.760
+Fara á Oprah.
+
+0:11:48.760,0:11:52.720
+Oh! Hvernig gæti ég fengið í félaginu bók hennar?
+
+0:11:52.720,0:11:57.850
+Mörg ykkar hafa verið hluti af bekknum í kjarna
+vísindi og stjórnmál í kringum það.
+
+0:11:57.850,0:11:59.530
+Þakka þér kærlega fyrir að taka þátt mér í dag.
+
+0:11:59.530,0:12:01.380
+Þakka þér kærlega fyrir, Kiki, ég er fegin að vera
+hér.
+
+0:12:01.380,0:12:03.010
+Hey, þú krakkar ert ansi techy hóp, ekki satt?
+
+0:12:03.010,0:12:06.240
+Það var skilti sem var að tala um hvað
+reiðhestur var um. Það er slíkt sem
+
+0:12:06.240,0:12:07.190
+kjarnorku reiðhestur.
+
+0:12:07.190,0:12:12.600
+Ég er mjög fegin að vera hér með ykkur í dag og
+vera hluti af þessari umræðu.
+
+0:12:12.600,0:12:16.280
+Svarið er orkan ódýrari en úr kolum.
+
+0:12:16.280,0:12:21.030
+Alls konar hluti sem gefa okkur forskot
+og þau eru öll byggð á orku.
+
+0:12:21.030,0:12:26.380
+Byggt á þeirri forsendu að við erum tilbúin
+aðeins fórna lífi 160 milljónir fólks
+
+0:12:26.380,0:12:31.890
+til sjávar hækka, loftslagsbreytingar, og svo framvegis,
+þá janúar 2011, þurfum við að byrja að draga úr
+
+0:12:31.890,0:12:34.520
+CO2 losun eftir fjögur prósent á ári ...
+
+0:12:34.520,0:12:40.630
+Jæja, erum við að gera það?
+
+0:12:40.630,0:12:47.630
+Ég var tveggja ára og tíu mánaða gömul þegar ég
+sá Star Wars. Það er fyrsta minni mitt. My
+
+0:12:51.820,0:12:56.520
+Pabbi gerði ekki trúa því að ég minntist reyndar
+að þar til ég byrjaði reyndar um upplýsingar
+
+0:12:56.520,0:12:59.700
+frá degi það gerðist. Hann sagði eftir að
+allt sem ég gat talað um var rúm.
+
+0:12:59.700,0:13:04.770
+Ég eyddi 10 árum að vinna á NASA. Í upphafi
+af tíma mínum þar árið 2000, þetta er góður
+
+0:13:04.770,0:13:09.350
+samfélag ég var að hugsa um. Það hafði allt
+af sömu þörfum og samfélag á jörðinni
+
+0:13:09.350,0:13:15.480
+hefði, en það var mjög einstakt þvingun.
+Það er engin kol á tunglið, það er engin jarðolíu,
+
+0:13:15.480,0:13:20.630
+það er engin jarðgas, það er enginn vindur, það er
+ekkert andrúmsloft. Tunglið orbits jörðina einu sinni
+
+0:13:20.630,0:13:25.030
+á mánuði. Í tvær vikur, sólin fer niður
+og sólarplötur þitt ekki gera neinar orku.
+
+0:13:25.030,0:13:28.530
+Ef þú vilt reyna að geyma næga orku
+í rafhlöðum í tvær vikur, einfaldlega það bara
+
+0:13:28.530,0:13:29.060
+er ekki raunhæft.
+
+0:13:29.060,0:13:34.400
+Ég hélt kjarnorku var mállaus. Ég hafði ekki
+áhuga á því. Ég var eins og "Ah, gamla skran,
+
+0:13:34.400,0:13:37.120
+hver mundi vilja vera í þessu? "Það var ekki
+fyrr en ég áttaði að þetta skilvirkni voru
+
+0:13:37.120,0:13:39.910
+hugsanlegt að ég byrjaði að fá mikinn áhuga.
+
+0:13:39.910,0:13:43.590
+Ég er í þessu félagi skrifstofu minn er. Hann fékk
+þessari bók á hillu hans og bókina hét
+
+0:13:43.590,0:13:47.090
+"Fluid Fuel reactors". Hann var vanur að vinna á
+Oak Ridge National Labs í Tennessee og hann
+
+0:13:47.090,0:13:51.900
+sagði "Já, leið til baka þegar þeir voru að gera
+sumir efni á þetta á Oak Ridge, "hann fer
+
+0:13:51.900,0:13:57.440
+"Ég fór bara á bókasafnið og ég fékk þetta
+gamla bók. "Það var skrifuð árið 1958 og hann sagði
+
+0:13:57.440,0:14:01.350
+"Ég hef verið merkingu að horfa í gegnum það. Ég vissi
+svolítið um það en ekki mjög mikið. "
+
+0:14:01.350,0:14:06.080
+Svo ég tók bókina heim, stór gamla þykka bók,
+það var um 1.000 síður, barátta í raun
+
+0:14:06.080,0:14:10.080
+erfitt að reyna að átta sig á kjarna hugmyndir
+í bókinni, en það var heillandi nóg að
+
+0:14:10.080,0:14:15.150
+mig og það þótti mjög öðruvísi en
+konar kjarnorku sem við höfum nú. Þeir
+
+0:14:15.150,0:14:18.860
+einnig nefna í þessari bók mikið um Þórín.
+Þórín, Þórín, Þórín, Þórín. Ég var
+
+0:14:18.860,0:14:20.680
+eins og "Dude, hvað Heck er Þórín?"
+
+0:14:20.680,0:14:24.820
+En ég var ráðabrugg nóg að ég byrjaði að rannsaka
+eins mikið og ég gat. Ég var að lesa á netinu,
+
+0:14:24.820,0:14:27.450
+Ég var að lesa bloggin sérstaklega Rod Adams.
+
+0:14:27.450,0:14:31.460
+Skattgreiðendur í Bandaríkjunum sendi mig til
+sjó á kafbátum. Ég hef búið í umhverfi
+
+0:14:31.460,0:14:36.810
+sem var 100 prósent kjarnorkuvopnum gengur. Það er
+eitthvað sem fólk bara heyra ekki um.
+
+0:14:36.810,0:14:42.240
+Enginn í heiminum vissu að sjálfstætt viðvarandi
+fission keðjuverkun var jafnvel hægt að
+
+0:14:42.240,0:14:48.170
+þar einhvers staðar í kringum 1938. Mjög fáir
+skilja alla þessa valkosti sem eru í boði
+
+0:14:48.170,0:14:49.330
+í kjarnorku.
+
+0:14:49.330,0:14:54.820
+Nú með fljótandi flúoríð Þórín reactors,
+engin hár-láréttur flötur úrgangi er mynda
+
+0:14:54.820,0:14:59.910
+og það geta einnig minnkað birgðir af núverandi
+úrgangs. Svo í ljósi þess, er það fleiri stjórnvöld
+
+0:14:59.910,0:15:01.880
+getur gert til að prófa tækni?
+
+0:15:01.880,0:15:06.780
+Staðreyndin er sú að við höfum úrgangur, svo það er
+ekki að fara til að bæta kjarnorkuúrgangi.
+
+0:15:06.780,0:15:11.800
+Fyrirgefðu fáfræði mína, en hvað er Þórín?
+
+0:15:11.800,0:15:17.190
+Ef aðeins O-stigi vísindi kennarinn minn gæti séð
+mér núna. Það er nefnt eftir norræna guð Þór
+
+0:15:17.190,0:15:22.230
+og ég veit að göfugt Baroness verður ánægð
+að vita að það er dimorphic og það eru
+
+0:15:22.230,0:15:29.230
+alls konar aðrar staðreyndir sem hún getur fundið
+í Wikipedia, eins og reyndar gerði ég.
+
+0:15:30.050,0:15:33.700
+Höfðingjar mínir, höfðingjar minn ... höfðingjar mín.
+
+0:15:33.700,0:15:40.540
+The Department of Energy vitnað vefsíðu mína
+eins og einn tæknilega uppspretta fyrir bráðnu
+
+0:15:40.540,0:15:45.350
+salt kjarnaofni í IV Generation þegar þeir
+fyrst birt það. Fólk segir "Jæja það er
+
+0:15:45.350,0:15:51.240
+alveg heiður, "nei það er í raun mjög sorglegt
+því ég er Joe sitja í bílskúrnum mínum að gera
+
+0:15:51.240,0:15:55.420
+a website og þetta er eitt tæknilega
+uppspretta þú komst upp með?
+
+0:15:55.420,0:15:59.890
+Hefur stjórn skilja öll
+í boði? Nei Hefur einhver raunverulega
+
+0:15:59.890,0:16:06.890
+skilja greinilega þá staðreynd að kjarnorku
+er alveg truflandi tækni?
+
+0:16:07.810,0:16:11.920
+Vökvinn flúoríðs Þórín reactor, sá ég
+sumir af þú konar brosa þegar það koma upp
+
+0:16:11.920,0:16:15.750
+og hvað varðar mig svolítið. Hvað
+Ert þú heyrt um LFTR það er ekki ... hvað
+
+0:16:15.750,0:16:18.330
+Ert þú heyra óður í the bráðið reactors salt
+það er ekki þar?
+
+0:16:18.330,0:16:23.640
+Ég myndi virkilega vera hissa ef forysta okkar
+veit um þetta. Ég held ekki að þeir lesa
+
+0:16:23.640,0:16:27.880
+blogg. Sú staðreynd að við höfum Internet í dag
+er að fara að lokum gera gæfumuninn.
+
+0:16:27.880,0:16:32.310
+Þú veist við höfðum bronsöld og við höfðum Iron
+Aldur og við höfðum í Industrial Revolution.
+
+0:16:32.310,0:16:36.010
+Ég held virkilega hundruð ár núna,
+þeir segja að það var Þórín Age sem hófst.
+
+0:16:36.010,0:16:39.550
+Leyfðu mér að segja þér hvernig þetta dót fannst.
+Það var strákur sem heitir Glenn Seaborg sem unnu
+
+0:16:39.550,0:16:46.000
+í Berkeley Labs í Kaliforníu árið 1942. Þetta
+var strákur sem uppgötvaði plutonium. Tilkoma
+
+0:16:46.000,0:16:52.200
+burt uppgötva plutonium hann hugsaði: "Ég velti
+ef við getum högg Þórín með nifteind og snúa
+
+0:16:52.200,0:16:54.560
+það inn í eitthvað. "Maður verður að muna, fission
+hefði fundist í þrjú ár áður, svo
+
+0:16:54.560,0:16:55.950
+þeir voru enn í mjög upphafi.
+
+0:16:55.950,0:16:58.720
+Og hann fékk þetta Grad nemenda. Þú veist, allir
+sem er búinn að Grad nemandi veit hvað það er
+
+0:16:58.720,0:17:02.190
+eins og þegar prófessor segir: "Allt í lagi. Ég
+langar þér að fara inn í kjarna Lab og snúa
+
+0:17:02.190,0:17:07.740
+á bombardment nifteind kerfinu og fletta ofan af
+þetta dæmi um geislavirk efni og finna
+
+0:17:07.740,0:17:09.449
+út hvað gerist. "
+
+0:17:09.449,0:17:13.079
+"Þetta er stríð núna, er það ekki, herra, ekki satt?
+Ég gæti verið á the andlit línumaður. "
+
+0:17:13.079,0:17:13.589
+"Já, þú."
+
+0:17:13.589,0:17:15.529
+"Allt í lagi. Já herra. Endilega. Off ég fer."
+
+0:17:15.529,0:17:20.110
+Svo Grad nemandi fór burt, og hann gerði
+tilraun. Og hann kom aftur til Seaborg, og
+
+0:17:20.110,0:17:25.019
+Hann svaraði: "Já, ég hef gert það, herra. Ég hef gert
+eitthvað nýtt. Þórín gerði sig að nifteind.
+
+0:17:25.019,0:17:28.279
+Það varð úran-233. Er það ekki kaldur? "
+
+0:17:28.279,0:17:32.860
+Seaborg sagði: "Já, endilega. OK! Nú, við skulum
+taka næsta skref, léleg litla Grad námsmaður!
+
+0:17:32.860,0:17:37.830
+Ég vil þig að fara til baka. Nú vil ég að þú högg
+það með nifteind og sjá hvort það mun fission.
+
+0:17:37.830,0:17:40.309
+Vegna þess að ég held að það verður fission. Ég held að það verður
+fission bara eins og úran-235. "
+
+0:17:40.309,0:17:41.840
+"Allt í lagi. Já herra."
+
+0:17:41.840,0:17:46.409
+Fer í burtu, er tilraunin, kemur aftur
+og segir, "Já, þú varst rétt. Það var fission.
+
+0:17:46.409,0:17:49.960
+Þú ert rétt. Það er ný mynd af kjarnorku
+eldsneyti. "
+
+0:17:49.960,0:17:55.090
+Þá Seaborg smella á mjög, mjög mikilvægt
+spurning. Hann sagði: "Nú vil ég að þú farir mynd
+
+0:17:55.090,0:18:02.090
+út hversu margar nifteindir kom þegar hann fissioned.
+Vegna þess að ef þessi tala er hér fyrir neðan 2, við virkilega
+
+0:18:02.470,0:18:07.720
+Ertu ekki með sögu hér. Ef þessi tala ...
+þú kemur til baka, og segja að það er eins og 1,5, þá ...
+
+0:18:07.720,0:18:13.899
+áhugaverður staðreynd fer í bak bókarinnar.
+En ef þessi tala er fyrir ofan 2, þá er
+
+0:18:13.899,0:18:14.580
+máli. "
+
+0:18:14.580,0:18:19.850
+Fer aftur, kemur aftur. "Herra, númerið er
+2.5. "
+
+0:18:19.850,0:18:25.289
+Seaborg lítur á nemanda Grad hans. Þetta er
+Desember 1942, og hann sagði: "Þú hefur bara gert
+
+0:18:25.289,0:18:28.279
+a $ 50 quadrillion uppgötvun. "
+
+0:18:28.279,0:18:32.860
+Grad nemandi var eins og "Uhh!"
+
+0:18:32.860,0:18:39.860
+Seaborg var alveg rétt. Hann hafði mynstragur
+út að Þórín gæti þjónað sem í meginatriðum
+
+0:18:40.159,0:18:47.029
+ótakmarkað kjarnorkueldsneyti. Og hann vissi hversu mikið
+Þórín var í jarðskorpuna. Og
+
+0:18:47.029,0:18:53.100
+hann áttaði sig á að með þessu ferli, ef
+þú hefðir sumir úran-233, væri hægt að leiða
+
+0:18:53.100,0:18:56.549
+brennslu Þórín endalaust.
+
+0:18:56.549,0:19:01.690
+Þú ert sundra úran-233, en þú ert
+að gera nýjan. Svo það er ekki raunverulega hvati
+
+0:19:01.690,0:19:06.580
+í the sannur efna skilningi að hvati
+er ekki neytt í viðbrögðum. En þú getur
+
+0:19:06.580,0:19:08.950
+næstum hugsa um það sem gervi-hvati.
+
+0:19:08.950,0:19:12.830
+Svo við munum taka það frá fyrstu meginreglum. Let 's
+tala svolítið um hvað kjarnaklofnun er.
+
+0:19:12.830,0:19:17.820
+Þú hefur fissile kjarna. Það þýðir að þetta er
+kjarna. Ef þú högg það með nifteind, það er
+
+0:19:17.820,0:19:23.250
+að fara að fission og skipt í tvær sneiðar,
+tvö fission vörur. Og einnig verulega,
+
+0:19:23.250,0:19:28.059
+þetta nifteind er að fara að hrygna myndun
+á tveimur eða þremur viðbótar nifteindir.
+
+0:19:28.059,0:19:33.740
+Hvers vegna ekki sama við? Hér er ástæðan að við umönnun ...
+
+0:19:33.740,0:19:40.529
+Vegna þess að hvert kíló af fissile efni
+mun framleiða eins mikla orku og 13.000 tunnur
+
+0:19:40.529,0:19:47.490
+af olíu. Kjarnaklofnun er milljón sinnum
+meiri orku-þéttur en efnahvarfs.
+
+0:19:47.490,0:19:52.320
+Civilization hefur breyst yfir framfarir
+í tækni í heild einhver fjöldi fleiri hóflegri en
+
+0:19:52.320,0:19:52.990
+þetta.
+
+0:19:52.990,0:19:57.320
+Þegar þú fission eitthvað, brýtur það inn
+þessar tvær sneiðar, en þeir eru geislavirk.
+
+0:19:57.320,0:19:58.419
+Hvers vegna eru þeir geislavirk?
+
+0:19:58.419,0:20:03.929
+Og þetta er graf sem sýnir fjölda
+róteinda í máli og fjölda nifteinda.
+
+0:20:03.929,0:20:09.470
+Nú, ef fjöldi róteinda og fjölda
+nifteinda voru sama, öll þessi samsætur
+
+0:20:09.470,0:20:12.100
+myndi vera á þessari fallegu línu hérna, þú
+sjá?
+
+0:20:12.100,0:20:16.840
+En þeir gera það ekki. Í upphafi,
+Það er u.þ.b. jafn fjölda róteinda og
+
+0:20:16.840,0:20:21.399
+nifteindir. En eins og þeir fá þyngri, þeir örugglega
+fá á mjög nifteind-ríkur hlið af hlutur.
+
+0:20:21.399,0:20:26.429
+Þú sérð þetta svart punkta? Þeir eru stöðugt
+nuclides og allir aðrir krakkar eru geislavirk.
+
+0:20:26.429,0:20:31.360
+Sterka kjarna öfl halda kjarnann
+saman, eru róteindir þrýsta á kjarnann
+
+0:20:31.360,0:20:35.090
+sundur. Allt í lagi, eru róteindir öll jákvæð
+innheimt þeir vilja rífa málið í sundur. The
+
+0:20:35.090,0:20:40.289
+nifteindir eru að bæta við fleiri sem sterk kjarnorku
+gildi lím, halda öllu saman og
+
+0:20:40.289,0:20:43.379
+þeir eru ekki að bæta meira af ýta-það-sundur
+efni.
+
+0:20:43.379,0:20:49.480
+Vegur niður hér eru úran-og Þórín og
+þeir hafa um einn og stundum hálf eins og margir
+
+0:20:49.480,0:20:54.850
+nifteindum sem róteinda. Þegar þú springa þær í
+helmingur tvö stykki sem þú færð erfa það
+
+0:20:54.850,0:21:00.110
+hlutfall en það er rangt hlutfall fyrir þá. Þeir
+eru hérna þeir vildu vera meira eins og
+
+0:21:00.110,0:21:02.059
+einn og fjórðungur í staðinn fyrir eitt og hálft.
+
+0:21:02.059,0:21:05.620
+Þeir hafa of mörg nifteindir. Náttúran hefur a
+nifty ferli til að ákveða þetta litla vandamál
+
+0:21:05.620,0:21:09.659
+það heitir beta rotnun. A nifteind fyrst og fremst
+breytist í róteind og það spits út rafeind.
+
+0:21:09.659,0:21:14.159
+Þegar þú fission kjarna hvers vegna er það sem þú
+komast geislavirk? Og það hefur að gera með
+
+0:21:14.159,0:21:18.759
+þetta róteind og nifteind jafnvægi. Jafnvægi
+er rangt fyrir hvað þú hefur gert, jafnvel þótt
+
+0:21:18.759,0:21:20.440
+það var rétt fyrir það sem þú byrjaðir með.
+
+0:21:20.440,0:21:26.590
+Þetta eru massa númer hverrar þeirra
+og þeir gera ráð fyrir tveimur breiðum tinda dreifingu.
+
+0:21:26.590,0:21:30.990
+Þetta er minni fission vöru og þetta
+er stærri fission vöru vegna þess að hver
+
+0:21:30.990,0:21:35.620
+fission býr tveir þeirra. En því
+þeir eru nifteind ríkur þeir þurfa að beta rotnun
+
+0:21:35.620,0:21:38.240
+nokkrum sinnum áður en þeir ná stöðugt
+kjarna.
+
+0:21:38.240,0:21:42.879
+Við skulum tala bara eina mínútu, um geislavirkni
+vegna þess að ég hafði rangra hugmynd um hvað
+
+0:21:42.879,0:21:46.710
+geislavirkni var. Ég hélt að ef þú hefðir
+eitthvað sem hefur eins og helmingunartíma í
+
+0:21:46.710,0:21:51.090
+degi, og þú hefðir eitthvað sem hafði helmingunartíma
+um milljón ár, þýddi það að dude
+
+0:21:51.090,0:21:55.970
+sem var geislavirkt í einn dag er eins brrrrrr
+í einn dag og þá, "Opp! ég er gert." Og
+
+0:21:55.970,0:21:59.700
+dude með helmingunartíma um milljón ár
+eins brrrrrrrrr í milljón ár og gert.
+
+0:21:59.700,0:22:00.419
+OK.
+
+0:22:00.419,0:22:04.649
+Svo þú fara hver einn þeirra er mun hættulegri?
+Jæja, örugglega sá sem er með helmingunartíma
+
+0:22:04.649,0:22:08.649
+um milljón árum vegna þess að það er got til vera
+eins og geislavirk eilífu og dude er geislavirk
+
+0:22:08.649,0:22:11.509
+í dag það er ekki stór samningur, ekki satt?
+
+0:22:11.509,0:22:17.340
+Algjörlega rangt. OK. Algerlega aftur á bak. The
+dude sem er geislavirkt í dag er í raun,
+
+0:22:17.340,0:22:23.370
+mjög geislavirk. The dude sem er geislavirk
+um milljón ár er varla geislavirk
+
+0:22:23.370,0:22:27.649
+yfirleitt. Hver einn af þeim tveimur er hættulegri?
+Sá sem er geislavirkt í dag með
+
+0:22:27.649,0:22:29.480
+Langsótt.
+
+0:22:29.480,0:22:35.870
+Svo er geislavirkni beint og inversely
+réttu hlutfalli við þinn helmingunartíma. Svo öll þessi
+
+0:22:35.870,0:22:40.289
+krakkar sem hafa alvöru stutt helmingunartíma, mjög,
+mjög hættulegt, en þeir eru að fara í burtu alvöru
+
+0:22:40.289,0:22:45.580
+fljótur. Þessi strákur, 2,3 milljónir ára, ekkert vandamál.
+Það er ekki að fara að meiða þig. Það er bara ekki
+
+0:22:45.580,0:22:47.240
+næstum nóg geislavirk.
+
+0:22:47.240,0:22:51.409
+Nú hvað um Þórín og úran? Báðir eru
+náttúruleg efni. Þórín hefur
+
+0:22:51.409,0:22:57.909
+aðeins einn samsæta Þórín-232. Það hefur 14
+milljarða ára helmingunartíma. Svo þegar alheimurinn
+
+0:22:57.909,0:23:02.039
+er tvisvar sinnum eins og gömul eins og það er núna, Þórín mun
+hafa aðeins skemmdar einn helmingunartíma.
+
+0:23:02.039,0:23:06.330
+Hvað er það að segja þér hvernig geislavirk Þórín
+er?
+
+0:23:06.330,0:23:12.350
+Varla á öllum. Þess vegna er enn í kring.
+Úran, tveir samsætur úran-235, úran-238
+
+0:23:12.350,0:23:16.379
+bæði auðvitað eru geislavirk. U-238 hefur
+á 5 milljarða ára helmingunartíma, sem er nokkuð
+
+0:23:16.379,0:23:19.899
+gamall, það er hvernig gamall jörðin er, það er hvernig
+gamall alheimurinn er.
+
+0:23:19.899,0:23:24.019
+Úran-235 á hinn bóginn hefur mun styttri
+helmingunartíma, 700.000.000 ár. OK.
+
+0:23:24.019,0:23:27.240
+Hvernig sameiginlegur er þetta efni á jörðinni? Flestir
+jarðar er úr súrefni. Er það ekki
+
+0:23:27.240,0:23:32.499
+skrýtinn? Eins og 46 prósent af skorpu á
+Jörðin er súrefni. Þar sem allt er oxast,
+
+0:23:32.499,0:23:35.879
+allar steina, þá sílikon, ál, járn,
+kalsíum, fullt af efni.
+
+0:23:35.879,0:23:40.759
+Jæja er hér Þórín um 10 hlutar af milljón,
+en það er önnur efni sem við hugsum um
+
+0:23:40.759,0:23:45.740
+sem er jafnvel sjaldgæfari, beryllÃ, tini,
+Volfram. Hér er úran, tvö og hálft hlutum
+
+0:23:45.740,0:23:50.960
+á hverja milljón. Ljósapera ál, kvikasilfur,
+silfur, og ekki á óvart hvar er gullið? Það er
+
+0:23:50.960,0:23:52.710
+af hverju stelpur langar þig að gefa þeim það.
+
+0:23:52.710,0:23:58.070
+Nú, segjum við vorum að horfa á úran-235
+eins og ef það var eigin hlutur hennar. Það er minna en
+
+0:23:58.070,0:24:03.350
+eitt prósent af úran, er það um 0,7 prósent
+úran. Þú getur séð að úran-235 er á
+
+0:24:03.350,0:24:07.450
+sambærileg við gnægð af silfri og platínu.
+
+0:24:07.450,0:24:12.889
+Getur þú ímyndað þér brennandi platínu fyrir orku?
+Það myndi bara vera hnetur. Það er hnetur. Og það er
+
+0:24:12.889,0:24:18.039
+bókstaflega það sem við erum að gera með kjarnorku okkar
+orkugjafa í dag. Við erum brennandi þetta afar
+
+0:24:18.039,0:24:25.009
+Sjaldgæf efni og við erum ekki brenna sameiginlega
+efni, sem úran-238 og Þórín. Við erum
+
+0:24:25.009,0:24:27.539
+fara þessi efni unburnt.
+
+0:24:27.539,0:24:32.570
+Sumir sem eru eins konar umhverfissinna,
+þeir segja: "Heyrið, kjarnorku er ekki sjálfbær."
+
+0:24:32.570,0:24:36.940
+Þeir segja við mig: "Við erum að fara að keyra út af
+úran. "Ég sagði," Í lagi. Ég mun skila þeim punkti
+
+0:24:36.940,0:24:41.950
+þér, ef við erum að tala um kjarnorku í dag
+tækni. Á hinn bóginn, ef við byrjum
+
+0:24:41.950,0:24:45.840
+hugsa um sum af þessum annars
+við getum gert, að sagan breytist. "
+
+0:24:45.840,0:24:51.559
+Þórín allt af sjálfu sér er ekki að fara að gefa út
+kjarnorku. En ef þú högg the Þórín
+
+0:24:51.559,0:24:55.669
+með nifteind, Þórín munu gleypa
+nifteind og það mun snúa frá Þórín-232
+
+0:24:55.669,0:25:02.249
+í Þórín-233. Þórín-233 hefur aðeins helmingunartíma
+af eins og 20 mínútur, svo það er í raun geislavirk?
+
+0:25:02.249,0:25:08.730
+Ó já, reykingar geislavirk, virkilega, virkilega
+heitt efni. Það er að fara að rotnun í protactinium-233,
+
+0:25:08.730,0:25:10.559
+sem hefur helmingunartíma u.þ.b. mánuð.
+
+0:25:10.559,0:25:14.379
+Svo, laglegur fjári heitt efni. Þú sennilega ekki
+vilja til að skipta sér af þessu efni heldur. Þá
+
+0:25:14.379,0:25:18.879
+það mun rotnun yfir u.þ.b. mánuð til að úran-233,
+sem hefur helmingunartíma um 160.000 ár,
+
+0:25:18.879,0:25:22.200
+og er miklu minna geislavirkt.
+
+0:25:22.200,0:25:27.409
+Úran-233, ef þú högg það með nifteind
+það mun fission. Auk þess að gefa út
+
+0:25:27.409,0:25:32.700
+allt sem orku, það mun gefa út tvær eða þrjár
+Viðbótarupplýsingar nifteindir. Þú þarft eitt af þessum
+
+0:25:32.700,0:25:37.559
+nifteindir fara að finna aðra Þórín og þú
+þarf annað þeirra nifteinda til að finna
+
+0:25:37.559,0:25:41.169
+annars úran-233 til að halda áfram viðbrögðin.
+
+0:25:41.169,0:25:47.759
+Sum þessara fission vörur hafa mjög
+stór tilhneigingu til að borða nifteindir. Hvernig þeir
+
+0:25:47.759,0:25:53.009
+lýsa þetta í kjarnahvörfum er að þeir
+kalla það þversnið. Hversu líklegt er
+
+0:25:53.009,0:25:58.759
+viðbrögð að fara að vera? Einn af þeim fission
+vara er heitir Xenon-135, og hér er þess
+
+0:25:58.759,0:26:04.590
+þversnið miðað við tvo kjarna eldsneyti.
+Sjá þessa litlu krakkar Bitty? Ímyndaðu þér að við erum
+
+0:26:04.590,0:26:07.960
+spila píla eða eitthvað, og henda þeim.
+Hver einn erum við að fara að lemja?
+
+0:26:07.960,0:26:14.090
+Þegar Xenon-135 eyðublöð frá fission, líta á
+Öll þessi keðja, bla, bla, bla. Hvar er
+
+0:26:14.090,0:26:21.090
+135? OK, það er ekki sérstaklega óalgengt
+Ef til að mynda viðkomandi gaur. Xenon-135
+
+0:26:24.769,0:26:29.999
+hefur helmingunartími níu klukkustundir. Það er mjög geislavirk,
+En meðan þessi níu klukkustundir, vill það í raun
+
+0:26:29.999,0:26:30.940
+að borða nifteind þinn.
+
+0:26:30.940,0:26:31.190
+Þetta reynist vera stórt vandamál fyrir alvöru
+kjarnaofnum. Það boðberi upp hvernig þeir vilja
+
+0:26:31.169,0:26:32.879
+að stjórna því um tilvist Xenon.
+Þetta var í raun stuðla áhrif
+
+0:26:32.879,0:26:39.289
+í Chernobyl hörmungarnar var til staðar
+Xenon-135. Og það er mjög erfitt að takast á við
+
+0:26:39.289,0:26:45.580
+í föstu reactors eldsneyti. Xenon var svo stór
+samningur í raun, þetta var einn af fyrstu reactors
+
+0:26:45.580,0:26:50.499
+sem var alltaf byggð. Þetta var Hanford
+reactor í Washington. Þeir byggðu þetta á
+
+0:26:50.499,0:26:54.360
+í Manhattan verkefninu til að gera plutonium fyrir
+kjarnavopn.
+
+0:26:54.360,0:26:58.740
+Þegar þeir byggt fyrst, sneri þeir það á
+og allt virtist vera að fara. Eftir um
+
+0:26:58.740,0:27:05.340
+einn dag eða tvo að keyra það, allt í einu
+vald fór og lækkaði, næstum núll.
+
+0:27:05.340,0:27:09.480
+Þeir voru eins og "Hvað Heck er það?",
+og þeir gátu ekki fundið það út. Þeir vinstri
+
+0:27:09.480,0:27:15.970
+það eitt og sér, og eftir um 12 eða 18 klst það
+fór og það kom aftur upp til valda aftur, og
+
+0:27:15.970,0:27:21.100
+það haldið þar. Þeir eru eins og: "Hvað?", Og
+Fljótlega fer hann og fellur á nýjan leik. Þeir eru
+
+0:27:21.100,0:27:25.139
+fara, "Þetta gerir ekkert vit, erum við ekki að gera
+neitt! Málið er beygja á og beygja
+
+0:27:25.139,0:27:27.399
+burt, og það er beygja á og það er beygja
+burt. "
+
+0:27:27.399,0:27:33.929
+Hvað var í gangi var í reactor mundi
+á, og xenon-135 myndi byrja að byggja upp.
+
+0:27:33.929,0:27:37.769
+Og eins og það byggt upp myndi það byrja að borða
+Öll þessi taugafrumum, ekki satt. Og þeir voru og
+
+0:27:37.769,0:27:41.110
+það myndi taka reactor aftur niður aftur.
+
+0:27:41.110,0:27:44.869
+Síðan eftir smá stund það myndi rotnun í burtu, og
+þegar það skemmdar í burtu [gerir hækkandi flugvél
+
+0:27:44.869,0:27:50.330
+hljóð] kjarnaofninn myndi koma aftur aftur.
+Svo það var eftir þetta upp og niður áhrif.
+
+0:27:50.330,0:27:53.320
+Bara brjálaður, ég meina, þessir gaurar ekki einu sinni
+veit hvað Xenon-135 var vegna þess að þetta var
+
+0:27:53.320,0:27:58.720
+eitt af fyrstu kjarnakljúfum alltaf innbyggður.
+Til allrar hamingju fyrir okkur, gaurinn sem byggði þetta reactor
+
+0:27:58.720,0:28:00.789
+var þetta strákur, Eugene Wigner.
+
+0:28:00.789,0:28:02.399
+Hann var ótrúlega frábært, kannski eitt af
+smartest krakkar sem alltaf lifði. Vann
+
+0:28:02.399,0:28:05.110
+Nobel Prize. Hann vildi bara liggja í rúmi, að reyna
+að reikna út "Hversu langt á undan Þjóðverjum
+
+0:28:05.110,0:28:08.529
+erum við? Hvar telur þú að þeir séu? "Hann
+var bara alltaf gaming það og reyna að reikna
+
+0:28:08.529,0:28:08.830
+það út.
+
+0:28:08.830,0:28:13.139
+Hann hafði hugsað: "Hvað gæti hugsanlega farið úrskeiðis
+í þessari vél Ég reisti. "Hann fer," Jæja,
+
+0:28:13.139,0:28:18.639
+það gæti verið eitthvað sem við munum gera það
+verður mjög, mjög gleypni nifteinda.
+
+0:28:18.639,0:28:24.559
+Og að eitthvað við tökum gætum rotnun hratt.
+Og ef það var mjög gleypni og decayed
+
+0:28:24.559,0:28:26.220
+fljótt, kjarnaofninn myndi gera ... þetta! "
+
+0:28:26.220,0:28:32.249
+Hann vissi ekki hvað það var enn! Hann var bara
+hypothesizing að slíkt hafi verið til! Og
+
+0:28:32.249,0:28:36.149
+Svo þegar þessari vél hans byrjaði að gera
+þetta, hann fer, "Ég held ég veit hvað er í gangi
+
+0:28:36.149,0:28:40.980
+á. "Það voru fullt af stöðum til að setja í
+auka eldsneyti, og hann gat að hunsa þetta
+
+0:28:40.980,0:28:44.789
+áhrif. Ég meina, við erum heppin að hann gerði
+þetta eða við myndum ekki getað lokið
+
+0:28:44.789,0:28:48.980
+á Manhattan Project. Svo þeir gátu til að
+ljúka sköpun plutonium í röð
+
+0:28:48.980,0:28:50.820
+til að gera fyrstu kjarnorku vopn.
+
+0:28:50.820,0:28:55.610
+Þeir tóku náttúrulega úran, og skildu þeir
+þessir tveir samsætur, mjög auðgað það í
+
+0:28:55.610,0:29:02.460
+úran-235. Þeir myndu taka úran-235 frá
+minna en eitt prósent upp í eins og 90-plús prósent.
+
+0:29:02.460,0:29:07.989
+Og þetta var mjög erfitt. Það tók stór verksmiðjum,
+mjög erfitt að gera isotopic auðgun.
+
+0:29:07.989,0:29:12.720
+En þetta er hvernig þeir gerðu úran fyrir
+fyrsta kjarnorku vopn notuð í stríði. Þetta
+
+0:29:12.720,0:29:16.529
+var sprengju á Hiroshima. Það var kallað "Litla
+Boy "og þeir prófað aldrei það, vegna þess að þeir
+
+0:29:16.529,0:29:17.499
+þegar vissi að það var að fara að vinna.
+
+0:29:17.499,0:29:22.850
+Þá sögðu þeir: "Jæja, hvað getum við gert með
+allt þetta drasl úran-238 er 99,3 prósent
+
+0:29:22.850,0:29:27.299
+það? "Ja, Seaborg hafði mynstragur
+út að þú gætir fletta ofan af því að nifteindir, og þú
+
+0:29:27.299,0:29:29.649
+hægt er að gera það inn í Plutonium.
+
+0:29:29.649,0:29:35.239
+Eftir stutta kólnun-burt tímabil, sem nú er
+mjög geisluð eldsneyti stangir voru flutt
+
+0:29:35.239,0:29:38.119
+til T-álverið í 200 area Hanford er.
+
+0:29:38.119,0:29:43.669
+Nú, plutonium er mismunandi frumefni
+en úran, svo þeir geta verið efnafræðilega aðskilin.
+
+0:29:43.669,0:29:49.929
+Ferlið skilað mínútu magn af plutonium.
+Miðað við þyngd, dýrasta efni á
+
+0:29:49.929,0:29:50.659
+the reikistjarna.
+
+0:29:50.659,0:29:56.789
+Og efnafræðilega aðgreina hluti er eins og
+bazillion sinnum auðveldara en isotopically aðskilnaður
+
+0:29:56.789,0:29:57.929
+það. Þar úran-235 og úran-238 er
+sömu efnafræðilega. Það er engin efni
+
+0:29:57.929,0:29:59.019
+munur á milli þeirra. En það er efni
+munur plutonium og úran,
+
+0:29:59.019,0:30:02.580
+svo það var mikið auðveldara að gera efni aðskilnað
+á plutonium þú vilt gera.
+
+0:30:02.580,0:30:07.440
+Og það er hvernig þeir gerðu fyrstu kjarnorku
+vopn, að Trinity sprengja í New Mexico, og
+
+0:30:07.440,0:30:11.730
+Það er einnig hvernig þeir gerðu Nagasaki sprengja,
+Fat Man. Seaborg segir: "OK, ja, kannski við
+
+0:30:11.730,0:30:15.759
+getur gert það sama með Þórín. Kannski
+við getum fletta ofan af því að nifteindir, og við getum gert
+
+0:30:15.759,0:30:22.279
+það inn í úran-233. Úran verður efnafræðilega
+að aðskilja frá Þórín, og við getum farið að gera
+
+0:30:22.279,0:30:23.649
+sprengju út af því. "Right? Hljómar frábærlega.
+
+0:30:23.649,0:30:28.489
+Og þeir byrjuðu að horfa á það, og það kemur í ljós
+út, nei, það er mjög slæm hugmynd, því eins og
+
+0:30:28.489,0:30:34.489
+þú gert úran-233, þú varst alltaf
+að úran-232. Hér er rotnun keðja
+
+0:30:34.489,0:30:41.489
+að úran-232 er á. Það stökk niður einn
+ári, þrjá daga, 55 sekúndur, 0,16 sekúndur,
+
+0:30:42.619,0:30:49.440
+og stökk niður að þessir krakkar - Bismút-212,
+þallíum-208 og þessara tveggja rotnun vörur
+
+0:30:49.440,0:30:50.879
+hafa erfiðara gamma losun.
+
+0:30:50.879,0:30:56.850
+Þeir setja fram mjög, mjög sterkt gamma geislum.
+Og þetta gamma geislum eru frábær slæmar fréttir ef
+
+0:30:56.850,0:31:01.119
+þú vilt fara og byggja upp hagnýta kjarnorku
+tæki. Vegna þess, númer eitt þeir drepa þig
+
+0:31:01.119,0:31:04.649
+þegar þú vinnur á þeim, númer tvö, segja þeir
+allir sem fékk gamma geisli skynjari þar sem
+
+0:31:04.649,0:31:05.830
+efni er.
+
+0:31:05.830,0:31:10.259
+Svo í raun fljótt þeir voru að fara, OK, við
+geta unnið með úran-235, sem virðist í lagi,
+
+0:31:10.259,0:31:15.929
+við getum unnið með plutonium, sem virðist í lagi,
+en úran-233 efni hefur slæmar fréttir fyrir
+
+0:31:15.929,0:31:17.739
+gera kjarnorku vopn.
+
+0:31:17.739,0:31:23.389
+Þórín var sett til hliðar sem hugsanlega kjarnorku
+vopn eldsneyti allt í stríðinu. Eftir
+
+0:31:23.389,0:31:26.629
+stríð, tók þau upp á þetta aftur vegna þess að
+Nú voru þeir að hugsa, "Við skulum tala um
+
+0:31:26.629,0:31:32.549
+gerð orku í stað þess að gera kjarnavopn. "
+Þetta er graf sem sýnir gleypni tilhneigingu
+
+0:31:32.549,0:31:36.369
+af öllum þessum mismunandi kjarnorku eldsneyti sem
+fall af orku nifteind.
+
+0:31:36.369,0:31:40.830
+Þetta er það sem er kallað varmaorku, þetta
+þýðir að þeir hafa verið dregið niður. Þetta er
+
+0:31:40.830,0:31:45.619
+hratt orku, sem þýðir að nifteind er enn
+að fara mjög hratt. Útlit hversu mikið stærri
+
+0:31:45.619,0:31:50.070
+yfir kafla í varma en þeir eru
+í hratt.
+
+0:31:50.070,0:31:55.039
+Hvað er þetta strákur niður hér, þetta er fljótur sinnum
+25. Tekur þetta röð, vegna þess að þú getur varla
+
+0:31:55.039,0:32:01.389
+sjá þessi litlu Bitty punkta, og ég hef blásið
+það upp með stuðlinum 25. Þú getur séð nokkrar hlutföllum
+
+0:32:01.389,0:32:05.269
+hér. Nú er það þessir litir meina rauða
+þýðir að það er að fara að taka á nifteind
+
+0:32:05.269,0:32:08.369
+og blár þýðir að það er að fara að taka á sig
+í nifteind og fission.
+
+0:32:08.369,0:32:12.159
+Það sem þú vilt, viltu blár. Þykkur blár
+gott. Jæja, fullt af bláum purpura, því þegar þú
+
+0:32:12.159,0:32:14.739
+högg þessi spjátrungur með nifteind, viltu þá
+fission.
+
+0:32:14.739,0:32:20.690
+Horfðu á plutonium, vá, stór miða, ekki satt?
+En einn þriðja af þeim tíma sem það er bara að fara
+
+0:32:20.690,0:32:26.330
+að borða nifteind í varma fission. Það er
+ekki gott. Á hinn bóginn, í hratt fission,
+
+0:32:26.330,0:32:32.700
+líta á það, vá, var að fara að fission nánast
+allan tímann. Við eins og það var, en sjáðu hvernig
+
+0:32:32.700,0:32:37.499
+margir þessa litlu punkta sem við erum að fara að þurfa
+Til að bæta allt að þessari stærð. Við erum að fara að þurfa
+
+0:32:37.499,0:32:38.429
+a einhver fjöldi.
+
+0:32:38.429,0:32:45.119
+Hversu mikla orku tóku nifteind hafa þessi
+þú smack á kjarnorkueldsneyti með? Hvernig orku
+
+0:32:45.119,0:32:50.389
+gerðu þeir og þá hversu margar nifteindir gerði
+þú sparka út þegar þú smack það til fission?
+
+0:32:50.389,0:32:56.070
+Þessar litlu Bitty punkta, virðast þeir í þessu
+hluti af ferli. Þetta er hratt svæðinu,
+
+0:32:56.070,0:32:59.749
+Þetta er varma svæðinu. Á varma
+svæðinu, líta hver er að gera það besta, líta á
+
+0:32:59.749,0:33:06.749
+úran-233, um 2,3. Horfðu á plutonium,
+er sú að djúpt lágmark tvö til hægri þar. Það er það
+
+0:33:09.169,0:33:14.999
+gerir það að þú getur ekki brenna upp úran-238
+í varma-litróf reactor eins og vatn
+
+0:33:14.999,0:33:17.220
+kælt kjarnaofni eins CANDU eða eins og vatn
+kjarnaofni.
+
+0:33:17.220,0:33:23.129
+Þú bara getur ekki gert það. Svo þeir líta á sem
+og segja, maður, bara við getum ekki brenna uraniun-238
+
+0:33:23.129,0:33:26.789
+í varma reactor. Það bara getur ekki gert.
+Þessir krakkar eru ekki deterred, þeir sögðu: "Jæja,
+
+0:33:26.789,0:33:28.799
+Hér er það sem við munum gera, munum við bara að byggja upp
+hratt reactor, vegna þess að líta hversu vel það gerist
+
+0:33:28.799,0:33:33.609
+í the fljótur svæðinu, vá, fær það ofan tveir,
+þrír, vá! Þetta er mjög gott! "Þetta var
+
+0:33:33.609,0:33:39.190
+tilurð the hugmynd af the fljótur ræktanda
+reactor, a reactor sem var byggt í kringum með
+
+0:33:39.190,0:33:42.320
+hratt nifteindir og plutonium eldsneyti.
+
+0:33:42.320,0:33:47.480
+En úran-233 á hinn bóginn, OK, það
+fær lítið betri í the fljótur, en Dang
+
+0:33:47.480,0:33:50.019
+það er samt ansi fjandinn góður rétt í varma.
+
+0:33:50.019,0:33:55.779
+Big markmið, mun auðveldara, allir sem eru
+þrýsta Þórín sagði: "Við eins og varma. Þetta
+
+0:33:55.779,0:33:59.710
+er eins konar reactor við viljum að byggja "og
+allir sem eru að þrýsta plutonium sagði: "Nei,
+
+0:33:59.710,0:34:03.019
+Nei, nei, við viljum fljótur reactor, það er
+Eina leiðin til að gera það. "
+
+0:34:03.019,0:34:06.480
+Hvað gerði við gerum í raun, höfum vér ekki annað
+einn af þessum. Í raun og veru, allt reactors okkar
+
+0:34:06.480,0:34:12.660
+í dag eru brennandi úran-235 sem er eins
+brennandi platínu, mjög, mjög, mjög sjaldgæft. Við
+
+0:34:12.660,0:34:17.510
+ekki taka annað hvort einn af þessum leiðir að lokum.
+Þetta var mikill deild í byrjun,
+
+0:34:17.510,0:34:19.960
+var að fara að Þórín eða er það að fara að
+að plutonium.
+
+0:34:19.960,0:34:25.120
+Wigner var ekki vel að sannfæra
+megnið af kjarnorku samfélag til að taka
+
+0:34:25.120,0:34:30.470
+Þórín nálgun. Þeir í stórum sagði
+"Við ætlum að fara á plutonium leið." Einn
+
+0:34:30.470,0:34:35.590
+af the ástæða hvers vegna var að þeir höfðu þróað
+mikla skilning um plutonium
+
+0:34:35.590,0:34:40.280
+frá vopn program. Þeir höfðu gert
+efni. Þeir höfðu unnið með efnafræði hennar.
+
+0:34:40.280,0:34:46.860
+Þeir myndu gera eldsneyti úr því. Þeir fara, "Við fáum
+þetta. Þórín? Við höfum ekki raunverulega boðberi með
+
+0:34:46.860,0:34:49.960
+Þórín. Það væri eins og að byrja á. "
+
+0:34:49.960,0:34:55.000
+Það tilhneigingu var að fara og gera það
+þú vissir nú þegar hvernig á að gera. The plutonium
+
+0:34:55.000,0:35:01.080
+var svo miklu betri þróað en Þórín.
+Svo, Wigner var ekki hræðilega vel í
+
+0:35:01.080,0:35:06.990
+að breytir í kjarna samfélagsins.
+Hann náði að gera einn umbreyta - Alvin Weinberg.
+
+0:35:06.990,0:35:10.000
+Hann var nemandi hans á Manhattan Project.
+
+0:35:10.000,0:35:14.650
+Weinberg fékk það. Hann fékk stóru myndina. "Við
+þarf Þórín. Við þurfum Þórín reactor. Við
+
+0:35:14.650,0:35:19.500
+þarf fljótandi eldsneyti. Ég sé það. Ég sé það sem við höfum
+fékk að gera. "Weinberg fékk atvinnutilboð að vera
+
+0:35:19.500,0:35:25.370
+forstöðumaður Oak Ridge National Labs í
+1955. Hann var 35 ára gamall. Hann var ár yngri
+
+0:35:25.370,0:35:30.090
+en ég. Ég sat þarna að fara, "Dude,
+þegar Weinberg var á mínum aldri var hann að keyra Oak
+
+0:35:30.090,0:35:34.200
+Ridge National Lab. Hvað er ég að gera? Ég er í
+kjallara einhvers staðar. "
+
+0:35:34.200,0:35:35.130
+[Hlátur]
+
+0:35:35.130,0:35:37.890
+Ég ætla bara að stríða.
+
+0:35:37.890,0:35:38.810
+[Hlátur]
+
+0:35:38.810,0:35:43.420
+Það er ekki kjallaranum mamma mín er svo ég líða betur.
+
+0:35:43.420,0:35:48.460
+Svo fer hann að Oak Ridge og Wigner sagði: "Alvin,
+þú hafir fengið að fara þangað vegna þess að þú hafir fengið
+
+0:35:48.460,0:35:53.490
+til að fara sjá hvort þú getur gert þetta Þórín vinna.
+Það er það mikilvægt. "Alvin fékk það.
+
+0:35:53.490,0:35:58.410
+Hér var tilvitnun frá bók sinni. Hann sagði: "Þar til
+þá vil ég hafði aldrei alveg vel þegið að fullu
+
+0:35:58.410,0:36:02.330
+mikilvægi ræktanda. "Þegar hann er að tala
+Um ræktandi hann þýðir í raun Þórín
+
+0:36:02.330,0:36:08.750
+kjarnaofni. "En nú varð ég heltekinn við
+hugmynd að heil framtíð mannkynsins reiða
+
+0:36:08.750,0:36:14.710
+á ræktandi. "Hugmyndin að ef þú ert ekki
+fara og sjá orku Þórín, erum við
+
+0:36:14.710,0:36:18.180
+ekki að fara að gera það. Við getum ekki gert það á
+á úran-235.
+
+0:36:18.180,0:36:21.290
+Eitt af því fyrsta sem gerðist þegar
+Hann fékk að Oak Ridge, sem Atomic Energy framkvæmdastjórninni
+
+0:36:21.290,0:36:25.210
+kallaði hann upp og sagði: "Þú ert búinn að
+reactor viðskipti. Við erum að gefa öllum reactor
+
+0:36:25.210,0:36:30.830
+vinna að því að Argon National Labs í Chicago og
+þú krakkar eru ekki hluti af the samningur lengur. "
+
+0:36:30.830,0:36:35.160
+Argon National Labs var að fullu fara fyrir
+plutonium hratt ræktanda. Það var þar allt
+
+0:36:35.160,0:36:37.080
+hlutur var að gera plutonium hratt ræktanda.
+
+0:36:37.080,0:36:42.290
+Strax the kylfa, Weinberg var eins, "Ó
+nei minn! Hvað ætlum við að gera? "Um það
+
+0:36:42.290,0:36:47.750
+tíma, Air Force sagði: "The sjóher hefur innbyggður
+kjarnorku kafbátum og her hefur
+
+0:36:47.750,0:36:52.290
+komið með og þeir hafa tekið sömu tækni
+sem Navy, vatnið kælir reactor. Þeir eru
+
+0:36:52.290,0:36:57.210
+gera hlutur þeirra, en Air Force vill
+að byggja upp kjarnorkuvopnum gengur bomber. "Hefur þessi
+
+0:36:57.210,0:36:58.400
+bara hljóð brjálaður?
+
+0:36:58.400,0:36:58.800
+[Hlátur]
+
+0:36:58.800,0:37:00.840
+Það var bara alveg hnetur.
+
+0:37:00.840,0:37:06.570
+Weinberg var hagnýt maður og hann sagði:
+"Hah, kjarnorku knúið bomber? Það er líklega
+
+0:37:06.570,0:37:09.150
+mjög heimsk hugmynd. "
+
+0:37:09.150,0:37:11.530
+En herinn hefur a einhver fjöldi af peningar, "Það var ekki
+að ég myndi skyndilega orðið breytt viðhorf
+
+0:37:11.530,0:37:11.800
+í kjarna flugvélum. Það var heldur var þetta
+eina Avenue opinn fyrir ORNL fyrir áframhaldandi
+
+0:37:11.800,0:37:16.640
+í þróun kjarnaofni. Að tilgangur var
+unattainable ef ekki heimska var ekki svo mikilvægt. "
+
+0:37:16.640,0:37:17.870
+[Hlátur]
+
+0:37:17.870,0:37:24.640
+"Hátt hitastig reactor gæti nýst
+í öðrum tilgangi, jafnvel ef það aldrei skrúfa
+
+0:37:24.640,0:37:26.410
+flugvél. "Hann vissi að til að gera kjarnorku
+flugvél vinnu, gætu þeir ekki notað vatn kælt
+
+0:37:26.410,0:37:30.330
+reactors. Þeir gætu ekki notað mikinn þrýsting
+reactors. Þeir gætu ekki notað flókinn solid
+
+0:37:30.330,0:37:35.620
+eldsneyti reactors. Þeir þurftu að hafa eitthvað
+sem var svo klókur, það var svo öruggur, að
+
+0:37:35.620,0:37:40.170
+var svo einfalt, að starfrækt á lágu þrýsting-hár
+hitastig, og hafði alla þá eiginleika sem þú
+
+0:37:40.170,0:37:41.950
+vildi í það. Þeir gerðu ekki einu sinni vita hvað það
+var.
+
+0:37:41.950,0:37:48.260
+Ef þetta kjarnorku flugvél áætlun hafði ekki verið
+komið á bráðnu salti reactor myndi
+
+0:37:48.260,0:37:54.880
+hafa aldrei verið fundin upp, því það er einfaldlega
+of róttækar, of ólíkir, of fullkomlega
+
+0:37:54.880,0:38:00.380
+út úr boltanum sviði allt annað fyrir
+það að vera komin á í gegnum þróun
+
+0:38:00.380,0:38:06.720
+þróun. Það yrði að vera þvinguð í tilveru
+af kröfum sem voru svo erfitt að
+
+0:38:06.720,0:38:09.160
+ná, og þá kjarnorkuáætlun flugvél var að.
+
+0:38:09.160,0:38:13.190
+Og þeir hófu að vinna á þessum háum hita
+kjarnaofni, og hér var hugmynd þeirra. Þetta reactor
+
+0:38:13.190,0:38:13.440
+var að fara að framleiða þetta hár hiti
+hita. Það ætlaði að vera ducted í Turbo
+
+0:38:13.420,0:38:13.800
+Jet vél. Loftið var að fara að sogast
+í, þjappað. Þá í stað brennari hér
+
+0:38:13.800,0:38:14.050
+sem myndi vera inndælingu eldsneyti, eins og brennsla
+kerfi, myndir þú hafa this varmaskipti
+
+0:38:13.980,0:38:14.230
+með kjarnaofni. Það myndi gera loftið heitt,
+þá loft myndi útblástur gegnum vél
+
+0:38:13.980,0:38:14.230
+og gera lagði.
+
+0:38:13.980,0:38:14.230
+Svo það er sama hugmyndin sem Jet vél, það er
+bara hita fengið var reactor fremur
+
+0:38:14.020,0:38:16.060
+en brennslu eldsneytis. Mundu þetta
+var fundið upp áður en við var ICBMs eða eitthvað
+
+0:38:16.060,0:38:20.040
+eins og þessi. Þetta var doomsday vopn. Ef
+þú ert að fljúga þetta til Rússlands, er það
+
+0:38:20.040,0:38:23.890
+enda veraldar. Svo gerðu þeir ekki einu sinni vita
+hvers konar reactor þetta myndi vera, og þeir
+
+0:38:23.890,0:38:27.040
+hóf störf og kom upp með bráðnu
+salt hugtak.
+
+0:38:27.040,0:38:30.550
+Þeir vissi ekki hvort það myndi vinna, þannig að þetta
+byggt þetta sönnun á kjarnaofni meginreglu, sem kallast
+
+0:38:30.550,0:38:35.720
+kjarnaofninn Aircraft Experiment. Þeir dreifa
+vökvann flúoríðs salt í þessum túpum að
+
+0:38:35.720,0:38:38.230
+framleiða tvö og hálft megavött af varma
+völd.
+
+0:38:38.230,0:38:44.420
+Xenon er gas. Hvað verður um lofttegundir í
+vökva. The loftkennt fission vöru Xenon
+
+0:38:44.420,0:38:45.470
+bara kom réttur út af the salt.
+
+0:38:45.470,0:38:50.690
+Getur þú ímyndað þér ef það gerðist til fátækra Wigner
+í Washington kjarnaofni sínum varð um
+
+0:38:50.690,0:38:54.930
+dude fljúga til Rússlands? Hann myndi vera eins og: "Þetta
+er skipstjóra tala þín. Við ætlum að hafa
+
+0:38:54.930,0:38:58.570
+að gera í neyðartilvikum lendingu yfir Síberíu.
+Xenon stigi er bara að fá aðeins of hátt
+
+0:38:58.570,0:39:02.330
+í kjarnaofninn þangað aftur, þannig að við erum bara að fara
+að setja niður á túndru hér fyrir níu klukkustundir
+
+0:39:02.330,0:39:07.470
+en þessi gömlu Xenon er að fara að koma niður.
+Við munum vera lýsing upp og taka burt fljótlega. "
+
+0:39:07.470,0:39:08.390
+Þú veist, ég meina það er ekki að fara að vinna.
+
+0:39:08.390,0:39:11.120
+Og það rann um 11 daga árið 1954.
+
+0:39:11.120,0:39:15.140
+Það náði hæsta hitastig sem höfðu
+alltaf verið náð með kjarnakljúfur upp
+
+0:39:15.140,0:39:16.370
+að þessu.
+
+0:39:16.370,0:39:21.440
+Og reyndist þá að raun, þeirra
+hugmynd var rétt - sem þú gætir haldið uppi
+
+0:39:21.440,0:39:26.250
+kjarnahvörfum fission inni í salt, sem
+það myndi ganga á háum hita og lágt
+
+0:39:26.250,0:39:30.810
+þrýstingi, að það var mjög stöðugt. Og
+Ástæðan hvers vegna það var svo stöðugt var eins og salt
+
+0:39:30.810,0:39:35.900
+myndi hita upp, það myndi vera minna fissile
+efni í kjarnakljúfur algerlega, og
+
+0:39:35.900,0:39:38.020
+svo fission varð ólíklegri.
+
+0:39:38.020,0:39:42.500
+Hins vegar eins og salt kæla niður, þar
+var meira efni, vegna þess að salt var samningagerð,
+
+0:39:42.500,0:39:43.920
+og fission varð líklegri.
+
+0:39:43.920,0:39:46.830
+The verkfræðingar þarna úti, það er mjög virk
+stöðugt kerfi.
+
+0:39:46.830,0:39:49.450
+Það verður heitari, kólnar, fær of kaldur,
+hitar upp.
+
+0:39:49.450,0:39:55.530
+Jæja, þessi tími það var um 1960. ICBMs
+voru að fara mikill. Við myndum fullkominn loft til loft
+
+0:39:55.530,0:39:58.960
+eldsneyti. The Air Force var að fara, "Ó, maður,
+þú veist, ég held ekki að við þurfum virkilega að
+
+0:39:58.960,0:40:00.930
+kjarnorku bomber lengur. "
+
+0:40:00.930,0:40:04.400
+Weinberg bænaskrá Atomic Energy framkvæmdastjórninni
+í Bandaríkjunum fyrir peninga og hann fékk
+
+0:40:04.400,0:40:09.590
+svolítið. Hann fékk nóg til að byggja upp sýning
+reactor sem átti að vera minna en
+
+0:40:09.590,0:40:12.860
+10 megavött. Þeir byggt það, og það var kallað
+á bráðnu Salt reactors tilraun. Það hljóp
+
+0:40:12.860,0:40:14.640
+1965-1969.
+
+0:40:14.640,0:40:19.070
+Það kom í ljós að Þórín var frábær passa
+í kjarnaofni.
+
+0:40:19.070,0:40:22.520
+Þetta er það sem er kallað tveggja vökva, steypt
+salt reactor hönnun.
+
+0:40:22.520,0:40:25.990
+Hvað er steypt salt reactor í tengslum við
+LFTR og öfugt?
+
+0:40:25.990,0:40:30.860
+LFTR er steypt salt reactor. Allir LFTRs eru
+steypt reactors salt en ekki öllum steypt salt
+
+0:40:30.860,0:40:31.810
+reactors eru LFTRs.
+
+0:40:31.810,0:40:37.690
+Þú hefur fengið þennan kjarna vökva, sem litíum beryllÃ
+salt, með tetrafluoride úran þar.
+
+0:40:37.690,0:40:41.160
+Nú er það sem þú vilt gera sem þú vilt færa
+sem eldsneyti þú hefur gert úr teppi í
+
+0:40:41.160,0:40:45.740
+kjarna. Og hér er hvernig þú gerir það. Þú tekur
+þetta straum af þessu teppi salti burt og þú
+
+0:40:45.740,0:40:48.850
+setja það í þessum óstöðugleika flúor dálki.
+
+0:40:48.850,0:40:54.930
+Þú högg the salt með gas flúor, og hvað verður
+gerast er ... Úran hefur tvenns konar flúor
+
+0:40:54.930,0:41:00.540
+ríki það verður inn Það er úran tetrafluoride,
+fjórar flúor jónir, og það er úran hexafluoride,
+
+0:41:00.540,0:41:02.780
+sex flúor jónir.
+
+0:41:02.780,0:41:04.270
+Úran hexafluoride er gas.
+
+0:41:04.270,0:41:06.650
+Úran tetrafluoride er í lausn.
+
+0:41:06.650,0:41:11.000
+Ef þú högg það með flúor það byrjar
+til kúla úr salt, rétt eins og loftbólur
+
+0:41:11.000,0:41:15.160
+í pop þínu. Og það er mikill vegna þess að þetta
+er a snyrtilegur bragð. Þetta er leið til að fá þinn
+
+0:41:15.160,0:41:19.210
+úran vara að koma út úr teppi
+og skilja allt eftir.
+
+0:41:19.210,0:41:25.100
+Þetta myndi ekki virka ef Þórín einnig verið með þetta
+sama bragð. Ef Þórín myndi snúa í hexafluoride
+
+0:41:25.100,0:41:29.780
+í gas, viljum við vera upp á vík. En þetta er
+einn af þessum litlu kraftaverk náttúrunnar.
+
+0:41:29.780,0:41:33.370
+Svo er hægt að sitja þarna og pund Þórín með
+flúoríð allt sem þú vilt. Það er ekki að fara að breytast.
+
+0:41:33.370,0:41:39.020
+Það er að fara að vera í lausninni. En úran
+mun koma út eins hexafluoride úran, sem er gas.
+
+0:41:39.020,0:41:42.690
+Jæja núna þú þarft að færa það inn í kjarna
+sölt. Svo þú koma straum af salti algerlega
+
+0:41:42.690,0:41:47.810
+yfir hér og þú kynna þessa úran hexafluoride
+hér. Og nú þú högg það með smá vetni
+
+0:41:47.810,0:41:48.780
+gas.
+
+0:41:48.780,0:41:54.680
+Vetni mun segja UF6, "Hey maður, ég
+vilja þessir tveir fluorines a heild einhver fjöldi verri
+
+0:41:54.680,0:42:01.380
+en þú gerir. "Ahh! UF6 fær fastur upp á
+gas stöð, hefur að gefa upp tvær fluorines
+
+0:42:01.380,0:42:05.460
+þú veist og dropar úr UF6 aftur til UF4. Whoop!
+Það er í lausn núna.
+
+0:42:05.460,0:42:11.210
+Svo nú hefur þú bara refueled algerlega salt þinn
+með tetrafluoride úran. Cool bragð, ha?
+
+0:42:11.210,0:42:15.670
+Þú ert stöðugt eldsneytistöku reactor þína,
+allan tímann. Þú ert alltaf eldsneyti í
+
+0:42:15.670,0:42:21.980
+algerlega með nýjum úran-233. Og úran-233
+er neytt en nifteindir frá
+
+0:42:21.980,0:42:23.770
+fission eru að gera nýja úran-233.
+
+0:42:23.770,0:42:29.820
+OK, vel af the toppur af þessum dálki kemur
+hydrofluoric sýru - HF. Þú sendir það niður
+
+0:42:29.820,0:42:34.490
+þessu electrolyzer einingu. Og þú högg það
+með nokkrum rafmagn og HF munu hættu
+
+0:42:34.490,0:42:39.950
+í gas vetni og flúor gas. Og giska á
+hvað - nú þú hefur endurunnum tvær hvarfefnum þinn.
+
+0:42:39.950,0:42:44.770
+Svo flúor og vetni eru tilbúnar
+til skylda aftur til að gera þetta bragð vinna.
+
+0:42:44.770,0:42:48.410
+Þetta er stykki sem þú getur raunverulega kaupa af
+hillu. Þannig að þetta er laglegur kaldur! Þetta er lokað
+
+0:42:48.410,0:42:55.410
+hringrás um hvernig á að fá nýja eldsneyti þinn héðan
+í hér. Þú ert í raun að breyta Þórín
+
+0:42:56.650,0:43:00.880
+í orku. Fyrst í U233, og síðan inn í
+orku í gegnum fission. Nú auðvitað þú ert
+
+0:43:00.880,0:43:05.150
+með upp nokkrar Þórín gera þetta. Svo þú þarft
+að hafa smá straum af Þórín flúoríð,
+
+0:43:05.150,0:43:09.090
+þú þarft að fæða nokkrar nýjar Þórín í
+sæng til að bæta upp fyrir Þórín þú ert
+
+0:43:09.090,0:43:11.070
+neyslu. En mjög duglegur viðbrögð.
+
+0:43:11.070,0:43:14.370
+Leyfðu mér að kynna þú til a dæmigerður kjarnorku
+kjarnaofni.
+
+0:43:14.370,0:43:18.480
+Watts Bar Plant í Tennessee, hef ég í raun
+verið að þetta kjarnakljúfur áður. Þetta
+
+0:43:18.480,0:43:23.080
+hefur greinarmun á að vera nýjustu kjarnorku
+reactor í Bandaríkjunum. Þetta kom netinu
+
+0:43:23.080,0:43:28.460
+árið 1996.
+Stórt þrýstingi vatni kjarnaofni skips. 150
+
+0:43:28.460,0:43:33.400
+andrúmsloft, solid kjarnorkueldsneyti. Fission er
+fara á. Vatn er dælt í gegnum. Það er
+
+0:43:33.400,0:43:37.050
+fá heitara. Þetta vatn fer þá í gegnum
+a gufu rafall og í öðru lykkja af vatni
+
+0:43:37.050,0:43:41.900
+gufa er upprisinn. Það fer að hverflum,
+spænir í hverflum, sem spænir rafall
+
+0:43:41.900,0:43:43.200
+gerir raforku.
+
+0:43:43.200,0:43:46.390
+Þetta er gufu túrbínu. Og þegar ég var
+á Watts Bar þetta er hluti ég fékk að fara
+
+0:43:46.390,0:43:46.970
+sjá.
+
+0:43:46.970,0:43:53.970
+Það var ekki skitch af ryki á neitt!
+Nú, ef einhver ykkar hefur farið í kol planta
+
+0:43:54.500,0:43:59.410
+og séð sömu gufu túrbínu, vegna þess að þeir
+nota sömu tækni í kol álversins. Það
+
+0:43:59.410,0:44:06.410
+er ekkert eins og þetta. A kol álverið er óhreinn,
+Það er daunillur, það er óhreint, og það er drýpur.
+
+0:44:06.900,0:44:10.370
+Þetta var næstum sótthreinsandi í leiðinni
+það útlit.
+
+0:44:10.370,0:44:10.620
+Er þörf fyrir það?
+
+0:44:10.370,0:44:17.370
+Ég veit það ekki. Þannig að ég stóð við hliðina á þessum
+vél. Þú getur í raun ekki séð mann, um
+
+0:44:17.840,0:44:19.550
+yay hár hér.
+
+0:44:19.550,0:44:25.860
+Þetta er það lágþrýstivél hverflum. Og þetta
+er snúa bol sem er í gangi þetta.
+
+0:44:25.860,0:44:29.960
+Nú í framan þessa dagana er þetta lítill hlutur
+heitir hár-þrýstingur hverflum. Og þú
+
+0:44:29.960,0:44:30.700
+getur í raun ekki séð það. Þú sérð stóru þrír
+lágþrýstivél hverfla en þú sérð ekki
+
+0:44:30.700,0:44:32.090
+hár-þrýstingur hverflum. The hár þrýstingur hverflum
+er lítið Bitty. Það er eins og þriðja stærð
+
+0:44:32.090,0:44:37.200
+í rafall. The hár-þrýstingur hverflum
+er gerð um tveir þriðju hlutar snúningsvægi sem er
+
+0:44:37.200,0:44:38.310
+snúa bol.
+
+0:44:38.310,0:44:42.490
+Og lágþrýstivél vélar eru að gera um
+þriðjungur af togi sem er að snúa
+
+0:44:42.490,0:44:46.790
+bol. Þessi litli strákur er að gera næstum allt
+vinnu og þessi stór, stór, stór krakkar eru
+
+0:44:46.790,0:44:47.930
+varla að gera neitt.
+
+0:44:47.930,0:44:51.740
+Þegar gufa fer í hár-þrýstingur
+hverflum, það er þétt. Það er got a einhver fjöldi af orku
+
+0:44:51.740,0:44:55.980
+og smá magn. En þá láta það blása
+niður eins og það fer yfir hár þrýstingur vél
+
+0:44:55.980,0:44:58.000
+og verður lágþrýstivél gufu.
+
+0:44:58.000,0:45:02.670
+Þess vegna þessi vél að vera svo fjári
+stór. Þar er gufan sem er upphitun þá
+
+0:45:02.670,0:45:07.200
+hefur nú þegar misst að mikill meirihluti
+orku sem það er að fara að gefast upp.
+
+0:45:07.200,0:45:12.380
+Þetta er reactor sjálft, reactor skip
+upp hér er þar sem allar stjórna stöfunum renna
+
+0:45:12.380,0:45:16.840
+inn og út úr kjarna. Og svo er það þessi
+fjórum gufu rafala, eins og stór ef ekki stærri
+
+0:45:16.840,0:45:20.190
+en reactors og þeir hafa einnig að reka
+á þessum mjög hátt álag.
+
+0:45:20.190,0:45:27.190
+Það er fjórum þeirra. Horfðu á þetta. Einn, tveir,
+þrír, fjórir, fimm, sex, sjö, átta. Big
+
+0:45:27.430,0:45:28.280
+lagnir.
+
+0:45:28.280,0:45:32.630
+Númer eitt slys fólk áhyggjur
+með þessa tegund af kjarnaofni er það sem er kallað
+
+0:45:32.630,0:45:38.460
+the tvöfaldur-endaði pípa brot. Einn af þessum
+átta rör, hver sem ástæðan er, skæri.
+
+0:45:38.460,0:45:44.600
+Og allt í einu, þrýstingur fer forgörðum í
+kjarnaofni. Það vatn sem er haldin vatni
+
+0:45:44.600,0:45:51.490
+á 300 Celsius um 150 andrúmsloft á þrýstingi,
+þegar þú missir þrýsting það blikkar til gufu,
+
+0:45:51.490,0:45:57.070
+nánast í stað á gufu. Og þegar það gerist,
+rúmmál hans eykst u.þ.b. með stuðlinum
+
+0:45:57.070,0:46:02.330
+1.000. Svo það var yay þétt er nú ekki svo
+þétt lengur.
+
+0:46:02.330,0:46:07.600
+The annar hlutur sem gerist er gufu ekki
+burt hita næstum eins og heilbrigður eins og fljótandi vatn
+
+0:46:07.600,0:46:12.960
+er frá yfirborði. Svo allt í einu þitt
+eldsneyti stengur eru ekki kæld nærri eins áhrifaríkan hátt
+
+0:46:12.960,0:46:17.030
+eins og þeir voru áður. Nú fission hættir
+vegna þess að eitt af því vatnið er að gera
+
+0:46:17.030,0:46:21.400
+er að hægja á nifteindum. Svo án þess að
+vatn fission viðbrögð hættir. Þú þarft ekki
+
+0:46:21.400,0:46:27.550
+að setja stjórn stöngum eða neitt. The
+reactor slekkur strax. En það
+
+0:46:27.550,0:46:30.470
+mun enn vera að búa til hita frá þeim fission
+vörur.
+
+0:46:30.470,0:46:35.810
+Hér er það sem mun gerast ef þú ert með tvöfaldur-lokið
+pípa brot. Þú færð þetta allt innilokun
+
+0:46:35.810,0:46:36.890
+skip fyllt með vatni.
+
+0:46:36.890,0:46:41.010
+Nú, ég vil ekki að segja þér allt þetta vegna þess að
+Ég er að reyna að einblína á neikvæðar aðstæður
+
+0:46:41.010,0:46:44.870
+hér. Ég er að segja ykkur þetta því þetta er
+hvað rekur hönnun þessarar byggingar. Þetta
+
+0:46:44.870,0:46:51.660
+bygging er stærð það er og það er hvernig
+það er einmitt að koma til móts þessum atburði.
+
+0:46:51.660,0:46:57.650
+Þeir hafa hannað þetta reactor þannig að ef þetta gerist,
+öll gufan er tekinn í þessari byggingu
+
+0:46:57.650,0:46:58.750
+og ekki komast út.
+
+0:46:58.750,0:47:03.060
+Horfðu á stærð reactor. Horfðu á
+Stærð innilokun byggingarinnar. Það er gríðarstór.
+
+0:47:03.060,0:47:09.150
+Það er miklu stærri en reactor og það er
+öll knúin áfram af því að þúsund til einn munur á
+
+0:47:09.150,0:47:14.830
+í þéttleika milli gufu og fljótandi vatns.
+Nú ef þetta gerist ert þú að reikna út
+
+0:47:14.830,0:47:21.060
+leið til að fá vatn aftur á eldsneyti stöfunum til
+flott þá. Svo þeir hafa nokkrar neyðartilvikum
+
+0:47:21.060,0:47:25.380
+kerfi í þessu reactor og þeir starfa á
+öll mismunandi stigum þrýstingi.
+
+0:47:25.380,0:47:28.200
+Svo er hugmynd ef þú ert enn undir miklum þrýstingi
+og þú hefur got til fá vatn í það, þá erum við
+
+0:47:28.200,0:47:31.210
+fékk fyrir það. Ef þú hefur misst nokkur
+þrýstingi og þú hafir fengið að fá vatn
+
+0:47:31.210,0:47:34.460
+þar, þá erum við kerfi fyrir það. Ef
+þú hefur tapað öllum þrýstingi og við höfum fengið
+
+0:47:34.460,0:47:37.900
+til að fá vatn í það, þá erum við kerfi
+fyrir það. Svo there 'a einhver fjöldi af kerfi og
+
+0:47:37.900,0:47:42.200
+þá er það afrit til þeirra kerfa og
+Það er allt knúin áfram af þessu hár þrýstingur og
+
+0:47:42.200,0:47:43.450
+með því að nota vatn.
+
+0:47:43.450,0:47:43.920
+Já herra?
+
+0:47:43.920,0:47:49.100
+Tekur staf stjórna eldflaugum skjöld til að halda
+stjórn stengur úr gata gat í gegnum
+
+0:47:49.100,0:47:53.550
+þaki ef gufu sprengingu nær
+reactor hólfa?
+
+0:47:53.550,0:47:58.340
+Nákvæmlega. Hér er stöngina stjórna ökuferð vélbúnaður.
+Hér er stöfunum. Ef þú brot þessa hluti,
+
+0:47:58.340,0:48:03.450
+Segjum að suðu mistekist og þetta
+fer "búmm" og út skjóta stjórn stöfunum,
+
+0:48:03.450,0:48:07.020
+sem er til staðar til að halda þeim frá að gera slæma hluti
+eins gata gat í toppinn.
+
+0:48:07.020,0:48:12.300
+Sem í raun gerðist einu sinni. Það var
+her reactor og þeir vildu ekki hafa innilokun
+
+0:48:12.300,0:48:16.410
+bygging. Ein fátækur strákur fékk impaled til
+loft með stjórn stangir svo ...
+
+0:48:16.410,0:48:18.530
+Það er got að vera svalasta leið til að deyja.
+
+0:48:18.530,0:48:21.900
+Það var alvöru slæmur dagur. Ef hann ekki fá
+impaled á geislun var að fara að fá hann.
+
+0:48:21.900,0:48:26.810
+The títuprjónshaus myndavél sást nokkrum stöðum
+og uppsprettur hár gamma geislun starfsemi
+
+0:48:26.810,0:48:33.170
+utan reactor skipið væntanlega úr
+reactor hluti blásið úr kjarna með
+
+0:48:33.170,0:48:34.920
+gildi af 500 PSI sprengingu.
+
+0:48:34.920,0:48:38.480
+Kjarnaofninn skipið er um níu tommu þykkur
+stál. Þegar þú hefur fengið níu tommu þykkur stál
+
+0:48:38.480,0:48:42.460
+og það þarf að vera kjarnorku bekk og það hefur
+að vera fullkominn, getur þú ekki farið og suÃ níu
+
+0:48:42.460,0:48:46.850
+tomma þykkur stál. Þeir gera ekki það sem
+hátt. Þeir móta það í heilu lagi. Ekki mikið
+
+0:48:46.850,0:48:53.800
+manna hafa getu til þess að byggja 10 metra
+þvermál, 20-metra löng, eitt stykki, níu
+
+0:48:53.800,0:48:57.920
+tomma þykkur móta. Í staðreynd, það er einmitt
+einum stað í heiminum sem þú getur byggt það.
+
+0:48:57.920,0:49:00.670
+Það er staður sem heitir Japan Steel Verk í Japan.
+
+0:49:00.670,0:49:03.320
+Það er takmarkandi þáttur af því að þú segir: "Ég
+vilja til að byggja fullt og fullt af kjarnakljúfum. "
+
+0:49:03.320,0:49:07.670
+Annað hvort þú ert að fara að byggja nýja þungur móta,
+sem er í raun bara fyrir þetta verkefni, eða þú ert
+
+0:49:07.670,0:49:11.460
+að fara að bíða í langan tíma að fá reactor þinn
+í línu til að fara að gera þetta.
+
+0:49:11.460,0:49:14.160
+Leyfðu mér að diss á vatni nokkrum sinnum.
+
+0:49:14.160,0:49:16.960
+Hér er ástæðan vatn er ekki svo mikill hlutur
+fyrir inni í kjarnakljúfur. Fjöldi
+
+0:49:16.960,0:49:22.430
+einn, það geta ekki hakk hitastig, þegar við
+talaði um það. Númer tvö, það er covalently
+
+0:49:22.430,0:49:27.790
+tengt efni. The súrefni er samgild
+skuldabréf með tveimur vetni. Hvorki eitt af þeim
+
+0:49:27.790,0:49:33.440
+skuldabréfa er nógu sterkt til að lifa af að fá
+smacked um með gamma eða nifteind. Þeir eru
+
+0:49:33.440,0:49:37.600
+bara að fara of hratt. Viss nógur, högg sem þeir
+á vetni hreinsa burt.
+
+0:49:37.600,0:49:42.310
+Nú, í kældu vatni kjarnaofni, hefur þú
+kerfi kallað recombiner sem mun taka
+
+0:49:42.310,0:49:47.890
+vetni gas og súrefni gas sem er
+alltaf að vera búin til úr kjarnorku viðbrögð
+
+0:49:47.890,0:49:51.740
+og setja þá aftur saman, því efnafræðilega
+þeir myndu miklu frekar að vera vatn en að vera vetnis
+
+0:49:51.740,0:49:56.420
+og súrefni. Þess 'a mikill kerfi svo lengi sem
+Það er starfa og kerfið er dæla.
+
+0:49:56.420,0:50:01.030
+Jæja, á Fukushima Daiichi, vandamálið var
+að dæla orku hætt. Þegar dæla
+
+0:50:01.030,0:50:07.140
+máttur hætt, vatn var enn að fá lagsmaður
+sundur. Vetni er alvöru ljós, og jafnvel þótt
+
+0:50:07.140,0:50:11.780
+það vill fá með súrefni aftur það verður
+Aftengja nokkuð fljótt. Vetni verður
+
+0:50:11.780,0:50:15.430
+sitja efst skipsins og súrefni
+mun sitja í lag fyrir neðan, og þá er
+
+0:50:15.430,0:50:16.200
+vatninu.
+
+0:50:16.200,0:50:20.630
+The hönnuður þess sérstaklega reactor hafði
+viljandi hannað það sem svo að þú viljir
+
+0:50:20.630,0:50:24.830
+Vent vetni utan innilokun
+bygging. Þetta hefur alltaf verið svona umdeild.
+
+0:50:24.830,0:50:29.310
+Þeir ducted vetni upp á efri þilför
+í kjarnaofninn, sem voru utan afmörkunar.
+
+0:50:29.310,0:50:33.870
+Þeir eru bara einskonar dreifður stál ramma
+uppbygging þarna uppi. Og einn, tveir, þrír, við
+
+0:50:33.870,0:50:38.460
+segja að það gerist á fréttavef. Fyrsta fyllt
+með vetni, fékk að vissu marki, Boom.
+
+0:50:38.460,0:50:41.620
+Í fréttum sagði: "Oh, Við áttum kjarnorku sprengingu."
+og ég er eins og: "Nei, við gerðum það ekki. Það var ekki
+
+0:50:41.620,0:50:44.720
+kjarnorku sprengingu. Það var gas vetni sprengingu. "
+Það var ekki springa í innilokun.
+
+0:50:44.720,0:50:49.690
+Ég vil ekki draga það of mikið en það
+var ekki nærri eins skelfilegur og það hljómaði. Það
+
+0:50:49.690,0:50:51.420
+var einn, tveir, þrír.
+
+0:50:51.420,0:50:56.900
+The tsunami högg um klukkustund eftir að reactors
+voru leggja niður. Fission var löngu farin af
+
+0:50:56.900,0:51:01.130
+tíma tsunami kom með. En reactors
+voru enn stjórna rotnun hita. The tsunami
+
+0:51:01.130,0:51:05.000
+kom og eyddi dísel rafala,
+en þeir höfðu samt rafhlöður og þær rafhlöður
+
+0:51:05.000,0:51:06.810
+hljóp í um átta klukkustundir.
+
+0:51:06.810,0:51:10.790
+Það átta klukkustundir var mikilvægasta tíma
+allra. Ef þú þurftir að velja átta klukkustundir til að
+
+0:51:10.790,0:51:14.350
+ganga úr skugga um að dælur voru enn að vinna,
+þeim fyrstu átta klukkustundir voru mikilvægustu
+
+0:51:14.350,0:51:18.760
+tíma. Með því að rafhlöðurnar hljóp þurrt og
+í dælur hætt að reactor höfðu fengið
+
+0:51:18.760,0:51:24.230
+framhjá verstu hluti af rotnun hita comedown þess.
+Það var enn í gangi, rotnun hita ekki
+
+0:51:24.230,0:51:28.370
+slökkva á, og það heldur áfram jafnvel í varið eldsneyti.
+Það rotnun hita áfram að byggja upp. Hiti var
+
+0:51:28.370,0:51:30.160
+ekki fjarlægð úr reactor.
+
+0:51:30.160,0:51:32.840
+Af hverju voru þeir ekki að nota orku frá
+kjarnaofni til að keyra dælur? Vegna þess að reactor
+
+0:51:32.840,0:51:33.400
+hafði verið slökkt.
+
+0:51:33.400,0:51:38.360
+Þetta sýnir ef þú ert heimskur hönnun, eitthvað
+slæmt mun gerast, jafnvel eftir 40 ár. Vinur
+
+0:51:38.360,0:51:42.620
+minn var fyrsta kjarnorku GE er öryggi verkfræðingur
+og hann vann á Fukushima álversins og
+
+0:51:42.620,0:51:46.860
+þeir myndu hafa fundi með TEPCO embættismenn
+og verkfræðinga og þeir myndu allir höfuðhneiging þeirra
+
+0:51:46.860,0:51:50.750
+höfuð í löngum fundum og segja "Við munum gera þetta,
+við munum gera það, "og þá fara burt eftir
+
+0:51:50.750,0:51:55.620
+fundi og gera hvað sem þeir vildu. Það er
+hvers vegna þú átt 15-fótur sjó vegg með 45 feta
+
+0:51:55.620,0:51:58.850
+öldu að koma yfir, og dísel rafala og
+eldsneyti í kjallara.
+
+0:51:58.850,0:52:02.940
+Það hefur ekkert að gera með kjarnorku, það
+hefur að gera með slæma stjórnun og að þú viljir ekki
+
+0:52:02.940,0:52:09.940
+jafnvel hönnun einföld verksmiðju á þann hátt að
+var hannað. Ég er viss um að þú gætir talað við
+
+0:52:11.550,0:52:15.750
+Japanska fulltrúa hér um TEPCO er
+stjórnun að fá sparkað út árum fyrir
+
+0:52:15.750,0:52:18.290
+svik og annað. Þeir hafa haft sögu.
+
+0:52:18.290,0:52:23.170
+Leyfðu mér að tala um kjarnorku eldsneyti í dag, vegna þess að
+það er algengt að báðir sjóðandi reactors vatn,
+
+0:52:23.170,0:52:28.540
+þrýstingi reactors vatn og CANDUs. Þetta
+er handfylli af þessum oxíð úran eldsneyti kögglar.
+
+0:52:28.540,0:52:33.630
+Fékk hanska gaurinn á og það er auðvelt að hugsa
+Hann fékk hanska um að vernda hann frá
+
+0:52:33.630,0:52:37.410
+oxíð úran, en nú þegar ég hef kennt þér
+um hið sanna eðli geislavirkni, þú
+
+0:52:37.410,0:52:41.030
+gæti farið "Ég er ekki svo viss um að efni er svo
+hættulegt eftir allt saman, "og þú vildi vera rétt.
+
+0:52:41.030,0:52:45.630
+Hann er ekki að vernda sig frá úran,
+hann er að vernda úran frá sjálfum.
+
+0:52:45.630,0:52:49.910
+Það efni verður að vera frábær hreint og frábær
+hreint og þú vilt ekki að fá eitthvað af þínum
+
+0:52:49.910,0:52:55.090
+olíur eða feiti eða svita á kjarnorkueldsneyti sem er
+að fara að fara inni í eldsneyti staf þannig það er það sem
+
+0:52:55.090,0:52:56.330
+í hanska eru fyrir.
+
+0:52:56.330,0:53:00.660
+Þeir taka þessar eldsneyti kögglar og renna þá
+niður þessar Sirkon slöngur og þeir í raun
+
+0:53:00.660,0:53:05.180
+munu greinast við perlur eftir lengd
+af eldsneyti samkoma eftir auðgun.
+
+0:53:05.180,0:53:08.440
+Þær setja mest auðgað sjálfur í
+miðju, og þá þeir konar lækkun
+
+0:53:08.440,0:53:13.800
+á auðgun meðfram lengd eldsneyti
+þingum. Það er virkilega, virkilega dýrt
+
+0:53:13.800,0:53:15.930
+að búa til fast eldsneyti.
+
+0:53:15.930,0:53:21.180
+Til baka í dag, viðskipti líkan þeirra
+hvernig á að gera kjarnakljúfur var stundum
+
+0:53:21.180,0:53:26.540
+kölluð "rakblöð viðskipti líkan,"
+Með öðrum orðum selja þessar reactors að tólum
+
+0:53:26.540,0:53:31.670
+nánast á kostnaðarverði til að læsa þeim
+í langan tíma framboð samning.
+
+0:53:31.670,0:53:35.500
+Það var gott peningar fyrir þá, vegna þess að þegar einhver er
+keypti reactor þinn, þá eru þeir að fara að kaupa
+
+0:53:35.500,0:53:39.460
+þitt Westinghouse 17x17 array eldsneyti. Þeir eru
+ekki að fara "Hey, GE, hvers konar samningur
+
+0:53:39.460,0:53:42.240
+getur þú gefið mér á þetta? "Og segja" Dude,
+þú ert ekki reactor mínum. "þú ert að vinna
+
+0:53:42.240,0:53:46.400
+með því að strákur, það er engin markaður þarna úti
+þegar þú byggir upp reactor, ætlar þú að nota hann
+
+0:53:46.400,0:53:49.630
+eldsneyti. Ef hann ákveður að breyta verði á
+þér, Jæja, það er erfitt.
+
+0:53:49.630,0:53:53.410
+Hér er reactor. Það fékk lokinu burt,
+og svo þeir fylla allt hlutur að
+
+0:53:53.410,0:53:57.120
+stigi með vatni, svo að þeir gera allt
+hlutur í sundlaug. Fylltu þetta allt
+
+0:53:57.120,0:54:02.030
+hlutur upp með vatni, vegna þess að vatnið er
+geislun verja. Þeir taka eldsneyti þingum
+
+0:54:02.030,0:54:06.480
+út og setja það í varið eldsneyti laug. Þetta
+er það sem þeir þurfa að gera um allt milli himins 18 mánaða
+
+0:54:06.480,0:54:10.800
+við reactor. Þær taka um þriðjung
+af eldsneyti og svo þeir hlaða í um
+
+0:54:10.800,0:54:14.850
+þriðja nýtt ferskt eldsneyti og þá þeir stokka
+því eldsneyti sem þegar hefur verið þar. Þær
+
+0:54:14.850,0:54:17.430
+færa það frá miðju út á jaðar.
+
+0:54:17.430,0:54:21.170
+Það er eins og "Lord of the Rings", "The Great
+Eye er að leita, "nei, það er í raun ekki í
+
+0:54:21.170,0:54:26.050
+auga. Hér er það sem það raunverulega er. Það er þversnið
+kjarnorkueldsneytis. Þetta er úran oxíð og
+
+0:54:26.050,0:54:30.290
+þegar þú setur það í kjarnaofni um stund,
+Eitt af því sem Xenon er, það er gas,
+
+0:54:30.290,0:54:35.610
+svo það er hátt, hátt, hátt minna þétt en solid
+eldsneyti. Þegar þú gerir þetta gas, byrjar það að
+
+0:54:35.610,0:54:38.540
+brjóta upp solid uppbyggingu eldsneyti.
+
+0:54:38.540,0:54:43.510
+The fast eldsneyti mun byrja að bólgnað og sprunga
+og gasses er krypton og Xenon
+
+0:54:43.510,0:54:47.680
+byrja að fylla upp, og þú byrjar að fá þetta
+Mið ógilt. Þetta er í raun skarð í
+
+0:54:47.680,0:54:50.300
+eldsneyti. Fission vara gasses munu safna
+hér.
+
+0:54:50.300,0:54:55.440
+Wigner ekki eins fast eldsneyti. Hann var efni
+verkfræðingur að mennt og hann hugsaði: "Hvað
+
+0:54:55.440,0:55:00.200
+konar iðnaðarferli keyri við efnafræðilega
+byggt á föst efni? "Hann fer" Við gerum ekki. Allt
+
+0:55:00.200,0:55:04.740
+við gerum það, notum við sem vökvar eða lofttegundir vegna
+getum við blandað þá alveg. "Hægt er að taka
+
+0:55:04.740,0:55:08.560
+vökva, getur þú fullkomlega blanda það. Hægt er að taka
+a gas, getur þú fullkomlega blanda það. Þú getur ekki tekið
+
+0:55:08.560,0:55:12.490
+traust og fullkomlega blanda það nema þú kveikir það
+í fljótandi eða gas.
+
+0:55:12.490,0:55:17.110
+Til að gefa þér hugmynd, hér er það sem við gerum í dag.
+Við gerum þetta solid úran oxíð eldsneyti og
+
+0:55:17.110,0:55:21.600
+það er einn pilla, og þá erum við að setja þá
+í þessum stóru reactor eldsneyti frumefni, Sirkon
+
+0:55:21.600,0:55:24.760
+rör sem eru eins og 12 fet að lengd og um
+þetta í kringum stór. Við standa þá þá í
+
+0:55:24.760,0:55:29.660
+kjarnaofni og irradiate þá fyrir a par af
+ár. Við brenna aðeins upp lítið magn af
+
+0:55:29.660,0:55:32.910
+úran sem er þar, tökum það út og
+við stafur það í varið eldsneyti laug. Það er ekki
+
+0:55:32.910,0:55:34.010
+mjög duglegur.
+
+0:55:34.010,0:55:38.740
+The þungur vatni kjarnaofni mun nota u.þ.b. 0,7
+prósent orkugildi og ljós vatn ...
+
+0:55:38.740,0:55:44.120
+Reactors í Bandaríkjunum, við erum útdráttur
+Um helmingur af 1 prósent af orkunni sem er
+
+0:55:44.120,0:55:47.750
+í úran. Þú getur ímyndað þér að fara til þín
+stjóri sagði: "Ég þróað nýtt kerfi", "Well
+
+0:55:47.750,0:55:53.450
+hvernig duglegur er það? "," Það er minna en 1 prósent ",
+"Afsakið mig, hvað gerðir þú byggja? Ég held að þú
+
+0:55:53.450,0:55:56.460
+þarf að fara að vinna á þeim aftur, "þú veist.
+Við bara einfaldlega vildi ekki samþykkja þetta.
+
+0:55:56.460,0:56:00.640
+Ég er verkfræðingur. Ef þú ert svo langt burt 100
+prósent, maðurinn sem ég vil fá a heild einhver fjöldi nær
+
+0:56:00.640,0:56:05.290
+og Weinberg gerði líka. Þau vildu fá að
+næstum 100 prósent af orkunýtingu.
+
+0:56:05.290,0:56:08.710
+The bráðnu salti reactor tilraun var
+algerlega hluti af því. Þeir did ekki hafa a teppi
+
+0:56:08.710,0:56:12.480
+í kringum það, vildi þeir bara að sjá hvort þeir
+gæti fengið fyrsta skrefið til að vinna, og þeir
+
+0:56:12.480,0:56:13.610
+voru vel.
+
+0:56:13.610,0:56:17.970
+Eftir að þeir luku bráðið salt reactor
+tilraun, fóru þeir til Atomic Energy
+
+0:56:17.970,0:56:21.920
+Framkvæmdastjórn sögðu þeir: "Hey, G, getum við fengið
+sumir meiri peninga? Okkur langar að fara núna og byggja
+
+0:56:21.920,0:56:27.640
+the raunverulegur hlutur. Okkur langar til að byggja upp teppi
+og krókinn viðskipti raforkukerfi á og
+
+0:56:27.640,0:56:32.120
+búa til rafmagn, "þeir fannst eins og þeir myndu skot
+tunglið. The Atomic Energy Framkvæmdastjórnin því miður
+
+0:56:32.120,0:56:34.110
+ekki deila ákafa sínum.
+
+0:56:34.110,0:56:39.160
+Þeir höfðu fjárfest mjög mikið í annað
+tækni, fljótur plutonium ræktandi reactor
+
+0:56:39.160,0:56:46.160
+byggir á eldsneyti í föstu formi og beygja mikið
+úran-238 í plutonium-239 og síðan brenna
+
+0:56:46.280,0:56:50.800
+það í reactor. Það koma allt annað
+sett af tækni sem voru mun meira í
+
+0:56:50.800,0:56:56.770
+samræmi við ljósið reactors vatni. Það er fyndið,
+jafnvel á þessum tíma fyrir 50 árum, enginn hélt
+
+0:56:56.770,0:57:00.850
+ljósið vatn reactor, the þungur vatn reactor
+yrði um mjög lengi. Þeir voru bara
+
+0:57:00.850,0:57:04.740
+einfaldlega of óhagkvæmt í notkun þeirra kjarnorku
+eldsneyti.
+
+0:57:04.740,0:57:08.000
+Eins og ég var að segja, er Atomic Energy framkvæmdastjórninni
+sagði "Hey, veistu hvað, erum við að setja þetta allt
+
+0:57:08.000,0:57:12.080
+peningar í the fljótur ræktanda. Við höfum fengið alla þessa
+fyrirtækjum raðað upp til að gera hratt ræktanda.
+
+0:57:12.080,0:57:17.720
+Þeir byggja jafnvel í raun einn í Monroe, Michigan.
+Það hafði í bræðsluslys. Þeir voru undeterred,
+
+0:57:17.720,0:57:22.140
+Þeir voru áfram og svo þeir sögðu
+Weinberg að taka gönguferð.
+
+0:57:22.140,0:57:26.330
+Sagan fær aðeins flóknara líka
+vegna þess að auk þess að vera Þórín sérfræðingur,
+
+0:57:26.330,0:57:30.860
+Weinberg var einnig upphaflega fundið upp
+á þrýstingi vatni reactor. Hann hafði fundið
+
+0:57:30.860,0:57:37.680
+það og fengið einkaleyfi sitt fyrir það árið 1947, svo
+það var smá erfiður hlutur til að hafa
+
+0:57:37.680,0:57:44.250
+uppfinningamaður ljóssins vatni reactor talsmaður
+fyrir eitthvað mjög, mjög, mjög ólíkar.
+
+0:57:44.250,0:57:48.410
+Og fékk smá verri en líka af því
+Weinberg var aldrei raunverulega brjálaður óður í the
+
+0:57:48.410,0:57:51.430
+ljós vatni kjarnaofni. Hann gerði ekki eins og þeirri staðreynd
+að það þurfti að keyra á mjög háum þrýstingi.
+
+0:57:51.430,0:57:57.330
+Það yrði slys einhvern tíma þar sem þú
+tókst ekki að halda þrýstingi eða
+
+0:57:57.330,0:58:02.800
+halda kælingu það. Það gæti verið bræðsluslys,
+það gæti verið út af geislavirkni.
+
+0:58:02.800,0:58:08.480
+Hefur eitthvað af þessu hljóð þekki? Og hann var
+gera nóg af skítalykt um þetta að það
+
+0:58:08.480,0:58:10.530
+var Congressional leiðtogi hét Chet Holifield ...
+
+0:58:10.530,0:58:13.720
+Starfsmenn sameiginlega Congressional Atomic
+Orka nefndarinnar ...
+
+0:58:13.720,0:58:18.520
+Hver sagði Alvin Weinberg, sagði hann: "Ef þú ert að
+svo umhugað um öryggi kjarnorku,
+
+0:58:18.520,0:58:23.090
+það gæti verið tími fyrir þig að yfirgefa kjarnorku
+viðskiptum. "Hann var ekki að spyrja gildi
+
+0:58:23.090,0:58:28.550
+eða mikilvægi kjarnorku, ef eitthvað
+Hann var mun meira sannfærður um það en
+
+0:58:28.550,0:58:29.890
+einhver annar.
+
+0:58:29.890,0:58:34.800
+Hvað hann var að spyrja var hvort rétt
+leið verið tekin í þróun kjarnorku
+
+0:58:34.800,0:58:39.710
+reactors. Hann var sérlega vel til þess fallin
+að þeirri spurningu vegna þess að hlutverk hans sem
+
+0:58:39.710,0:58:45.140
+uppfinningamaður af ríkjandi tækni svo að hann var
+hljóðlega sýnt dyrnar.
+
+0:58:45.140,0:58:50.480
+Eftir að hann hafði skilið eftir Oak Ridge þú getur ímyndað
+það fór ekki vel í rannsókn lið
+
+0:58:50.480,0:58:54.750
+í Atomic Energy framkvæmdastjórnarinnar, ráðinn
+skýrslu þvo 1222 Ég vil kalla það hvíta
+
+0:58:54.750,0:58:56.420
+þvo 1222.
+
+0:58:56.420,0:59:01.810
+Vegna þess að þeir nitpicked raun á þremur mjög,
+mjög lítið mál um reactor og sagði
+
+0:59:01.810,0:59:06.990
+líta stórt vandamál hér. Ég held að við getum ekki
+fara fram fyrr en þau eru leyst. Þegar
+
+0:59:06.990,0:59:11.940
+það kom tími til að tala um öryggi og
+árangur reactor kann að vera
+
+0:59:11.940,0:59:18.940
+sumir öryggi kostum sem hafa ekki verið mæld
+enn varðandi þessa aðferð en þú veist að við
+
+0:59:19.510,0:59:23.080
+bara virkilega getur ekki verið viss um það.
+
+0:59:23.080,0:59:26.570
+Bara brennir mig því ég hugsa stórt, stórt,
+stór mistök Bandaríkin gert í göngu
+
+0:59:26.570,0:59:27.900
+burt frá þessu.
+
+0:59:27.900,0:59:31.660
+Og þeir setja alla spilapeninga þeirra hratt ræktanda reactor
+og það virkar ekki út of vel fyrir þá.
+
+0:59:31.660,0:59:35.540
+Þeir hefja byggingu einn í Tennessee. The
+program endaði á að fá ógilt af Carter
+
+0:59:35.540,0:59:40.410
+árið 1979 og var stutta stund reis upp af Reagan
+árið 1981 og síðan niður aftur. Svo er það
+
+0:59:40.410,0:59:43.760
+hvað gerðist hratt rækta reactor í
+Bandaríkin, a par af löndum haldið
+
+0:59:43.760,0:59:44.280
+fara með það.
+
+0:59:44.280,0:59:48.720
+Franski fór með það í níunda áratugarins þeir byggðu
+Phenix og Superphénix og þá lauk
+
+0:59:48.720,0:59:52.470
+upp gluggahleri ??niður það hratt ræktanda of og
+japanska reyndi það en þeir höfðu nokkur
+
+0:59:52.470,0:59:55.720
+en einn kallaði Monju og það hefði verið lokað
+niður frá því um miðjan 90s.
+
+0:59:55.720,0:59:59.490
+Þá fyrir nokkrum mánuðum síðan sneru þeir aftur
+á og svo einhver missti krana í fljótandi
+
+0:59:59.490,1:00:03.840
+natríum og þá lokaði það burt aftur, svo
+þú veist hver og einn hefur reynt hratt ræktanda
+
+1:00:03.840,1:00:05.620
+kjarnaofni. Ég held að rússneska eru að reyna
+það.
+
+1:00:05.620,1:00:09.690
+Ég hef fengið góða vini í kjarnorku iðnaði.
+Þeir eru mjög stór málsvarar hratt ræktanda
+
+1:00:09.690,1:00:15.050
+kjarnaofni. Sameiginlegt heiti nú er óaðskiljanlegur
+hratt kjarnaofni. Ég er ekki stærsta aðdáandi a reactor
+
+1:00:15.050,1:00:19.220
+sem er fullur af fljótandi natríum. Ef einhver ykkar
+eru efnafræðingar hér þú manst líklega natríum
+
+1:00:19.220,1:00:26.220
+hefur mikla óendanleika fyrir réttlátur óður í allt.
+
+1:00:27.740,1:00:29.740
+Hverjar eru hugsanir þínar á ferðalagi öldu
+reactor?
+
+1:00:29.740,1:00:34.120
+The ferðast bylgja reactor er annars konar
+af fljótandi málmi hratt ræktanda reactor. Það
+
+1:00:34.120,1:00:38.290
+er sérstaklega erfitt framkvæmd
+þess kjarnaofni. Það kjarnaofni er þegar harður
+
+1:00:38.290,1:00:42.590
+að byggja í fyrsta sæti, með ferðalög
+bylgja þeir gera það enn flóknara með því að
+
+1:00:42.590,1:00:47.370
+segja að við erum að fara að yfirgefa eldsneyti í
+kjarnaofni á líftíma reactor.
+
+1:00:47.370,1:00:52.880
+Líkamlega útbreiða þessa deflagration öldu,
+a kjarnorku viðskipti og brennandi öldu. Af hverju
+
+1:00:52.880,1:00:56.880
+á jörðinni myndir þú taka slíka harða reactor
+og gera það erfiðara jafnvel í hvaða tilgangi? Hvað
+
+1:00:56.880,1:01:01.120
+er markmið þitt? Og allt sem ég hef getað lesið
+eins langt og markmið þeirra er að þeir vilja
+
+1:01:01.120,1:01:04.000
+aldrei þurfa að endurvinna eða skipta um eldsneyti.
+
+1:01:04.000,1:01:07.430
+Í lok lífs þeirra hugtak þeirra
+bara grafa málið í jörðu og skilja
+
+1:01:07.430,1:01:12.850
+það þar. Ég er að hugsa, "Þú gera ekki leyfi a
+fullt af plutonium í laug af vökva natríum
+
+1:01:12.850,1:01:17.270
+neðanjarðar í langan tíma
+sem er slæmt förgun valkostur. "
+
+1:01:17.270,1:01:21.400
+Þeir hafa vakið Bill Gate sem að sjálfsögðu
+er afar ríkur maður. Ef Bill Gates
+
+1:01:21.400,1:01:24.810
+vill til að spara mikið af peningum að hann getur fengið í
+sambandi við mig og ég held að ég get talað hann út
+
+1:01:24.810,1:01:25.820
+ferðast öldu.
+
+1:01:25.820,1:01:29.780
+Hann mun ekki fara aftur kalla mína. Ekki líður illa.
+
+1:01:29.780,1:01:35.350
+Ég notaði til að vera svo í Fusion, sérstaklega helíum-3
+samruna, námuvinnslu í skapi. Guð minn góður! Ég hef
+
+1:01:35.350,1:01:37.360
+lesa svo margar bækur um þessi efni.
+
+1:01:37.360,1:01:39.850
+Fusion er töfrum. Ef við tökum að gerast
+það væri töfrum.
+
+1:01:39.850,1:01:43.780
+Ég tók þessa samruna bekknum þegar ég var í Georgíu
+Tech og ég mun aldrei gleyma henni. Við byrjuðum
+
+1:01:43.780,1:01:46.230
+að læra og ég fara, "Man, þetta er mjög erfitt."
+
+1:01:46.230,1:01:50.930
+Hlaðinna agna vil ekki fá nálægt hvor
+öðrum. Bare kjarnar eru bæði innheimt, jákvæð
+
+1:01:50.930,1:01:52.240
+hlaðin, þeir vilja til að forðast hvor aðra.
+
+1:01:52.240,1:01:55.490
+Og prófessor minn hafði mjög góð leið til að
+setja það. "Það er eins og að fara í Mini golf."
+
+1:01:55.490,1:01:59.050
+Hann segir: "Þú veist hvernig í Mini Golf sem þú hefur
+fékk eldfjall, og eldfjall er fékk
+
+1:01:59.050,1:02:02.870
+gat á the mjög toppur, og þú hafir fengið að putt
+boltinn þinn á þann hátt að það fer alla leið
+
+1:02:02.870,1:02:07.990
+upp hlið fjallsins, og 'phwep!' Falls
+í holu. "Hann fer," OK. Það er eins og samruna.
+
+1:02:07.990,1:02:12.570
+Knötturinn er eins og kjarna, og eldfjall
+er dreifingar áhrif.
+
+1:02:12.570,1:02:16.570
+Svo hvenær sem þú vilt hafa kjarna fara
+til annars kjarna, sundurdreifir það, það rúlla
+
+1:02:16.570,1:02:19.830
+upp á fjallið og það rúlla niður hlið,
+það rúlla hérna, þarna ... og aðeins
+
+1:02:19.830,1:02:23.770
+þegar þú bara fullkomlega að fá það á rétt
+horn er það fara í eldfjall. "Nú er
+
+1:02:23.770,1:02:27.030
+vandamál með samruna, hann fer, "Þú getur ekki stýra
+boltann, þú þarft að hafa nóg hita
+
+1:02:27.030,1:02:30.600
+þannig að það getur gert það alla leið upp
+megin í eldfjall og falla í, og síðan
+
+1:02:30.600,1:02:34.030
+þú þarft að hafa nóg bolta vegna þess að þú
+Ekki er hægt stýra þeim þarna í Mini Golf Park ",
+
+1:02:34.030,1:02:37.760
+Það er þéttleiki, "og þá því þeir eru
+fljúga út um allt, hefur þú fengið að gera
+
+1:02:37.760,1:02:40.500
+viss um að það er girðing í kringum litla
+Golf Park þannig að þeir fá ekki í burtu. "Það er
+
+1:02:40.500,1:02:40.810
+sængurlegu.
+
+1:02:40.810,1:02:45.240
+Hann sagði: "Þeir eru þrír hlutir þinn, þéttleika,
+hitastig, og sængurlegu, til að samruna
+
+1:02:45.240,1:02:45.490
+gerast. "
+
+1:02:45.440,1:02:49.350
+Ég sagði, "Dude, það er virkilega erfitt!" Svo ég
+kom upp við annan hliðstæðan hátt, "Svo, held ég
+
+1:02:49.350,1:02:54.500
+fission væri eins og Mini Golf garðinum nema
+nú eldfjall var roði, holunni var um
+
+1:02:54.500,1:02:58.580
+þetta um stór, eru kúlur fara hægur,
+og í hvert skipti sem boltinn fer í holu,
+
+1:02:58.580,1:02:59.860
+tvær kúlur koma út. "
+
+1:02:59.860,1:03:02.800
+Hann fer, "Já, það er nokkuð gott."
+
+1:03:02.800,1:03:07.870
+Ég hef horft á samruna fókus, hef ég horfði á
+gufu-stimpla samruna, hef ég horfði á D-helíum-3
+
+1:03:07.870,1:03:11.590
+og P-bór, og öllum þessum konar hluti
+og ég er enn að fara, "Ég er bara ekki að kaupa
+
+1:03:11.590,1:03:12.110
+það enn. "
+
+1:03:12.110,1:03:14.740
+Þú ert að segja að viðskipti að ræða er ekki þar.
+Það er það sem þú ert að segja.
+
+1:03:14.740,1:03:20.280
+Það er bara svo fjári erfitt! Ég meina, samruna reactor
+er stór lofttæmi túpu á 10 keV, sem er eins
+
+1:03:20.280,1:03:26.510
+15 patrillion gráður, og þá innan þessa
+eru ofurleiðari segull sem haldnir eru
+
+1:03:26.510,1:03:31.610
+í fljótandi helíum, og allt þetta er jacketed
+í litíum teppi sem kyn megacuries
+
+1:03:31.610,1:03:37.650
+á tritium verður hver þá að sprauta í
+þetta reactor sem er knúin áfram af þessum risa
+
+1:03:37.650,1:03:38.120
+hlutlaus-jón geislar.
+
+1:03:38.120,1:03:42.530
+Ég meina, það er eins og "Ó nei! Getum við gert
+þetta einhverjar flóknari þá er það? "
+
+1:03:42.530,1:03:46.840
+Og jafnvel þá er ekki hægt að halda sængurlegu
+í meira en nokkrar míkrósekúndur í Tokamak
+
+1:03:46.840,1:03:49.650
+stillingar, sem er mest studdi og
+óskað.
+
+1:03:49.650,1:03:54.420
+Þórín er í raun svolítið meira niður
+til jarðar. Ef þú ferð til fljótandi formi, gildi
+
+1:03:54.420,1:03:59.340
+sjálfur að gera það tækni skuldbindingu,
+50 ár héðan í frá, fólk mun fara, "Að sjálfsögðu
+
+1:03:59.340,1:04:00.530
+það er svarið! "
+
+1:04:00.530,1:04:04.190
+Fusion er svo erfitt að við getum byggt upp samruna
+kjarnaofni, og við getum haft 100 PhDs vinna
+
+1:04:04.190,1:04:07.680
+á það. Fission er svo auðvelt að við getum tekið
+a par af krökkum úr menntaskóla, þjálfa
+
+1:04:07.680,1:04:09.910
+þeim í nokkra mánuði, og þeir geta verið í gangi
+a kjarnorku kafbátur.
+
+1:04:09.910,1:04:16.130
+Viltu að byggja upp kjarnaofni til að koma orku fyrir
+olíu sanda. Þetta yrði fullkomið tækifæri.
+
+1:04:16.130,1:04:21.630
+Jæja, ef við erum með kjarnaofni eins og þetta, eigum við
+þarf olíu sandur?
+
+1:04:21.630,1:04:28.630
+Ég meina, það er hvernig ég lít á það, ég ekki
+vita mikið um sanda olíu, en ég veit að
+
+1:04:28.810,1:04:33.160
+það er sérstaklega erfitt leið til að fá olíu. Fólk
+í Mið-Austurlöndum er hægt að fá olíu a heild einhver fjöldi
+
+1:04:33.160,1:04:37.570
+ódýrari í stað þeirra þá getur fólk fengið
+það frá olíu sanda. Ef ég get slá þá
+
+1:04:37.570,1:04:41.050
+með milljónir einn, kannski við ættum að gera
+það.
+
+1:04:41.050,1:04:46.220
+Ef þú varst að gera olíu sandinum bara smá
+pínulítill hluti hreinna, þá þeir myndu laga kaffi upp
+
+1:04:46.220,1:04:50.450
+eyrun, öfugt við hreina orku í
+og sér, því það tengist eitthvað
+
+1:04:50.450,1:04:50.930
+þeir vita.
+
+1:04:50.930,1:04:54.920
+Ég sat í flugvélinni við hliðina á gaur sem var í
+olíu fyrirtæki, og hann var að segja mér allt
+
+1:04:54.920,1:04:58.020
+um olíu sanda, og hversu mikið fé þeir
+gerð og svo framvegis. Ég var bara svona sitja
+
+1:04:58.020,1:04:59.770
+þar, að taka það inn, hlusta ...
+
+1:04:59.770,1:05:02.210
+Gas ... Hvað kostar gas kosta hér?
+
+1:05:02.210,1:05:04.620
+A dollara ... A dollara tíu?
+
+1:05:04.620,1:05:07.630
+Gas kostar dollara tíu?
+
+1:05:07.630,1:05:13.210
+Já, það er dýr, vegna þess að við höfum meira
+skattur á bensín, sem ég held að sé góð hugmynd.
+
+1:05:13.210,1:05:14.790
+Hvað borga þér fyrir gas?
+
+1:05:14.790,1:05:16.390
+Ég er að borga eins og, 3,50 $ fyrir gas.
+
+1:05:16.390,1:05:17.130
+Really?
+
+1:05:17.130,1:05:18.550
+Ég hélt að gas væri ódýrara í Ameríku!
+
+1:05:18.550,1:05:21.020
+Kanadískur dollar er nánast á pari, er ekki
+það?
+
+1:05:21.020,1:05:21.330
+Já.
+
+1:05:21.330,1:05:24.660
+Oh bíddu ... þú gerir allt það í lítrum!
+
+1:05:24.660,1:05:29.970
+Eigum við dæla bílinn þinn með gas og fara, "ég bara
+dælt tólf lítra af gasi inn í bílinn minn.
+
+1:05:29.970,1:05:34.040
+Veistu hversu mikið napalm sem myndi gera?
+Ef ég hætti að á þorpi, ég myndi drepa
+
+1:05:34.040,1:05:38.440
+5.000 lítil börn! "Þú veist, og þú ert
+eins og: "Nei! Að sjálfsögðu ekki, ég ætla að fá
+
+1:05:38.440,1:05:42.280
+inn í bílinn minn og keyra 300 kílómetra á það! "I
+meina, það er allt um hvað þú gerir, enginn
+
+1:05:42.280,1:05:46.970
+þetta efni er í eðli sínu gott eða slæmt, það er
+hvað þú ákveður að gera við það.
+
+1:05:46.970,1:05:50.830
+Þú veist, einn af þeim hlutum sem ekki vinna sér inn
+mér mikið af vinum er sú hugmynd þegar við
+
+1:05:50.830,1:05:56.120
+tala um, "Oh, svo-og-svo má ekki auðga úran,"
+Ég fer, "Nei broti, en hver erum við að segja
+
+1:05:56.120,1:06:01.030
+hver hvað þeir geta gert? "Ég meina, úran er
+úran, og það er ekki nákvæmlega eins og við höfum
+
+1:06:01.030,1:06:02.520
+einokun á efni.
+
+1:06:02.520,1:06:05.630
+Sama gildir um hluti eins og plutonium.
+Plutonium er ... Ég er ekki stærsta aðdáandi af
+
+1:06:05.630,1:06:10.100
+plutonium því ég er ekki brjálaður um
+plutonium hratt ræktanda reactor, en það er
+
+1:06:10.100,1:06:15.420
+ekkert gott eða slæmt um plutonium. Plutonium
+bara er. Það er það sem þú ákveður að gera við það.
+
+1:06:15.420,1:06:18.700
+Nú höfum við gert mikið af plutonium í okkar
+reactors. Hvað eigum við að fara að gera við það?
+
+1:06:18.700,1:06:21.790
+Erum við að fara að falla það í holu í jörðinni,
+eða erum við að fara að fæða það að kjarnaofni eins og
+
+1:06:21.790,1:06:25.690
+LFTR og auglýsa mátt út af því? Ég held að það sé
+a heild einhver fjöldi betri hlutur til gera.
+
+1:06:25.690,1:06:29.130
+Um daginn var ég að rökræða sumir andstæðingur-nukes,
+og þeir voru að fá á LFTR vegna þess að þeir
+
+1:06:29.130,1:06:33.820
+sagði: "Ó, þetta er að fara að nota úran. Þú
+vita, frá kjarnorkuvopnum! "Og ég sagði:" Ég
+
+1:06:33.820,1:06:38.700
+held að þið yrði allt það! Taka
+kjarnorkuvopn, að taka þá í sundur, taka
+
+1:06:38.700,1:06:41.640
+úran út, brenna það upp, búa til rafmagn!
+Þú vilt láta það í sprengju? Hvað
+
+1:06:41.640,1:06:42.470
+þú vilt gera við það? "
+
+1:06:42.470,1:06:47.470
+The Navy hefur eins og margir reactors sem við höfum í
+borgaralegu heiminum. Hugsaðu um öryggi
+
+1:06:47.470,1:06:52.630
+stelling að bandaríska myndi hafa ef við gerðum ekki
+hafa þetta kjarnorku getu. Kafbátum getur
+
+1:06:52.630,1:06:57.250
+dvöl neðansjávar og fara undir Polar ís
+loki. Ef þú lítur á jörðina herafla í dag,
+
+1:06:57.250,1:07:01.750
+Við virðumst vera með mikið af orku, fólk
+furða ef við gætum skera það niður. Orkan
+
+1:07:01.750,1:07:03.710
+er notað fyrir góða tilgangi.
+
+1:07:03.710,1:07:09.370
+Svo, ástæðan að við getum barist um nótt,
+taka út óvini án þess að tapa eigin hermönnum okkar
+
+1:07:09.370,1:07:15.120
+er vegna þess að við höfum orku máttur hæfileiki.
+Við höfum skynjara, útvarp, alls kyns hlutum
+
+1:07:15.120,1:07:18.330
+að gefa okkur forskot, og þeir eru allir
+byggist á orku. Leiðin sem við erum haldið
+
+1:07:18.330,1:07:21.910
+krafturinn er að við erum vöruflutningar vökva yfir
+jörð.
+
+1:07:21.910,1:07:26.260
+Þegar ég var að bíða eftir að fara inn í Írak þar sem við
+hófst innrás árið 2003 sumar hershöfðingja gat ekki
+
+1:07:26.260,1:07:31.030
+fá varahluti eða veitir út áfram því
+á bílalestir voru önnum vopnaður eldsneyti og vatn.
+
+1:07:31.030,1:07:35.270
+Meira verulega, kostnaður á lífi, helmingur
+tap okkar í Írak eru tengd við
+
+1:07:35.270,1:07:36.040
+framboð keðja.
+
+1:07:36.040,1:07:39.480
+Ef við ekki að bera alla að vökvi
+- 80 prósent af the framboð keðja - við gætum
+
+1:07:39.480,1:07:43.750
+vera fær um að finna aðra leið, eitthvað sem kallast
+á aðlagandi Brigade. Þetta gildi gæti veitt
+
+1:07:43.750,1:07:48.090
+eigin orku og vatni og í raun ekki hafa
+að resupplied fyrir að segja í mánuð í einu.
+
+1:07:48.090,1:07:52.280
+Ef þú þarft orku yfir daginn, setja um
+hundrað hektara af sól spjöldum.
+
+1:07:52.280,1:07:54.940
+Ef þú ert með ógn þarna úti, sem gætu
+ekki virka of vel þar sem þú þarft til að tryggja
+
+1:07:54.940,1:07:59.240
+allt jaðar og svo nú allir hermenn þína
+eyða tíma sínum patrolling hundrað Acre
+
+1:07:59.240,1:08:00.210
+sól bænum.
+
+1:08:00.210,1:08:06.920
+Hvað ef við hefðum a reactor sem var svo öruggur
+og einföld og hagkvæm að þú gætir tekið
+
+1:08:06.920,1:08:12.060
+það út á vígvellinum og nota það, og
+svo þegar þú ferð, láta hana fyrir vélina
+
+1:08:12.060,1:08:13.910
+þjóð og þeir hlaupa það.
+
+1:08:13.910,1:08:18.349
+Velmegun er tengist orku. Ef við getum
+koma fólki í um 2.000 kilowatt klukkustundir
+
+1:08:18.349,1:08:24.150
+á ári af raforku, hafa þeir
+möguleika á að ná velsæld. Nú, auðvitað,
+
+1:08:24.150,1:08:29.329
+velmegun fer eftir réttarríkið, gott
+ríkisstjórn, eignarrétt, menntun, en
+
+1:08:29.329,1:08:36.329
+raforku fyrir hita, ljós, samgöngur,
+öryggi og svo framvegis er mikilvægt þáttur í
+
+1:08:37.499,1:08:38.579
+velmegun í dag.
+
+1:08:38.579,1:08:43.449
+Þróunarlöndunum vita þetta. Orka í
+kol notkun er í örum vexti í öllum þróa
+
+1:08:43.449,1:08:47.679
+löndum. Þeir vilja til að ná því stigi
+hagsældar og þeir eru að styðja
+
+1:08:47.679,1:08:49.130
+með Peabody Coal.
+
+1:08:49.130,1:08:54.679
+The National Academy of Sciences sagði að
+hvert ferskvatns fiskur í Bandaríkjunum
+
+1:08:54.679,1:09:00.019
+of America nú hættuleg stig kvikasilfurs
+í holdi sínu. Og það kvikasilfur kemur frá
+
+1:09:00.019,1:09:01.670
+kol brennandi orkuvera.
+
+1:09:01.670,1:09:06.739
+Stigum My kvikasilfurs kom aftur 10 sinnum
+fjárhæð hvað EPA telur öruggt. Ég var
+
+1:09:06.739,1:09:11.819
+sagt Dr David Carpenter, sem er á landsvísu
+heimild um kvikasilfur eiturefni, að kona
+
+1:09:11.819,1:09:15.819
+með styrk mínum kvikasilfurs í blóði hennar hefði
+eignast börn með vitræna skerðingu við
+
+1:09:15.819,1:09:16.999
+varanlegum heilaskaða.
+
+1:09:16.999,1:09:21.119
+Ég sagði, "þú átt að hún gæti hafa?" Og
+Hann sagði: "Nei, nei, nei. Þau vísindi eru mjög
+
+1:09:21.119,1:09:26.539
+ljóst núna. "börnin hennar hefði
+sumir láréttur flötur af varanlegri taugakerfi virðisrýrnun
+
+1:09:26.539,1:09:30.650
+líklega eins varanleg IQ tap á þessum krökkum
+á 5-7 stig.
+
+1:09:30.650,1:09:36.559
+Það eru nú 640.000 börn fæðast í þessari
+land á hverju ári sem hefur verið útsett fyrir
+
+1:09:36.559,1:09:41.409
+hættulegt magn kvikasilfurs í móðir þeirra
+wombs. Óson og agnir frá brennandi kolum
+
+1:09:41.409,1:09:48.409
+virkjana drepa 60.000 Bandaríkjamenn á ári.
+Milljón astmaköst, milljón misst alla virka daga
+
+1:09:49.639,1:09:51.230
+á hverju ári.
+
+1:09:51.230,1:09:55.079
+Það er hluti af kostnaði við kol sem þeir
+ekki segja þér um þegar þeir segja "Æ, það er
+
+1:09:55.079,1:09:57.679
+bara, þú veist, tíu sent á kilowatt klukkustund. "
+
+1:09:57.679,1:10:04.090
+Bæði ljós reactors vatni og CANDUs ekki
+nota mjög mikið af orku í bensíni og
+
+1:10:04.090,1:10:08.320
+Þeir skilja eftir tvo flokka efni.
+Ein er sú vara fission - það er
+
+1:10:08.320,1:10:12.239
+hvað gerist þegar þú fission efni. Þá
+það er það sem er kallað transuranics. Það er
+
+1:10:12.239,1:10:15.880
+Hvað gerist þegar úran gleypa
+nifteind og ekki fission og gerist
+
+1:10:15.880,1:10:19.190
+plutonium, americium og curium og nokkrum öðrum,
+flest það er plutonium.
+
+1:10:19.190,1:10:23.280
+Yfirgnæfandi meirihluti transuranics
+eru plutonium. Svo þegar þú talar við fólk
+
+1:10:23.280,1:10:28.530
+um förgun úrgangs, þeir segja: "Hver er
+áhyggjum? "Ja, flest efni sem er í
+
+1:10:28.530,1:10:32.900
+eldsneyti er bara úran. Það er ekki meira geislavirk
+en það var þegar þú festist það í, og það er
+
+1:10:32.900,1:10:35.130
+ekki raunverulega áhyggjuefni.
+
+1:10:35.130,1:10:40.630
+Og fission vörur, eru þeir mjög geislavirk
+þegar þær eru búnar, en rotnun frekar
+
+1:10:40.630,1:10:46.199
+fljótt. Þeir í raun ekki hafa langtíma
+geislavirkni. Þeir rotnun bara of hratt, það
+
+1:10:46.199,1:10:49.679
+er samningur. Það eru nokkrar af þeim sem
+hafa mjög langan helmingunartíma, en það þýðir þeirra
+
+1:10:49.679,1:10:53.110
+geislavirkni borðin eru mjög lág og
+þeir bara ekki í raun sitja í hættu.
+
+1:10:53.110,1:10:59.159
+The raunverulegur áskorun með eytt eldsneyti stjórnun
+er tilvist þeirra transuranics - plutonium,
+
+1:10:59.159,1:11:03.679
+americium, curium - því þeir hafa í meðallagi
+helmingunartími og þeir hafa flókinn rotnun
+
+1:11:03.679,1:11:06.690
+keðjur. Þegar þú ert að leita í Yucca fjalli
+eða förgun staður sem þú segir, "Hvað erum við að fara
+
+1:11:06.690,1:11:07.219
+að gera með það? "
+
+1:11:07.219,1:11:13.059
+Grunn kostur á LFTR yfir þessi nálgun
+er að við mynda ekki þessum transuranics. Við brenna
+
+1:11:13.059,1:11:20.059
+upp í raun allar eldsneyti í þessu ferli
+vegna þess að við gerum fjarlægja eldsneyti úr reactor
+
+1:11:20.119,1:11:22.999
+þar til það er fission vöru.
+
+1:11:22.999,1:11:27.019
+Almenna hugmyndin er að þú vilt ekki úran, Þórín,
+eða eitthvað annað að enda í straumnum úrgangi þínum
+
+1:11:27.019,1:11:31.380
+og það er frekar einfalt uppástunga
+í vökva-eldsneyti reactor. Svo úrgang okkar
+
+1:11:31.380,1:11:37.650
+Sagan er mikið öðruvísi. Þú getur einnig þá
+snúa við og fara til baka og taka nokkuð af
+
+1:11:37.650,1:11:42.840
+úrgangur sem þegar hefur verið búin til í okkar úran-eldsneyti
+reactors og hugsanlega eyða þeim langa
+
+1:11:42.840,1:11:44.780
+lifði transuranics gegnum fission.
+
+1:11:44.780,1:11:49.570
+Bíð þá út að rotnun er mjög hægt ferli.
+Plutonium 239, til dæmis, hefur 24.000
+
+1:11:49.570,1:11:52.820
+ára helmingunartíma. Það er fyrir löngu þú ert
+að fara að bíða eftir að við rotnun. Á
+
+1:11:52.820,1:11:56.530
+Hins vegar getur þú fission það og þá
+þær fission vörur rotnun mjög hratt
+
+1:11:56.530,1:12:00.230
+og þú færð einnig orku út og nifteind
+gefa út, eru bæði sem gott.
+
+1:12:00.230,1:12:04.190
+A þúsund kíló af U-233 er um það bil það sem
+við höfum fengið. Níutíu prósent af þessi 'fission.
+
+1:12:04.190,1:12:09.760
+Við getum gert um 500 til $ 600 milljónir á raforku
+og annar 50 eða $ 60.000.000 á fission
+
+1:12:09.760,1:12:15.510
+á úran-235. Næstum allt það
+á endanum endar sundra. Út um
+
+1:12:15.510,1:12:20.849
+þúsund kíló, um 15 kíló af
+plutonium-238 verður afgangs. Þetta er gott
+
+1:12:20.849,1:12:27.760
+efni. NASA er örvæntingarfullur fyrir þetta efni. Plutonium-238
+er öðruvísi en plutonium-239, efni
+
+1:12:27.760,1:12:30.739
+við notum í sprengjur. Í raun er það einskis virði fyrir
+sprengjur.
+
+1:12:30.739,1:12:35.219
+Þessar radioisotope Thermoelectric rafala
+eru byggðar á plutonium-238 og þetta er
+
+1:12:35.219,1:12:39.650
+Eina leiðin sem við höfum getað til að kanna
+ytri sólkerfis. The United States er einstök.
+
+1:12:39.650,1:12:44.710
+Það er eina landið í heiminum sem hefur
+sendi rúm rannsaka utan Smástirni Belt
+
+1:12:44.710,1:12:49.210
+og það er allt byggst á að hafa þessa tækni.
+Stutt svar, við erum út úr þessu efni. Það
+
+1:12:49.210,1:12:53.900
+'S farin. Við höfum notað það allt upp. Rússar
+er notað til að selja okkur. Þeir hafa selt okkur öll
+
+1:12:53.900,1:12:55.139
+birgðum þeirra. Það er horfinn.
+
+1:12:55.139,1:12:59.340
+Fékk milljarða NASA dollara af djúpum pláss
+verkefnum hinging að hafa nóg af þessu
+
+1:12:59.340,1:13:04.480
+efni til að keyra rafhlöður til að láta neitt
+hringja heim. Við munum vera fær um að gera þetta í
+
+1:13:04.480,1:13:08.369
+LFTR. Ef þú hefur heyrt stundum um okkur að segja
+"Við brenna upp 99 prósent af eldsneyti og það er
+
+1:13:08.369,1:13:14.599
+eitt prósent vinstri ", sem eitt prósent vinstri er
+þessi efni og það er þess virði að næstum eins mikið og
+
+1:13:14.599,1:13:15.670
+efni sem við brenna upp.
+
+1:13:15.670,1:13:18.179
+Auk þess myndi það gera læknis mólýbdens-99.
+
+1:13:18.179,1:13:23.360
+Við erum um það bil að leggja niður einn reactor
+í Kanada sem er gerð mólýbden-99 fyrir
+
+1:13:23.360,1:13:28.469
+læknisfræðilegum tilgangi árið 2015. Það eru hundruðir
+þúsunda sjúklinga sem ekki
+
+1:13:28.469,1:13:35.010
+fær um að fá mólýbden-99 að þeir
+þörf fyrir greiningaraðferðum þegar það gerist.
+
+1:13:35.010,1:13:40.179
+Við getum gert mólýbden-99 bara í eðlilegu sambandi
+af rekstri og við getum fjarlægja það mjög auðveldlega.
+
+1:13:40.179,1:13:46.320
+Það eru fjögur náttúruleg keðjur rotnun alfa-emitting
+geislasamsætur. Einn byrjar með U-238, U-235,
+
+1:13:46.320,1:13:53.099
+Þórín-232, og þá er það eina sem er útdauð
+því það hefur engin langvarandi efnum á
+
+1:13:53.099,1:13:57.550
+það. Það var þarna í Supernova milljörðum
+árum. Það er farinn núna. Það er á U-233
+
+1:13:57.550,1:14:03.079
+rotnun keðja. Það er sérstakt vara á
+Þar Bismút-213, sem gæti verið klár
+
+1:14:03.079,1:14:07.849
+sprengja gegn krabbameini. Þeir festa Bismút-213
+að mótefni.
+
+1:14:07.849,1:14:12.780
+Það Bismút hefur aðeins helmingunartími 45 mínútur
+svo það er mjög geislavirk og það er að fara burt
+
+1:14:12.780,1:14:17.980
+fljótt. En á þeim tíma, að mótefni geta
+fara og finna krabbamein klefi. The Bismút decays
+
+1:14:17.980,1:14:22.469
+og alfa ögn fer í gegnum the klefi,
+og það drepur krabbamein. The geislun tækni
+
+1:14:22.469,1:14:27.900
+við notum í meðferð krabbameins í dag, þá eru þeir allir
+byggt á beta-emitting samsætur, ekki alfa-emitting
+
+1:14:27.900,1:14:34.429
+samsætur. Þeir hafa a stór drepa radíus. Þeir eru
+ekki mjög directable. Það er allt í lagi, en það er í raun
+
+1:14:34.429,1:14:35.789
+ekki a sviði sprengju.
+
+1:14:35.789,1:14:39.920
+Alpha-tekinn samsætur eru mjög sjaldgæf.
+Það er erfitt að fá þau. Það er erfitt að fá
+
+1:14:39.920,1:14:44.059
+réttur góður, rétt efna sem munu
+læsa á the réttur hlutur sem er nógu nálægt
+
+1:14:44.059,1:14:48.249
+að vera stöðugt að jafnvel eftir að það decays,
+það er ekki bara rotnun tíu sinnum í
+
+1:14:48.249,1:14:51.780
+líkamanum. Bismút-213 er eitt rotnun í burtu frá því að vera
+gert.
+
+1:14:51.780,1:14:57.949
+Og það er sérstaklega gott gegn dreifðari
+krabbamein, eins og hvítblæði, krabbamein í blóði.
+
+1:14:57.949,1:15:01.949
+Ekki tumorous krabbamein, þar er stór
+harður einu lagi sem þú getur farið í og ??skera út með
+
+1:15:01.949,1:15:06.639
+skurðaðgerð, en efni sem er erfitt að komast að.
+Krabbamein í brisi - þú færð krabbamein í brisi,
+
+1:15:06.639,1:15:10.260
+þú ert líklega að leita á dauðadómi,
+Það er hversu slæmt það er.
+
+1:15:10.260,1:15:17.260
+Hér er vandamálið, Bismút-213 er einstakt
+í getu og Bismút-213 getur aðeins
+
+1:15:17.730,1:15:19.780
+að mynda úr hrörnun Úran-233.
+
+1:15:19.780,1:15:26.780
+Ég stundum jafnvel liggja í hugsun rúminu, ef minn
+krakki hafði hvítblæði, hve torvelt væri ég að vinna
+
+1:15:27.239,1:15:32.510
+á að fá þessa meðferð tilbúinn fyrir þau að
+bjarga lífi og ef það er það mikilvægt, hvers vegna
+
+1:15:32.510,1:15:34.679
+eru ég ekki að fara fullur bar á það núna?
+
+1:15:34.679,1:15:36.280
+Hversu mikið vissu það kostar að byggja?
+
+1:15:36.280,1:15:40.969
+Hvað er ballpark myndinni þinni? Er þetta Home
+Depot efni, eða ...
+
+1:15:40.969,1:15:47.969
+Nei Nei, ég held að fyrsta eining sem er líklega
+að fara að vera á röð 20/30 megavött
+
+1:15:48.949,1:15:52.900
+rafmagns er - við erum að horfa á nokkur hundruð
+milljónir dollara til að þróa það, en síðan
+
+1:15:52.900,1:15:58.670
+taka skref umfram það að gagnsemi flokks
+mælikvarði reactor, sennilega annað nokkur hundruð
+
+1:15:58.670,1:15:59.369
+milljónir dollara.
+
+1:15:59.369,1:16:03.440
+Þú ert líklega að leita í milljörðum dollara
+til að koma með það upp að gagnsemi flokks, en þegar
+
+1:16:03.440,1:16:08.550
+þú telur hvað það er að fara að gera, það er
+í raun ekki allt sem mikið fé. A einhver fjöldi af því
+
+1:16:08.550,1:16:12.719
+er verkfræði og síðan reglugerð
+er a gríðarstór spurningarmerki.
+
+1:16:12.719,1:16:15.619
+Það er reyndar ekki mikið af peningum, í vissum skilningi.
+
+1:16:15.619,1:16:20.710
+Ég hef lært að það er ekki um fjölda, það er
+um óvissu um fjölda. Hægt er að
+
+1:16:20.710,1:16:24.460
+fara fjárfestingarbanki núna og þú
+getur sagt: "Ég vil byggja og olíu bora
+
+1:16:24.460,1:16:29.449
+vettvangur og það er að fara að kosta 12 milljarða
+dollara, "og munu þeir skrifa ávísun
+
+1:16:29.449,1:16:33.730
+fyrir að þar sem þú getur farið og sagt: "Ég hef
+byggt 50 af þessum kerfum áður, hér er
+
+1:16:33.730,1:16:37.039
+um hvar verðið kom út. Það er að fara
+að fara á þessu svæði, sem núna er að framleiða
+
+1:16:37.039,1:16:39.949
+þetta mikið olíu, það er að fara að vera hér.
+Það er að fara að taka þetta langan tíma að jafna þennan
+
+1:16:39.949,1:16:44.489
+mikið olíu byggt á því hvernig við höfum gert það öðrum
+50 sinnum. "Og þeir fara, það er ekki mikið
+
+1:16:44.489,1:16:46.550
+óvissu í að gera þetta.
+
+1:16:46.550,1:16:49.260
+Þú byrjar með því að gera a fullur LFTR ...
+
+1:16:49.260,1:16:49.599
+Já.
+
+1:16:49.599,1:16:53.360
+... En að gera eins og a lítill stykki. Taka sumir
+af þessum aukaafurðum og þú notar það fé
+
+1:16:53.360,1:16:55.920
+að fá þetta litla fyrsta áfanga sem hefst
+gera peningar ...
+
+1:16:55.920,1:16:59.179
+Ertu viss um að við höfum ekki Ethernet tengt
+inn á bak við höfuðið einhvers staðar?
+
+1:16:59.179,1:16:59.960
+Við erum að gera þráðlausa hér. Ég held ekki.
+
+1:16:59.960,1:17:01.010
+Gætirðu endurtaka spurningu?
+
+1:17:01.010,1:17:01.909
+Nei
+
+1:17:01.909,1:17:08.909
+Nei Fyrirgefðu, er þetta spurning sem falla ekki undir
+með NDA.
+
+1:17:10.900,1:17:12.269
+Við fengum nokkrar sviði fólk í þessu herbergi.
+
+1:17:12.269,1:17:17.420
+Í Aerospace Engineering, vorum við kennt að
+setja þróun kostnaðar og eining kostnaður á
+
+1:17:17.420,1:17:20.650
+sérstaka flokki. Það er eins og þú að byggja upp bardagamaður
+og þú eyðir milljörðum dollara til að hanna
+
+1:17:20.650,1:17:25.510
+það, en þá hlaupa burt eintök fyrir 20 milljónir
+dollara stykkid. Það er hvernig þeir byggja 737s
+
+1:17:25.510,1:17:26.980
+eða öðrum flugvélum.
+
+1:17:26.980,1:17:30.199
+Ef þú vilt fara, "Hvað er eining kostnaður fara
+að vera? ", það er ástæða til að hugsa þetta er að fara
+
+1:17:30.199,1:17:35.739
+að vera mikið ódýrara en það sem við höfum
+í dag ef við setjum þróun í öðru
+
+1:17:35.739,1:17:35.989
+dálki.
+
+1:17:35.800,1:17:39.329
+Ástæðan fyrir því, númer eitt, lágan þrýsting aðgerð.
+Það er stærsta einn. Þegar þú ert ekki
+
+1:17:39.329,1:17:45.099
+hafa 96 stál þrýsting skip, mikið steinsteypu
+containments. Númer tvö, þú þarft ekki að
+
+1:17:45.099,1:17:48.999
+búa til eldsneyti. Þú þarft ekki að auðga það.
+Þú þarft ekki að búa það og þú ert ekki
+
+1:17:48.999,1:17:52.269
+verða að hafa aðferð til förgunar og við
+gert í dag.
+
+1:17:52.269,1:17:57.869
+Þessir tveir eiginleikar strax eru stór samningur.
+Númer þrjú er öryggiskerfi. Hár þrýstingur,
+
+1:17:57.869,1:18:00.889
+vatnið kælir reactors hafa nóg af
+öryggi kerfi sem ætlað er að alltaf að halda
+
+1:18:00.889,1:18:03.659
+algerlega þakið vatni. Svo ef eitt kerfi
+hefur 99 prósent áreiðanleika, vel, þú þarft
+
+1:18:03.659,1:18:08.130
+annað sem einnig hefur það að svo þú getir
+fá 99,9 og kannski tölfræðingar vilja fá
+
+1:18:08.130,1:18:09.800
+vitlaus á mig, gæti ég verið að gera það rangt.
+
+1:18:09.800,1:18:14.369
+Eitt af því sem gerir hefðbundna
+reactors svo dýrt að innilokun skipið
+
+1:18:14.369,1:18:18.969
+og þú hefur snert á þeim. Hin er allt
+öryggi búnaðurinn um að viðhalda
+
+1:18:18.969,1:18:22.929
+á fissile efni þannig að það er ekki
+fá beint í hernaðarlegum tilgangi.
+
+1:18:22.929,1:18:27.300
+Ég hef klóra höfuð mitt um að með núverandi
+reactors því reactors okkar, að minnsta kosti í
+
+1:18:27.300,1:18:29.349
+Bandaríkin, ekki nota mjög skráð
+úran.
+
+1:18:29.349,1:18:33.650
+Jæja, það er eitt af ótta og það er eitt
+af öryggis ástæðum í kringum hana. Hvort
+
+1:18:33.650,1:18:34.599
+það er raunverulegur eða ekki -
+
+1:18:34.599,1:18:36.989
+Já, held ég að ég þyrfti að skora hvort
+það er raunverulegur eða ekki.
+
+1:18:36.989,1:18:40.929
+Það var ekki mörg ár síðan að við vorum
+geta sýnt aðila af gestum um
+
+1:18:40.929,1:18:45.929
+staður og í raun sýna þeim hvað góðu ástandi
+vefnum er í og ??hversu öruggt það er. Það er aðeins
+
+1:18:45.929,1:18:51.639
+frá 9 / 11 sem við höfum þurft að hætta að bjóða
+gestir. Við höfum alltaf verið mjög opin stefnu;
+
+1:18:51.639,1:18:55.690
+mjög ákafur að sýna fólki hvernig gott við erum á
+það sem við gerum og hvernig öruggt álverið er. Það er
+
+1:18:55.690,1:18:59.940
+mjög erfitt að sannfæra þig um að hlutirnir
+eru örugg vegna þess að þú getur ekki séð hvað er í gangi
+
+1:18:59.940,1:19:00.519
+á.
+
+1:19:00.519,1:19:04.130
+Jafnvel plutonium inni í kjarnaofninn er það sem er
+kallaði reactor-gráðu plutonium, sem er ekki
+
+1:19:04.130,1:19:04.420
+viðeigandi.
+
+1:19:04.420,1:19:08.289
+Prófaðu að fara til allir greiða í Norður-Ameríku
+Nú hafa þeir SWAT teymi og -
+
+1:19:08.289,1:19:12.269
+Ég hef farið í tónleikaferðir með kjarnorkuver. Við höfum í raun
+fékk að vinna þegar við fórum þangað. Ég er
+
+1:19:12.269,1:19:15.869
+ekki exactlysure hvaða grundvelli sem var,
+hvort þeir voru áhyggjur þjófnað fissile
+
+1:19:15.869,1:19:19.920
+efni - sem myndi vera mjög erfitt. Ég vil
+verð að fara og depressurize kjarna, taka
+
+1:19:19.920,1:19:24.599
+lok burt, fá aðgang að öllum eytt eldsneyti,
+einhvern veginn fjarlægja það úr eytt eldsneyti laug
+
+1:19:24.599,1:19:29.429
+í einhvers konar cask flutninga, taka það
+burt the staður til endurvinnslu leikni sem
+
+1:19:29.429,1:19:32.769
+er ekki til og - ég meina, fer ég bara "Það er
+got til vera annar ástæðu að þeir hafa allt sem
+
+1:19:32.769,1:19:33.019
+öryggi. "
+
+1:19:32.769,1:19:34.010
+Horfa á TV fréttum.
+
+1:19:34.010,1:19:37.499
+Jæja, þú veist. Það virðist bara að mér, þegar
+það er efni sem ég þekki svolítið
+
+1:19:37.499,1:19:40.489
+um og horfa á hvernig fréttirnar yfir það, ég
+fá svekktur mjög fljótt.
+
+1:19:40.489,1:19:45.489
+Ég held bara um alla fjölmiðla innstungu ég hef
+séð er duna upp ótta. Frá New York
+
+1:19:45.489,1:19:47.749
+Times í Huffington Post á Fox News.
+
+1:19:47.749,1:19:51.079
+Það hefur verið undanfarin hækkun á dauðsföllum ungbarna
+í Philadelphia og þar er einn sérfræðingur til hægri
+
+1:19:51.079,1:19:55.510
+nú hver er að segja, "Það er geislavirk stigum
+í vatnið okkar sem er að kenna um það. "
+
+1:19:55.510,1:19:59.510
+Þetta hefur verið mjög bipartisan nálgun við
+hræða almenning.
+
+1:19:59.510,1:20:05.670
+Geislavarnir kemur yfir hafið. Það er horfið
+með vindi núverandi og salt úða, en það er
+
+1:20:05.670,1:20:08.269
+ná strönd Kaliforníu.
+
+1:20:08.269,1:20:14.349
+Það er geislun út um allt, á hverjum
+einum degi, en þú ert að tala um skaðleg
+
+1:20:14.349,1:20:18.900
+geislun. Það er hlutur sem við erum mestar áhyggjur
+um og jafnvel í Chernobyl, sem ekki fá
+
+1:20:18.900,1:20:21.920
+til Bandaríkjanna í skemma magni.
+Hvernig er það að fara að gera það?
+
+1:20:21.920,1:20:24.570
+OK, þú veist hvað Bernie. Af munni þínum,
+til eyrna Guðs.
+
+1:20:24.570,1:20:29.269
+Fjölmiðlum okkar er ekki byggt í kringum raun
+og nákvæmlega miðla upplýsingum til
+
+1:20:29.269,1:20:32.610
+almenningi. Fjölmiðla okkar er byggt í kringum ...
+
+1:20:32.610,1:20:39.300
+Þakka þér fyrir. Fjölmiðla okkar er byggð í kringum að setja
+eyeballs á prenti eða á heimasíðu þeirra
+
+1:20:39.300,1:20:44.929
+og halda þeim þar. Besta leiðin til að halda
+þá er þarna til að hræða þig til dauða.
+
+1:20:44.929,1:20:51.929
+Aðeins 24 klukkustundum eftir mest Ingibjörg H. Sveinbjörnsdóttir Skelfilegar hörmulega,
+gargantuan hamfarir af jarðskjálfta
+
+1:20:52.190,1:20:57.249
+á eftir tsunami, eina sögu í
+Bærinn var um Fukushima.
+
+1:20:57.249,1:21:02.099
+Sem verkfræðingur, við erum kennt að ábyrgð okkar
+er til nákvæmur og á áhrifaríkan hátt senda
+
+1:21:02.099,1:21:06.289
+og miðla upplýsingum bæði til annarra
+verkfræðinga og til almennings.
+
+1:21:06.289,1:21:09.670
+Svo fær verkfræðingur í sjónvarpi og þeir segja: "Hvað er
+að fara að gerast, Dr Svo-og-Svo? ", og hann fer,
+
+1:21:09.670,1:21:13.329
+"Jæja, það er möguleiki nokkrum atriðum
+gæti gerst. Mjög lágt líkur atburði
+
+1:21:13.329,1:21:15.960
+er að þetta gæti gerst, en það er miklu meira
+líklegt að - "" Ó, bíddu. Við skulum fá til baka
+
+1:21:15.960,1:21:20.010
+til að lítil líkur atburð. Nú, í því
+lágt líkur atburður, hvað gæti gerst? "
+
+1:21:20.010,1:21:23.389
+"Þú veist, held ég að það er hugsanlegt að - en
+Þetta er mjög ólíklegt, og vindurinn myndi
+
+1:21:23.389,1:21:27.570
+að blása þennan hátt og - "" Jæja, við skulum
+fara þannig. "The fátækur verkfræðingur, er hann að hugsa
+
+1:21:27.570,1:21:30.369
+Við erum að upp 10 ^ -12 núna, eða eitthvað svoleiðis.
+
+1:21:30.369,1:21:36.249
+Og þeir eru að fara, "Er Godzilla mynd?" "Jæja,
+þú veist, tvöfalda lokið DNA brot, ég geri ráð fyrir
+
+1:21:36.249,1:21:42.030
+í rétta gen, getur raunverulega kallað fram
+aukin vöxtur hormón, sem
+
+1:21:42.030,1:21:43.969
+gæti í raun leitt til vægar risavöxtur. "
+
+1:21:43.969,1:21:48.280
+Þeir vildu bara að vita um áhættu frá
+kjarnans atvik. Og hvað þeir sérstaklega
+
+1:21:48.280,1:21:52.719
+langaði að vita, og spurði oft var það
+er versta falli.
+
+1:21:52.719,1:21:58.760
+Godzilla kemur á morgun. Það er eins og "Oh
+maður, erum við eins og 10 ^ -32 á þessum tímapunkti. The
+
+1:21:58.760,1:22:02.110
+róteind er að fara að rotnun áður en þetta gerist. "
+
+1:22:02.110,1:22:06.989
+Þú ert þegar með hræðileg hræða sögu. Það
+var ekki eins og ef við vorum að biðja þá að ná
+
+1:22:06.989,1:22:10.550
+fagnaðarerindið, ekki slæmar fréttir. Það var
+fullt af slæmar fréttir.
+
+1:22:10.550,1:22:14.749
+Ég átti vin minn. Hún og eiginmaður hennar
+eru diplómatar í Kína og hún skrifaði mig
+
+1:22:14.749,1:22:19.210
+breathlessly og þú getur í tölvupósti og hún
+sagði: "Kirk, ætlum við að vera í lagi? Ég er í
+
+1:22:19.210,1:22:22.199
+Kína, við erum að fara að vera allt í lagi? "Ég sagði,
+"Ekki hafa áhyggjur ekki. Joð-131 þyrfti að
+
+1:22:22.199,1:22:26.570
+blása alla leið um allan heim og þá
+koma aftur í kring til að fá þig í Kína og þar
+
+1:22:26.570,1:22:29.039
+væri ekki nóg af því, hefur átta og
+hálfan dag lífsins, svo það hefði decayed
+
+1:22:29.039,1:22:30.789
+að engu rétt um hér. "Blah, bla,
+bla.
+
+1:22:30.789,1:22:33.670
+En, hún var hrædd til dauða og þetta er
+Smart stúlka.
+
+1:22:33.670,1:22:38.719
+Starf Vísinda Media Center var að línu
+allt fólk sem þekkir geislun, sem þekkja
+
+1:22:38.719,1:22:43.889
+um þess hefur áhrif á menn og án undantekninga,
+þeir sögðu frá upphafi, "Þetta er mjög,
+
+1:22:43.889,1:22:49.519
+mjög alvarlegt atvik, en hvað um það
+að vera ógn, jafnvel að fólk í Tokyo, aldrei
+
+1:22:49.519,1:22:55.670
+huga að fólk í Glasgow, voru þeir að tjá,
+tíma eftir tíma, fyrir utan fólkið í
+
+1:22:55.670,1:23:01.090
+útilokun svæði, að þetta ógn var mjög,
+mjög, mjög, mjög lítil. "Og reyndar, þeir
+
+1:23:01.090,1:23:03.469
+samt finnst það er mjög lítil.
+
+1:23:03.469,1:23:07.130
+Nuclear sérfræðingar hafa hagsmuni af
+spila niður kjarnorku atvik.
+
+1:23:07.130,1:23:12.920
+Við höfum blaðamenn koma til okkar og sagði:
+"Ritstjóri minn sagði við mig, hvað er apologists
+
+1:23:12.920,1:23:18.050
+segja í dag? "vegna þess að við vorum að keyra nánast
+daglega kynningarfundir stutt, með mismunandi sérfræðinga.
+
+1:23:18.050,1:23:22.739
+Enginn þeirra starfaði í raun til iðnaðar
+eins og það gerðist, en já, það var þessi hugmynd,
+
+1:23:22.739,1:23:29.739
+að þeir myndu segja að væri ekki þeir? Þessar
+leiðandi vísindamenn, sem gefa út og jafningi-endurskoðun
+
+1:23:29.869,1:23:36.670
+tímarit, sem vinna fyrir mjög virt vísinda
+stofnanir, eru að spila niður atvik
+
+1:23:36.670,1:23:40.409
+vegna þess að þeir styðja kjarna iðnaður.
+Það er alveg að kostnaðarlausu.
+
+1:23:40.409,1:23:47.110
+Ég var bara að lesa grein í morgun
+segja að þeir uppgötva geislavirkni í mjólk
+
+1:23:47.110,1:23:51.210
+og ég hugsaði, að sjálfsögðu þeir uppgötva geislavirkni
+í mjólk. Öll mjólk er geislavirkt.
+
+1:23:51.210,1:23:57.749
+Tveir þeirra sögðu Fiona, ritstjórar okkar hugsa
+það er eitthvað einstaklega terrifying um
+
+1:23:57.749,1:24:04.019
+geislun. Það er eitthvað einstakt til að
+orð, sem hefur getu til að virkilega hræða
+
+1:24:04.019,1:24:10.670
+fólk. Hvaða undarlega sett af gildum fréttir
+að það réttlætir magn af umfjöllun
+
+1:24:10.670,1:24:13.289
+er það sem ritstjórar þinn finnst skelfir fólk.
+
+1:24:13.289,1:24:17.479
+Það sem þeir ætluðu í raun að segja var þarna var
+tiltekinn útvarps-samsæta þeir fundu í
+
+1:24:17.479,1:24:22.559
+mjólk sem kom frá japanska kjarnorku álverið.
+Greinin er auðvitað ekki minnst á að,
+
+1:24:22.559,1:24:27.190
+sem myndi gera fólk hugsar, "Uh-ó, mitt
+mjólk hefur gengið frá núlli geislavirkni að einhverju
+
+1:24:27.190,1:24:30.099
+geislavirkni sem verður slæmt og ég verð að
+vera í alvöru vandræðum núna. "
+
+1:24:30.099,1:24:35.260
+Leiðin að þetta var fjallað var rangt. I
+finnst öruggur í að segja að vegna þess hve
+
+1:24:35.260,1:24:41.070
+margir blaðamenn töldu órólegur um þetta. I
+vita af blaðamenn sem voru teknar af þessu
+
+1:24:41.070,1:24:45.979
+Sagan af því hvað þeir voru að skrifa var of
+mæld og það er í raun veruleg,
+
+1:24:45.979,1:24:47.510
+helstu fréttir herbergi hér á landi.
+
+1:24:47.510,1:24:51.630
+Hvað varðar skynjun almennings á áhættu,
+það sem gæti verið satt því ég las þær
+
+1:24:51.630,1:24:56.519
+á Netinu, Neil deGrasse Tyson tweeted
+í dag, "the dánarorsakir um allan heim mars
+
+1:24:56.519,1:24:59.210
+2011, hungri, þrjár milljónir. "
+
+1:24:59.210,1:25:03.479
+Neil deGrasse Tyson, stór aðdáandi hans. Við höfum
+þarf einhver eins og Neil deGrasse Tyson alltaf
+
+1:25:03.479,1:25:08.059
+þar sem Carl Sagan lést. En já, hvað er
+Fyrsta einn á listanum hans, hungri?
+
+1:25:08.059,1:25:13.360
+Hungri, 3.000.000, malaríu, 250.000; bíl
+hrun, 100.000, nötrar og flóðbylgjum 28.000.
+
+1:25:13.360,1:25:17.369
+Body treyst á kjarnorku dauða er það?
+Low.
+
+1:25:17.369,1:25:20.889
+Borgaralegra kjarnorku í Bandaríkjunum
+hefur ekki drepið neinn. Líkaminn telja yrði
+
+1:25:20.889,1:25:21.420
+vera núll.
+
+1:25:21.420,1:25:26.639
+Svo þegar þrjú Mile Island útgáfur sumir geislun,
+þú vilt vilt fella tölfræði líkur
+
+1:25:26.639,1:25:29.030
+einhver að fá skjaldkirtilskrabbamein í hvaða númer.
+
+1:25:29.030,1:25:33.150
+Nei, því jafnvel tölfræðilegar líkur
+er kenning sem er ekki byggð á staðreyndum. Það er
+
+1:25:33.150,1:25:38.159
+kallast línuleg enginn þröskuldur tilgátu
+og það er ekki byggð á faraldsfræðilegum upplýsingum.
+
+1:25:38.159,1:25:42.729
+Það er byggt á þeirri forsendu að geislun
+mun skaða þig á hvað gráðu - í hvaða
+
+1:25:42.729,1:25:44.289
+gráðu þú ert óvarinn.
+
+1:25:44.289,1:25:46.699
+Ég hélt að það var stofnað í raun.
+Ég hélt að ...
+
+1:25:46.699,1:25:47.320
+Nei, það er stofnað.
+
+1:25:47.320,1:25:48.309
+Ég hef heyrt að það er ...
+
+1:25:48.309,1:25:51.940
+Það er komið stefnu. Það er þar sem
+ekkert til sem heitir öruggt geislunar - sem kemur
+
+1:25:51.940,1:25:56.400
+frá línuleg enginn þröskuldur tilgátu. Það
+er komið í reglu enn, það er
+
+1:25:56.400,1:26:01.420
+Engar faraldsfræðilegar upplýsingar til baka það upp. Þar
+er engin rannsókn sem segir að við höfum tekið hópnum
+
+1:26:01.420,1:26:05.269
+af fólki og við höfum verða þær að einum
+prósent meira geislun en venjulega myndi
+
+1:26:05.269,1:26:06.920
+fá og við höfum séð eitt prósent fleiri krabbamein.
+
+1:26:06.920,1:26:11.269
+Í staðreynd, there ert margir staðir í heiminum
+þar aftur gildi herbergi geislunar eru verulega
+
+1:26:11.269,1:26:17.239
+hærri ef línulega enginn þröskuldur tilgátu
+var í raun satt eða jafnvel nálgast sannleikann,
+
+1:26:17.239,1:26:21.719
+þú myndir sjá tölfræðilega marktækt
+hærra stig krabbameins í þeim íbúa,
+
+1:26:21.719,1:26:26.840
+þá árganga. En hvað gerist? Ekki aðeins
+er ekki hærri stigum krabbameins, þar
+
+1:26:26.840,1:26:29.550
+eru í raun bæla stigum krabbameins.
+
+1:26:29.550,1:26:34.479
+Sem leiðir til kenningu sem ekki hafa substantiation
+í gögnum og það er kallað hormesis. Hormesis
+
+1:26:34.479,1:26:38.260
+er svolítið einfaldlega er gott fyrir þig og
+geislun virðist vera einn af þessum hlutum
+
+1:26:38.260,1:26:42.999
+þar svolítið meira er í raun gott fyrir
+þú og bælir þróun þinni krabbameins.
+
+1:26:42.999,1:26:45.969
+Og ég segi, vel hvers vegna vildi a lítill hluti af
+geislun vera gott fyrir mig? Þegar þú ferð og
+
+1:26:45.969,1:26:49.369
+æfa, skemmdir þig vöðvum, en þitt
+líkami rebuilds þeim og rebuilds þá sterkari
+
+1:26:49.369,1:26:53.809
+en þeir voru áður. Geislun örvar
+frumu skaða, en það örvar einnig
+
+1:26:53.809,1:26:55.289
+viðgerð líkamans vélbúnaður.
+
+1:26:55.289,1:26:59.420
+Ef hormesis varð stefnu í stað línulegra
+enginn þröskuldur, myndum við hafa ótrúlega
+
+1:26:59.420,1:27:03.989
+mismunandi nálgun til að geislun. Í staðreynd,
+í sumu leyti, við gerum okkur í raun að samþykkja hormesis
+
+1:27:03.989,1:27:07.469
+þegar það kemur að eðlilegt geislun, en við
+tökum það ekki þegar það kemur að því að gervi
+
+1:27:07.469,1:27:09.999
+geislun. Staðreyndin er, það er enginn munur
+á milli.
+
+1:27:09.999,1:27:14.800
+Við erum með þriggja ára umhverfismat
+ferli í Kanada til að byggja upp kjarnakljúfur
+
+1:27:14.800,1:27:16.300
+og við höfum helgi til að framleiða kol álversins.
+
+1:27:16.300,1:27:20.739
+Kol og gas plöntur geta til að losa geislavirk
+efni í umhverfið mun meiri
+
+1:27:20.739,1:27:25.559
+fjárhæðir en kjarnorku álverið vildi alltaf hugsanlega
+vera heimilt að vegna þess að þeir eru talin
+
+1:27:25.559,1:27:29.489
+hvað heitir norm, Natural koma Geislavirk
+Efni. Til dæmis þegar þú ferð frack
+
+1:27:29.489,1:27:34.179
+a shale og þú draga gas út, a einhver fjöldi af Radon
+kemur út með það líka.
+
+1:27:34.179,1:27:39.749
+Þú brenna gas, er það Radon að gefa út.
+Enginn telur að Radon gegn gas.
+
+1:27:39.749,1:27:44.539
+Ef þeir gerðu, regluverk þóknun yrði
+lokaði gas álverið niður, sama með kol. Coal
+
+1:27:44.539,1:27:47.769
+inniheldur lítið magn af úran og Þórín.
+Þeir fara upp stafla, þeir dreifðum.
+
+1:27:47.769,1:27:50.369
+Þess vegna þeir geta ekki sagt þér hversu mikið sorp
+þeir framleiða.
+
+1:27:50.369,1:27:55.130
+Já, og þeir eyða fullt af peningum til að gera
+úr skugga um að reglur stofnana gera stjórna ekki
+
+1:27:55.130,1:28:00.900
+Viðmið fyrir kol eða gas plöntu hvernig þeir
+stjórna geislavirks losun frá kjarnorku
+
+1:28:00.900,1:28:06.070
+álversins. Ef þeir gerðu, myndum við vera gluggahleri ??niður
+allar plöntur okkar kola og gas á grundvelli geislavirkni
+
+1:28:06.070,1:28:07.479
+einn.
+
+1:28:07.479,1:28:10.670
+Jafnvel ef línuleg enginn þröskuldur var raunverulega satt
+- Segjum eina mínútu það var satt, og
+
+1:28:10.670,1:28:15.249
+þetta var raunveruleika heimsins. Þú myndir
+enn mun betur að koma heilt
+
+1:28:15.249,1:28:18.739
+heimurinn Powered by kjarnorku. Ástæðan
+af hverju er vegna geislavirkra útgáfur
+
+1:28:18.739,1:28:22.440
+frá kolum. Þú vilt að leggja niður kol
+svo þú gætir hafa kjarnorkuvopn, af því að gefa út kol
+
+1:28:22.440,1:28:25.679
+meira geislun en kjarnorku um nokkrar pantanir
+af stærðargráðu.
+
+1:28:25.679,1:28:32.130
+Sú hugmynd að það er engin örugg upphæð
+geislun er ekki rökstudd eða jafnvel
+
+1:28:32.130,1:28:38.469
+nákvæmar yfirlýsingu. Það er líklega í raun og veru
+algerlega rangar. En, það er að finna almennt
+
+1:28:38.469,1:28:41.639
+sem grundvöll til allsherjarreglu um allan heim.
+
+1:28:41.639,1:28:46.800
+Það var skilningur minn fyrr en rétt núna,
+að það var engin örugg stig geislun.
+
+1:28:46.800,1:28:50.510
+Tvö frábær bók um þetta-"Terrestrial Energy"
+Bill Tucker, og "The Power til að vista
+
+1:28:50.510,1:28:57.070
+World "eftir Gwen Cravens-fara inn í þetta umræðuefni
+mikið. Þar til þessi hugmynd lágmark útsetningu
+
+1:28:57.070,1:29:03.670
+magn geislunar er beint og setja til
+rúm, verður það að eilífu hundur kjarnorku iðnaði.
+
+1:29:03.670,1:29:07.760
+A sólbruna er geislun skaða. Það er geislun
+brenna. Við kalla það það, en það er það
+
+1:29:07.760,1:29:13.499
+það er. Líkami þinn er að svara, að reyna að
+koma í veg fyrir frekari geislun skaða, jónandi
+
+1:29:13.499,1:29:16.780
+geislun á húð og frumur þínar og
+það er að búa melanin, sem er náttúrulegt
+
+1:29:16.780,1:29:18.519
+verja kerfi.
+
+1:29:18.519,1:29:22.229
+Þú vilt ekki að láta neinn fá of mikið
+geislun skammt á hverjum tíma og geislavirkni
+
+1:29:22.229,1:29:26.760
+að við fáum frá kjarnaofnum er ákaflega
+lítill í samanburði við geislavirkni við erum
+
+1:29:26.760,1:29:30.659
+að fá frá öðrum aðilum. Stærsta einn
+að Radon. Það er geislavirk gas sem er
+
+1:29:30.659,1:29:34.760
+koma út úr jörðinni allan tímann. Þú ert
+öndun það núna. Það er ábyrgur
+
+1:29:34.760,1:29:40.479
+lang fyrir meirihluta af geislavirkni
+að líkami þinn fær. Það er bara reikistjarna
+
+1:29:40.479,1:29:41.829
+við lifum á.
+
+1:29:41.829,1:29:45.159
+Inni í jörðinni er Þórín og úran
+hallar, og þeir eru hallar mjög hægt,
+
+1:29:45.159,1:29:50.070
+en það er mikið af þeim og jörðin er
+stór. Þeir framleiða mest af hita sem rekur
+
+1:29:50.070,1:29:54.030
+innri ferlum jarðar. Þeir
+framleiða hita sem rekur disk tectonics,
+
+1:29:54.030,1:29:58.510
+og þeir framleiða hita sem rekur á
+kynslóð af segulsviði. Ef við ekki
+
+1:29:58.510,1:30:02.340
+hafa orku frá Þórín, myndum við ekki
+hafa Carbon Recycling í jarðskorpuna.
+
+1:30:02.340,1:30:07.010
+Stærri samningur er á segulsviði, þar
+á segulsviði er deflecting sól
+
+1:30:07.010,1:30:11.900
+vindur. Ef þú ert ekki með segulsviði deflecting
+sól vindur, yfir milljarða ára þínum
+
+1:30:11.900,1:30:17.489
+plánetan endar eins og Mars. Þar sem sól
+vindur mun ræma burt andrúmsloftið á jörðinni er
+
+1:30:17.489,1:30:22.909
+án þess að vernda eðli segulmagnaðir
+sviði. Þannig að ef við gerðum ekki hafa orku frá
+
+1:30:22.909,1:30:26.340
+Þórín inni í jörðinni, myndum við vera á
+dauður plánetu.
+
+1:30:26.340,1:30:28.309
+A gaman sem ég segi fólk, ég segi: "Hvað er
+græna orku? "Þeir fara," Geothermal er grænt
+
+1:30:28.309,1:30:33.340
+orku. "Veistu hvar jarðhita kemur
+frá? Nei, það kemur frá hrörnun Þórín inni
+
+1:30:33.340,1:30:37.780
+jörðina. Er jarðhita endurnýjanlegum? Já! Allt í lagi,
+þá er Þórín endurnýjanleg. "Nei, það er ekki,
+
+1:30:37.780,1:30:40.550
+þú ert að nota það upp! "Jæja, þú ert að nota upp
+Þórín eins og það decays inni í jörðinni líka.
+
+1:30:40.550,1:30:45.929
+Svo allir rökin fyrir jarðhita, ef það er nákvæmlega
+stundað, er rök fyrir renewability
+
+1:30:45.929,1:30:49.739
+á Þórín sem orku auðlind. Og ég elska
+að hafa þessi umræða. Þau breytast yfirleitt
+
+1:30:49.739,1:30:51.280
+reglur á mig eins og ég fá inn í það.
+
+1:30:51.280,1:30:56.369
+En gott að spila á vini þína ef
+þeir byrja að gefa þér a harður tími til að koma
+
+1:30:56.369,1:31:00.829
+að protospace og tala um Þórín, þú
+segja: "Dude, það er græna orku." "Hvað!?"
+
+1:31:00.829,1:31:05.139
+Ef þú hefur áhyggjur við umhverfið,
+þá þú vilt vera meðvitaðir um hvað valdi
+
+1:31:05.139,1:31:11.139
+þéttleiki allra heimildar er. Hver sem er að reyna
+að selja þér lífeldsneyti, eða svona hlutur,
+
+1:31:11.139,1:31:16.260
+hvað gerir þú um varmaaflfræðilegra óhagkvæmni
+hreyfla bruna? Eldsneyti, sem þú brenna,
+
+1:31:16.260,1:31:22.289
+er fyrir um í hér. Alltaf þegar við brenna eitthvað,
+við erum með mjög óhagkvæm ferli. Varmafræði
+
+1:31:22.289,1:31:26.710
+yfirleitt gefur okkur um 30 prósent
+orku þegar við brenna eldsneyti.
+
+1:31:26.710,1:31:31.369
+Svo í hvert skipti sem þú setur virði á dollar á
+gas í bílnum, kyssa 60 sent kveðja því
+
+1:31:31.369,1:31:35.639
+það er að fara að fara út úr útblástur pípa eins og
+hita. Og við úrgang 10 prósent af því sem er mynda
+
+1:31:35.639,1:31:39.699
+í línum sending. Svo þegar þeir tala
+um þessar ytri sól eldisstöðvum, eða ytri
+
+1:31:39.699,1:31:43.210
+vindur bæjum eða eitthvað, hefur þú skuldir
+10 prósent sem þú ert að borga héðan í frá
+
+1:31:43.210,1:31:45.820
+að eilífu. Þú ert aldrei að fara að fá þessi orku
+aftur.
+
+1:31:45.820,1:31:51.820
+Fimm megavattstundum, toppur af the lína Siemens vindurinn
+Mill, tekur 10 ekrur. Og fimm megavött á
+
+1:31:51.820,1:31:56.389
+10 hektara, það er hálf megavattstundum á Acre.
+Ef þú færir upp fission, þú got hundrað
+
+1:31:56.389,1:32:02.229
+þúsunda fleiri wött á hvern fermetra fótur, á
+Acre fyrir pund. Hvað sem er. Og ef þú færir
+
+1:32:02.229,1:32:08.519
+allt að samruna, þá færðu annað 10.000 sinnum
+það. Fusion við þurfum ekki að bíða eftir því
+
+1:32:08.519,1:32:12.010
+fission er nógu gott fyrir okkur, sérstaklega
+með Þórín hringrás.
+
+1:32:12.010,1:32:16.409
+A kjarnorku grein væri skrifuð. Author
+greinarinnar mun fara til mín eða Rod Adams,
+
+1:32:16.409,1:32:20.949
+eða John Wheeler - einhvern sem er góður með þekktum
+sem opinber talsmaður fyrir kjarnorkuvopn. Og svo
+
+1:32:20.949,1:32:25.389
+að fara að finna hinum megin, Ed Lyman, eða Jim
+Riccio af Greenpeace, eða eitt af þessum
+
+1:32:25.389,1:32:29.110
+krakkar. Nú andstæða þetta með grein um
+sól eða vindur, og ég leita að þessum allar
+
+1:32:29.110,1:32:33.389
+tíma. Ég er alltaf að reyna að sjá, er það önnur
+hlið í þessum greinum? Það er aldrei annað
+
+1:32:33.389,1:32:36.979
+hlið. "Svo og svo fyrirtæki hefur tilkynnt
+hann ætlar að setja 50 megavött af vindmyllum
+
+1:32:36.979,1:32:39.659
+á þessu svæði. Heimurinn fagnar. "
+
+1:32:39.659,1:32:42.159
+Og þeir eru búnir að tyggja upp helming fjallið til að
+setja vindmyllum upp þar.
+
+1:32:42.159,1:32:46.389
+Þeir fá fleiri styrki á megavattstundum klukkustund
+en annars konar orku með einu eða tveimur
+
+1:32:46.389,1:32:51.949
+stærðargráðum. Ég meina, það er mikið! Við erum
+bjóða til að kaupa aftur sólarorku frá fólki
+
+1:32:51.949,1:32:57.400
+sem framleiða það á 35-50 sent á kilowatt
+klukkustund. Ég meina, það er ruddalegur. Hvers vegna á jörðinni,
+
+1:32:57.400,1:33:00.960
+Ef þú ert að gera orku á heimili þínu, þú
+ætti að selja það aftur til rist á hvað
+
+1:33:00.960,1:33:05.260
+rist er að kaupa á þeim tíma. Rist
+ætti ekki að þurfa að kaupa orku frá þér í
+
+1:33:05.260,1:33:06.989
+sumir aukin gegnheill verð.
+
+1:33:06.989,1:33:09.400
+En þeir eru niðurgreiðslur tækni þar til hún
+fær skilvirkari.
+
+1:33:09.400,1:33:12.409
+Þegar allar þessar gjaldskrár eru minni, að
+það sem við erum ætlast til að hvetja og
+
+1:33:12.409,1:33:17.179
+stökk hefja iðnaður, the iðnaður hrynur.
+Sól iðnaðar í Þýskalandi og á Spáni er
+
+1:33:17.179,1:33:21.739
+í mæli hruni vegna ráð
+fjarlægja gjöld og gjaldskrá vegna þess að þessi
+
+1:33:21.739,1:33:26.300
+eru einfaldlega ekki hagkvæm orkugjafa.
+Styrkurinn má vel intentioned að reyna
+
+1:33:26.300,1:33:30.260
+að fá iðnaðarins að fá að fara á eigin spýtur
+en það er yfirleitt ekki hvernig hlutirnir virka.
+
+1:33:30.260,1:33:34.539
+Sérhver orka uppspretta er niðurgreidd, ekki satt?
+Ef olía er niðurgreiddur af því að við erum að senda
+
+1:33:34.539,1:33:35.869
+fólk burt í stríð ...
+
+1:33:35.869,1:33:41.059
+The láréttur flötur af the styrkir eru verulega
+lægri fyrir komið atvinnugreinar en þeir
+
+1:33:41.059,1:33:42.909
+eru fyrir hluti eins og sól og vindur.
+
+1:33:42.909,1:33:46.769
+George Monbiot, sem skrifar í The Guardian,
+Hann hefur nýlega komið út mjög mikla áherslu á
+
+1:33:46.769,1:33:50.280
+stuðnings kjarnorku vegna þess sem gerðist
+á Fukushima Daiichi, hvernig ef lifðu
+
+1:33:50.280,1:33:54.510
+jarðskjálfta og heildar áhrif hefur
+ekkert miðað við dauða og missi
+
+1:33:54.510,1:33:55.559
+líf af tsunami.
+
+1:33:55.559,1:33:59.199
+Jæja, getið hann í grein sem hann skrifaði
+í gær að hann talaði við Caroline Lucas,
+
+1:33:59.199,1:34:04.300
+yfirmaður græna aðila í U. K. og
+Hann spurði hana af hverju hún myndi styðja niðurgreiðslum
+
+1:34:04.300,1:34:07.579
+á sól og vindur. Hún fer "Ég á móti minnkar
+fyrir kjarnorku en ég styð þá fyrir sól og
+
+1:34:07.579,1:34:11.340
+vindur vegna kjarnorku er rótgróið iðnaður
+og sól og vindur eru enn í þróun iðnaðar,
+
+1:34:11.340,1:34:15.960
+og þeir þurfa opinbers stuðnings til að blómstra. "
+Og svo George, mjög snjallt strákur, sagði "Will
+
+1:34:15.960,1:34:20.889
+þú styðja rannsóknir Þórín reactors,
+sem gæti veitt miklu öruggari og ódýrari
+
+1:34:20.889,1:34:23.670
+leið til að framleiða kjarnorku? "
+
+1:34:23.670,1:34:28.460
+Nei, vegna þess að Þórín reactors ekki reynst
+tækni.
+
+1:34:28.460,1:34:32.749
+Á einstaklingur stigi erum við að sjá mikið
+fólks um skoðun. En á skipulagi
+
+1:34:32.749,1:34:38.030
+stigi við erum ekki að sjá breytingar. Fólkið
+sem keyra umhverfisverndarsinni stofnanir,
+
+1:34:38.030,1:34:38.280
+og það er óheppilegt.
+
+1:34:38.130,1:34:43.209
+Hefur þú haft einn-á-mann þar sem þú ert að tala
+við einhvern og þeir fá þetta?
+
+1:34:43.209,1:34:47.300
+Það er erfitt fyrir fólk sem er ofar í
+fæðukeðjunnar í þessum samtökum til að koma
+
+1:34:47.300,1:34:51.959
+út og birta opinberlega yfirlýsingar stefnu. A einhver fjöldi
+af fólki að fá það einn-á-mann en þeir eru hræddir
+
+1:34:51.959,1:34:56.920
+að vera sá fyrsti til að standa upp og segja "Ra-RA-RA,
+við skulum fara að gera þetta. "Það er mun auðveldara þegar
+
+1:34:56.920,1:34:58.789
+þér finnst eins og allir hinir er á bak við þig.
+
+1:34:58.789,1:35:04.249
+Hvers vegna eru höfðar til tækniþróun
+alltaf gert með tilliti til sól og vindur?
+
+1:35:04.249,1:35:07.159
+Það er að fara að fá betri það er að fara að fá
+ódýrari, það er að fara að fá fleiri duglegur.
+
+1:35:07.159,1:35:10.719
+Ekki hafa áhyggjur af því sem við höfum núna, valdið
+það er að fara að vera betri á næsta ári. En enn
+
+1:35:10.719,1:35:14.869
+kjarnorku er úthlutað þessari stöðu aftur
+í '50s þar sem það getur aldrei fá betra, það
+
+1:35:14.869,1:35:19.289
+getur aldrei fella nýja tækni, það
+getur aldrei bætt og við munum ekki einu sinni skemmta
+
+1:35:19.289,1:35:20.840
+ef það hjartarskinn fá allir betri.
+
+1:35:20.840,1:35:25.719
+Nuclear rétt þýðir nú vatn kælt reactor,
+úran oxíð fast eldsneyti, léleg eldsneytissparnað
+
+1:35:25.719,1:35:31.510
+og gufu hverflum. Það er kjarnorku hvað
+þýðir núna. Svo fólk lítur á Fukushima
+
+1:35:31.510,1:35:37.789
+Daiichi og þeir fara, "Er þetta í lok kjarnorku
+völd? "og ég fer," Nei, það er ekki lok
+
+1:35:37.789,1:35:39.300
+kjarnorku, there 'a zillion aðrar leiðir
+að gera kjarnorku. "
+
+1:35:39.300,1:35:44.190
+Í kjarnaofni sem við unnið er kælt með því að
+vökva salt, a kjarnorkueldsneyti í formi
+
+1:35:44.190,1:35:45.429
+í föstu pebbles.
+
+1:35:45.429,1:35:50.739
+Þeir eru kælt með söltum flúoríð, en
+eldsneyti er ekki uppleyst í söltum, það er í
+
+1:35:50.739,1:35:51.809
+a föstu formi.
+
+1:35:51.809,1:35:56.690
+Ég var boðið að skrifstofu framkvæmdastjóra. The
+eðlisfræðingur það að segja mér, "Hvað sem þú hefur
+
+1:35:56.690,1:36:02.579
+fundið er ný Þórín úran-233 ræktanda. "
+Hefur þú einhvern tímann heyrt um EXYDER, að sjálfsögðu
+
+1:36:02.579,1:36:02.969
+ekki.
+
+1:36:02.969,1:36:07.659
+Ímyndið ykkur hvað myndi gerast ef það væri
+létt vatn reactor þar sem kjarnorku gufu
+
+1:36:07.659,1:36:14.449
+veitukerfi var í einu skipi, engin lagna
+penetrations umfram það bil þrjár tommur
+
+1:36:14.449,1:36:17.570
+í þvermál. Ég er að vinna að nákvæmlega reactor.
+
+1:36:17.570,1:36:22.829
+Frá viðbrögð þeirra við Fukushima, var það
+vísbending um að fólk hafi ekki skilið
+
+1:36:22.829,1:36:29.780
+valkosti um kjarnorku. Uppfærsla gömlu innviði
+mun auka öryggi staðla verulega.
+
+1:36:29.780,1:36:36.159
+Generation tveir og þrír eru enn í rekstri,
+kynslóð 3,5 er það sem er verið að byggja rétt
+
+1:36:36.159,1:36:40.869
+nú og kynslóð fjögur hefur meiri öryggi
+staðla, auðveldara að byggja upp og svo ódýrari
+
+1:36:40.869,1:36:46.150
+til að byggja upp betri eldsneyti nýtingu, harkalegur
+ódýrari orku, jafnvel öruggari reactors.
+
+1:36:46.150,1:36:50.570
+Kannski er það betri leið, ef þú getur fundið
+út hvernig á að gera þetta betur, mun ég vera ánægð
+
+1:36:50.570,1:36:54.209
+til að fá burt LFTR og fara að gera hvað sem það er
+betur. Þetta er besta leiðin sem ég hef geta
+
+1:36:54.209,1:36:55.499
+að koma upp með svo langt.
+
+1:36:55.499,1:36:57.449
+Getur þú gert ágrip um hvað rannsókninni sagði?
+
+1:36:57.449,1:37:01.190
+Yfirskrift rannsóknarinnar var "Þórín var engin
+panacea fyrir kjarnorku. "Þeir voru að reyna
+
+1:37:01.190,1:37:03.190
+að benda á galla í Þórín.
+
+1:37:03.190,1:37:09.829
+Ég vissi ekki að hugsa að þeir væru að beita mjög sanngjarnt
+rökfræði við það vegna þess að þeir myndu segja "Þórín
+
+1:37:09.829,1:37:14.070
+í föstu eldsneyti reactor myndi gera bla bla
+bla. Sjá það er ekki mjög góð svo Þórín
+
+1:37:14.070,1:37:14.320
+mállaus. "
+
+1:37:14.119,1:37:17.820
+Jæja svarið er nei, Þórín er mállaus í föstu eldsneyti reactor.
+Ekki "Þórín er heimsk."
+
+1:37:17.820,1:37:23.579
+Ef þú ert að fara að fara út þar reyna að setja eitthvað
+út til almennings að segja "ég ætla að authoritatively
+
+1:37:23.579,1:37:28.440
+hrekja notkun Þórín sem orkugjafa, "
+þá behooves það að gera heimavinnuna þína.
+
+1:37:28.440,1:37:30.880
+Er það öruggt og það hljómar hvað er að koma í veg
+North American ríkisstjórnir frá í raun að skapa
+
+1:37:30.880,1:37:37.880
+kjarnaofninn? Hvað er skelfilegur hlutur óður
+það?
+
+1:37:38.579,1:37:43.050
+Ah, þú ert að hugsa eins og mig 10 ár síðan,
+þú ert að leita að ástæðu hvers vegna ekki, ég er ekki
+
+1:37:43.050,1:37:46.989
+held að það sé ástæða af hverju ekki. Það kann að
+verið ástæða hvers vegna þeir mega ekki vera spenntur að
+
+1:37:46.989,1:37:47.590
+gera það.
+
+1:37:47.590,1:37:49.360
+En það er engin ástæða hvers vegna þeir geta ekki gert það.
+
+1:37:49.360,1:37:55.659
+Ef ég er fyrirtæki sem er að byggja CANDUs eða
+ljós-vatn reactors, hvað samkeppnisforskot
+
+1:37:55.659,1:37:59.900
+þarf ég því að sækjast eftir þessu hina áttina?
+Sennilega hafa ekki allir.
+
+1:37:59.900,1:38:03.570
+Það er svo sem hlutur eins og kjarnorku reiðhestur, það er
+hvað þetta allt hlutur er óður í, vegna þess að við erum
+
+1:38:03.570,1:38:09.429
+ekki að tala um kjarnorku tækni leið
+það er gert núna, við erum að tala um fullkomlega
+
+1:38:09.429,1:38:11.690
+mismunandi nálgun við kjarnorku.
+
+1:38:11.690,1:38:15.940
+Svo kannski að við munum líta aftur í framtíðinni og
+fundarhöld og samkomur eins og þetta munum við
+
+1:38:15.940,1:38:19.449
+fara "Man, það var þar sem hún var hleypt af stokkunum. Hún
+ekki byrja á Westinghouse eða Atomic
+
+1:38:19.449,1:38:24.909
+Orka í Kanada, eða GE, "það er a tonn við
+gæti gert í þessu reactor sem myndi jafnvel fela í sér
+
+1:38:24.909,1:38:29.400
+á geislavirk efni. Öll efni eins og
+viðskipti raforkukerfi alla efnafræði,
+
+1:38:29.400,1:38:31.309
+sem gæti allt verið gert án kjarnorku.
+
+1:38:31.309,1:38:37.249
+Ég hef ekki mikla trú á að núverandi
+kjarnorku stofnanir, til að vera heiðarlegur, hvað nákvæmlega
+
+1:38:37.249,1:38:41.289
+við viljum úr þeim? Ég meina öllum sínum
+tækni er byggt í kringum tækni sem
+
+1:38:41.289,1:38:43.039
+er ekki það sem er að fara inn í þessa vél.
+
+1:38:43.039,1:38:47.739
+Við viljum því þeir hafa eyra stjórnvalda
+og mjög stórir bankar.
+
+1:38:47.739,1:38:51.829
+OK, hversu margir-við erum ekki alveg að byggja fullt
+á kjarnaofnum núna. Allt fé þeirra
+
+1:38:51.829,1:38:56.690
+Nú er að koma á eldsneyti framboð samninga. Það er
+hvernig GE og Westinghouse græða á kjarnorku
+
+1:38:56.690,1:39:01.329
+máttur í dag, gera þeir byggja ekki reactors, þeir
+selja eldsneyti. Nú 30 árum sem þeir voru að byggja
+
+1:39:01.329,1:39:04.889
+reactors, en það er ekki raunverulega að fara til hægri
+núna.
+
+1:39:04.889,1:39:10.030
+Svo er viðskiptamódel þeirra miklum meirihluta
+einkennist af fabrications eldsneyti. Komdu nú
+
+1:39:10.030,1:39:14.539
+þú segir, Guess "hvað ég fékk reactor það er
+fékk ekkert eldsneyti tilbúningur við það, "þú upended bara
+
+1:39:14.539,1:39:15.260
+viðskiptamódel þeirra.
+
+1:39:15.260,1:39:19.489
+Í Bandaríkjunum við erum að byggja tvö reactors
+núna. Við erum að fara að leggja niður fleiri reactors
+
+1:39:19.489,1:39:24.590
+en á nokkrum árum. Við erum ekki að fá
+undan neitt, munum við vera heppin að halda
+
+1:39:24.590,1:39:27.329
+línu. Ég er ekki einu sinni hugsa að við erum að fara að
+vera fær um að gera það.
+
+1:39:27.329,1:39:29.880
+Hvað um í þróunarlöndum eins og Kína
+og Indlandi?
+
+1:39:29.880,1:39:33.690
+Kína stórfínn það upp, byggja í Kína eins og
+50 reactors núna.
+
+1:39:33.690,1:39:39.170
+En jafnvel Kína veruleika, "Við getum ekki byggt
+reactors byggt í kringum kælivatn og úran
+
+1:39:39.170,1:39:43.889
+oxíð eldsneyti, það er ekki að fara síðasta það langan tíma. "
+Gera Kína LFTR, jafnvel eins og við tölum.
+
+1:39:43.889,1:39:45.709
+Ég fann að síðan fyrir nokkrum mánuðum síðan.
+
+1:39:45.709,1:39:48.579
+Hvar eru þeir að fá blueprints? Eða
+eru þeir að þróa þá?
+
+1:39:48.579,1:39:55.300
+Jæja, ég meina þeir eru búnir að sennilega got a heild
+fullt af efni frá PDFs á heimasíðu mína.
+
+1:39:55.300,1:40:00.670
+Það hefur verið í almenningi fyrir ansi
+langan tíma. Ég gerði bara það svolítið auðveldara
+
+1:40:00.670,1:40:01.699
+að fá.
+
+1:40:01.699,1:40:05.670
+Þetta var um 10 árum síðan. Ég fékk í
+bíl, bjó ég í Alabama og ég gat
+
+1:40:05.670,1:40:08.909
+fara upp í Oak Ridge tala þá til sumir af the
+fólk þar. Og ég sagði: "Hey, ég hef heyrt
+
+1:40:08.909,1:40:13.909
+að þið löngu síðan gerði þetta virkilega,
+raunverulega kaldur hlutur. Hvað er að gerast? "Og þeir eru
+
+1:40:13.909,1:40:17.360
+eins og "Já, fyrir löngu síðan við fengum mjög,
+raunverulega kaldur hlutur og allir sem gerði það
+
+1:40:17.360,1:40:18.320
+er annað hvort eftirlaun eða dauður núna. "
+
+1:40:18.320,1:40:22.199
+Ég er eins og "Oh, jæja, það er ekki gott. Hvað
+getum við gert? "og þeir sögðu:" Jæja, þeir skrifuðu
+
+1:40:22.199,1:40:27.119
+a einhver fjöldi af fyrirlestrum og þeir skrifuðu mikið af skýrslum. "
+Ég sagði "Oh, OK. Get ég fengið þá?" "Ó já"
+
+1:40:27.119,1:40:31.729
+þá tóku þeir mig í þessa skrá skáp og
+það var eins og fullt af dóti. Og PDF'd - ekki
+
+1:40:31.729,1:40:33.889
+allt en mest af því, um tvo þriðju
+af því.
+
+1:40:33.889,1:40:40.030
+Svo hafði ég þetta stafla af CD og ég hélt
+"Oh!" Senda afrit til framkvæmdastjóra orku,
+
+1:40:40.030,1:40:44.530
+senda afrit til framkvæmdastjóra National Labs,
+senda það allt út að þessum mismunandi stöðum
+
+1:40:44.530,1:40:50.409
+bara viss um að þeir ætluðu að fá geisladiska frá
+af handahófi manneskja og setja þá í tölvunni sinni
+
+1:40:50.409,1:40:55.179
+og læra þá mikið - allar fimm Gigabytes
+þeirra - og komist að sömu niðurstöðu
+
+1:40:55.179,1:41:00.650
+Ég hafði og breyta stefnu. Ég meina,
+auðvitað, ekki satt? Ef við komumst ekki þessi skilaboð
+
+1:41:00.650,1:41:04.869
+út til allra, þá ekkert að fara að breytast.
+
+1:41:04.869,1:41:10.039
+Í byrjun árs 2010 EFT bloggarar tekið eftir því að allar
+þessir krakkar sem voru að reyna að skrá þig úr
+
+1:41:10.039,1:41:13.769
+Shanghai, Beijing og þau byrjuðu að spyrja
+spurningar um þetta og það.
+
+1:41:13.769,1:41:17.780
+Þeir fóru til Oak Ridge. Þeir tóku þá í kring
+Lab og sýndi þeim allt. Og það er
+
+1:41:17.780,1:41:21.619
+fyndið að fara til Oak Ridge því þeir eru allir
+um upplýsingar og Nano og líf og
+
+1:41:21.619,1:41:25.139
+þú vilt fara, "Hvað með kjarnorku?"
+Þeir tala aldrei um þann hluta. Jæja, við
+
+1:41:25.139,1:41:29.420
+fá til the endir af the ferð og kínverska
+Nafn opinbera var Dr Jiang Mianheng ...
+
+1:41:29.420,1:41:32.979
+áhugavert um Dr Jiang Mianheng hans
+faðir var Jiang Zemin, sem er notað til að vera
+
+1:41:32.979,1:41:38.300
+fyrstur í Kína. Svo, þetta er ekki illa settur
+strákur í kínversku samfélagi.
+
+1:41:38.300,1:41:40.280
+Þjálfaðir í Bandaríkjunum í Pennsylvania.
+
+1:41:40.280,1:41:43.989
+PhD í Rafmagnsverkfræðingur frá Drexel University;
+mjög, mjög björt strákur.
+
+1:41:43.989,1:41:46.289
+Þeir voru undir non-miðlun samkomulagi
+milli RGOE og kínversk stjórnvöld.
+
+1:41:46.289,1:41:49.579
+Svo þeir fá til the endir af fundinum og
+Ég sagði frá Oak Ridge fólk "Þú veist að við
+
+1:41:49.579,1:41:54.249
+hafði þetta mikla ferðalag. Hefur þú lært hvað
+þú vildir að læra? "og þeir fara" Við erum í raun
+
+1:41:54.249,1:41:58.139
+hér til að læra um bráðið salt reactor.
+Sjáðu til, við erum að fara að byggja eitt - við höfum
+
+1:41:58.139,1:42:01.070
+þegar got a staður valinn út - og við erum
+að fara að hafa það byggt árið 2020 og við erum hér
+
+1:42:01.070,1:42:06.340
+til að læra allt sem við getum um það. "Og
+í Oak Ridge við vorum eins og "Huh ..."
+
+1:42:06.340,1:42:09.559
+Hver hefur heyrnartól þeirra í eyrun
+á meðan ég hef verið að tala til að reyna að drukkna mig
+
+1:42:09.559,1:42:14.639
+út? Eldri gott fólk eins og mig mun muna á dag
+þegar heyrnartól ekki líta út eins og þessi. The
+
+1:42:14.639,1:42:19.459
+allt bragð hefur verið uppfinningu smá
+segull byggt á neodymium, neodymium-járn-bór
+
+1:42:19.459,1:42:23.590
+seglum. Ákaflega öflugur segull, og þeir
+nota sjaldgæf jörð steinefni sem heitir neodymium.
+
+1:42:23.590,1:42:29.440
+Og af því neodymium-járn-bór seglum eru
+svo öflugur einn af þeim stöðum sem þeir finna umsókn
+
+1:42:29.440,1:42:32.909
+er í rafala sem sitja ofan á vindmyllum.
+
+1:42:32.909,1:42:37.869
+Global eftirspurn eftir vindi hefur í raun aukist
+löngun til að finna neodymium.
+
+1:42:37.869,1:42:41.780
+Eins og það er allt að anna í Kína. Nú
+Hvers vegna er ég að tala um neodymium?
+
+1:42:41.780,1:42:46.309
+Jæja, vegna þess að Þórín er alltaf finna með
+þungur sjaldgæf frumefni jarðar. Ef þú manst
+
+1:42:46.309,1:42:49.519
+lotukerfisins þitt, lanthanides að
+dálki yfir actinides, eru þeir allir
+
+1:42:49.519,1:42:50.539
+the sjaldgæfur earths.
+
+1:42:50.539,1:42:56.389
+Þórín stefnu í öllum vestrænum þjóðum grefur undan
+árangursríka þróun innlendra sjaldgæf
+
+1:42:56.389,1:43:00.039
+jörð markaði. Allar sjaldgæft earths sem
+flestum öðrum vestrænum námuvinnslu fyrirtæki eru tilbúin
+
+1:43:00.039,1:43:05.510
+að vinna eru það sem þeir kalla bastnasites
+eða carbonatites. Þeir velja oftast þessi
+
+1:43:05.510,1:43:10.989
+Sjaldgæf earths ekki vegna þess að hár hlutföllum
+sjaldgæfra earths heldur einfaldlega fjarveru Þórín.
+
+1:43:10.989,1:43:16.599
+Svo þar af leiðandi eina starfa sjaldgæft jarðar
+minn að bara opnaði á þessu ári, samkvæmt
+
+1:43:16.599,1:43:22.599
+eigin filings þeirra í USGS, framleiðir
+í raun léttari hluta lanthanide
+
+1:43:22.599,1:43:28.449
+umfang og í raun er hafa sumir monazites,
+sem eru Þórín sjaldgæf jörð auðgað steinefnaútfellingu,
+
+1:43:28.449,1:43:29.719
+sem þeir farga.
+
+1:43:29.719,1:43:35.329
+Svo gerist það allt yfir Ameríku, Kanada,
+og Suður-Ameríku, eru falleg monazite
+
+1:43:35.329,1:43:39.849
+innlána sem hafa mikil Sjaldgæf earths sem
+gæti verið mjög auglýsing nema fyrir Þórín
+
+1:43:39.849,1:43:40.209
+efni.
+
+1:43:40.209,1:43:45.809
+Mountain Pass var upphaflega lokað samkvæmt
+að forstjóri Mark Smith, vegna EPA og
+
+1:43:45.809,1:43:50.530
+á Kaliforníu og sumir Þórín að
+kom út af Ósæðarrifan tailing síðuna. Þórín
+
+1:43:50.530,1:43:56.920
+táknar þetta óþekkt og ótakmarkaða ábyrgð
+til mjög sjaldgæfra jarðar framleiðslu, svo spilar það inn í
+
+1:43:56.920,1:43:58.150
+hendur Kína.
+
+1:43:58.150,1:44:03.380
+Í fyrsta lagi Kína enda sjaldgæft frumefni jarðar
+mjög ódýrt að allir í heiminum með því að
+
+1:44:03.380,1:44:08.809
+ódýrt vinnuafl þeirra, skort á fullnustuhæfar umhverfismálum
+reglugerðir, og þakka gjaldmiðil.
+
+1:44:08.809,1:44:12.559
+Í meginatriðum, styrkja og stjórna sjaldgæft
+jörð markaði.
+
+1:44:12.559,1:44:17.559
+Og þeir sögðu: "Jæja, nú allt sem þú
+eru að koma heim að dyrum okkar til að kaupa sjaldgæft earths okkar.
+
+1:44:17.559,1:44:22.209
+Við viljum ekki að selja hráefni lengur.
+Framleiðendur okkar geta keypt það ódýrara. "
+
+1:44:22.209,1:44:28.909
+Þeir leggja mikla útflutning skatt sjaldgæf jörðinni
+atriði. Svo var einn val til að samþykkja
+
+1:44:28.909,1:44:35.300
+gríðarstór skatta og hækkun á verði
+vöru eða flytja verksmiðju í meginland
+
+1:44:35.300,1:44:40.440
+Kína og kaupa sjaldgæf frumefni jarðar á staðnum
+markaði án skatta.
+
+1:44:40.440,1:44:43.619
+Það er stefna og það er að vinna nokkuð vel.
+
+1:44:43.619,1:44:47.949
+Framleiðendur sem nota sjaldgæf frumefni jarðar
+í vörur sínar flutt framleiðslu sína
+
+1:44:47.949,1:44:53.349
+stöð inni Kína. Störf í iðnaði
+flutt frá Bandaríkjunum og Vestur-
+
+1:44:53.349,1:44:55.489
+Evrópa inn á kínverska meginlandinu.
+
+1:44:55.489,1:45:00.440
+Þeir hafa fært alla leið upp virðiskeðjunni
+og eru í raun fær um að nýta stöðu sína
+
+1:45:00.440,1:45:06.849
+í handtaka öðrum löndum I.P. Ef Toyota
+virkilega vill til að byggja upp milljón rafhlaða bakpoki,
+
+1:45:06.849,1:45:11.369
+á endanum, ef þeir finna ekki lausn
+að þungur sjaldgæft jörðina vandamál, þeir 'vera
+
+1:45:11.369,1:45:12.380
+byggja þá inni Kína.
+
+1:45:12.380,1:45:18.840
+Svo er það sem við þurfum að vera fær um að gera að láta aðra
+aðila taka þessi Þórín, þróa notkun og
+
+1:45:18.840,1:45:20.309
+mörkuðum, þar á meðal orku.
+
+1:45:20.309,1:45:24.519
+Svo, við skulum segja, til dæmis, hefur þú fengið einn
+Sjaldgæf jörð súrálsframleiðslu búa um 20.000
+
+1:45:24.519,1:45:29.300
+tonn af þungur sjaldgæft earths á ári. Á núverandi
+neyslu, það er um 130 prósent af innlendum
+
+1:45:29.300,1:45:34.400
+Efnisnotkun fyrir Sjaldgæf earths. Sem sjálfkrafa
+grefur undan kostur Kína. Nú, það er
+
+1:45:34.400,1:45:38.829
+tveimur stöðum á plánetunni Jörð þar sem þú hefur
+tryggt framboð af þunga Sjaldgæf earths.
+
+1:45:38.829,1:45:43.849
+Hvað getur land skiptimynt þínu sem inn?
+Þetta er fulcrum sem þú þarft að komast aftur inn
+
+1:45:43.849,1:45:46.099
+efnahag heimsins sem framleiðandi.
+
+1:45:46.099,1:45:50.749
+Þar sem 99 prósent af the sjaldgæfur earths sem við
+notkun, þ.mt seglum? Jæja, þegar þeir
+
+1:45:50.749,1:45:53.709
+fékk anna, það var líklega einhver Þórín
+sem kom upp með það sem er sennilega sitjandi
+
+1:45:53.709,1:46:00.709
+í sumum tunnum yfir í Kína núna, bíða
+fyrir Dr Jhang að ljúka tilraunum sínum með
+
+1:46:00.900,1:46:03.829
+Þórín steypt reactors salt og til að byrja
+setja þau í notkun.
+
+1:46:03.829,1:46:07.999
+Þetta er mikilvægur hlutur sem er að fara
+að gerast á næstu 24 mánuðum, en sá
+
+1:46:07.999,1:46:13.309
+fær sem er í meginatriðum að fara að stjórna
+örlög og rúlla út af orku fyrir
+
+1:46:13.309,1:46:14.539
+um fyrirsjáanlega framtíð.
+
+1:46:14.539,1:46:19.119
+Þeir þurfa að vera fær um að átta sig á loforð
+á Þórín. En, ég myndi líka vilja sjá okkur ná árangri,
+
+1:46:19.119,1:46:24.199
+þú veist? Við vorum að vinna þetta efni í
+löngu síðan, gerðum við langt á það.
+
+1:46:24.199,1:46:29.659
+Við setjum það niður árið 1974 fyrir hvers konar heimsk ástæðum,
+og ég held að það er mikil tími sem við valið
+
+1:46:29.659,1:46:31.789
+sem þráður aftur upp aftur.
+
+1:46:31.789,1:46:36.479
+Orka virðist fylgni við áhrif.
+Fólk sem hefur orku, sem notuð eru til að vera
+
+1:46:36.479,1:46:41.329
+Bandaríkjunum, við höfðum mikið af áhrif, nú, þar
+eru aðrir sem hafa mikið af orku, og þeir
+
+1:46:41.329,1:46:42.639
+virðist vera að öðlast áhrif.
+
+1:46:42.639,1:46:47.579
+Raunverulega spurningin er hvort Bandaríkin vantar
+stefnumótandi þjóðaröryggi tækifæri.
+
+1:46:47.579,1:46:52.039
+Við getum annað hvort að vera á vagninum eða við getum keypt
+erlendra reactors í framtíðinni.
+
+1:46:52.039,1:46:56.979
+The alheims orku fyrirtæki er um þriggja
+trilljón dollara á ári fyrirtæki. Og ansi
+
+1:46:56.979,1:47:03.979
+fullt af ríður fólkinu "auð og völd á
+fyrirtæki að flytja mikið magn af vatns-kolefni
+
+1:47:04.019,1:47:06.059
+frá einum stað til annars.
+
+1:47:06.059,1:47:12.070
+Þú ert á milljarða, milljón dollara hugmynd hér.
+Og til að skipta yfir úr eldsneyti eins og olíu, gas,
+
+1:47:12.070,1:47:17.940
+úran, ekki hafa áhyggjur þú sem gæti mögulega
+vandamál?
+
+1:47:17.940,1:47:24.400
+Ég er mikið meiri áhyggjur einhvern tíma að leita
+á afkomendur okkar og hafa sagt þá: "Hví
+
+1:47:24.400,1:47:28.570
+Vissir þú að gefa okkur þessa heims sem við höfum núna?
+Hvers vegna fórstu að gefa okkur þennan heim fátæktar orku,
+
+1:47:28.570,1:47:34.389
+mengun, stríðs, sjúkdóma, þegar þú
+vissi að það væri betri leið og þú gætir
+
+1:47:34.389,1:47:37.260
+hafa gert það gerast? Af hverju gerðir þú það ekki? "
+
+1:47:37.260,1:47:41.059
+Það er sama spurningin sem við myndum spyrja þessir gaurar
+ef við gætum farið aftur til 1969, ekki satt? "Hvers vegna ekki
+
+1:47:41.059,1:47:45.300
+þú gerir þetta? Þú vissir um það, gætir þú
+hafa gert það gerast, en þú ekki. Hvað er
+
+1:47:45.300,1:47:46.420
+afsökun þín? "
+
+1:47:46.420,1:47:50.690
+Mannskepnan hefur verið hjátrúarfull og óttast
+lengst af sögu þeirra. Tímum uppljómun
+
+1:47:50.690,1:47:55.380
+hefur verið tiltölulega skömmum manna
+sögu, og alls ekki viss um að það mun
+
+1:47:55.380,1:47:56.789
+áfram með þeim hætti.
+
+1:47:56.789,1:48:02.079
+Ég tel virkilega að ef við höfum ekki aðgang að
+til ódýra og hreina orku, munum við snúa.
+
+1:48:02.079,1:48:05.130
+Við munum fara aftur til the vegur mönnum hafði verið
+fyrir þúsundir og þúsundir ára, sem
+
+1:48:05.130,1:48:10.510
+er þar sem öflugur og ríkur undiroka
+fjöldanum, sem bjuggu skelfilegt líf að reyna
+
+1:48:10.510,1:48:13.260
+að veita það fyrir nokkrum fólk.
+
+1:48:13.260,1:48:19.639
+Við munum bókstaflega ekki aðeins snúa sér til villimennsku
+en snúa sér til félagslegar stofnanir eins og þrælahald.
+
+1:48:19.639,1:48:21.369
+Og ég meina það með öllum alvarlegustu.
+
+1:48:21.369,1:48:24.349
+Þú hefur aðeins takmarkað magn af peningum, þú
+til að minnka gróðurhúsalofttegundir, svo þú vilt
+
+1:48:24.349,1:48:29.059
+að beita dollara á þann hátt sem draga úr losun
+lofttegundir sem mest á meðan að búa mest atvinnu
+
+1:48:29.059,1:48:30.519
+mögulegt fyrir að fjárfesting.
+
+1:48:30.519,1:48:35.380
+En, hafa öll störf sem þeir búa til
+að byggja inn í verð á orku þeir
+
+1:48:35.380,1:48:38.699
+veita. Já, myndi það afla a einhver fjöldi af störfum
+en það er á kostnað fólks sem
+
+1:48:38.699,1:48:39.860
+nota orku.
+
+1:48:39.860,1:48:44.860
+Ef við getum gefið orkugjafa ódýrari
+en frá kolum, allar þjóðir, í þeirra
+
+1:48:44.860,1:48:49.260
+eigin efnahagslega eiginhagsmunum, velur það
+yfir kol.
+
+1:48:51.349,1:48:55.550
+Það er hverflum sem við taka bara frá gas
+planta og fresta það stór vinnupalla,
+
+1:48:55.550,1:49:01.320
+turn, og umkringja það risastór speglar
+í eyðimörkinni. Ef ský fer yfir, eða
+
+1:49:01.320,1:49:06.340
+á kvöldin, the gagnsemi vilja grunn
+hlaða. Og hvernig sem við erum að fara að skila
+
+1:49:06.340,1:49:10.940
+sem byggja álag er með því að máttur það með gasi.
+Við erum að byggja þetta allt land,
+
+1:49:10.940,1:49:16.309
+og einn af þeim spurningum sem við spyrjum, þurfum við um
+3.000 fæti í hæð. Við þurfum íbúð land,
+
+1:49:16.309,1:49:20.949
+við þurfum 300 daga sólarljós, og við þurfum
+að vera nálægt gas pípa.
+
+1:49:20.949,1:49:22.439
+Gríðarlega dýr fjármagnskostnaður.
+
+1:49:22.439,1:49:26.979
+Hér eru fjórar sjálfstæða tillögur að byggja
+steypt reactors salt og dagsetningar þeirra. The
+
+1:49:26.979,1:49:28.559
+miðgildi er $ 1,98.
+
+1:49:28.559,1:49:34.079
+Þú lítur á LFTR fyrir 1-2 dollara
+a Watt, þú ert að leita á fullu kostnað þar,
+
+1:49:34.079,1:49:38.739
+vegna þess að eldsneyti kostnaður er svo nálægt núlli
+að þú getur örugglega hunsa hana.
+
+1:49:38.739,1:49:40.670
+Kjarnorku veldur aðeins rafmagn.
+
+1:49:40.670,1:49:45.610
+Nú geta öll reactors okkar í dag að nota gufu hverfla.
+Nú erum við ekki nota það vegna þess að við erum heimskur,
+
+1:49:45.610,1:49:51.010
+við notum það vegna þess að takmarkanir undir þrýstingi
+vatn þýðir að þú getur ekki fengið það allt sem
+
+1:49:51.010,1:49:53.150
+heitt. Ég meina, kjarnaofninn bara ekki fá
+það heitt.
+
+1:49:53.150,1:49:58.219
+Með þessu reactor, getum við fengið allt að meira eins og
+700 eða 800C, og á þeim hita, á
+
+1:49:58.219,1:50:02.420
+gas hverflum reynist vera betri passa.
+Svo er hægt að framleiða rafmagn úr gas
+
+1:50:02.420,1:50:06.469
+hverflum, og þú hafir fengið að kæla gas og
+hvert varmaaflfræðilegra hringrás að hafna úrgangs
+
+1:50:06.469,1:50:07.090
+hita.
+
+1:50:07.090,1:50:10.630
+Nánast engin efnahagsleg refsing að desalinate sjó
+vatn.
+
+1:50:10.630,1:50:15.670
+Eða við gætum reynt að synthesize eldsneyti. Við getum
+stilla það, ekki til að framleiða rafmagn,
+
+1:50:15.670,1:50:20.570
+en Aftengja vatni. Þú getur búið til ammóníak
+úr vetni, sem gæti verið eldsneyti. Það er
+
+1:50:20.570,1:50:25.170
+einnig áburður. Ammoníaks framleiðslu eyðir
+fleiri en eitt prósent af öllum heiminum
+
+1:50:25.170,1:50:26.610
+orku fjárhagsáætlun í dag.
+
+1:50:26.610,1:50:30.229
+Það er um 14 ár frá því þú setur
+verkefni áfram til þegar það er byggt, og það er
+
+1:50:30.229,1:50:31.849
+frægur fyrir overruns kostnaður.
+
+1:50:31.849,1:50:37.959
+Við notuðum til að byggja lítil reactors á stuttum
+tíma. Maí 1961, Congress fjármagnað
+
+1:50:37.959,1:50:39.550
+Camp Century á Grænlandi.
+
+1:50:39.550,1:50:44.610
+Söfnuðurinn er enn subcritical. Við tók
+að flytja eldsneyti þætti eitt af öðru,
+
+1:50:44.610,1:50:46.559
+og hóf hleðslu reactor algerlega.
+
+1:50:46.559,1:50:50.489
+Kjarnaofninn var starfa undir ísnum 18
+mánuðum síðar.
+
+1:50:50.489,1:50:56.039
+The Brayton hringrás notar óvirku gasi, þannig að þú
+Ekki hafa áhyggjur af sprengingar eldsneyti,
+
+1:50:56.039,1:51:00.599
+þú færð meira skilvirkni út úr vél
+hlið, og hverfla eru minni og ódýrari
+
+1:51:00.599,1:51:01.400
+að byggja.
+
+1:51:01.400,1:51:02.400
+Slysahættu
+
+1:51:02.400,1:51:07.110
+Við getum ná öryggi til að frádregnum kostnaði vegna
+Við erum að flytja til árekstraröryggi fremur en
+
+1:51:07.110,1:51:11.709
+verkfræðingur öryggi. Við sjáum þessa þróun með
+reactors eins AP1000 en LFTR getur tekið
+
+1:51:11.709,1:51:13.780
+það mun hærra stig.
+
+1:51:13.780,1:51:18.400
+Verslunarhúsnæði kjarnorku um allan heim
+hefur mjög gott öryggi met jafnvel þótt þú
+
+1:51:18.400,1:51:23.219
+er Chernobyl. Fjölda dauðsfalla úr
+kjarnorkuvers slys er minna en
+
+1:51:23.219,1:51:25.780
+hundrað í kring the veröld, alltaf.
+
+1:51:25.780,1:51:30.739
+Bara á síðasta ári höfðum við jarðgas sprengingu
+á hreina orku leikni í Middletown,
+
+1:51:30.739,1:51:35.110
+CT sem drap sjö menn, sem kol ryk og
+metangasi sprengingu í Upper Big Branch
+
+1:51:35.110,1:51:40.239
+kol minn sem drap 29 manns, og metan
+sprenging í Deepwater Horizon sem drap
+
+1:51:40.239,1:51:45.679
+11 manns. San Bruno eldur, sem var náttúrulega
+gasleiðslu í gangi undir hverfi
+
+1:51:45.679,1:51:49.320
+og það blés upp og drap um átta manns
+og eyðilagði 50 hús.
+
+1:51:49.320,1:51:53.900
+Af hverju velur þú kjarnorku að velja á?
+Af hverju ertu ekki tekið á sendingu gas? Af hverju
+
+1:51:53.900,1:51:57.469
+ertu ekki að velja á öllum þessum aðilum
+raunverulegt dáið?
+
+1:51:57.469,1:52:01.320
+Long bjó kjarnorku úrgangi sem hefur að geyma
+út úr lífríkinu í meira en fjórðungur af
+
+1:52:01.320,1:52:01.959
+milljón ár.
+
+1:52:01.959,1:52:06.199
+Raunverulega mest af því að úrgangur sé óbrunnar eldsneyti.
+Það eru leiðir til að endurvinna hana og brenna meira,
+
+1:52:06.199,1:52:10.860
+en það er alveg dýrt og það er ekki fjárhagslega
+hagstæðar í reactors í dag. The bylting
+
+1:52:10.860,1:52:16.939
+í að fara að vökva eldsneyti þýðir að þú þarft ekki
+að endurvinna eða endurvinna, yfirgefa þig á kjarnorku
+
+1:52:16.939,1:52:18.630
+eldsneyti í kjarnaofninn þar til það er brennt upp.
+
+1:52:18.630,1:52:22.670
+Þeir eru enn í salt og þeir rotnun í
+salt þar sem þeir gefa frá sér alla rotnun þeirra
+
+1:52:22.670,1:52:23.499
+hita.
+
+1:52:23.499,1:52:30.499
+Hér transuranics okkar - þessar tölur sýna
+10 ^ -7, 10 ^ -4, 10 ^ -7, 10 ^ -9 grömm, þetta er
+
+1:52:33.479,1:52:38.900
+Teeny Teeny framleiðslu. A thousandths á
+gramm af þessum ótti efni í 10 ár
+
+1:52:38.900,1:52:43.989
+starfsemi. Þetta er gott. Úrgangur snið
+miklu hraustari.
+
+1:52:43.989,1:52:45.639
+Hættan á útbreiðslu kjarnorkuvopna
+
+1:52:45.639,1:52:51.849
+Útbreiðslu herða á þessu, U-232,
+við höfum fengið protactinium. Það sendir út bjarta
+
+1:52:51.849,1:52:57.869
+gamma Cascade, þannig að ef einhver reynir að hlaupa
+burt með það sem við getum skilið þau frekar auðveldlega.
+
+1:52:57.869,1:53:01.630
+Þú þarft ekki einu sinni að líta á þau mál
+fyrir kjarnorku til að mistakast.
+
+1:53:01.630,1:53:06.719
+The petrochemical iðnaður, vetniskolefni
+iðnaðar eyðir mikið af auglýsingum peningar.
+
+1:53:06.719,1:53:13.070
+Þeir trúa á vindinn og sólina. Exxon er
+að tala um vaxandi þörungar, alls konar
+
+1:53:13.070,1:53:18.150
+val. Þú munt aldrei heyra í vetniskolefni
+Félagið tala um kjarnorkuvopn.
+
+1:53:18.150,1:53:25.150
+Þú munt sjá ansi mikið af sögum af einhverjum
+í gas eða olíu iðnaður vinna gegn
+
+1:53:25.179,1:53:30.900
+kjarnorku og reyna að hækka hindranir
+færslu. Það er herma kjarnorkueldsneytis kanínukorn.
+
+1:53:30.900,1:53:37.900
+Það er eins mikla orku eins og a tonn af kolum, 147
+lítra af olíu, eða 17.000 tenings fætur náttúruauðlinda
+
+1:53:38.219,1:53:39.389
+gas.
+
+1:53:39.389,1:53:44.479
+Ef þú ert að gera peningar selja vetniskolefni,
+þú ert að fara að gera minna fé.
+
+1:53:44.479,1:53:50.340
+Ég fæddist árið þeir hætt þessari rannsókn
+í Tennessee. Mér líður eins og allt sem ég hef gert með
+
+1:53:50.340,1:53:55.469
+blogg, er ég hef stóð upp og mælti: "Hér er
+þetta ótrúlega verk sem var gert áður en ég var
+
+1:53:55.469,1:53:56.380
+jafnvel fæðast. "
+
+1:53:56.380,1:54:01.079
+Þetta er lögmál eðlisfræðinnar efni. Ég vissi ekki að finna
+það, allt sem ég ekki stuðla að því. Kannski ég mun aldrei
+
+1:54:01.079,1:54:04.570
+sjá það gerast í lífi mínu, en einhver verður
+gera það. Þegar fólk hefur lært hvernig á að gera
+
+1:54:04.570,1:54:07.499
+það, þeir 'halda áfram að nota það, því það mun
+gera það miklu máli.
+
+1:54:07.499,1:54:10.610
+Annað fólk sem er a heild einhver fjöldi betri en
+mér hefur horfði á hana og sagði: "Þetta lítur
+
+1:54:10.610,1:54:12.630
+fjári nokkuð vel, hvers vegna ekki við að gera þetta? "
+
+1:54:12.630,1:54:14.420
+Hversu lengi telur þú að það er að fara að taka?
+
+1:54:14.420,1:54:18.019
+Á genginu við ætlum nú í Bandaríkjunum
+Aðildarríkin það mun aldrei gerast. En, það er að fara
+
+1:54:18.019,1:54:18.280
+að breyta.
+
+1:54:18.280,1:54:22.170
+Við erum að fara að gera það gerast. Ég held að í
+10 ár munum við að byggja LFTRs í verksmiðju
+
+1:54:22.170,1:54:23.139
+samkoma línur.
+
+1:54:23.139,1:54:26.969
+Við getum verið samkeppnishæf við Kína um að gera
+einkaleyfi á hlutum sem voru ekki hugsað um
+
+1:54:26.969,1:54:32.719
+í 50 og 60 í. En ef við bíðum, Bandaríkjamenn,
+Kanadamenn og Brasilíumenn verða að kaupa LFTR
+
+1:54:32.719,1:54:35.559
+og bráðið salt tækni frá Kína og
+greiða þeim þóknanir.
+
+1:54:35.559,1:54:40.039
+Við kaupum margt frá Kína nú þegar.
+Það er ekki eins og ef við erum ekki að kaupa nóg hluti
+
+1:54:40.039,1:54:46.860
+frá Kína. Við erum örugglega að halda þeim
+upptekinn. Förum þróa Þórín. Það er í raun
+
+1:54:46.860,1:54:48.559
+það sem ég vil gera.
+
+1:54:48.559,1:54:53.389
+Ef allir í heiminum hefur lífsstíl eins og
+þú og ég get notið í Kanada og Bandaríkjunum í dag,
+
+1:54:53.389,1:54:59.519
+við getum haft heimsfrið og við getum sérhæfum
+á hvaða sviðum við erum góð í og ??viðskipti við
+
+1:54:59.519,1:55:02.780
+hver annan, og ekki berjast um takmarkað fjármagn.
+
+1:55:02.780,1:55:06.209
+Ég held að það muni halda áfram öðruvísi þetta
+tíma en þeir gerðu í 50 og 60 í. Til baka
+
+1:55:06.209,1:55:11.780
+í 50 og 60 er, hafði þú ríkisstjórn fjárveitingar
+við innlenda Labs, sem leiða til þróunar
+
+1:55:11.780,1:55:14.689
+þessa tækni. Ég held ekki það er hvernig
+það er að fara að gerast að þessu sinni. Ég held að það er
+
+1:55:14.689,1:55:18.659
+að fara að vera samruna við áhugamenn og
+almennum iðnaði.
+
+1:55:18.659,1:55:23.050
+Nægilega margir nú, þökk sé internetinu,
+eru að læra um möguleika LFTR og
+
+1:55:23.050,1:55:24.659
+Þórín, og þeir eru að spyrja harða spurninga.
+
+1:55:24.659,1:55:28.920
+Herra forseti, segja að þú oft eru engin
+silfur byssukúlum að orku vandamál okkar. Af hverju
+
+1:55:28.920,1:55:33.499
+er the sambands-ríkisstjórn aukinni ekki
+rannsóknir á vökva eldsneyti steypt reactors salt
+
+1:55:33.499,1:55:35.030
+sem keyra á Þórín?
+
+1:55:35.030,1:55:38.729
+Liquid flúoríð Þórín reactors, þetta er
+því tagi ...
+
+1:55:38.729,1:55:42.550
+Þú ert nú þegar hér að ofan einkunn borga mér svo ...
+
+1:55:42.550,1:55:45.679
+Ég skal útskýra það fyrir þig því þetta er
+konar hugmynd Washington þarf að vita um.
+
+1:55:45.679,1:55:51.280
+Fljótlega í 10 ár sem við erum að fara að kaupa
+þetta af þeim ef við ekki byrja að gera
+
+1:55:51.280,1:55:54.729
+þeim núna.
+
+1:55:54.729,1:56:01.059
+Í AEC skýrslunni gefið John F. Kennedy í
+beiðni hans árið 1962, fjallar beint um
+
+1:56:01.059,1:56:07.459
+ótta sem þeir höfðu, og það lýsir sérstaklega
+hvað við ættum að hafa gert. Við höfum ekki gert
+
+1:56:07.459,1:56:11.769
+það. Við getum gert Þórín ræktandi reactor
+sem Weinberg og Ornell lið vann
+
+1:56:11.769,1:56:18.070
+á fyrir 20 ára og fullkominn og rekið
+í fjögur ár í 1960 er.
+
+1:56:18.070,1:56:25.070
+Það kjarnaofni er einmitt það sem Kína nú hefur
+milljarð dollara til að þróa með áætlanir okkar,
+
+1:56:25.219,1:56:31.999
+allar rannsóknir okkar, allt sem við gerðum sem
+bandarískur rannsóknastofnun 49 ár
+
+1:56:31.999,1:56:38.329
+síðan. Jafnvel þótt Washington hefur starfað hægt,
+49 ár er hljóð til vera a lítill of.
+
+1:56:38.329,1:56:41.959
+Ef við gerum það ekki, mun það enn vera að gerast.
+Það verður bara að vera að gerast á stað eins
+
+1:56:41.959,1:56:46.090
+Kína fremur en Bandaríkin. Við munum
+að sjá LFTRs verið að byggja í framtíðinni,
+
+1:56:46.090,1:56:46.519
+gera ekki mistök.
+
+1:56:46.519,1:56:50.729
+A einhver fjöldi af umhverfissinnar sem eru alltaf
+að reyna að keyra okkur að því að nota minni orku,
+
+1:56:50.729,1:56:53.979
+því öll þessi orka kemur frá
+neyslu jarðefnaeldsneytis.
+
+1:56:53.979,1:56:58.260
+Jæja, segjum orku þína er ekki að koma frá
+neyslu jarðefnaeldsneytis. Þá gætir þú
+
+1:56:58.260,1:57:03.309
+nota meiri orku, og þú getur notað meiri orku
+að ná hluti sem þú ert ekki fær
+
+1:57:03.309,1:57:08.860
+að gera núna. Brjóta upp koldíoxíð og
+Aftengja vatni. Gera áburður, vaxa ræktun,
+
+1:57:08.860,1:57:09.619
+allt það.
+
+1:57:09.619,1:57:14.889
+Svo mikla orku, sem gnægð orku, sem
+það myndi keyra verðið niður til að benda
+
+1:57:14.889,1:57:19.619
+þar sem aðeins olía við myndum vera að taka út úr
+jörð væri auðvelt að komast að olíu. Og
+
+1:57:19.619,1:57:24.079
+það er ekki að fara að vera allir fleiri umhverfismál
+devastation en það er nú þegar.
+
+1:57:24.079,1:57:28.709
+Ef við ekki að hafa áhyggjur af orku, við
+gæti hugsað svo margir fleiri atriði sem þarf að gera.
+
+1:57:28.709,1:57:33.050
+Ef það var mikið af því og það var ódýr
+og það var ekki skaðlegt umhverfinu,
+
+1:57:33.050,1:57:34.889
+hvað myndir þú gera það sem þú ert ekki að gera núna?
+
+1:57:34.889,1:57:39.139
+Það sem veiddur auga mitt þegar ég var enn
+í menntaskóla var hugmyndin um rúm sól
+
+1:57:39.139,1:57:44.510
+máttur gervihnött. Gerard O'Neill The High Frontier.
+Hugmyndin hans var við vorum að fara að fara að byggja upp þessar
+
+1:57:44.510,1:57:47.449
+nýlendur. Það var að fara að vera eins og búa í
+a verslunarmiðstöð í rúmi.
+
+1:57:47.449,1:57:53.559
+Þú veist og hafa lítið heima í rörið.
+
+1:57:53.559,1:57:56.840
+Ég held ekki að við séum tilbúin til að lifa í rúm
+enn. Við höfum ekki lært hvernig á að búa í
+
+1:57:56.840,1:58:02.510
+leið þar sem við endurvinnslu mun meira af okkar ... I
+meina, ef þú vilt lifa í rúm, sem þú hefur
+
+1:58:02.510,1:58:03.689
+fékk að endurvinna allt.
+
+1:58:03.689,1:58:07.150
+Það virtist eins og fljótandi flúoríð Þórín
+kjarnaofni eða LFTR, gæti verið aflgjafa
+
+1:58:07.150,1:58:11.900
+sem gætu gert sjálfstætt sjálfbært Lunar nýlenda
+að veruleika. En ég hef einfaldri spurningu. Ef
+
+1:58:11.900,1:58:17.170
+það var svo mikill hlutur fyrir samfélag
+á tunglinu, hvers vegna ekki samfélag á jörðinni,
+
+1:58:17.170,1:58:18.150
+sjálfbært og orku óháð?
+
+1:58:18.150,1:58:23.849
+Hugsaðu um "Star Trek". Þú getur ekki annað en
+hugsa um "Star Trek" þegar Kirk nafn þíns.
+
+1:58:23.849,1:58:28.360
+Hver er the veröld af "Star Trek" hlaupandi á?
+Eru þeir gangi "Star Trek" á kolum? Eru
+
+1:58:28.360,1:58:32.469
+þeir gangi "Star Trek" á sandinum olíu? Nei
+Þú sérð ekki allir Olíuhreinsunarstöðvar á
+
+1:58:32.469,1:58:34.269
+"Star Trek". Þú sérð ekki allir kol jarðsprengjur.
+
+1:58:34.269,1:58:40.439
+Við lifum miklu betra lífi í dag vegna þess að við
+hafa lært hvernig á að nota kolefni. OK, hvað um
+
+1:58:40.439,1:58:47.389
+Þórín? Þórín hefur milljón sinnum orku
+þéttleika kolefnis-vetni skuldabréf. Hvað gæti
+
+1:58:47.389,1:58:52.809
+sem þýðir fyrir mönnum siðmenningu að fara út
+þúsundir, tugir þúsunda ár fram í
+
+1:58:52.809,1:58:55.650
+framtíðinni? Þar erum við ekki að fara að hlaupa
+út úr þessu efni. Þegar við höfum lært hvernig
+
+1:58:55.650,1:59:02.650
+til að nota það á svona skilvirkni, munum við
+aldrei hlaupa út.
