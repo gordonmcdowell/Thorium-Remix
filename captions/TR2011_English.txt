@@ -434,7 +434,7 @@ Our policy is very simple to understand, no
 nuclear.
 
 0:08:21.729,0:08:25.490
-Is there more nuance demanded there… concerns
+Is there more nuance demanded there? Concerns
 about nuclear energy can be addressed with
 
 0:08:25.490,0:08:26.979
@@ -491,7 +491,7 @@ well, nuclear energy is down the list because
 
 0:09:13.760,0:09:19.440
 it's not terribly reliable, it's hugely expensive
-capitol cost, very few jobs created and it
+capital cost, very few jobs created and it
 
 0:09:19.440,0:09:24.850
 only produces electricity. It's about 14 years
