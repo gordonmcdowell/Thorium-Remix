@@ -1,0 +1,598 @@
+0:00:00.459,0:00:02.560
+Dr. Takashi Kamei.
+
+0:00:02.560,0:00:07.630
+How can we implement a thorium molten salt
+reactor? Before this March, I thought what
+
+0:00:07.630,0:00:15.240
+I should say at this conference; but we had
+a very huge earthquake, so I decided to change
+
+0:00:15.240,0:00:20.890
+the title of my presentation, "Japan Revival
+Strategy by Thorium Molten Salt Reactors."
+
+0:00:20.890,0:00:26.779
+Before starting my talk, I'd like to say thank
+you to all US people and, of course, to the
+
+0:00:26.779,0:00:38.000
+world people. They are of much help. We are
+very damaged, and still there are many people
+
+0:00:38.000,0:00:47.899
+under a very heavy situation, but, myself,
+I am not injured, anyway, because I'm living
+
+0:00:47.899,0:00:55.890
+700 km away from Fukushima and earthquake
+site. Anyway, I'd like to thank you all.
+
+0:00:55.890,0:01:02.819
+I'm carrying my own study and research at
+the university, in Kyoto, focusing on sustainability,
+
+0:01:02.819,0:01:10.020
+global warming, or climate change. This is
+still a very big challenge, not only for Japan,
+
+0:01:10.020,0:01:17.600
+but also for the world. 40% of carbon dioxide
+comes from power generation in the world.
+
+0:01:17.600,0:01:23.670
+The second point is the transportation sector.
+Nearly 20% of carbon dioxide in the world
+
+0:01:23.670,0:01:28.240
+comes from automobiles; of course, gasoline
+cars or diesel cars.
+
+0:01:28.240,0:01:35.729
+We know that to reduce emissions of carbon
+dioxide from the world activity of human beings,
+
+0:01:35.729,0:01:43.229
+we have to think about both power generation
+and transportation. China is the largest carbon
+
+0:01:43.229,0:01:51.689
+dioxide emitting country. They're now emitting
+about 21% of carbon dioxide in the world.
+
+0:01:51.689,0:01:58.219
+The second is the US, with nearly 20%. Japan
+also emits a large amount of carbon dioxide,
+
+0:01:58.219,0:02:05.250
+but the percentage is maybe 4.5% in the world.
+
+0:02:05.250,0:02:13.010
+This is a big challenge for the world. For
+us. Is there a solution? I think yes. We need
+
+0:02:13.010,0:02:20.310
+clean energy, which does not emit carbon dioxide,
+but, of course, it must be a safe one. We
+
+0:02:20.310,0:02:29.200
+had a huge earthquake, and the Fukushima Daiichi
+nuclear power plant exploded because of the
+
+0:02:29.200,0:02:35.700
+damage of the earthquake,
+so we have to find a way.
+
+0:02:35.700,0:02:38.470
+The answer will be the
+thorium molten salt reactor.
+
+0:02:38.470,0:02:44.830
+A thorium molten salt reactor contains two
+fuels. One of them is, of course, thorium.
+
+0:02:44.830,0:02:52.540
+Just before my talk, Dr. LeBlanc made a very
+good lecture in order to know what is good
+
+0:02:52.540,0:02:58.730
+with thorium. But, roughly speaking, thorium
+itself has these advantages
+
+0:02:58.730,0:03:04.890
+It does not emit carbon dioxide, we need to
+produce electricity; and it can be obtained
+
+0:03:04.890,0:03:11.160
+from the mining of rare earth materials. Its
+amount is very huge in the world.
+
+0:03:11.160,0:03:16.970
+Unfortunately, Japan doesn't have a lot of
+thorium. This is a nuclear fuel, so it produces
+
+0:03:16.970,0:03:24.170
+radioactive waste, but the amount is very
+small compared to uranium usage. There will
+
+0:03:24.170,0:03:32.250
+be a lot of discussion, but thorium utilization
+is not so good for nuclear weapons.
+
+0:03:32.250,0:03:40.280
+These are the advantages of thorium utilization.
+The reason why I talk about thorium, thorium
+
+0:03:40.280,0:03:47.450
+can be used, of course, in light water reactors.
+The US private company Lightbridge -- is anybody
+
+0:03:47.450,0:03:56.260
+coming from Lightbridge? No? OK. Anyway, I
+love light water reactors, even though we
+
+0:03:56.260,0:04:04.430
+had a big accident in Japan, because a light
+water reactor is established technology, and
+
+0:04:04.430,0:04:12.890
+nearly 400 nuclear power plants based on the
+light water reactor are now operating in the
+
+0:04:12.890,0:04:15.800
+world, and they produce electricity for the
+world.
+
+0:04:15.800,0:04:23.370
+Thorium can be used as a fuel a lot. Many
+Japanese people are concerned and worry about
+
+0:04:23.370,0:04:28.699
+the use of light water reactors in the world,
+because they're saying that there will be
+
+0:04:28.699,0:04:35.830
+earthquakes also in the world. If you look
+at this picture, the small black dots indicate
+
+0:04:35.830,0:04:38.090
+the points of huge earthquakes.
+
+0:04:38.090,0:04:44.580
+If you look at the blue circles in this map,
+there are many places where there are no earthquakes.
+
+0:04:44.580,0:04:51.620
+For example, in the Middle East, like Saudi
+Arabia, we cannot find any dot of the earthquake.
+
+0:04:51.620,0:04:58.199
+In the northern part of Africa, we don't have
+any earthquakes. And here in the US -- we
+
+0:04:58.199,0:05:03.919
+are now in Washington -- the most part of
+the US does not have huge earthquakes.
+
+0:05:03.919,0:05:10.389
+Of course, in California, there are many earthquakes.
+We have to take care of this. In Europe, not
+
+0:05:10.389,0:05:18.669
+many earthquakes. But Japan, can you find
+Japan in this map? Japan is covered with a
+
+0:05:18.669,0:05:29.189
+lot of earthquakes. Once an earthquake hits
+a nuclear power plant, it is possible to come
+
+0:05:29.189,0:05:38.199
+to a big accident. But I'd like to inform
+you about one thing. Today, we are facing
+
+0:05:38.199,0:05:46.409
+the accident at Fukushima Daiichi nuclear
+power plant, but the nearest power plant to
+
+0:05:46.409,0:05:49.919
+this earthquake was the Onagawa nuclear power
+plant.
+
+0:05:49.919,0:05:55.919
+This is a different electricity company in
+Japan. But the Onagawa nuclear power plant,
+
+0:05:55.919,0:06:04.370
+of course, was shut down when the earthquake
+hit the nuclear power plant, and the core
+
+0:06:04.370,0:06:15.199
+of the emergency cooling is safely operated.
+Now, more than 300 people are escaping the
+
+0:06:15.199,0:06:22.569
+additional attack of the earthquake, and they
+are now living at this Onagawa nuclear power
+
+0:06:22.569,0:06:24.189
+plant site.
+
+0:06:24.189,0:06:30.830
+I like to say that if the light water reactor
+is correctly operated, it's still safe even
+
+0:06:30.830,0:06:38.419
+in the case of an earthquake. I also like
+to say that Japan should think about the use
+
+0:06:38.419,0:06:43.389
+of thorium molten salt reactors. This is a
+rough sketch of how a thorium molten salt
+
+0:06:43.389,0:06:46.629
+reactor will act when it is hit by the earthquake.
+
+0:06:46.629,0:06:52.249
+Maybe the cooling of the core will be stopped
+and the temperature will increase, but the
+
+0:06:52.249,0:06:58.499
+freeze valve will open, and, automatically,
+the fuel will drain to the lower tank. And
+
+0:06:58.499,0:07:05.840
+we don't need any external voltage in order
+to drive these actions, so this is very safe.
+
+0:07:05.840,0:07:13.449
+What do we have to think about the influence
+of radioactive materials on human beings?
+
+0:07:13.449,0:07:20.990
+Of course, the alpha rays, the beta rays,
+and the gamma rays will influence the human
+
+0:07:20.990,0:07:31.479
+body, but it comes from the radioactive materials.
+Yes, it is possible that the tank will break
+
+0:07:31.479,0:07:39.300
+and the fuel salt will come out, but at room
+temperature it becomes solid or freeze; and
+
+0:07:39.300,0:07:47.629
+most of the radioactive materials we've kept
+inside of this frozen fuel salt, and that
+
+0:07:47.629,0:07:54.069
+means that the radioactive materials will
+be kept inside this frozen salt.
+
+0:07:54.069,0:08:00.800
+Yes, it is true. Radio gamma rays, or something
+like that, will be emitted to the outside,
+
+0:08:00.800,0:08:09.020
+but the range will be limited to the few hundred
+meters, not kilometers. Few hundred meters.
+
+0:08:09.020,0:08:16.639
+It will be possible to people not to come
+near this site. After the accident of the
+
+0:08:16.639,0:08:22.419
+Fukishima Daiichi nuclear power plant, what
+can Japan do? On left-hand side there is a
+
+0:08:22.419,0:08:29.330
+map of Japan, and the big red circles indicate
+nuclear power plants. We have several nuclear
+
+0:08:29.330,0:08:32.180
+power plants which have a huge electricity
+capacity.
+
+0:08:32.180,0:08:39.870
+For example, the Tokyo electric company owns
+a nuclear power plant in Fukishima; it is
+
+0:08:39.870,0:08:50.100
+about 700 GW, and once this site is attacked
+by a huge earthquake, all of this power generation
+
+0:08:50.100,0:08:58.760
+is stopped at once. If we constructed a future
+design over the electric supply in Japan,
+
+0:08:58.760,0:09:05.480
+right on the side it would be a new concept.
+The small, safe power reactors will be scattered
+
+0:09:05.480,0:09:07.320
+in the whole run of Japan.
+
+0:09:07.320,0:09:13.930
+It is possible that one of them will be hit
+and stopped by an earthquake, but it will
+
+0:09:13.930,0:09:21.720
+be limited to lose merely 100 MW if we implement
+the small-size nuclear power plant, something
+
+0:09:21.720,0:09:28.820
+like the thorium molten salt reactor. Its
+economy must fit the available one. If the
+
+0:09:28.820,0:09:36.370
+reactor becomes small size, we don't need
+to use the sea water to cool the reactor core.
+
+0:09:36.370,0:09:42.880
+If thorium molten salt reactor becomes small,
+maybe we can use air to cool the reactor core.
+
+0:09:42.880,0:09:48.820
+I have been talked about the advantage of
+the thorium itself, and the molten salt reactor,
+
+0:09:48.820,0:09:55.840
+but, then, we have to think how we can achieve
+the implementation of thorium. At the moment,
+
+0:09:55.840,0:10:02.270
+the technology to utilize thorium is established
+in light water reactors or heavy water reactors
+
+0:10:02.270,0:10:08.240
+in Canada. It will be possible to start to
+use thorium in these reactors, but, maybe,
+
+0:10:08.240,0:10:14.540
+in the meantime, 10 years from now, or 15
+years, a molten salt reactor will be a very
+
+0:10:14.540,0:10:15.940
+good candidate.
+
+0:10:15.940,0:10:21.310
+Much longer time, maybe the actuator-driven
+system or some other will be available. But,
+
+0:10:21.310,0:10:27.200
+in any case, we have to think that thorium
+does not contain fissile isotope.
+
+0:10:27.200,0:10:33.120
+In order to fire a thorium molten salt reactor
+or other reactors, we have to prepare not
+
+0:10:33.120,0:10:38.820
+only the thorium, but also the fissile. Right
+now, we are using uranium for fuel in light
+
+0:10:38.820,0:10:45.240
+water reactors or heavy water reactors, like
+CANDU. Once we put uranium in these reactors,
+
+0:10:45.240,0:10:49.970
+we can produce plutonium. The yellow circles
+indicate the production of plutonium. At the
+
+0:10:49.970,0:10:59.100
+moment, in Japan, in case, Japan is going
+to use plutonium in a first breed of reactors,
+
+0:10:59.100,0:11:02.810
+but we can modify our policy of energies.
+
+0:11:02.810,0:11:09.190
+If this plutonium can be fed to thorium reactors
+like light water reactors, or thorium heavy
+
+0:11:09.190,0:11:14.520
+water reactors, it will be possible. Of course,
+there will be the opportunity to directly
+
+0:11:14.520,0:11:23.370
+feed this plutonium to thorium molten salt
+reactors. And once a thorium light water reactor,
+
+0:11:23.370,0:11:29.780
+or heavy water reactor, or molten salt reactor,
+is operated, uranium-233 comes out. And this
+
+0:11:29.780,0:11:36.620
+can be fed as a fissile isotope for thorium
+neutralization for the next generation.
+
+0:11:36.620,0:11:44.650
+Roughly speaking, the supply of plutonium
+coming from the uranium cycle, supply of the
+
+0:11:44.650,0:11:51.050
+uranium-233, is still very limited. Maybe,
+in a long future, some direct production of
+
+0:11:51.050,0:11:57.750
+uranium-233 from thorium will be needed. In
+the beginning of my talk, I talked about global
+
+0:11:57.750,0:12:01.350
+warming, and the transportation sector is
+very important.
+
+0:12:01.350,0:12:10.150
+In Japan, Toyota, or Nissan, or Honda, they
+are now going to supply hybrid cars, or electric
+
+0:12:10.150,0:12:16.570
+vehicles, and, in order to fabricate these
+vehicles, which are different from a gasoline
+
+0:12:16.570,0:12:23.390
+car, or a Diesel cars, the key element is,
+of course, rare earths. For example, neodymium
+
+0:12:23.390,0:12:30.390
+or dysprosium are used to make a permanent
+magnet take, which is used for electric motors.
+
+0:12:30.420,0:12:37.880
+97% of the rare earths is produced from China.
+It is not so apparent to be said to the world,
+
+0:12:37.880,0:12:44.080
+but, at the same time, over thorium mining
+processing, thorium is acquired.
+
+0:12:44.080,0:12:51.980
+If Japan wants to leave the chain of China
+in the supply of rare earths, Japan has to
+
+0:12:51.980,0:12:58.430
+go to other countries, like Vietnam, or India,
+of course, sometimes Brazil. But the problem
+
+0:12:58.430,0:13:05.800
+is thorium, because thorium is a radioactive
+material, and if we don't take care of thorium,
+
+0:13:05.800,0:13:13.870
+it becomes the environment hazard. Sometimes
+the people living around this place will be
+
+0:13:13.870,0:13:22.880
+healthy injured. But, if thorium is used as
+nuclear fuel, this problem will be solved.
+
+0:13:22.880,0:13:27.890
+Once the thorium is fed to a thorium reactor,
+and sometimes plutonium will be fed to the
+
+0:13:27.890,0:13:33.640
+reactor, of course at the same time, it produces
+electricity, and this electricity will be
+
+0:13:33.640,0:13:40.870
+fed to driving hybrid or electric vehicles.
+Thorium is not the problem, but the solution,
+
+0:13:40.870,0:13:44.500
+especially for Japan, and maybe, I think,
+for the US too.
+
+0:13:44.500,0:13:50.250
+How much can we implement the thorium molten
+salt reactor? This is a global case, not only
+
+0:13:50.250,0:13:56.940
+the Japanese case. This design of the molten
+salt reactor is thermal, and graphite the
+
+0:13:56.940,0:13:58.250
+usage.
+
+0:13:58.250,0:14:04.150
+Calibration will be different if we applied
+fast reactor or much other design. The black
+
+0:14:04.150,0:14:09.270
+dotted line indicates electricity capacity
+of uranium light water reactors. We are now
+
+0:14:09.270,0:14:17.410
+using nearly 370 GW in the world. For each
+increase based on predictions by IAEA, the
+
+0:14:17.410,0:14:24.070
+cover will be like this. Based on this implementation
+capacity of uranium usage, the spent nuclear
+
+0:14:24.070,0:14:27.390
+fuel that will be produced is indicated by
+the red line.
+
+0:14:27.390,0:14:32.280
+It is very easy to see that, if spent nuclear
+fuel coming from the uranium usage is not
+
+0:14:32.280,0:14:38.290
+used, it exceeds to a very large amount; but
+once this is used for thorium molten salt
+
+0:14:38.290,0:14:44.080
+reactors, the amount of spent nuclear fuel
+will decrease very rapidly. But the implemented
+
+0:14:44.080,0:14:50.220
+capacity of thorium molten salt reactors,
+based on only the supply of plutonium coming
+
+0:14:50.220,0:14:56.440
+from uranium usage, is very limited. Even
+though we utilize uranium-233 coming from
+
+0:14:56.440,0:14:59.760
+plutonium thorium molten salt reactors, it's
+still limited.
+
+0:14:59.760,0:15:09.480
+The total capacity will be 300 GW around 2050.
+It is still very small. If uranium light water
+
+0:15:09.480,0:15:15.120
+reactors do not expand their capacity in the
+next 40 years, capacity of thorium molten
+
+0:15:15.120,0:15:23.280
+salt reactors will be about 258 GW in 2050.
+This is still very small.
+
+0:15:23.280,0:15:30.000
+Yesterday, when we visited the Congress people,
+John told us that we don't make an enemy.
+
+0:15:30.000,0:15:38.430
+[laughs] OK? I'd like to say that thorium
+neutralization is very important, but uranium
+
+0:15:38.430,0:15:46.230
+usage is still important. If we think about
+global warming or the global scale.
+
+0:15:46.230,0:15:51.520
+This is my document, which I wrote in a popular
+newspaper in Japan. This is the English version.
+
+0:15:51.520,0:15:57.080
+Look at the website. You can find it still.
+Thorium neutralization will be still limited,
+
+0:15:57.080,0:16:04.600
+even though it is used in the global scale.
+It means that thorium production is very huge
+
+0:16:04.600,0:16:11.620
+in the world, but the consumption of thorium
+is still limited. It means there will be a
+
+0:16:11.620,0:16:19.920
+stockpile of thorium. If this thorium is not
+used, it comes to the environmental hazard.
+
+0:16:19.920,0:16:24.550
+This is just a concept, and maybe I will be
+able to talk in detail about this concept
+
+0:16:24.550,0:16:30.230
+in the next conference. In Japan I wrote this
+kind of work. This is, I'm sorry, only in
+
+0:16:30.230,0:16:36.320
+Japanese, but I wish that I can be able to
+publish some English version in the near future.
+
+0:16:36.320,0:16:42.430
+Thank you for the opportunity to talk here.
+Thank you very much.
