@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=640px" />
-<link rel="stylesheet" type="text/css" media="screen"  href="/style.css" /><title>den Thorium-Flüssigsalzreaktor</title>
+<link rel="stylesheet" type="text/css" media="screen"  href="/style.css" /><title>Der Thorium-Flüssigsalzreaktor</title>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -20,14 +20,14 @@
 <body>
 <div id="Box">
 <div id="Header">
-<h1 class="main_title">den Thorium-Flüssigsalzreaktor</h1>
+<h1 class="main_title">Der Thorium-Flüssigsalzreaktor</h1>
 <ul class="tabs">
 <li id="Selected"><a href="/de/2011/">2011<br />&nbsp;</a></li>
 </ul><br /><br />
 </div>
 
 <div class="text">
-den Thorium-Flüssigsalzreaktor
+Liquid-Fluoride Thorium Reactor (LFTR)
 </div>
 
 <div class="space">&nbsp;</div>
@@ -251,9 +251,6 @@ für die menschliche Zivilisation bedeuten? Wir werden
 für immer genug von diesem Zeug haben. Wir werden
 
 niemals Mangel haben. Es ist einfach zu viel davon da.
-
-Auf unserer Facebook-Seite haben wir etwa
-87 Prozent Männer und 13 Prozent Frauen.
 </div>
 
 
