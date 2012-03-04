@@ -1978,388 +1978,387 @@ líquido. Los productos de fisión gaseosos como el xenón
 Simplemente son explusados de la sal.
 
 0:38:45.470,0:38:50.690
-¿Te imaginas si lo que sucedería al pobre Wigner
+¿Te imaginas lo que le sucedería al pobre Wigner
 si su reactor de Washington
 
 0:38:50.690,0:38:54.930
-Hubiera llegado a propulsar el avión del tipo que iba volando hacia Rusia? Podría ser algo como esto: "les habla su capitán…
+Hubiera llegado a propulsar el avión mientras volaba hacia Rusia?
+Imaginaros la conversación: "les habla su capitán…
 
 0:38:54.930,0:38:58.570
-Vamos a realizar un aterrizaje de emergencia en Siberia.
-Ya que el nivel de Xenon se está elevando mucho
+Vamos a realizar un aterrizaje de emergencia en Siberia,
+ya que el nivel de Xenon se está elevando mucho
 
 0:38:58.570,0:39:02.330
 así que vamos a aterrizar en la tundra,
 allí mismo, durante nueve horas
 
 0:39:02.330,0:39:07.470
-Hasta que el xenon comience a descender.
-Luego vamos a encender y despegar en breve. "
+hasta que el xenon comience a descender.
+En breve plazo encenderemos los motores y volveremos a despegar."
 
-0:39:07.470,0:39:08.390
-Ya sabes, quiero decir que no va a funcionar.
+0:39:07.470,0:39:11.120
+Entendéis ¿no?, algo como esto no iba a funcionar.
+Y, sin embargo, este otro reactor funcionó durante 11 días en 1954.
 
-0:39:08.390,0:39:11.120
-Y funcionó durante unos 11 días en 1954.
 
-0:39:11.120,0:39:15.140
-Alcanzó las más altas temperaturas que se había
-Alguna vez ha sido alcanzado por un reactor nuclear a
 
-0:39:15.140,0:39:16.370
-a ese punto.
+
+0:39:11.120,0:39:16.370
+Alcanzó las temperaturas más altas jamás alcanzadas por un
+reactor nuclear en aquel tiempo
+
+
+
 
 0:39:16.370,0:39:21.440
-Y les demostró que, en esencia, su
-idea era correcta - de que deba afrontar
+Y les demostró, en esencia, que su
+idea era correcta; se podía mantener
 
 0:39:21.440,0:39:26.250
-Las reacciones de fisión nuclear dentro de una sal, que
-que operaría en alta y baja temperatura
+una reacción de fisión nuclear dentro de una sal, que iba
+a funcionara a alta temperatura y baja presión
 
 0:39:26.250,0:39:30.810
-presión, que era muy estable. Y la
-razón por la cual era tan estable era, como la sal
+que, además, era muy estable. El motivo de esta estabilidad
+era que cuando las sales se calientan
 
 0:39:30.810,0:39:35.900
-se calientan, habría menos fisible
-material en el núcleo del reactor nuclear, y
+hay menos material fisible en el núcleo
+del reactor nuclear y, 
 
 0:39:35.900,0:39:38.020
-manera que la fisión se hizo menos probable.
+por tanto, la fisión era menos probable.
 
 0:39:38.020,0:39:42.500
-Por el contrario, como la sal de enfriado, se
-era más material, porque la sal se estaba contrayendo,
+Por el contrario, cuando la sal se enfría, 
+hay más material, porque la sal se contrae,
 
 0:39:42.500,0:39:43.920
-y se convirtió en la fisión es más probable.
+y, por tanto, la fisión es más probable.
 
 0:39:43.920,0:39:46.830
-Los ingenieros de ahí, esa es una forma dinámica
-sistema estable.
+Los ingenieros llamamos a esto: un sistema dinámicamente estable. 
+Es decir, 
 
 0:39:46.830,0:39:49.450
-Que se calienta, se enfría, se hace demasiado frío,
-se calienta.
+cuando se calienta, se tiende a enfriar, y cuando
+está demasiado frío se tiende a calentar.
+
 
 0:39:49.450,0:39:55.530
-Bueno, por esta vez fue alrededor de 1960. Los misiles balísticos intercontinentales
-iban muy bien. Nos había perfeccionado aire-aire
+Bueno, poco más tarde, alrededor de 1960. Los misiles
+balísticos intercontinentales comenzaron a ir muy bien. 
 
 0:39:55.530,0:39:58.960
-estaciones de servicio. La Fuerza Aérea que estaba pasando, "Oh, hombre,
-ya sabes, no creo que realmente necesitamos que
+Y conseguimos dominar el reabastecimiento en vuelo. 
+La Fuerza Aérea comenzó a pensar: "Oh, hombre,
 
 0:39:58.960,0:40:00.930
-bombardero nuclear más ".
+no creo que realmente necesitemos ya
+ningún bombardero nuclear".
 
 0:40:00.930,0:40:04.400
-Weinberg pidió a la Comisión de Energía Atómica
-en los Estados Unidos para el dinero y se le
+Fue entonces cuando Weinberg solicitó a la Comisión de Energía
+Atómica de Estados Unidos más dinero y consiguió algo.
 
 0:40:04.400,0:40:09.590
-un poco. Se levantó lo suficiente para construir una demostración
-reactor que se suponía iba a ser inferior a
+Consiguió lo suficiente para construir un reactor de
+demostración, con una potencia inferior a los 10 megavatios.
 
-0:40:09.590,0:40:12.860
-10 megavatios. Que lo construyó, y que fue llamado
-los reactores de sales fundidas experimento. Se corrió
+0:40:09.590,0:40:14.640
+Fue entonces cuando construyó el llamado “Experimento de Reactor
+de Sales Fundidas” (MSRE), que funcionó desde 1965 hasta 1969.
 
-0:40:12.860,0:40:14.640
-1965 a 1969.
 
 0:40:14.640,0:40:19.070
-Resultó que el torio es un gran ajuste
+Y resultó que el torio funcionó muy bien
 en este reactor.
 
 0:40:19.070,0:40:22.520
-Esto es lo que se llama un fluido dos, fundidos
-sal diseño del reactor.
+Esto es lo que denominamos: 
+“reactor de sales fundidas de doble fluido”
+
 
 0:40:22.520,0:40:25.990
-¿Qué es el reactor de sales fundidas en relación con
-LFTR y viceversa?
+¿En qué se parecen, entre sí, el reactor de sales 
+fundidas y el LFTR?
+?
 
 0:40:25.990,0:40:30.860
-LFTR es un reactor de sales fundidas. Todos son LFTRs
-reactores de sales fundidas, pero no todas las sales fundidas
+El LFTR es un reactor de sales fundidas. Todos son LFTRs son
+reactores de sales fundidas, pero no todos los de sales fundidas
 
 0:40:30.860,0:40:31.810
-los reactores son LFTRs.
+son LFTRs.
 
 0:40:31.810,0:40:37.690
-Tienes que este fluido básico, una de berilio de litio
-sal, con tetrafluoruro de uranio en ese país.
+Aquí tenemos este núcleo que contiene sales de berilio
+y de litio más tetrafluoruro de uranio en estado líquido.
 
 0:40:37.690,0:40:41.160
-Ahora lo que quiero hacer es que desea mover
-que el combustible que ha hecho de la manta en
+Lo que hay que hacer es que mover el combustible que
+se ha producido en la cobertura hacia el núcleo.
 
 0:40:41.160,0:40:45.740
-el núcleo. Y así es como usted lo hace. Usted toma
-esta corriente de este manto de sal fuera y
+Y así es como se hace: Se conduce este flujo de sales
+desde la cobertura hacia fuera y
 
 0:40:45.740,0:40:48.850
-puesto que en esta columna la volatilidad de fluoruro.
+se introduce en esta columna de volatilidad.
 
 0:40:48.850,0:40:54.930
-Se toca la sal con flúor gaseoso, y te lo
-pasar es ... El uranio tiene dos tipos de flúor
+Entonces se juntan las sales y el flúor elemental en estado gaseoso
+y lo que ocurre es ...: Existen dos variedades de fluoruros de uranio
 
 0:40:54.930,0:41:00.540
-los estados que va a estar adentro Hay tetrafluoruro de uranio,
-cuatro iones de flúor, y no hay hexafluoruro de uranio,
+dentro de las sales hay tetrafluoruro de uranio en estado líquido,
+que tiene cuatro iones de flúor y, por otro lado, existe el
 
 0:41:00.540,0:41:02.780
-seis iones de fluoruro.
+hexafluoruro de uranio, que tiene seis iones de fluor.
 
 0:41:02.780,0:41:04.270
-Hexafluoruro de uranio es un gas.
+El hexafluoruro de uranio es gaseoso.
 
 0:41:04.270,0:41:06.650
-Tetrafluoruro de uranio se encuentra en disolución.
+Mientras que el tetrafluoruro de uranio
+se encuentra en disolución.
 
 0:41:06.650,0:41:11.000
-Si le pegas con el flúor que se iniciará
-de la burbuja de la sal, al igual que las burbujas
+Si introducimos flúor elemental se combinará con el tetrafluoruro
+y saldrá de la sal, mediante un burbujeo, ya como hexafluoruro.
 
 0:41:11.000,0:41:15.160
-en el pop. Y eso es genial porque este
-es un buen truco. Esta es una manera de conseguir su
+¡Y eso es genial! porque con este pequeño truco
+podemos conseguir que sólo el uranio 
 
 0:41:15.160,0:41:19.210
-producto de uranio para salir de la manta
-y dejar todo atrás.
+salga de la zona de cobertura,
+mientras que todo lo demás permanece en ella.
 
 0:41:19.210,0:41:25.100
-Esto no funcionaría si el torio también este
-mismo truco. Si el torio se convertiría en una hexafluoruro
+Esto no lo podríamos hacer si en el torio también ocurriera
+el mismo truco. Si el torio también se convirtiera en hexafluoruro
 
 0:41:25.100,0:41:29.780
-en un gas, estaríamos hasta el arroyo. Pero esto es
-uno de estos pequeños milagros de la naturaleza.
+gaseoso, estaríamos fastidiados. Pero este es uno de esos
+pequeños milagros que se producen en la naturaleza.
 
 0:41:29.780,0:41:33.370
-Así que usted puede sentarse y libra torio con
-fluoruro de todo lo que quieras. No va a cambiar.
+Así que podemos juntar el torio y el flúor todo lo que 
+queramos; no va a cambiar de estado.
 
 0:41:33.370,0:41:39.020
-Se va a quedar en la solución. Sin embargo, el uranio
-va a salir como el hexafluoruro de uranio, un gas.
+Se va a quedar en disolución. Sin embargo, el uranio
+va a salir, en estado gaseoso, como hexafluoruro de uranio.
 
 0:41:39.020,0:41:42.690
-Bueno, ahora usted tiene que entrar en el núcleo
-sales. Por lo que llevar una corriente de sal núcleo
+Bueno, ahora hay que introducir el uranio en el núcleo.
+Por lo que llevamos un flujo de sales desde el núcleo
 
-0:41:42.690,0:41:47.810
-aquí y presentamos esta hexafluoruro de uranio
-aquí. Y ahora le pegas con un poco hidrógeno
-
-0:41:47.810,0:41:48.780
-gas.
+0:41:42.690,0:41:48.780
+hasta aquí y juntamos este hexafluoruro de uranio
+con un poco de hidrógeno elemental en estado gaseoso
 
 0:41:48.780,0:41:54.680
-El hidrógeno se dice en UF6, "Hey man, I
-quieren esos dos átomos de flúor mucho peor
+El hidrógeno le dice al UF6, "¡Hey!
+quiero a esos dos átomos de flúor mucho más que tú
 
 0:41:54.680,0:42:01.380
-que usted. "Ahh! UF6 se atasque arriba en el
-estación de servicio, tiene que renunciar a dos átomos de flúor
+"Ahh! y el UF6 se queda en la parte superior de la
+“estación de servicio”, y tiene que renunciar a dos átomos de flúor
 
 0:42:01.380,0:42:05.460
-que usted conoce y cae de nuevo a partir de UF6 en UF4. Whoop!
-Es en la solución ahora.
+Por tanto el UF6 se convierte en UF4. y ¡Plof!
+Se ha convertido en disolución (líquida).
 
 0:42:05.460,0:42:11.210
-Así que ahora, que acaba de repostar la sal central
-con tetrafluoruro de uranio. Buen truco, ¿eh?
+Así que ahora, hemos reabastecido la sal del núcleo
+con tetrafluoruro de uranio. Un buen truco, ¿eh?
 
 0:42:11.210,0:42:15.670
-Estás continuamente recarga de combustible de su reactor,
-todo el tiempo. Uno siempre está la recarga de combustible
+Estamos continuamente recargando de combustible el reactor.
+Recargamos con nuevo combustible el núcleo
 
 0:42:15.670,0:42:21.980
-núcleo con nuevos uranio-233. Y el uranio-233
-se está consumiendo, pero los neutrones de la
+con uranio-233. Y, al mismo tiempo estamos
+consumiéndolo, pero, gracias a los neutrones procedentes
 
 0:42:21.980,0:42:23.770
-fisión están haciendo nuevos de uranio-233.
+de la fisión estamos fabricando nuevo uranio-233.
 
 0:42:23.770,0:42:29.820
-Bien, bien fuera de la parte superior de esta columna viene
-ácido fluorhídrico - HF. Le enviaremos por que
+Así que, bien alejado de la parte superior de esta columna
+tenemos ácido fluorhídrico “HF”, que enviamos
 
 0:42:29.820,0:42:34.490
-a esta unidad electrolizador. Y lo golpeó
-con algo de electricidad y el HF se divide
+hacia esta unidad electrolizadora. Le aplicamos 
+una corriente eléctrica y el HF se dividirá
 
 0:42:34.490,0:42:39.950
-en gas de hidrógeno y flúor gaseoso. Y adivinen
-lo que - ahora que ha regenerado sus dos reactivos.
+en gas de hidrógeno y flúor gaseoso. ¡Y adivinen!
+Ahora se han regenerado los dos reactivos que necesitamos.
 
 0:42:39.950,0:42:44.770
-Por lo que su flúor y el hidrógeno están listos
-para el servicio de nuevo para hacer que esto funcione truco.
+Por lo que el flúor y el hidrógeno estarán, de nuevo, listos
+para su misión: lograr que funcione el truco.
 
 0:42:44.770,0:42:48.410
-Esta es una pieza en realidad se puede comprar fuera de la
-estante. Así que esto es muy bueno! Este es un plantel
+Este componente, en realidad, se puede comprar en la industria.
+Así que ¡es fantástico! Es un ciclo cerrado
 
 0:42:48.410,0:42:55.410
-ciclo de cómo llegar a su nuevo combustible de aquí
-en aquí. Usted está esencialmente la conversión de torio
+para conseguir que nuevo combustible vaya desde aquí
+hacia aquí. Estamos, en esencia, convirtiendo torio en energía
 
 0:42:56.650,0:43:00.880
-en energía. Por primera vez en U233, y luego en
-de energía por fisión. Ahora, por supuesto que está
+Primero en U233, y luego en energía a través de su fisión.
+Ahora, por supuesto, estamos consumiendo un poco de torio
 
 0:43:00.880,0:43:05.150
-con un poco de torio hacer esto. Por lo que necesita
-tener una alimentación poco de fluoruro de torio,
+para lograr hacer esto. Por lo que necesitamos
+suministrar un poco de fluoruro de torio,
 
 0:43:05.150,0:43:09.090
-que necesita para alimentar a unos torio nuevo en el
-manta para compensar el torio que se
+necesitamos un poco de nuevo torio en la zona de cobertura
+para compensar el torio que se ha consumido.
 
 0:43:09.090,0:43:11.070
-consumir. Sin embargo, una reacción muy eficiente.
+Sin embargo, es una reacción muy eficiente.
 
 0:43:11.070,0:43:14.370
-Permítame que le presente a una típica nuclear
-reactor.
+Permítame que les presente un reactor nuclear típico:
 
 0:43:14.370,0:43:18.480
-Planta Watts Bar en Tennessee, que he hecho
-¿Has estado en este reactor nuclear antes. Este
+la Planta de Watts Bar en Tennessee. De hecho,
+yo he estado en esta planta anteriormente. 
+
 
 0:43:18.480,0:43:23.080
-tiene la distinción de ser la nueva nuclear
-reactor en los Estados Unidos. Esto vino en línea
+Tiene la distinción de ser la central nuclear más nueva
+de los Estados Unidos. Se conectó a la red por primera vez
 
 0:43:23.080,0:43:28.460
-en el año 1996.
-Una gran presión de agua la vasija del reactor. 150
+Dispone de una gran vasija del reactor de agua a presión.
 
 0:43:28.460,0:43:33.400
-ambientes, el combustible nuclear sólido. La fisión es
-sucediendo. El agua se bombea a través de. Es
+De 150 atmósferas, y combustible nuclear en estado sólido.
+Cuando se produce la fisión el agua se bombea hacia el reactor.
 
 0:43:33.400,0:43:37.050
-cada vez más caliente. Esta agua pasa a través de
+Y por tanto se va calentando. Este agua pasa a través de
 un generador de vapor y en otro circuito de agua
 
-0:43:37.050,0:43:41.900
-vapor de agua se ha elevado. Se va a la turbina,
-hace girar la turbina, que hace girar el generador
+0:43:37.050,0:43:43.200
+el vapor se dirige hacia la turbina. Y hace girar la turbina,
+que mueve el generador que produce la electricidad.
 
-0:43:41.900,0:43:43.200
-produce electricidad.
-
-0:43:43.200,0:43:46.390
-Esta es la turbina de vapor. Y cuando estaba
-en Watts Bar esta es la parte que me tengo que ir
-
-0:43:46.390,0:43:46.970
-ver.
+0:43:43.200,0:43:46.970
+Esta es la turbina de vapor. Cuando estuve en Watts Bar
+esta es la parte que tuve que visitar.
 
 0:43:46.970,0:43:53.970
-No había un Skitch de polvo en cualquier cosa!
-Ahora bien, si alguno de ustedes ha estado en una planta de carbón
+No había nada de polvo en ningún sitio!
+Ahora bien, si alguno de vosotros ha estado en una planta de carbón
 
 0:43:54.500,0:43:59.410
-y he visto la misma turbina de vapor, ya que
-utilizan la misma tecnología en una planta de carbón. Lo
+y ha visto la misma turbina de vapor, ya que
+allí se utilizan la misma tecnología.
 
 0:43:59.410,0:44:06.410
-hay nada como esto. Una planta de carbón es sucio,
-que huele mal, es sucio, y goteo de.
+No tiene nada que ver con esto. Una planta de carbón es sucia,
+huele mal, y chorrea suciedad por todas partes.
 
 0:44:06.900,0:44:10.370
-Esto era casi un antiséptico en la forma
-que se vea.
+En cambio, esto era casi antiséptico en apariencia.
 
 0:44:10.370,0:44:10.620
-¿Es necesario para eso?
+¿Es necesario que sea así?
 
 0:44:10.370,0:44:17.370
-No se. Así que estoy de pie junto a esta
-de la máquina. Realmente no se puede ver a una persona, sobre
+No lo se. Así que yo estuve de pie aquí, junto a esta
+máquina. En esta foto no se ve a ninguna persona, 
 
 0:44:17.840,0:44:19.550
-yay alta aquí.
+pero aproximadamente sería así de alta.
+
+
+
+
+
+
+
+
 
 0:44:19.550,0:44:25.860
-Esta es la turbina de baja presión. Y esta
-es girar el eje que se está ejecutando este.
+Esta es la turbina de baja presión. Y produce la fuerza
+que hace que gire el generador.
 
 0:44:25.860,0:44:29.960
-Ahora bien, en frente de este tipo es esta pequeña cosa
-llama la turbina de alta presión. Y usted
+Ahora bien, en el extremo de éste hay otro relativamente
+pequeño, que se llama turbina de alta presión.
 
 0:44:29.960,0:44:30.700
-en realidad no puede verlo. Usted ve los tres grandes
-turbinas de baja presión, pero usted no ve la
+No se ve en la foto. Se pueden ver las tres grandes
+turbinas de baja presión, pero no se ve la
 
 0:44:30.700,0:44:32.090
 turbina de alta presión. La turbina de alta presión
-es Little Bitty. Es como un tercio del tamaño
+es pequeñita. Es como un tercio del tamaño
 
 0:44:32.090,0:44:37.200
 del generador. La turbina de alta presión
-hace cerca de dos tercios del par que es
+está produciendo alrededor de dos tercios del par que
 
 0:44:37.200,0:44:38.310
-girar el eje.
+hace girar el eje.
 
 0:44:38.310,0:44:42.490
-Y las turbinas de baja presión están haciendo sobre
-un tercio del par que está convirtiendo la
+Y las turbinas de baja presión están haciendo alrededor
+de un tercio del par que está girando el eje
 
 0:44:42.490,0:44:46.790
-eje. Este chico está haciendo casi todos los
-el trabajo y los grandes, los grandes, grandes son
+Este pequeño está haciendo casi todos
+el trabajo, mientras que los grandes, 
 
 0:44:46.790,0:44:47.930
-no hacer nada.
+casi no hacen nada.
 
 0:44:47.930,0:44:51.740
-Cuando el vapor entra en la presión alta
-de la turbina, que es denso. Tiene una gran cantidad de energía
+Cuando el vapor entra en la turbina de alta presión
+es muy denso. Tiene una gran cantidad de energía
 
 0:44:51.740,0:44:55.980
-y un pequeño volumen. Pero luego lo dejas volar
-a medida que atraviesa la turbina de alta presión
+y un volumen pequeño. Pero cuando lo liberas,
+a medida que atraviesa la turbina de alta presión,
 
 0:44:55.980,0:44:58.000
-y se convierte en vapor de baja presión.
+se convierte en vapor de baja presión.
 
 0:44:58.000,0:45:02.670
-Es por eso que estas máquinas tienen que ser tan maldito
-grande. Debido a que el vapor que se les calefacción
+Por eso estas máquinas tienen que ser tan gigantescas.
+Porque el vapor que las mueve
 
 0:45:02.670,0:45:07.200
-ya ha perdido la gran mayoría de los
-la energía que va a renunciar.
+ya ha perdido la mayor parte de la energía
+que va a entregar.
 
 0:45:07.200,0:45:12.380
-Este es el mismo reactor, la vasija del reactor
-aquí es donde todas las barras de control deslizante
+Este es el reactor, la propia vasija del reactor.
+Aquí es donde todas las barras de control se deslizan
 
 0:45:12.380,0:45:16.840
-dentro y fuera del núcleo. Y luego está este
-cuatro generadores de vapor, tan grande si no más grande
+dentro y fuera del núcleo. Y luego están estos cuatro
+grandes generadores de vapor, tan grande si no más,
 
 0:45:16.840,0:45:20.190
-de los reactores y que también tienen que operar
-a estas presiones muy altas.
+que el reactor. Y también tienen que funcionar
+a esas presiones tan elevadas.
 
-0:45:20.190,0:45:27.190
-Hay cuatro de ellos. Miren eso. Uno, dos,
-tres, cuatro, cinco, seis, siete, ocho. Grande
-
-0:45:27.430,0:45:28.280
-las tuberías.
+0:45:20.190,0:45:28.280
+Hay cuatro en total. Miren esto: uno, dos, tres, 
+cuatro, cinco, seis, siete, ocho... grandes tuberías
 
 0:45:28.280,0:45:32.630
 El número uno de la gente se preocupe por accidente
