@@ -28,9 +28,9 @@
 </div>
 
 <div class="text">
-ワシントンDCで開かれた第三回トリウム・エナジー・アライアンス会合での講演 <a href="http://thoriumenergyalliance.com">ThoriumenEnergyAlliance.com
-</a>
+亀井敬史博士は、福島第一原子力発電所事故について述べるとともに、トリウム溶融塩炉を導入することによる日本の復興ビジョンについて概説しました。
 </div>
+
 
 <div class="space">&nbsp;</div>
 
@@ -40,6 +40,12 @@
 
 </div>
 
+<div class="space">&nbsp;</div>
+
+<div class="text">
+ワシントンDCで開かれた第三回トリウム・エナジー・アライアンス会合での講演 <a href="http://thoriumenergyalliance.com">ThoriumenEnergyAlliance.com
+</a>
+</div>
 
 <div class="nothing">&nbsp;</div>
 <div class="nothing">&nbsp;</div>
