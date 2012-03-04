@@ -49,7 +49,7 @@ de su energía. Ambos son muy poco eficientes.
 
 A presiones normales, el agua hierve a 100 grados centígrados. Esto no es suficiente para generar electricidad con eficacia
 
-Por lo tanto, los reactores refrigerados por agua tienen que funcionar a más de 70 atmósferas de presión
+Por lo tanto, los reactores refrigerados por agua tienen que funcionar a más de 70 atmósferas de presión.
 
 Por tanto, es necesario introducir el reactor en una vasija a presión.
 
@@ -57,7 +57,7 @@ La principal preocupación sería una accidente ...
 
 en el que se perdiera la presión a 300 grados celsius
 
-el vapor saldría disparado. Su volumen aumentaría aproximadamente
+ya que el vapor saldría disparado. Su volumen aumentaría aproximadamente
 por un factor de 1.000. Si no se fuera capaz introducir
 
 refrigerante al combustible del reactor, éste puede llegar a
@@ -73,10 +73,10 @@ estable, pero no muy bueno transfiriendo calor.
 Si se perdiera la presión, se perdería el
 
 agua en estado líquido y, al poco tiempo, el combustible se derretiría y
-se liberarían productos radioactivos procedentes de la fisión a la misma
+se liberarían productos radioactivos procedentes de la fisión a la misma.
 
 Por lo que disponen de una serie de sistemas de emergencia
-diseñados para mantener siempre el núcleo sumergido en agua
+diseñados para mantener siempre el núcleo sumergido en agua.
 
 Hemos visto el fallo de este sistema en Fukushima
 Daiichi. Se disponía de varios generadores diesel redundantes,
@@ -100,10 +100,10 @@ No se utiliza agua para refrigerarlo ni tampoco se utilizan
 combustibles sólidos. Se basa en utilizar sales de flúor
 
 como combustible nuclear. Es preciso alcanzar 400 grados Celsius
-para que llegue a fundirse
+para que llegue a fundirse,
 
-Pero, en cambio, resulta ideal
-para generar energía en un reactor nuclear. En ello reside
+pero, en cambio, resulta ideal
+para generar energía eléctrica en un reactor nuclear. En ello reside
 
 la verdadera "magia" - no se tiene que alcanzar una
 elevada presión. Tampoco es necesario utilizar agua
@@ -231,8 +231,6 @@ Debido a que es muy abundante, nunca vamos a tener escasez de este elemento.
 
 Simplemente, es demasiado común.
 
-En nuestra página de Facebook, el 87% de los usuarios son hombres y
-aproximadamente un 13% mujeres.
 </div>
 
 
