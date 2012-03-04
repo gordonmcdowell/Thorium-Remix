@@ -1582,427 +1582,419 @@ neutrones termales que con los rápidos
 
 
 
-
-
-
-
 0:31:50.070,0:31:55.039
 Esta zona de aquí representa las secciones cruzadas
 De los neutrones rápidos ampliadas 25 veces,
 
 0:31:55.039,0:32:01.389
-porque si no apenas se pueden ver, y yo he volado
-que por un factor 25. Puedes ver algunas proporciones
+porque si no apenas se pueden ver.
+Aquí podemos ver sus proporciones.
 
 0:32:01.389,0:32:05.269
-aquí. Ahora, ¿qué significan estos colores es el rojo
-significa que va a absorber los neutrones
+El color rojo muestra la propensión a absorber neutrones
 
 0:32:05.269,0:32:08.369
-y el azul significa que va a absorber
-el neutrón y la fisión.
+y el color azul muestra su propensión a fisionarse
 
 0:32:08.369,0:32:12.159
-Lo que usted quiere, desea azul. Azul gruesa es
-bueno. Bueno, mucho azul, porque cuando
+Lo que deseamos es que la zona azul sea lo más grande posible
+Por tanto, zonas azules grandes son buenas
 
 0:32:12.159,0:32:14.739
-afectó a estos tipos con neutrones, se les quiere
-fisión.
+Porque queremos que al ser colisionados con neutrones
+Se produzca la fusión
 
 0:32:14.739,0:32:20.690
-Mira plutonio, wow, gran objetivo, ¿no?
-Sin embargo, un tercio del tiempo que sólo va
+Mirad el plutonio, wow, tiene un gran objetivo, ¿no?
+Sin embargo, un tercio de las veces no va a fisionarse
 
 0:32:20.690,0:32:26.330
-para comer el neutrón por fisión térmica. Eso es
-no es bueno. Por otro lado, en la fisión rápida,
+Sino que va a absorber un neutrón en la zona termal.
+Esto no es bueno. Pero si miramos la fisión rápida,
 
 0:32:26.330,0:32:32.700
-mira eso, wow, iba a la fisión casi
-todo el tiempo. Nos gusta lo que fue, pero mira cómo
+mirad esto, wow, va a fisionarse casi siempre
+Deseamos que sea así, pero, sin embargo, mirad 
 
-0:32:32.700,0:32:37.499
-muchos los pequeños puntos que van a necesitar
-que se suman a este tamaño. Vamos a necesitar
+0:32:32.700,0:32:38.429
+cuántos de estos pequeños puntos vamos a necesitar
+para alcanzar este otro tamaño. Vamos a necesitar un montón.
 
-0:32:37.499,0:32:38.429
-un montón.
+
+
+
 
 0:32:38.429,0:32:45.119
-¿Cuánta energía se los neutrones tienen que
-que justo el combustible nuclear? Cómo la energía
+¿Cuánta energía tienen los neutrones que hacemos
+Colisionar con el combustible nuclear?
 
 0:32:45.119,0:32:50.389
-tenían y cuántos neutrones se
-te saca a patadas cuando lo justo a la fisión?
+En este gráfico podemos ver cuántos neutrones se
+Obtienen cuando colisionamos un neutrón con un núcleo?
 
 0:32:50.389,0:32:56.070
-Estos puntos Little Bitty, que aparecen en este
-parte de la curva. Esta es la región de rápido,
+Veis estos puntos que aparecen en este lado del gráfico
+Esta es la zona de los neutrones rápidos,
 
 0:32:56.070,0:32:59.749
-esta es la región termal. En la térmica
-región, mira quién está haciendo lo mejor, mira
+Y esta otra es la región termal.
+En la región termal mirad quién lo hace mejor:
 
 0:32:59.749,0:33:06.749
-el uranio-233, alrededor de 2,3. Mira el plutonio,
-es que en el fondo mínimo de dos ahí mismo. Eso es lo que
+el uranio-233, alrededor de 2,3. Mirad el plutonio,
+que se sitúa por debajo de 2 en esta zona.
 
 0:33:09.169,0:33:14.999
-hace que no se puede quemar el uranio-238
-en un reactor térmico de espectro como un agua
+Esto es lo que impide que no se pueda quemar el uranio-238
+en un reactor de espectro termal como son los 
 
 0:33:14.999,0:33:17.220
-reactor refrigerado como un CANDU o como un agua
-reactor.
+refrigerados por agua, como un CANDU o como un PWR o un BWR.
+
 
 0:33:17.220,0:33:23.129
-Usted simplemente no puede hacerlo. Por lo tanto se ven en ese
-y digo, hombre, no podemos quemar uraniun-238
+Sencillamente no puemos hacerlo. Por lo tanto miraron este
+gráfico y pensaron, no podemos quemar uraniun-238
 
 0:33:23.129,0:33:26.789
 en el reactor térmico. Simplemente no se puede hacer.
-Estos chicos no se desanima, se dijo: "Bueno,
+Pero no se desanimaron, y pensaron: "Bueno,
 
 0:33:26.789,0:33:28.799
-esto es lo que vamos a hacer, vamos a construir un
-reactores rápidos, porque mira lo bien que se
+esto es lo que vamos a hacer, vamos a construir
+reactores rápidos, porque observad lo bien que se
 
 0:33:28.799,0:33:33.609
-en la región de rápido, wow, se pone por encima de dos,
-tres, wow! Esto es realmente bueno! "Este fue
+comportan en la zona rápida, se sitúan por encima de dos,
+incluso tres, ¡wow! ¡Esto está muy bien! Esto fue
 
-0:33:33.609,0:33:39.190
-la génesis de la idea de los reactores reproductores rápidos
-reactor, un reactor que se basó en que
+0:33:33.609,0:33:42.320
+la génesis de la idea de los reactores regeneradores rápidos
+una tecnología basada en neutrones rápidos y plutonio como fuel
 
-0:33:39.190,0:33:42.320
-neutrones rápidos y combustible de plutonio.
+
+
 
 0:33:42.320,0:33:47.480
-Sin embargo, el uranio-233 en el otro lado, bien,
-se hace un poco mejor en el ayuno, pero Dang
+Sin embargo, el uranio-233, por otro lado, vale,
+lo hace un poco mejor en la zona rápida, pero
 
 0:33:47.480,0:33:50.019
-sigue siendo la derecha bastante bien en la térmica.
+lo sigue haciendo bastante bien en la térmica.
 
 0:33:50.019,0:33:55.779
-Grandes objetivos, mucho más fácil, todos los que están
-torio empujando, dijo, "Nos gusta termal.
+Grandes objetivos, mucho más sencillo, todos los que
+Creían en el torio dijeron, "Nos gusta la zona termal.
 
 0:33:55.779,0:33:59.710
-es el tipo de reactor que queremos construir ", y
-todos los que están empujando el plutonio, dijo, "No,
+este es el tipo de reactor que queremos construir", y
+todos los que creían en el plutonio, dijeron:
 
 0:33:59.710,0:34:03.019
-no, no, queremos un reactor rápido, esa es la
-la única forma de hacerlo ".
+No, no, queremos un reactor rápido, esa es la
+única forma de hacerlo".
 
 0:34:03.019,0:34:06.480
-¿Qué es lo que realmente hacemos, no lo hizo bien
-uno de ellos. En realidad, todos los reactores
+¿Qué es lo que realmente hicimos? Ninguno de los dos
+En realidad, todos nuestros reactores
 
 0:34:06.480,0:34:12.660
-hoy en día se están quemando el uranio-235, que es como
-platino en llamas, muy, muy, muy raro. Nosotros
+hoy en día están quemando uranio-235, que es tan
+escaso como el platino, muy, muy, muy raro.
 
 0:34:12.660,0:34:17.510
-no tener uno de estos caminos en última instancia.
-Esta fue la gran división en el principio,
+No emprendimos ninguno de estos dos caminos.
+Esta era la gran división que existió en el principio:
 
 0:34:17.510,0:34:19.960
-se va a torio o se va a
-se plutonio.
+se iba a ir hacia el torio o
+se iba a ir hacia el plutonio.
 
 0:34:19.960,0:34:25.120
-Wigner no tuvo éxito en convencer a los
-mayor parte de la comunidad nuclear para tomar la
+Wigner no tuvo éxito en convencer a la
+mayoría de la comunidad nuclear para tomara
 
 0:34:25.120,0:34:30.470
-enfoque de torio. Ellos por lo general, dijo,
-"Vamos a ir a la ruta del plutonio". Uno
+la opción del torio. Ellos, por lo general, dijeron:
+"Vamos a ir por el camino del plutonio".
 
 0:34:30.470,0:34:35.590
-de las razones por las que se habían desarrollado
-una gran cantidad de conocimiento sobre el plutonio
+Una de las razones era que habían acumulado
+un gran conocimiento del plutonio
 
 0:34:35.590,0:34:40.280
-del programa de armas. Habían hecho el
-cosas. Que había trabajado con su química.
+debido al programa armamentístico. Habían hecho las
+bombas, habían trabajado sobre su química.
 
 0:34:40.280,0:34:46.860
-Habían hecho el combustible fuera de él. Que vayan, "Tenemos
-este. Torio? Realmente no hemos metido con
+Habían hecho combustible a partir de él. Pensaron: 
+"¿Trabajar con el Torio? Realmente no estamos familiarizados con él
 
 0:34:46.860,0:34:49.960
-torio. Sería como empezar de nuevo. "
+Sería como empezar de nuevo."
 
 0:34:49.960,0:34:55.000
-Que la propensión de lo que había que ir y hacer lo
-usted ya sabe cómo hacerlo. El plutonio
+La tendencia era ir hacia lo que uno ya conoce
+y ya sabe cómo utilizarlo.
 
 0:34:55.000,0:35:01.080
-era mucho mejor desarrollado que el torio.
-Por lo tanto, Wigner no fue muy exitoso en
+El plutonio se había desarrollado más que el torio.
+Por lo tanto, Wigner no tuvo mucho exitoso al
 
 0:35:01.080,0:35:06.990
-lo convierte en la comunidad nuclear.
-Él hizo un converso - Alvin Weinberg.
+tratar de convencer a la comunidad nuclear.
+Pero convenció a una persona: - Alvin Weinberg.
 
 0:35:06.990,0:35:10.000
-Él era su estudiante en el Proyecto Manhattan.
+Él era su estudiante durante el Proyecto Manhattan.
 
 0:35:10.000,0:35:14.650
-Weinberg lo consiguió. Se puso el cuadro grande. "Hemos
-necesidad de torio. Necesitamos reactor de torio. Nosotros
+Weinberg lo consiguió. Tuvo la suficiente visión de conjunto.
+"Necesitamos el torio. Necesitamos un reactor de torio.
 
 0:35:14.650,0:35:19.500
-necesidad de combustible líquido. Yo lo veo. Veo lo que hemos
-tiene que hacer ". Weinberg recibió una oferta de trabajo que se va
+Y necesitamos el combustible líquido. Comprendo lo que hemos
+de hacer". Weinberg recibió una oferta de trabajo para ser
 
 0:35:19.500,0:35:25.370
 el director de Oak Ridge National Labs en
-1955. Tenía 35 años de edad. Él era un año menor
+1955. Tenía 35 años de edad. Él era un año menor que yo
 
 0:35:25.370,0:35:30.090
-que yo. Estoy sentado ahí va: "Amigo,
-Weinberg, cuando tenía mi edad estaba corriendo Roble
+Estoy sentado aquí… y va el amigo Weinberg cuando tenía mi edad
+ya estaba estaba dirigiendo Oak Ridge National Labs.
 
 0:35:30.090,0:35:34.200
-Ridge National Lab. ¿Qué estoy haciendo? Estoy en
-un sótano en alguna parte. "
-
-0:35:34.200,0:35:35.130
-[Risas]
+¿Qué estoy haciendo yo a su edad? Estoy aquí en
+un sótano en alguna parte.
 
 0:35:35.130,0:35:37.890
 Estoy bromeando.
 
-0:35:37.890,0:35:38.810
-[Risas]
+
+
+
+
+
+
 
 0:35:38.810,0:35:43.420
-No es el sótano de mi mamá y me siento mejor.
+No es el sótano de mi madre, así que ya me siento mejor.
 
 0:35:43.420,0:35:48.460
-, Así que va a Oak Ridge y Wigner, dijo, "Alvin
-tienes que ir allí porque tienes
+Así que Wigner le dijo: "Alvin, tienes que ir allí porque
+Tienes que intentar conseguir hacer eso con el torio
 
 0:35:48.460,0:35:53.490
-para ir a ver si se puede hacer este trabajo torio.
-Es así de importante. "Alvin lo tiene.
+Es MUY importante. Alvin lo comprendió.
 
 0:35:53.490,0:35:58.410
-Aquí era una cita de su libro. Él dijo: "Hasta
-entonces yo nunca había apreciado bastante el pleno
+Aquí hay una cita de su libro, donde dice: "Hasta
+entonces yo nunca había valorado suficientemente toda
 
 0:35:58.410,0:36:02.330
-importancia del obtentor. "Cuando él está hablando
-sobre criador que en realidad significa que el torio
+la importancia que tenía el regenerador." Cuando hablaba
+sobre el regenerador, en realidad, se estaba refiriendo
 
 0:36:02.330,0:36:08.750
-reactor. "Pero ahora me obsesioné con la
+al reactor de torio. "Pero ahora me obsesioné con la
 idea de que todo el futuro de la humanidad dependía
 
 0:36:08.750,0:36:14.710
-al obtentor. "La idea de que si no
-ir y acceder a las energías de torio, que estamos
+del regenerador." La idea de que si no
+se lograba acceder a la energía del torio, 
 
 0:36:14.710,0:36:18.180
-No vamos a hacer. No lo podemos hacer en
-el uranio-235.
+No se iba a conseguir. No lo podríamos hacer
+sobre la base del uranio-235.
 
 0:36:18.180,0:36:21.290
 Una de las primeras cosas que ocurrieron cuando
-llegó a Oak Ridge, la Comisión de Energía Atómica
+llegó a Oak Ridge, fue que la Comisión de Energía Atómica
 
 0:36:21.290,0:36:25.210
-lo llamó y le dijo: "¡Ya está en la
-reactor de negocios. Le estamos dando a todos los reactores
+lo llamó y le dijo: "Está usted acabado  en el negocio
+de los reactores. Le vamos a dar toda la investigación sobre reactores
 
 0:36:25.210,0:36:30.830
-trabajo para Argon National Labs en Chicago y
-ustedes no son parte de la oferta más ".
+al Argon National Labs en Chicago y
+ustedes no van a participar en ella nunca más".
 
 0:36:30.830,0:36:35.160
-Argon National Labs fue totalmente a su favor la
-plutonio reproductores rápidos. Que estaba allí todo
+El Argon National Labs habían tomado completamente el camino
+del plutonio y de los regeneradores rápidos.
 
 0:36:35.160,0:36:37.080
-Lo iba a hacer el criador de plutonio rápido.
+Todo lo que se hacía allí estaba relacionado con el plutonio
+Y los regeneradores rápidos.
 
 0:36:37.080,0:36:42.290
-De buenas a primeras, Weinberg era como, "Oh
-Dios mío! ¿Qué vamos a hacer? "Acerca de que
+De buenas a primeras, Weinberg pensó en aquel momento:
+"¡Oh, Dios mío! ¿Qué vamos a hacer?"
 
 0:36:42.290,0:36:47.750
-tiempo, la Fuerza Aérea, dijo, "La Armada ha construido
+En aquella época la Fuerza Aérea le propuso: "La Armada ha construido
 sus submarinos nucleares y el Ejército ha
 
 0:36:47.750,0:36:52.290
-venir y que han adoptado la misma tecnología
-como la Marina, la refrigeración por agua del reactor. Son
+adoptado la misma tecnología que la Marina,
+los reactores refrigerados por agua
 
 0:36:52.290,0:36:57.210
-haciendo lo suyo, pero quiere que la Fuerza Aérea
-para construir un bombardero de propulsión nuclear. "¿Eso
+pero la Fuerza Aérea quiere construir un bombardero de propulsión nuclear. "
 
-0:36:57.210,0:36:58.400
-sólo el sonido loco?
-
-0:36:58.400,0:36:58.800
-[Risas]
+0:36:57.210,0:36:58.800
+¿No parece una locura?
 
 0:36:58.800,0:37:00.840
-Era sólo absolutamente loco.
+Era una locura, sin duda.
 
 0:37:00.840,0:37:06.570
-Weinberg era un hombre práctico y me dijo:
-"Ja, bombardero de propulsión nuclear? Esta es probablemente
+Weinberg era un hombre práctico y me pensó:
+"Ja, ¿un bombardero de propulsión nuclear?
 
 0:37:06.570,0:37:09.150
-una idea muy tonta ".
+Probablemente sea una idea absurda".
 
 0:37:09.150,0:37:11.530
-Pero los militares tienen una gran cantidad de dinero, "no se
-que de repente me había convertido a la creencia
+Pero los militares tienen una gran cantidad de dinero, 
+"no porqué, de repente, me convertí en un creyente
 
 0:37:11.530,0:37:11.800
-en los aviones nucleares. Fue más bien se trataba de
-la única vía abierta para ORNL para continuar
+de los aviones nucleares. Más bien se trataba de
+la única vía abierta para que el ORNL continuara
 
-0:37:11.800,0:37:16.640
-en el desarrollo del reactor. Que el propósito era
-inalcanzable si no tonto no era tan importante. "
-
-0:37:16.640,0:37:17.870
-[Risas]
+0:37:11.800,0:37:17.870
+en el desarrollo de los reactores. Que el propósito fuera
+inalcanzable, o bien, absurdo, no era tan importante. "
 
 0:37:17.870,0:37:24.640
-"Un reactor de alta temperatura puede ser útil
-para otros fines, incluso si nunca hubiera impulsado
+"Un reactor de alta temperatura podría ser útil
+para otros fines, incluso aunque nunca llegara a propulsar
 
 0:37:24.640,0:37:26.410
-un avión. "Sabía que para que la nuclear
-trabajo avión, que no podían usar refrigeración por agua
+un avión." Sabía que para que un avión nuclear
+funcionara nunca podría utilizar reactores refrigerados por agua
 
 0:37:26.410,0:37:30.330
-reactores. No podían usar la presión alta
-reactores. No podían usar sólida complicado
+No podían usar reactores de presiones elevadas.
+No podían utilizar complicados reactores de combustible sólido.
 
 0:37:30.330,0:37:35.620
-reactores de combustible. Tenían que haber algo
-que era tan hábil, que estaba tan segura, que
+Tenían que utilizar algo tan ingenioso, tan seguro,
 
 0:37:35.620,0:37:40.170
-era tan simple, que funciona a baja presión alta
-temperatura, y tenía todas las características que
+tan simple, que funciona a baja presión y alta
+temperatura, y que tuviera todas las características que
 
 0:37:40.170,0:37:41.950
-quería en él. Ellos ni siquiera saben lo que
-fue.
+requerían de él. Ni siquiera sabían lo que podría ser.
 
 0:37:41.950,0:37:48.260
-Si este programa nuclear avión no había sido
-establecido, el reactor de sales fundidas que
+Si este programa del avión nuclear no hubiera existido,
+el reactor de sales fundidas nunca se hubiera invendado
 
 0:37:48.260,0:37:54.880
-nunca se han inventado, porque es simplemente
-demasiado radical, demasiado diferente, demasiado completo
+porque es sencillamente demasiado radical, demasiado diferente,
+demasiado distinto
 
 0:37:54.880,0:38:00.380
-fuera del campo de juego de todo lo demás para
-lo que se llega a través de un proceso evolutivo
+a lo que ya existía. Y a él no se podría llegar
+a través de ningún proceso evolutivo de desarrollo.
+
+
+
+
+
+
+
+
 
 0:38:00.380,0:38:06.720
-el desarrollo. Tenía que ser forzados a la existencia
-por los requisitos que eran tan difíciles de
+Su invención sólo podría provenir de intentar alcanzar
+una serie de requisitos dificilísimos de conseguir…
 
 0:38:06.720,0:38:09.160
-lograr, y luego avión nuclear fue todo.
+y, en efecto, 
+el proyecto de un avión nuclear lo era.
 
 0:38:09.160,0:38:13.190
-Así que comenzó a trabajar en esta alta temperatura
-reactor, y aquí fue su idea. Este reactor
+Así que comenzó a trabajar en un reactor de alta temperatura
+y ésta fue su idea. Este reactor
 
 0:38:13.190,0:38:13.440
-se va a producir esta alta temperatura
-calor. Que iba a ser canalizado en un turbo
+va a producir esta elevada temperatura.
+Que iba a ser canalizada a un motor de turboreactor
 
-0:38:13.420,0:38:13.800
-motores a reacción. El aire iba a ser absorbido
-en comprimidos. Entonces, en lugar de un quemador de aquí
+0:38:13.440,0:38:13.800
+El aire iba a ser absorbido y comprimido
+Entonces, en lugar de tener un quemador aquí
 
 0:38:13.800,0:38:14.050
-que sería la inyección de combustible, como una combustión
-sistema, usted tendría que este intercambiador de calor
+por inyección de combustible tendríamos este
+intercambiador de calor con un reactor nuclear.
 
-0:38:13.980,0:38:14.230
-con un reactor. Esto haría que el aire caliente,
-entonces el aire se escape a través de la turbina
+0:38:14.050,0:38:14.230
+Esto haría que el aire caliente se escape a través de la
+turbina y que empuje al avión.
 
-0:38:13.980,0:38:14.230
-y que el empuje.
 
-0:38:13.980,0:38:14.230
-Por lo que es la misma idea que un motor a reacción, es
-sólo la fuente de calor fue el reactor en lugar
 
-0:38:14.020,0:38:16.060
-que la combustión del combustible. Recuerde que este
-fue inventado antes de que tuviéramos los misiles balísticos intercontinentales o cualquier otra cosa
+
+
+
+0:38:14.230,0:38:16.060
+Recuerde que esto se inventó antes de que tuviéramos los misiles balísticos intercontinentales o cualquier otra cosa similar
 
 0:38:16.060,0:38:20.040
-de esa manera. Este era un arma del fin del mundo. Si
-usted está volando esto en Rusia, es el
+Este era el arma del fin del mundo.
+Si esto volaba hacia Rusia, entonces sería el fin del mundo
 
 0:38:20.040,0:38:23.890
-fin del mundo. Por lo que ni siquiera sabía
-¿Qué tipo de reactor que sería, y
+Por lo tanto, ni siquiera sabían
+que tipo de reactor sería, y
 
 0:38:23.890,0:38:27.040
-comenzó a trabajar y se le ocurrió la fusión
-sal concepto.
+se comenzó a trabajar y sobrevino 
+la idea de las sales fundidas.
 
 0:38:27.040,0:38:30.550
-No sabía si iba a funcionar, por lo que este
-construyó esta prueba de principio del reactor, denominado
+No sabían si iba a funcionar, por lo que se
+construyó esta prueba de concepto del reactor, denominada
 
 0:38:30.550,0:38:35.720
-el Reactor Experiment aeronaves. Hicieron circular
-la sal con flúor líquido en los tubos de
+Aircraft Reactor Experiment (ARE). Hicieron circular
+la sal de fluoruros líquidos a través de estos tubos
 
 0:38:35.720,0:38:38.230
-producir dos y medio de megavatios de energía térmica
-el poder.
+Para producir 2,5 megavatios de energía térmica
+
 
 0:38:38.230,0:38:44.420
 El xenón es un gas. ¿Qué sucede con los gases en un
-líquido. Los productos de fisión gaseosos de xenón
+líquido. Los productos de fisión gaseosos como el xenón
 
 0:38:44.420,0:38:45.470
-acaba de llegar la derecha de la sal.
+Simplemente son explusados de la sal.
 
 0:38:45.470,0:38:50.690
-¿Te imaginas si lo que sucedió con Wigner pobres
-en su reactor de Washington pasó a la
+¿Te imaginas si lo que sucedería al pobre Wigner
+si su reactor de Washington
 
 0:38:50.690,0:38:54.930
-amigo que vuelan a Rusia? Él sería como, "Este
-les habla su capitán. Nosotros vamos a tener
+Hubiera llegado a propulsar el avión del tipo que iba volando hacia Rusia? Podría ser algo como esto: "les habla su capitán…
 
 0:38:54.930,0:38:58.570
-a realizar un aterrizaje de emergencia en Siberia.
-Xenon nivel se está poniendo un poco demasiado alta
+Vamos a realizar un aterrizaje de emergencia en Siberia.
+Ya que el nivel de Xenon se está elevando mucho
 
 0:38:58.570,0:39:02.330
-en el reactor de nuevo allí, así que sólo vamos
-para establecer en la tundra aquí durante nueve horas
+así que vamos a aterrizar en la tundra,
+allí mismo, durante nueve horas
 
 0:39:02.330,0:39:07.470
-mientras que la edad de xenón va a venir abajo.
-Vamos a encender y despegar en breve. "
+Hasta que el xenon comience a descender.
+Luego vamos a encender y despegar en breve. "
 
 0:39:07.470,0:39:08.390
 Ya sabes, quiero decir que no va a funcionar.
