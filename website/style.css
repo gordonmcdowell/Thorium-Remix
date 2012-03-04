@@ -104,3 +104,8 @@ ul.tabs { list-style-type: none; padding: 0 0 0 0; margin: 0; 	font-family: Aria
 ul.tabs li { float: right; padding: 0; margin: 0; padding-top: 0; color: #97c0e6;  }
 ul.tabs li a { display: block; padding: 0 10px; text-decoration: none; color: #97c0e6; }
 ul.tabs li a:hover { color: #ff0; background-color:#442e29; }	
+
+ul.language-tabs { list-style-type: none; padding: 0 80px 0 0; margin: 0; 	 }
+ul.language-tabs li { float: right; padding: 0; margin: 0; padding-top: 0; color: #97c0e6;  }
+ul.language-tabs li a { display: block; padding: 0 10px; text-decoration: none; color: #97c0e6; }
+ul.language-tabs li a:hover { color: #ff0; background-color:#442e29; }	

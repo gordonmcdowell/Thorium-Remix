@@ -297,6 +297,15 @@ If I've missed your image or video asset in this list, contact me and I will add
 <font style="white-space:nowrap;">private contact: <a href="mailto:THORIUMREMIX@GMAIL.COM">email</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font> <font style="white-space:nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public contact: <a href="http://www.facebook.com/ThoriumRemix">facebook</a> <a href="http://www.youtube.com/user/thoriumremix">youtube</a> <a href="http://twitter.com/#!/thoriumremix">twitter</a> <a href="http://www.reddit.com/r/ThoriumRemix/">reddit</a></font>
 </div>
 
+<ul class="language-tabs">
+<li><a href="/es/">spanish</a></li>
+<li><a href="/lv/">latvian</a></li>
+<li><a href="/ja/">japanese</a></li>
+<li><a href="/de/">german</a></li>
+<li><a href="/fr/">french</a></li>
+<li id="Selected"><a href="/">english</a></li>
+<li><a href="/hr/">croatian</a></li>
+</ul>
 
 </div>
 </body>
