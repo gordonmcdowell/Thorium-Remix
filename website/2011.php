@@ -58,7 +58,7 @@ not be displaced by a competing reactor</strong>. To claim that light-water reac
 chosen because of their superior safety belied an ignorance of how the technology had
 actually evolved... the Army finally decided that even small light-water reactors were
 too difficult and costly to maintain, and they were all eventually decommissioned."
-&#8209;&#160;Alvin&#160;Wienberg&#160;("The&#160;Second&#160;Nuclear&#160;Era",&#160;1994)</blockquote>
+&#8209;&#160;Alvin&#160;Weinberg&#160;("The&#160;Second&#160;Nuclear&#160;Era",&#160;1994)</blockquote>
 
 <p>The LWR is the QWERTY keyboard's counterpart in reactor design – not
 optimal, yet the industry norm. Few today remember the alternate approach that was once actively investigated, the <strong>Thorium Molten Salt Reactor</strong> (Th-MSR). Today Thorium Molten Salt Reactor is frequently referred to as <strong>Liquid Fluoride Thorium Reactor</strong> (LFTR, pronounced "lifter").</p>
