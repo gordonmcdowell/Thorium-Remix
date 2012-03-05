@@ -147,7 +147,7 @@ Want to help but have more time than money? I also welcome creative and videogra
 <li><a href="/lv/">latvian</a></li>
 <li><a href="/ja/">japanese</a></li>
 <li><a href="/de/">german</a></li>
-<li><a href="/fr/">french</a></li>
+<li><a href="/fr/">français</a></li>
 <li id="Selected"><a href="/">english</a></li>
 <li><a href="/hr/">croatian</a></li>
 </ul>

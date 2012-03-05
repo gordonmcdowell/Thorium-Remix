@@ -322,7 +322,7 @@
 <li><a href="/lv/">latvian</a></li>
 <li id="Selected"><a href="/ja/">japanese</a></li>
 <li><a href="/de/">german</a></li>
-<li><a href="/fr/">french</a></li>
+<li><a href="/fr/">français</a></li>
 <li><a href="/">english</a></li>
 <li><a href="/hr/">croatian</a></li>
 
