@@ -1,0 +1,678 @@
+﻿0:00:07.420,0:00:11.290
+Fast jeder von uns ist Teil einer
+Gemeinschaft, sei sie groß oder klein,
+
+0:00:11.290,0:00:14.869
+und alle Gemeinschaften 
+haben ähnliche Bedürfnisse:
+
+0:00:14.869,0:00:16.920
+Sie brauchen Licht,
+sie brauchen Wärme,
+
+0:00:16.920,0:00:20.950
+sie brauchen Klimaanlagen.
+Menschen funktionieren nicht sehr gut,
+
+0:00:20.950,0:00:21.840
+wenn es zu heiß ist
+oder zu kalt.
+
+0:00:21.840,0:00:26.289
+Sie brauchen Lebensmittel, die wachsen,
+verteilt und sicher gelagert werden.
+
+0:00:26.289,0:00:31.000
+Müll muss einsammelt, entfernt
+und aufbereitet werden. 
+
+0:00:31.000,0:00:33.500
+Menschen müssen von einem Ort
+zum anderen kommen können –
+
+0:00:33.500,0:00:34.940
+und das möglichst schnell.
+
+0:00:34.940,0:00:38.639
+Für dies alles ist
+Energieversorgung die Grundlage.
+
+0:00:38.639,0:00:42.000
+Energie in Form von Elektrizität
+gibt uns Licht und Klima,
+
+0:00:42.000,0:00:45.710
+Energie in Form von Wärme hält uns warm,
+und Energie in chemischer Form ...
+
+0:00:45.710,0:00:49.000
+... liefert Kunstdünger und treibt
+Landwirtschaftsmaschinen und Verkehr an.
+
+0:00:49.000,0:00:52.000
+Ich habe 10 Jahre lang
+bei der NASA gearbeitet.
+
+0:00:52.000,0:00:56.430
+In der ersten Zeit dort habe ich mich
+sehr für Gemeinschaften interessiert.
+
+0:00:56.430,0:00:58.990
+Aber die Art von Gemeinschaft, die mich
+beschäftigt hat, war diese hier:
+
+0:00:58.990,0:01:03.920
+eine Mondkolonie. Sie hat die gleichen Bedürfnisse
+wie ein Gemeinwesen auf der Erde, 
+
+0:01:03.920,0:01:06.888
+aber ein paar
+sehr spezielle Einschränkungen.
+
+0:01:08.888,0:01:10.020
+Und wir müssen uns überlegen, wie wir eine solche
+spezielle Gemeinschaft mit Energie versorgen können.
+
+0:01:10.020,0:01:13.289
+Es gibt keine Kohle auf dem Mond,
+es gibt kein Öl.
+
+0:01:13.289,0:01:16.000
+Es gibt kein Erdgas.
+Es gibt keine Atmosphäre.
+
+0:01:16.000,0:01:17.800
+Es gibt auch keinen Wind.
+
+0:01:17.800,0:01:21.979
+Und die Solarenergie hat ein echtes Problem: Der
+Mond braucht einen Monat für eine Erdumkreisung.
+
+0:01:21.979,0:01:26.250
+Zwei Wochen lang gibt es keine Sonne, und
+die Solar-Paneele erzeugen keine Energie.
+
+0:01:26.250,0:01:29.790
+Genügend Energie für zwei Wochen
+in Akkus zu speichern,
+
+0:01:29.790,0:01:31.079
+ist schlicht nicht durchführbar.
+
+0:01:31.079,0:01:33.079
+Daher ist Kernenergie
+die einzige Möglichkeit.
+
+0:01:33.079,0:01:37.090
+Damals, im Jahr 2000, wusste ich nicht
+wirklich viel über Kernenergie.
+
+0:01:37.090,0:01:39.639
+Darum versuchte ich, möglichst alles
+über Kernenergie zu lernen,
+
+0:01:39.639,0:01:42.690
+wie wir sie heute einsetzen. Überall auf der
+Welt verwenden wir Wasser als Kühlmittel.
+
+0:01:42.690,0:01:45.829
+Das hat einige Vorteile,
+aber es hat auch viele Nachteile.
+
+0:01:45.829,0:01:48.170
+Wenn Sie Elektrizität erzeugen wollen,
+
+0:01:48.170,0:01:50.650
+müssen Sie das Wasser viel stärker erhitzen,
+als Sie es normalerweise können.
+
+0:01:50.650,0:01:54.170
+Unter Normaldruck siedet Wasser
+bei 100 Grad Celsius.
+
+0:01:54.170,0:01:57.879
+Das ist bei weitem nicht heiß genug,
+um effektiv Elektrizität zu erzeugen.
+
+0:01:57.879,0:02:01.229
+Darum müssen wassergekühlte Reaktor
+bei Drücken laufen, die sehr viel höher sind
+
+0:02:01.229,0:02:02.790
+als der normale Luftdruck.
+
+0:02:02.790,0:02:06.869
+Einige wassergekühlte Reaktoren
+arbeiten bei über 70 bar,
+
+0:02:06.869,0:02:10.580
+andere sogar bei einem
+Druck von 150 bar.
+
+0:02:10.580,0:02:14.070
+Das lässt sich nicht verhindern.
+Das muss man halt so machen,
+
+0:02:14.070,0:02:16.650
+wenn man mit einem wassergekühlten
+Reaktor Strom erzeugen will.
+
+0:02:16.650,0:02:20.390
+Und das bedeutet: Einen wassergekühlten
+Reaktor muss man als Druckbehälter bauen –
+
+0:02:20.390,0:02:25.120
+mit Stahlwandungen, die über 20 Zentimeter dick sind.
+Das hört sich schwer an? Das ist es auch!
+
+0:02:25.120,0:02:29.360
+Schlimm wird es bei einem Unfall
+mit Druckverlust im Reaktor.
+
+0:02:29.360,0:02:34.090
+Wenn Sie flüssiges Wasser bei 300 Grad Celsius haben
+und der Druck fällt plötzlich weg,
+
+0:02:34.090,0:02:37.190
+dann bleibt das Wasser nicht sehr lange flüssig:
+Es wird schlagartig zu Dampf!
+
+0:02:37.190,0:02:41.160
+Darum baut man wassergekühlte Reaktoren
+in großen, dicken Gebäuden aus Beton,
+
+0:02:41.160,0:02:42.480
+sogenannten Containments.
+
+0:02:42.480,0:02:45.640
+Das Containment soll den Wasserdampf aufnehmen,
+der aus dem Reaktor kommt,
+
+0:02:45.640,0:02:48.319
+wenn es einen Unfall mit Druckverlust gibt.
+
+0:02:48.319,0:02:52.010
+Wasserdampf braucht tausendmal mehr
+Volumen als flüssiges Wasser.
+
+0:02:52.010,0:02:56.200
+Daher ist das Containment sehr groß
+im Vergleich zum Reaktor.
+
+0:02:56.200,0:02:59.669
+Bei einem Druckverlust gibt es ein weiteres
+großes Problem, wenn das Wasser verdampft.
+
+0:02:59.669,0:03:04.439
+Ohne Notkühlung kann der Kernbrennstoff
+im Reaktor überhitzen und schmelzen.
+
+0:03:04.439,0:03:07.680
+Die heutigen Reaktoren verwenden
+Uranoxid als Brennstoff.
+
+0:03:07.680,0:03:11.420
+Das ist ein keramisches Material und
+verhält sich ähnlich wie die Keramik,
+
+0:03:11.420,0:03:16.160
+aus der wir Kaffeetassen oder Kochgeschirr
+machen oder Ziegel für den Kamin.
+
+0:03:16.160,0:03:18.820
+Sie sind chemisch stabil,
+aber keine guten Wärmeleiter.
+
+0:03:18.820,0:03:21.009
+Bei einem Druckverlust und
+einem Verlust des Kühlwassers ...
+
+0:03:21.009,0:03:24.609
+... werden die Brennelemente bald schmelzen und die
+radioaktiven Spaltprodukte freisetzen, die darin enthalten sind.
+
+0:03:24.609,0:03:28.620
+Die Herstellung eines festen Kernbrennstoffs ist
+eine komplizierte und teure Angelegenheit.
+
+0:03:28.620,0:03:31.670
+Außerdem verwenden wir nur weniger als 1 Prozent
+der Energie, die im Brennstoff enthalten ist.
+
+0:03:31.670,0:03:33.670
+Danach können die Brennelemente
+nicht länger im Reaktor bleiben.
+
+0:03:33.670,0:03:37.269
+Wassergekühlte Reaktoren stellen
+eine weitere Anforderung:
+
+0:03:37.269,0:03:40.239
+Sie müssen in der Nähe großer Wassermengen sein,
+damit der Dampf, den sie erzeugen,
+
+0:03:40.239,0:03:44.620
+gekühlt und kondensiert werden kann.
+Andernfalls können sie keinen Strom erzeugen.
+
+0:03:44.620,0:03:49.050
+Auf dem Mond gibt es aber keine Seen oder Flüsse.
+Und wenn Sie jetzt sagen, dass wassergekühlte Reaktoren ...
+
+0:03:49.050,0:03:54.249
+... für eine Mondkolonie doch wohl keine
+so gute Idee sind, würde ich Ihnen zustimmen.
+
+0:03:54.249,0:03:57.819
+Aber wissen Sie, ich hatte das Glück, etwas
+über eine andere Art von Kernenergie zu lernen,
+
+0:03:57.819,0:04:01.980
+die diese Probleme alle nicht hat, und zwar aus einem ganz
+einfachen Grund: sie arbeitet nicht mit Wasserkühlung, ...
+
+0:04:01.980,0:04:06.240
+... und sie arbeitet nicht mit festen Brennstoffen.
+Verblüffenderweise arbeitet sie mit Salz.
+
+0:04:06.240,0:04:09.439
+Eines Tages bei der Arbeit war ich im Büro
+eines Freundes und sah ein Buch in seinem Regal:
+
+0:04:09.439,0:04:13.839
+»Reaktoren mit Flüssigbrennstoffen«. Das interessierte mich,
+und ich fragte, ob ich es ausleihen könne.
+
+0:04:13.839,0:04:17.829
+Ich las über Forschungsarbeiten damals in den 1950er
+Jahren in den Vereinigten Staaten, die sich mit einem ...
+
+0:04:17.829,0:04:22.400
+Kernreaktor befassten, der nicht mit festem Brennstoff oder
+Wasserkühlung arbeitete und der die Probleme ...
+
+0:04:22.400,0:04:26.370
+eines wassergekühlten Reaktors nicht hatte.
+Der Grund dafür war sehr bestechend:
+
+0:04:26.370,0:04:29.669
+Er verwendete eine Mischung von
+Fluoridsalzen als Kernbrennstoff,
+
+0:04:29.669,0:04:32.910
+speziell die Fluoride von Lithium,
+Beryllium, Uran und Thorium.
+
+0:04:32.910,0:04:35.150
+Fluoride sind chemisch außerordentlich stabil.
+
+0:04:35.150,0:04:40.169
+Sie reagieren nicht mit Luft oder Wasser,
+Sie müssen sie auf 400 Grad Celsius aufheizen, ...
+
+0:04:40.169,0:04:42.479
+... um sie zum Schmelzen zu bringen,
+und das ist geradezu perfekt, ...
+
+0:04:42.479,0:04:45.249
+... um in einem Kernreaktor Strom zu erzeugen.
+
+0:04:45.249,0:04:48.810
+Und jetzt kommt der Clou: Diese Reaktoren
+brauchen nicht mit hohen Drücken zu arbeiten.
+
+0:04:48.810,0:04:50.680
+Und das ist der größte Unterschied.
+
+0:04:50.680,0:04:53.960
+Das bedeutet: Sie brauchen nicht in
+großen, schweren Stahlkesseln zu sein.
+
+0:04:53.960,0:04:57.530
+Sie brauchen kein Wasser als Kühlmittel,
+und es gibt nichts im Reaktor, ...
+
+0:04:57.530,0:05:00.220
+das – anders als Wasser –
+seine Dichte nennenswert verändert.
+
+0:05:00.220,0:05:02.770
+Darum kann das Containment um den Reaktor ...
+
+0:05:02.770,0:05:06.080
+sehr viel kleiner und enganliegend sein.
+Anders als die Festbrennstoffe, die schmelzen können, ...
+
+0:05:06.080,0:05:10.310
+... wenn sie nicht gekühlt werden, sind die
+flüssigen Fluoridbrennstoffe bereits geschmolzen –
+
+0:05:10.310,0:05:11.849
+und zwar bei einer viel, viel
+niedrigeren Temperatur.
+
+0:05:11.849,0:05:15.970
+Im Normalbetrieb gibt es einen kleinen Pfropfen
+hier am Boden des Reaktorbehälters.
+
+0:05:15.970,0:05:16.729
+Dieser Pfropfen besteht aus ...
+
+0:05:16.729,0:05:19.770
+... gefrorenem Salz.
+Er bleibt gefroren, ...
+
+0:05:19.770,0:05:21.979
+... weil kaltes Gas über die
+Außenseite des Rohres geblasen wird.
+
+0:05:21.979,0:05:26.669
+Falls bei einem Notfall der gesamte
+Strom im Kernkraftwerk ausfällt, ...
+
+0:05:26.669,0:05:27.820
+... kann das Gebläse nicht mehr blasen, ...
+
+0:05:27.820,0:05:31.700
+... der gefrorene Stopfen schmilzt,
+und der flüssige Fluoridbrennstoff im Reaktor ...
+
+0:05:31.700,0:05:33.539
+... läuft aus dem Behälter heraus ...
+
+0:05:33.539,0:05:36.370
+... durch die Leitung in einen anderen
+Tank hinein, den Auffangtank.
+
+0:05:36.370,0:05:40.150
+Das Innere des Auffangtanks ist auf
+maximale Wärmeabfuhr ausgelegt.
+
+0:05:40.150,0:05:44.389
+Das Salz wird passiv gekühlt,
+und die Hitze geht mit der Zeit zurück.
+
+0:05:44.389,0:05:48.340
+Bei wassergekühlten Reaktoren muss man das
+Kraftwerk im Allgemeinen mit Strom versorgen, ...
+
+0:05:48.340,0:05:52.529
+... um den Kühlkreislauf aufrechtzuerhalten und
+eine Kernschmelze wie in Japan zu verhindern.
+
+0:05:52.529,0:05:57.020
+Aber wenn bei diesem Reaktor der Strom ausfällt,
+fährt sich der Reaktor selbst herunter.
+
+0:05:57.020,0:05:59.080
+Er macht das ganz allein,
+ohne menschliches Zutun, ...
+
+0:05:59.080,0:06:01.759
+... und er bringt sich selbst in einen
+sicheren und kontrollierten Zustand.
+
+0:06:01.759,0:06:05.359
+Das klang für mich alles sehr überzeugend.
+Es hat mich begeistert, welches Potential ...
+
+0:06:05.359,0:06:08.420
+ein Flüssigsalzreaktor zur
+Versorgung einer Mondkolonie bot.
+
+0:06:08.420,0:06:11.209
+Aber dann habe ich von Thorium erfahren,
+und die Geschichte wurde noch besser.
+
+0:06:11.209,0:06:15.659
+Thorium ist ein in der Natur vorkommender Kernbrennstoff.
+Es gibt viermal mehr Thorium in der Erdkruste ...
+
+0:06:15.659,0:06:19.189
+als Uran. Und man kann es in
+Thorium-Flüssigsalzreaktoren einsetzen,
+
+0:06:19.189,0:06:22.900
+um Elektrizität zu erzeugen, Hitze
+und weitere wertvolle Produkte.
+
+0:06:22.900,0:06:26.180
+Thorium hat eine so hohe Energiedichte,
+dass Sie die Energie für Ihr ganzes Leben ...
+
+0:06:26.180,0:06:28.039
+... in der Hand halten können.
+
+0:06:28.039,0:06:30.509
+Auch auf dem Mond ist Thorium ein ganz
+gewöhnlicher Stoff und leicht zu finden.
+
+0:06:30.509,0:06:33.530
+Diese Karte zeigt, wo auf dem Mond
+Thorium zu finden ist.
+
+0:06:33.530,0:06:36.069
+Thorium hat eine elektromagnetische Signature,
+durch die es leicht zu finden ist, ...
+
+0:06:36.069,0:06:37.319
+... sogar von einem Raumschiff aus.
+
+0:06:37.319,0:06:42.060
+Mit der Energie eines Thorium-Flüssigsalzreaktors
+könnten wir die Luft recyclen und auch ...
+
+0:06:42.060,0:06:45.919
+... Wasser und Müll in der Mondkolonie
+wiederverwenden. Das wäre ja auch ein ...
+
+0:06:45.919,0:06:48.129
+... absolutes Muss, um erfolgreich zu sein.
+
+0:06:48.129,0:06:52.430
+We die Pflanzen, die wir zur Ernährung der Menschen brauchen,
+auch in der zwei Wochen langen ...
+
+0:06:52.430,0:06:55.150
+... Mondnacht wachsen lassen:
+mit Licht und Strom aus dem Reaktor.
+
+0:06:55.150,0:06:58.729
+Es sah ganz so aus, als ob der Thorium-Flüssigsalzreaktor –
+oder LFTR – genau die Energiequelle ist, die eine ...
+
+0:06:58.729,0:07:03.289
+... autarke Mondkolonie Wirklichkeit werden lassen könnte.
+Aber ich hatte eine einfache Frage:
+
+0:07:03.289,0:07:06.560
+Wenn das eine derart großartige Sache
+für eine Gemeinschaft auf dem Mond ist,
+
+0:07:06.560,0:07:09.630
+warum dann nicht für eine Gemeinschaft auf der Erde?
+Für eine Gesellschaft der Zukunft: ...
+
+0:07:09.630,0:07:11.630
+... selbstversorgend und energieunabhängig.
+
+0:07:11.630,0:07:14.820
+Dieselbe Art der Energieerzeugung
+und dieselben Recycling-Techniken,
+
+0:07:14.820,0:07:17.920
+die großen Einfluß auf das
+Überleben auf dem Mond haben,
+
+0:07:17.920,0:07:21.080
+könnten ebenso einen großen Einfluß
+auf das Überleben auf der Erde haben.
+
+0:07:21.080,0:07:25.830
+Heute verbrennen wir fossile Brennstoffe, weil sie leicht
+zu finden sind, und einfach, weil wir es können.
+
+0:07:25.830,0:07:28.960
+Leider sehen dadurch manche Teile
+unseres Planeten wie der Mond aus.
+
+0:07:28.960,0:07:32.430
+Weil wir fossile Brennstoffe verwenden, werden wir in 
+Konflikte in instabilen Regionen der Welt verwickelt.
+
+0:07:32.430,0:07:34.929
+Wir zahlen mit Geld und mit Leben.
+
+0:07:34.929,0:07:37.270
+Alles könnte sehr viel anders sein,
+wenn wir Thorium verwendeten.
+
+0:07:37.270,0:07:40.659
+Wissen Sie, im LFTR können wir Thorium
+etwa 200 Mal effizienter einsetzen, ...
+
+0:07:40.659,0:07:44.540
+als wir es heute mit Uran machen,
+denn der LFTR ist in der Lage,
+
+0:07:44.540,0:07:47.009
+die Energie im Thorium
+fast vollständig freizusetzen.
+
+0:07:47.009,0:07:50.840
+Das vermindert die Abfallproduktion
+gegenüber Uran um das Hundertfache,
+
+0:07:50.840,0:07:53.520
+und millionenfach gegenüber fossilen Brennstoffen.
+
+0:07:53.520,0:07:56.539
+Wir brauchen auch weiterhin flüssige Kraftstoffe
+für Fahrzeuge und Maschinen, ...
+
+0:07:56.539,0:08:00.539
+... aber wir können die Flüssigkraftstoffe aus
+dem Kohlendioxid in der Atmosphäre ...
+
+0:08:00.539,0:08:04.400
+und aus Wasser gewinnen – ganz ähnlich, wie es die Natur macht.
+Wir können Wasserstoff durch Aufspalten von Wasser erzeugen ...
+
+0:08:04.400,0:08:07.789
+... und mit dem Kohlenstoff verbinden, den wir
+aus dem CO2 in der Atmosphäre gewonnen haben.
+
+0:08:07.789,0:08:09.919
+So schaffen wir Kraftstoffe wie
+Methanol, Ammoniak und ...
+
+0:08:09.919,0:08:14.900
+... Dimethyläther, die ein direkter
+Ersatz für Diesel sein können.
+
+0:08:14.900,0:08:19.810
+Stellen Sie sich kohlendioxidneutrales Benzin und Diesel vor –
+nachhaltig und selbst produziert.
+
+0:08:19.810,0:08:21.220
+Haben wir denn genug Thorium?
+Ja, haben wir!
+
+0:08:21.220,0:08:26.359
+Beispielsweise haben wir in den Vereinigten Staaten
+über 3.200 Tonnen Thorium,
+
+0:08:26.359,0:08:30.610
+das vor 50 Jahren angesammelt wurde und heute
+in einem Flachgraben in Nevada liegt.
+
+0:08:30.610,0:08:33.019
+Allein dieses Thorium könnte,
+in einem LFTR eingesetzt, ...
+
+0:08:33.019,0:08:36.600
+... so viel Energie erzeugen, wie
+die USA in drei Jahren verbrauchen.
+
+0:08:36.600,0:08:41.000
+Thorium ist keine seltene Substanz.
+Es gibt viele Orte wie diesen hier in Idaho.
+
+0:08:41.000,0:08:44.260
+Aus einer Fläche von der Größe eines Football-Felds
+könnte man genug Thorium gewinnen, ...
+
+0:08:44.260,0:08:46.169
+... um die ganze Welt
+ein Jahr mit Energie zu versorgen.
+
+0:08:46.169,0:08:50.929
+Mit der LFTR-Technologie könnten wir wegkommen
+von den teuren und schwierigen Aspekten ...
+
+0:08:50.929,0:08:54.049
+... der heutige Kernenergie mit
+Wasserkühlung und festen Uranbrennelementen.
+
+0:08:54.049,0:08:58.900
+Wir brauchen keine großen Hochdruckreaktoren,
+wir brauchen keine riesigen Containments!
+
+0:08:58.900,0:09:01.660
+Wir brauchen keine großen,
+wenig effizienten Dampfturbinen.
+
+0:09:01.660,0:09:05.529
+Wir brauchen nicht so viele Hochspannungsleitungen
+über große Entfernungen,
+
+0:09:05.529,0:09:10.329
+Denn Thorium ist eine gut transportierbare Energiequelle,
+die man dort findet, wo man sie braucht.
+
+0:09:10.329,0:09:13.830
+Ein Thorium-Flüssigsalzreaktor wäre
+eine kompakte Anlage, ...
+
+0:09:13.830,0:09:18.360
+... sehr energieeffizient und sicher. Sie könnte Tag und
+Nacht die Energie produzieren, die wir brauchen – ...
+
+0:09:18.360,0:09:19.900
+... und zwar ohne Rücksicht
+auf das jeweilige Wetter.
+
+0:09:19.900,0:09:24.380
+2007 haben wir 5 Milliarden Tonnen Kohle verbraucht,
+31 Milliarden Barrel Öl ...
+
+0:09:24.380,0:09:27.470
+... und 5 Billionen Kubikmeter Erdgas, ...
+
+0:09:27.470,0:09:32.270
+... außerdem 65.000 Tonnen Uran.
+Alles für den Weltenergiebedarf!
+
+0:09:32.270,0:09:35.730
+Mit LFTR könnten wir dasselbe mit
+7.000 Tonnen Thorium erreichen.
+
+0:09:35.730,0:09:38.580
+So viel könnte man in einer einzigen Mine abbauen.
+Wenn Sie dies alles interessant finden, ...
+
+0:09:38.580,0:09:43.339
+... lade ich Sie ein, unsere Website zu besuchen,
+wo eine wachsende, enthusiastische Gemeinschaft ...
+
+0:09:43.339,0:09:46.019
+... von Thorium-Befürwortern dabei ist,
+der Welt zu erzählen, ...
+
+0:09:46.019,0:09:49.930
+... wie wir eine saubere und nachhaltige
+Zukunft der Energie erreichen können – ...
+
+0:09:49.930,0:09:51.819
+... mit Energie aus Thorium.
+Vielen Dank!
