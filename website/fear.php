@@ -83,7 +83,7 @@ The way that this was covered was wrong. I feel confident in saying that because
 <li><a href="/es/">spanish</a></li>
 <li><a href="/lv/">latvian</a></li>
 <li><a href="/ja/">japanese</a></li>
-<li><a href="/de/">german</a></li>
+<li><a href="/de/">deutsch</a></li>
 <li><a href="/fr/">français</a></li>
 <li id="Selected"><a href="/">english</a></li>
 <li><a href="/hr/">croatian</a></li>

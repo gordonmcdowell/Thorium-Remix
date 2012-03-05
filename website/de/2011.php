@@ -319,7 +319,7 @@ niemals Mangel haben. Es ist einfach zu viel davon da.
 <li><a href="/es/">spanish</a></li>
 <li><a href="/lv/">latvian</a></li>
 <li><a href="/ja/">japanese</a></li>
-<li id="Selected"><a href="/de/">german</a></li>
+<li id="Selected"><a href="/de/">deutsch</a></li>
 <li><a href="/fr/">français</a></li>
 <li><a href="/">english</a></li>
 <li><a href="/hr/">croatian</a></li>
