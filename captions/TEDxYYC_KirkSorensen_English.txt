@@ -228,7 +228,7 @@ if you lose pressure
 you lose your water
 
 0:03:21.009,0:03:24.609
-and soon your fueld will melt down and release
+and soon your fuel will melt down and release
 the radioactive fission products within it
 
 0:03:24.609,0:03:28.620
@@ -343,7 +343,7 @@ so the containment building
 around the reactor
 
 0:05:02.770,0:05:06.080
-can be much smaller and close fitting
+can be much smaller and close-fitting
 unlike the solid fuels that can melt down
 
 0:05:06.080,0:05:10.310
