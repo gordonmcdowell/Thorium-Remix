@@ -2283,14 +2283,6 @@ máquina. En esta foto no se ve a ninguna persona,
 0:44:17.840,0:44:19.550
 pero aproximadamente sería así de alta.
 
-
-
-
-
-
-
-
-
 0:44:19.550,0:44:25.860
 Esta es la turbina de baja presión. Y produce la fuerza
 que hace que gire el generador.
@@ -2361,283 +2353,290 @@ Hay cuatro en total. Miren esto: uno, dos, tres,
 cuatro, cinco, seis, siete, ocho... grandes tuberías
 
 0:45:28.280,0:45:32.630
-El número uno de la gente se preocupe por accidente
-con este tipo de reactor es lo que se llama
+En este tipo de reactor el accidente más preocupante
+que podría ocurrir sería aquel en el cual
 
 0:45:32.630,0:45:38.460
-los dos extremos de tubería descanso. Uno de estos
-ocho tubos, por cualquier razón, tijeras de podar.
+los dos extremos de cualquiera de estas tuberías
+se rompiera, por cualquier motivo.
+
+
+
+
+
+
+
+
+
+
+
 
 0:45:38.460,0:45:44.600
-Y de repente la presión, se pierde en el
-reactor. Que el agua que está siendo celebrada agua
+Entonces de forma instantánea se perdería la presión
+en el reactor y entonces el agua en estado líquido 
 
 0:45:44.600,0:45:51.490
-a 300 grados Celsius por 150 atmósferas de presión,
-cuando se pierde la presión que destella al vapor,
+a 300 grados Celsius y 150 atmósferas de presión,
+se convertiría de pronto en vapor,
 
 0:45:51.490,0:45:57.070
-casi al instante de vapor. Y cuando eso pasa,
-su volumen aumenta aproximadamente en un factor de
+Y si esto llegara a ocurrir su volumen
+aumentaría aproximadamente por un factor de 1000 veces
 
 0:45:57.070,0:46:02.330
-1000. Entonces, ¿qué fue yay denso, ya no tan
-densidad más.
+Entonces, el agua perdería su densidad en la misma
+proporción
 
 0:46:02.330,0:46:07.600
-La otra cosa que sucede es vapor de agua no
-quitar el calor tan bien como el agua líquida
+Lo otro que ocurriría es que el vapor de agua no
+es capaz de enfriar tan bien como el agua líquida
 
 0:46:07.600,0:46:12.960
-no de una superficie. Así que de repente su
-barras de combustible no se enfría tan efectiva
+Así que, de repente, su las barras de combustible
+no se enfriarían de una forma tan efectiva
+
 
 0:46:12.960,0:46:17.030
-como lo eran antes. Ahora la fisión se detendrá
-porque una de las cosas que el agua está haciendo
+como lo hacían antes. En ese momento la fisión se detiene
+porque una de las cosas que está haciendo el agua
 
 0:46:17.030,0:46:21.400
-se está desacelerando los neutrones. Así que sin la
-el agua se detiene la reacción de fisión. No
+es desacelerar los neutrones. Así que sin el
+el agua líquida se detiene la reacción de fisión.
 
 0:46:21.400,0:46:27.550
-tiene que poner las barras de control en o nada. La
-reactor se apagará inmediatamente. Sin embargo,
+No hace falta que se inserten las barras de control ni nada;
+el reactor se apagará inmediatamente.
 
 0:46:27.550,0:46:30.470
-seguirá siendo la generación de calor de los de fisión
-los productos.
+Sin embargo, seguirá la generación de calor procedente
+de los productos de fisión
 
-0:46:30.470,0:46:35.810
-Esto es lo que va a suceder si usted tiene una doble composición
-ruptura de la tubería. Usted recibe esta contención entero
+0:46:30.470,0:46:36.890
+Esto es lo que sucedería si ocurre una doble ruptura de una
+tubería. Y tendríamos todo esta contención llena de vapor de agua
 
-0:46:35.810,0:46:36.890
-vaso lleno de agua.
+
 
 0:46:36.890,0:46:41.010
-Ahora, yo no quiero contar todo esto porque
-Estoy tratando de concentrarme en las situaciones negativas
+Estoy centrándome en las situaciones más negativas que podrían
+llegar a ocurrir. No quiero decir que vaya a ocurrir algo así.
 
 0:46:41.010,0:46:44.870
-aquí. Te estoy diciendo esto porque es
-lo que impulsa el diseño de este edificio. Este
+Y lo estoy haciendo porque esto es lo que justifica
+el diseño de este edificio.
 
 0:46:44.870,0:46:51.660
-la construcción es el tamaño que tiene y que es la manera
-es precisamente para dar cabida a este evento.
+Este edificio tiene este enorme tamaño precisamente
+para adaptarse a esta situación tan extrema.
 
 0:46:51.660,0:46:57.650
-Se han diseñado este reactor por lo que si esto sucede,
-todo el vapor es capturado en este edificio
+Se ha diseñado esta contención así por si esto llegara a
+suceder, entonces todo el vapor quedaría confinado en este edificio
 
 0:46:57.650,0:46:58.750
-y no se salga.
+y ya no saldría de él.
 
 0:46:58.750,0:47:03.060
-Mira el tamaño del reactor. Mira el
+Mirad el tamaño del reactor. Mirad el
 tamaño del edificio de contención. Es enorme.
 
 0:47:03.060,0:47:09.150
-Es mucho más grande que el reactor y de que
-todos impulsados ​​por mil para que una diferencia
+Es mucho más grande que el reactor y el motivo
+es la diferencia de 1000 veces entre la densidad
 
 0:47:09.150,0:47:14.830
-en la densidad entre el vapor y agua líquida.
-Ahora bien, si esto sucede, usted tiene que averiguar
+del vapor y del agua líquida.
+Ahora bien, si esto sucede, hay que disponer de alguna
 
 0:47:14.830,0:47:21.060
-una forma de obtener agua de nuevo las barras de combustible para
-enfriarlos. Por lo que tienen una serie de emergencia
+forma de obtener agua, de nuevo, para enfriar las barras
+de combustible. Por lo que tienen una serie sistemas
 
 0:47:21.060,0:47:25.380
-sistemas de este reactor y que operan en
-todas las diferentes etapas de la presión.
+que funcionan en todos los posibles diferentes estados 
+de presión en que se pueda encontrar el reactor.
 
 0:47:25.380,0:47:28.200
-Así que la idea es que si usted todavía está a alta presión
-y tienes que conseguir el agua de allí, hemos
+Así que la idea es que si el reactor está a alta presión
+y hay que conseguir introducir agua en él
 
 0:47:28.200,0:47:31.210
-tiene un sistema para ello. Si usted ha perdido algo
-de la presión y tienes que conseguir agua
+exista un sistema para ello. Si se ha perdido una parte
+de la presión y hay que introducir agua en él
 
 0:47:31.210,0:47:34.460
-de ahí, tenemos un sistema para ello. Si
-que ha perdido toda la presión y nos hemos
+tengamos un sistema para ello. Si
+se ha perdido toda la presión y hay que introducir agua
 
 0:47:34.460,0:47:37.900
-para obtener agua de allí, tenemos un sistema de
-para eso. Así que hay un montón de sistemas y
+exista otro sistema para ello
+Así que hay muchos sistemas y, además
 
 0:47:37.900,0:47:42.200
-entonces no hay copias de seguridad de esos sistemas, y
-todo es impulsado por la presión alta y
+existen sistemas redundantes de seguridad, y
+todo está motivado por la existencia de una alta presión
 
 0:47:42.200,0:47:43.450
-por el uso del agua.
+y por la utilización del agua.
 
 0:47:43.450,0:47:43.920
-Sí, señor?
+¿Sí?
 
 0:47:43.920,0:47:49.100
-¿La barra de control del escudo antimisiles para mantener
-las barras de control de la perforación de un agujero a través de
+¿Están protegidas las barras de control para evitar
+que éstas llegaran a perforar un agujero en el techo
 
 0:47:49.100,0:47:53.550
-el techo si la explosión del vapor llega a la
-cámara del reactor?
+si ocurriera una explosión de vapor en la vasija del reactor?
 
 0:47:53.550,0:47:58.340
-Con precisión. Aquí está la barra de control del mecanismo de accionamiento.
-He aquí las varillas. Si usted no cumple con esta parte,
+Precisamente. Aquí está el mecanismo que acciona las barra de control.
+Aquí están las varillas. Si se rompe esta parte,
 
 0:47:58.340,0:48:03.450
-digamos que la soldadura no, y esto
-va "boom" y de disparar las barras de control,
+por ejemplo, fallara una soldadura y esto
+hiciera "boom" y se disparasen las barras de control,
 
 0:48:03.450,0:48:07.020
-que está ahí para que no haga cosas malas
+se han diseñado para evitar que hiciera destrozos importantes
 como la perforación de un agujero en la parte superior.
 
 0:48:07.020,0:48:12.300
-Que en realidad ocurrió una sola vez. Eso fue
-un reactor de ejército y no tenían una contención
+En realidad eso llegó a ocurrir una vez.
+Fue en un reactor de ejército que no tenía 
 
 0:48:12.300,0:48:16.410
-edificio. Un pobre hombre se empaló a la
-techo con una barra de control para ...
+edificio de contención. Un pobre hombre fue empalado en el
+techo por una barra de control ...
 
 0:48:16.410,0:48:18.530
-Eso tiene que ser el mejor modo de morir.
+Esa tiene que ser la “mejor” forma de morir.
 
 0:48:18.530,0:48:21.900
-Ha sido un día muy malo. Si no se
-atravesado la radiación iba a por él.
+Fue un día realmente malo. Si no hubiera sido
+empalado la radiación hubiera acabado igualmente con él.
 
 0:48:21.900,0:48:26.810
-La cámara estenopeica visto varios lugares
-y las fuentes de actividad alta de radiación gamma
+La cámara perforada esparció por varios lugares
+fuentes de alta radiación gamma
 
 0:48:26.810,0:48:33.170
-fuera de la vasija del reactor probablemente de
-componentes de los reactores sopla desde el núcleo de
+por fuera de la vasija del reactor, probablemente de
+componentes del reactores impulsados desde el núcleo por
 
 0:48:33.170,0:48:34.920
-la fuerza de la explosión de 500 psi.
+la fuerza de una explosión de 500 PSI.
 
 0:48:34.920,0:48:38.480
-La vasija del reactor es de aproximadamente nueve pulgadas de espesor
-de acero. Cuando uno tiene nueve pulgadas de espesor de acero
+La vasija del reactor tiene un grosor aproximado de 23 Cm.
+Cuando uno tiene que fabricar una vasija de acero de 23 Cm de espesor
 
 0:48:38.480,0:48:42.460
-y tiene que ser el grado nuclear y lo ha
-para ser perfecto, no se puede ir y soldadura nueve
+de calidad nuclear, es decir, perfecto, 
+sin una sola soldadura
 
 0:48:42.460,0:48:46.850
-de acero pulgada de grosor. No hacen lo que
-manera. Lo forja en una sola pieza. No mucho
+no lo hacen de cualquier manera.
+Es preciso forjarlo en una sola pieza. 
 
 0:48:46.850,0:48:53.800
-de personas que tienen la capacidad de construir un metro 10
-de diámetro, 20 metros de largo, de una sola pieza, nueve
+Lo que ocurre es que no hay muchas industrias capaces de producir
+una pieza de 10 metros de diámetro, 20 metros de largo, y un grosor
 
 0:48:53.800,0:48:57.920
-pulgada de grosor de la forja. De hecho, no es exactamente
-un lugar en el mundo se puede construir esto.
+de 23 Cm. De hecho, sólo hay un lugar en el mundo capaz
+de fabricar esto.
 
 0:48:57.920,0:49:00.670
-Se trata de un lugar llamado Japan Steel Works en Japón.
+Se trata de Japan Steel Works en Japón.
 
 0:49:00.670,0:49:03.320
-Es un factor limitante, ya que decir "
-queremos construir montones y montones de reactores nucleares. "
+Es un factor limitante, ya que si deseáramos
+construir muchos reactores nucleares
 
 0:49:03.320,0:49:07.670
-Ya sea que usted va a construir una nueva forja pesada,
-que es en realidad para esta tarea, o está usted
+o bien construimos una nueva forja pesada,
+que, en realidad, sólo vale para esta tarea,
 
 0:49:07.670,0:49:11.460
-vamos a esperar mucho tiempo para obtener su reactor
-en la fila para ir a hacer esto.
+o vamos a tener que esperar mucho tiempo hasta llegar
+a terminarlo y generar electricidad.
 
 0:49:11.460,0:49:14.160
-Permítanme Disertación sobre el agua unas cuantas veces más.
+Permítanme la disertación sobre el agua una vez más.
 
 0:49:14.160,0:49:16.960
-He aquí por qué el agua no es una gran cosa
-para el interior de un reactor nuclear. Número
+Este es el motivo por el cual el agua no es tan buena
+en el interior de un reactor nuclear.
 
 0:49:16.960,0:49:22.430
-uno, no se puede piratear la temperatura, ya
+En primer lugar, no podemos regular la temperatura, ya he
 hablado de eso. En segundo lugar, se trata de un enlace covalente
 
 0:49:22.430,0:49:27.790
-servidumbre de sustancias. El oxígeno tiene un enlace covalente
-vínculo con dos átomos de hidrógeno. Ni uno de esos
+En el agua el oxígeno tiene un enlace covalente
+con dos átomos de hidrógeno. Ni uno de esos
 
 0:49:27.790,0:49:33.440
-bonos es lo suficientemente fuerte como para sobrevivir a conseguir
-golpeó alrededor de una gama o un neutrón. Son
+enlaces es lo suficientemente fuerte como para sobrevivir
+la colisión con rayos gamma o con un neutrón.
 
 0:49:33.440,0:49:37.600
-simplemente va demasiado rápido. Efectivamente, golpean
-los hidrógenos de limpiar.
+Por el sencillo motivo de que van demasiado rápidos.
+Efectivamente, éstos colisionan con los hidrógenos y los separan
 
 0:49:37.600,0:49:42.310
-Ahora, en un reactor refrigerado por agua, tiene un
-sistema denominado recombinador que se llevará a
+Ahora, en un reactor refrigerado por agua, existe un
+sistema denominado recombinador que
 
 0:49:42.310,0:49:47.890
-el gas de hidrógeno y el oxígeno que se
-siempre que se crea a partir de la reacción nuclear
+hace que el gas de hidrógeno y el oxígeno 
+que siempre se producen en la reacción nuclear
 
 0:49:47.890,0:49:51.740
-y volver a ponerlos juntos, porque químicamente
-que preferiría ser el agua de ser hidrógeno
+se vuelvan a unir, porque químicamente prefieren 
+ser agua en lugar de hidrógeno y oxígeno separados.
 
 0:49:51.740,0:49:56.420
-y el oxígeno. Es un gran sistema, siempre y cuando
-se está operando y el sistema de bombeo.
+Es un gran sistema, siempre y cuando
+esté funcionando y el sistema de bombeo también lo haga.
 
 0:49:56.420,0:50:01.030
-Bueno, en Fukushima Daiichi, el problema era
-que la potencia de bombeo se detuvo. Cuando el bombeo
+Bueno, en Fukushima Daiichi, el problema fue
+que se interrumpió la electricidad para las bombas. Cuando la
 
 0:50:01.030,0:50:07.140
-el poder se detuvo, el agua estaba todavía ser arrestado
-de distancia. El hidrógeno es la luz verdadera, y aunque
+electricidad de interrumpió, el agua todavía se estaba disociando
+El hidrógeno es realmente muy ligero, y aunque
 
 0:50:07.140,0:50:11.780
-quiere llegar con el oxígeno de nuevo se
-se disocian con bastante rapidez. El hidrógeno se
+quiere combinarse con el oxígeno, de nuevo, se
+disocia con bastante rapidez. El hidrógeno se
 
-0:50:11.780,0:50:15.430
-sentarse en la parte superior del buque y el oxígeno
-se sentará en una capa debajo de ella, y luego de allí
-
-0:50:15.430,0:50:16.200
-el agua.
+0:50:11.780,0:50:16.200
+desplazó hacia la parte superior de la contención y el oxígeno
+se asentó en una capa por debajo de él, y por debajo de ambos el agua
 
 0:50:16.200,0:50:20.630
-Los diseñadores del reactor que todo había
-intencionalmente diseñados de tal manera que lo haría
+Los fabricantes de este reactor concreto
+lo habían diseñado de tal manera que 
 
 0:50:20.630,0:50:24.830
-ventilar el hidrógeno fuera de la contención
-edificio. Esto siempre ha sido una especie de polémica.
+se evacuara el hidrógeno fuera del edificio de contención
+Ello siempre ha sido objeto de polémica.
 
 0:50:24.830,0:50:29.310
-Ellos realizaron el hidrógeno hasta los niveles superiores
-del reactor, que se encontraban fuera de la contención.
+Ellos evacuaron el hidrógeno hasta los pisos superiores
+de la planta, que se encontraban fuera de la contención.
 
 0:50:29.310,0:50:33.870
-No son más que una especie de marco de acero escasa
-la estructura de arriba. Y uno, dos, tres,
+Se trata de una especie de una estructura 
+con el marco de acero en la parte superior. Y uno, dos, tres,
 
 0:50:33.870,0:50:38.460
-decir que suceda en las noticias. Una llena por primera vez
-con hidrógeno, tiene un cierto punto, la pluma.
+ocurrió lo que vimos en las noticias. Primero se llena de 
+hidrógeno hasta que se alcanza un cierto punto en el que “boom”.
 
 0:50:38.460,0:50:41.620
 La noticia, dijo, "Oh, Tuvimos una explosión nuclear."
