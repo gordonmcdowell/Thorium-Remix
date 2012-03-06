@@ -574,7 +574,7 @@ Daži no jums runāja par to, kas ir urķēšanās.
 Bet ir arī tāda lieta, kā
 
 0:12:06.240,0:12:07.190
-kodolurķēšanās.
+kodolurķēšana.
 
 0:12:07.190,0:12:12.600
 Es esmu ļoti priecīgs, ka jūs šodien esat šeit
@@ -584,700 +584,669 @@ un piedalieties šajā diskusijā.
 Atbilde ir enerģija, kas ir lētāka par ogļu enerģiju.
 
 0:12:16.280,0:12:21.030
-All sorts of things that give us the advantage
-and they're all based on energy.
+Par visām lietām, kuras ir cēlušas mūsu labklājību,
+mums ir jāpateicas enerģijai.
 
 0:12:21.030,0:12:26.380
-Based upon the assumption that we're willing
-to only sacrifice 160 million people's lives
+Ja pieņemam, ka vēlamies pasliktināt 160 miljonu cilvēku
+dzīves,
 
 0:12:26.380,0:12:31.890
-to sea rise, climate change, and so forth,
-then January 2011, we need to start reducing
+ko izsauks jūras līmeņa celšanās, klimata izmaiņas, u.t.t.,
+tad sākot ar 2011. gada janvāri, mums ir jāsamazina
 
 0:12:31.890,0:12:34.520
-CO2 emissions by four percent a year...
+CO2 izmeši par 4% gadā... 
 
 0:12:34.520,0:12:40.630
-Well, are we doing that?
+Vai mēs to darām?
 
 0:12:40.630,0:12:47.630
-I was two years and ten months old when I
-saw Star Wars. It is my earliest memory. My
+Kad man bija divi gadi un 10 mēneši, es pirmo reizi
+redzēju Zvaigžņu karus. Tās ir manas senākās atmiņas.
 
 0:12:51.820,0:12:56.520
-dad didn't believe that I actually remembered
-that until I started actually relating details
+Mans tētis man neticēja, ka es patiešām atceros
+līdz es sāku stāstīt par
 
 0:12:56.520,0:12:59.700
-from the day it happened. He said after that
-all I could talk about was space.
+tās dienas notikumiem. Viņš teica, ka pēc tās reizes,
+viss, par ko es varēju runāt, bija kosmoss.
 
 0:12:59.700,0:13:04.770
-I spent 10 years working at NASA. In the beginning
-of my time there in 2000, this is the kind
+10 gadus es strādāju NASA. Sākumā, ap 2000 gadu
+es nodarbojos ar Mēness bāzi.
 
 0:13:04.770,0:13:09.350
-of community I was thinking of. It had all
-of the same needs as a community on earth
+Tai bija visas tās pašas vajadzības, kas nepieciešamas
+kopienai uz Zemes,
 
 0:13:09.350,0:13:15.480
-would have, but it had some very unique constraints.
-There's no coal on the moon, there's no petroleum,
+bet tai bija arī daudzi unikāli ierobežojumi.
+Uz mēness nav ne naftas, ne akmeņogļu,
 
 0:13:15.480,0:13:20.630
-there's no natural gas, there's no wind, there's
-no atmosphere. The moon orbits the earth once
+ne dabasgāzes, ne arī atmosfēras un vēja.
+Mēness apriņķo Zemi mēneša laikā un
 
 0:13:20.630,0:13:25.030
-a month. For two weeks, the sun goes down
-and your solar panels don't make any energy.
+katras divas nedēļas Saule noriet un saules baterijas
+neražo strāvu.
 
 0:13:25.030,0:13:28.530
-If you want to try to store enough energy
-in batteries for two weeks, it just simply
+Ja vēlaties saglabāt enerģiju divām nedēļām baterijās,
+tas vienkārši ir
 
 0:13:28.530,0:13:29.060
-isn't practical.
+ekonomiski neizdevīgi.
 
 0:13:29.060,0:13:34.400
-I thought nuclear power was dumb. I had no
-interest in it. I was like "Ah, old junk,
+Es domāju, ka kodolenerģija nav nekas sevišķs.
+Es par to domāju tā: "Ē, vecas lietas,
 
 0:13:34.400,0:13:37.120
-who would want to be into that?" It wasn't
-until I realized that these efficiencies were
+kas gan ar tām vēlas krāmēties?" Bet tad es
+uzzināju, ka tās var padarīt daudz efektīvākas
 
 0:13:37.120,0:13:39.910
-possible that I began getting really interested.
+un sāku par tām nopietni interesēties.
 
 0:13:39.910,0:13:43.590
-I'm in this buddy of mine's office. He's got
-this book on his shelf and the book was called
+Es aizgāju pie viena kolēģa, un viņš no plaukta
+paņēma grāmatu, kas saucās:
 
 0:13:43.590,0:13:47.090
-"Fluid Fuel Reactors". He used to work at
-Oak Ridge National Labs in Tennessee and he
+"Šķidrās degvielas reaktori" viņš bija strādājis
+Oukridžas Nacionālajā laboratorijā Tenesijā
 
 0:13:47.090,0:13:51.900
-said "Yeah, way back when, they were doing
-some stuff on this at Oak Ridge," he goes
+un viņš teica "Jā, savā laikā mēs nodarbojāmies ar
+dažādām lietām Oukridžā", un turpināja 
 
 0:13:51.900,0:13:57.440
-"I just went to the library and I got this
-old book." It was written in 1958 and he said
+"Es aizgāju uz bibliotēku un dabūju šo grāmatu."
+Tā bija sarakstīta 1958. gadā un viņš teica
 
 0:13:57.440,0:14:01.350
-"I've been meaning to look through it. I knew
-a little bit about it but not very much."
+"Biju domājis to izskatīt. Es nedaudz par to zinu,
+lai gan neko daudz."
 
 0:14:01.350,0:14:06.080
-So I took the book home, a big old thick book,
-it was about 1,000 pages, struggling really
+Tā es paņēmu grāmatu uz mājām, tā bija apmēram 1000
+lapu bieza, un izmisīgi pūlējos
 
 0:14:06.080,0:14:10.080
-hard to try to grasp the nuclear concepts
-in the book but it was intriguing enough to
+saprast kodolfizikas jēdzienus tajā. Bet tomēr grāmata
+bija intriģējoša un aprakstītās tehnoloģijas
 
 0:14:10.080,0:14:15.150
-me and it seemed really different than the
-kind of nuclear energy that we have now. They
+bija stipri savādāka no tām, kuras mēs bijām pieraduši redzēt.
 
 0:14:15.150,0:14:18.860
-also mention in this book a lot about thorium.
-Thorium, thorium, thorium, thorium. I was
+Grāmatā ļoti bieži tika pieminēts torijs.
+Torijs, torijs, torijs. Un es pie sevis domāju:
 
 0:14:18.860,0:14:20.680
-like "Dude, what the heck is thorium?"
+"Kas pie velna ir torijs?"
 
 0:14:20.680,0:14:24.820
-But I was intrigued enough that I began researching
-as much as I could. I was reading online,
+Bet es biju ieintriģēts un sāku meklēt visu iespējamo
+informāciju par toriju. Es meklēju
 
 0:14:24.820,0:14:27.450
-I was reading blogs especially Rod Adams.
+tiešsaistes materiālus un uzgāju Rodu Adamsu (Rod Adams).
 
 0:14:27.450,0:14:31.460
-Taxpayers in the United States sent me to
-sea on submarines. I've lived in an environment
+ASV nodokļu maksātāji nosūtīja mani uz zemūdenēm.
+Es dzīvoju vidē, kuru 100% nodrošināja
 
 0:14:31.460,0:14:36.810
-that was 100 percent nuclear powered. It's
-something that people just don't hear about.
+kodolenerģija. Un cilvēki par to parasti nezina.
 
 0:14:36.810,0:14:42.240
-Nobody in the world knew that a self-sustained
-fission chain reaction was even possible up
+Ilgi pirms tam neviens uz visas pasaules nezināja,
+ka ir iespējams nodrošināt pastāvīgu ķēdes reakciju,
 
 0:14:42.240,0:14:48.170
-until somewhere around 1938. Very few people
-understand all these options that are available
+līdz 1938. gadā daži cilvēki atklāja, ka kaut kas tāds ir 
+iespējams
 
 0:14:48.170,0:14:49.330
-in nuclear energy.
+un var iegūt kodolenerģiju.
 
 0:14:49.330,0:14:54.820
-Now with liquid fluoride thorium reactors,
-no high-level waste material is generated
+Tagad ar šķidra torija fluorīda reaktoriem
+var iegūt enerģiju ar ļoti mazu radioktīvo atkritumu daudzumu
 
 0:14:54.820,0:14:59.910
-and it can also reduced stockpiles of existing
-waste. So given that, is there more the government
+un tos var izmantot ar, lai izmantotu jau uzkrātos
+radioaktīvos atkritumus. Līdz ar to, vai valdība
 
 0:14:59.910,0:15:01.880
-can do to test the technology?
+var darīt ko vairāk lai atbalstītu šo tehnoloģiju?
 
 0:15:01.880,0:15:06.780
-The reality is that we have waste, so it's
-not going to improve the nuclear waste.
+Īstenība ir tāda, ka mums ir radioaktīvie atkritumi,
+bet tā par tiem nedomā.
 
 0:15:06.780,0:15:11.800
-Please forgive my ignorance, but what is thorium?
+Lūdzu piedodiet manu nezināšanu, bet kas ir torijs?
 
 0:15:11.800,0:15:17.190
-If only my O-level science teacher could see
-me now. It is named after the Norse god Thor
+Ja mans pirmā līmeņa zinātnes skolotājs tagad 
+mani redzētu. Vārds ir cēlies no Norvēģu dieva Tora
 
 0:15:17.190,0:15:22.230
-and I know the noble baroness will be pleased
-to know that it's dimorphic and there are
+un es pieņemu, ka baronesei būs interesanti zināt,
+ka tas ir dimorfisks un ir vēl daudzi citi fakti,
 
 0:15:22.230,0:15:29.230
-all sorts of other facts that she can find
-in Wikipedia, as indeed, I did.
+ko jūs varat atrast vikipēdijā, kā to patiesībā
+izdarīju arī es.
 
 0:15:30.050,0:15:33.700
-My lords, my lords... my lords.
+Kungi, kungi... kungi.
 
 0:15:33.700,0:15:40.540
-The Department of Energy cited my website
-as the single technical source for the molten
+Enerģētikas departaments ir norādījis uz manu 
+tīmekļa vietni, kā vienīgo tehnisko resursu
 
 0:15:40.540,0:15:45.350
-salt reactor in their Generation IV when they
-first published it. People say "Well that's
+kad tie publicēja informāciju par 4. paaudzes
+sāļu reaktoriem. Cilvēki saka
 
 0:15:45.350,0:15:51.240
-quite an honor," no it's actually very pathetic
-because I'm Joe sitting in my garage doing
+Ka tas ir liels gods, bet patiesībā tas ir ļoti
+bēdīgi, jo es esmu Džo, kas savā garāžā veido
 
 0:15:51.240,0:15:55.420
-a website and this is the single technical
-source you came up with?
+savu tīmekļa vietni, un tā ir vienīgais pieejamais resurss
+uz kuru viņi varēja norādīt?
 
 0:15:55.420,0:15:59.890
-Does the administration understand all the
-options available? No. Does anybody really
+Vai administrācija apjauš visas iespējas?
+Nē. Vai kāds patiesībā saprot, ka
 
 0:15:59.890,0:16:06.890
-understand clearly the fact that nuclear energy
-is a completely disruptive technology?
+kodolenerģija ir civilizāciju mainoša tehnoloģija?
 
 0:16:07.810,0:16:11.920
-The liquid fluoride thorium reactor, I saw
-some of you kind of smile when it brings up
+Es redzu, ka daži no jums sāk smaidīt, kad
+tiek pieminēts šķidra torija fluorīda reaktors,
 
 0:16:11.920,0:16:15.750
-and that does concern me a little bit. What
-are you hearing about LFTR that's not... what
+un tas mani nedaudz satrauc. Ko jūs dzirdat
+par izkausēta sāls reaktoriem?
 
 0:16:15.750,0:16:18.330
-are you hearing about the molten salt reactors
-that's not there?
+Vai esat kaut ko dzirdējuši par izkausēta sāls reaktoriem?
 
 0:16:18.330,0:16:23.640
-I would really be surprised if our leadership
-knows about this. I don't think they read
+Es būtu pārsteigts, ja mūsu valdība būtu kaut ko dzirdējusi 
+par tiem. Nedomāju, ka viņi lasa emuārus.
 
 0:16:23.640,0:16:27.880
-blogs. The fact that we have an Internet today
-is going to ultimately make the difference.
+Tas, ka mums tagad ir Internets, līdzšinējās lietas mainīs.
 
 0:16:27.880,0:16:32.310
-You know we had Bronze Age and we had Iron
-Age and we had the Industrial Revolution.
+Mums bija bronzas laikmets un dzelzs laikmets
+un mums bija Industriālā revolūcija.
 
 0:16:32.310,0:16:36.010
-I really think hundreds of years from now,
-they'll say there was a Thorium Age that began.
+Es patiešām domāju, ka 100 gadus vēlāk teiks,
+ka mēs uzsākām Torija laikmetu.
 
 0:16:36.010,0:16:39.550
-Let me tell you how this stuff was discovered.
-There was a guy named Glenn Seaborg who worked
+Es jums pastāstīšu, kā tas sākās.
+Bija tāds Glenns Sīborgs (Glenn Seaborg), kurš
 
 0:16:39.550,0:16:46.000
-at Berkeley Labs in California in 1942. This
-was the guy who discovered plutonium. Coming
+1942. g. strādāja Bērklijā, Kalifornijā.
+Un viņš atklāja plutoniju.
 
 0:16:46.000,0:16:52.200
-off discovering plutonium he thought, "I wonder
-if we can hit thorium with a neutron and turn
+Un viņš domāja: "Varbūt mēs varam ar plutonija
+neitronu apstarot toriju,
 
 0:16:52.200,0:16:54.560
-it into something." You got to remember, fission
-had been discovered three years earlier, so
+un skatīties, vai tas pārvēršas." Jums jāatceras, ka kodolu
+dalīšanās tika atklāta tikai trīs gadus agrāk,
 
 0:16:54.560,0:16:55.950
-they were still in the very beginnings.
+un tas vēl arvien bija pats sākums.
 
 0:16:55.950,0:16:58.720
-So he got this grad student. You know, everybody
-who's been a grad student knows what it's
+Viņam bija viens students. Katrs, kas ir bijis
+students zina, kā izskatās,
 
 0:16:58.720,0:17:02.190
-like when a professor says, "All right. I
-want you to go into the nuclear lab and turn
+kad profesors saka:"Tā. Es vēlos, lai tu aizej
+uz kodolfizikas laboratoriju un ieslēdz neitronu
 
 0:17:02.190,0:17:07.740
-on the neutron bombardment system and expose
-this sample of radioactive material and find
+lielgabalu un apstaro šo radioaktīvo paraugu,
 
 0:17:07.740,0:17:09.449
-out what happens."
+un apskaties, kas notiks."
 
 0:17:09.449,0:17:13.079
-"It's a war right now, isn't it, sir, right?
-I could be on the front lines."
+"Tā kā tagad ir karš, ser, es varētu būt arī
+cīnīties frontē, vai ne ser?"
 
 0:17:13.079,0:17:13.589
-"Yes, you could."
+"Jā, tu varētu būt."
 
 0:17:13.589,0:17:15.529
-"OK. Yes sir. Absolutely. Off I go."
+"Labi, ser. Es došos uz laboratoriju."
 
 0:17:15.529,0:17:20.110
-So the grad student went off, and he did the
-experiment. And he came back to Seaborg, and
+Students aizgāja uz laboratoriju un veica eksperimentu.
+Un devās atpakaļ pie Sīborga un teica:
 
 0:17:20.110,0:17:25.019
-he said, "Yep, I've done it, sir. I have made
-something new. Thorium did absorb the neutron.
+"Eksperiments izdevās. Sanāca kaut kas jauns.
+Torijs absorbēja neitronu,
 
 0:17:25.019,0:17:28.279
-It became uranium-233. Isn't that cool?"
+un kļuva par urānu-233. Vai tas nav forši?"
 
 0:17:28.279,0:17:32.860
-Seaborg said, "Yes, absolutely. OK! Now, let's
-take the next step, poor little grad student!
+Sīborgs atbildēja: "Jā patiešām. Un tagad iesim soli tālāk,
+mans nabaga student!
 
 0:17:32.860,0:17:37.830
-I want you to go back. Now I want you to hit
-it with a neutron and see if it will fission.
+Es vēlos, lai tu atkal apstaro to ar neitroniem, un pārbaudi,
+vai tas sadalīsies.
 
 0:17:37.830,0:17:40.309
-Because I think it'll fission. I think it'll
-fission just like uranium-235."
+Jo es domāju, ka tas sadalīsies, tieši tāpat,
+kā sadalās urāns-235."
 
 0:17:40.309,0:17:41.840
-"OK. Yes sir."
+"Labi, ser."
 
 0:17:41.840,0:17:46.409
-Goes off, does the experiment, comes back
-and says, "Yep, you were right. It did fission.
+Students aiziet uz laboratoriju, nāk atpakaļ un saka:
+"Jā, jums bija taisnība. Tas sadalījās.
 
 0:17:46.409,0:17:49.960
-You're correct. It is a new form of nuclear
-fuel."
+Tas ir jauns kodolenerģijas veids."
 
 0:17:49.960,0:17:55.090
-Then Seaborg popped the really, really important
-question. He said, "Now I want you to go figure
+Un tad Sīborgs uzdeva patiesi svarīgu jautājumu. Viņš teica:
+"Tagad dodies un uzzini,
 
 0:17:55.090,0:18:02.090
-out how many neutrons came off when it fissioned.
-Because if that number is below 2, we really
+cik daudz neitronu rodas, kad tas sabruka.
+Jo, ja to skaits ir mazāks par 2,
 
 0:18:02.470,0:18:07.720
-don't have a story here. If this number...
-you come back, and say it's like 1.5, then...
+piemēram, 1,5 vai tamlīdzīgi, tad
+tas nav nekāds notikums,
 
 0:18:07.720,0:18:13.899
-interesting fact goes in the back of the book.
-But if that number's above 2, then that is
+tikai interesents fakts grāmatā,
+bet, ja to skaits ir lielāks par 2,
 
 0:18:13.899,0:18:14.580
-a big deal."
+tad tas jau ir nopietni."
 
 0:18:14.580,0:18:19.850
-Goes back, comes back. "Sir, the number is
-2.5."
+Students atnāk atpakaļ un saka: "Ser, neitronu skaits ir
+2,5."
 
 0:18:19.850,0:18:25.289
-Seaborg looks at his grad student. This is
-December 1942, and he said, "You've just made
+Sīborgs raugās uz studentu (ir 1942. gada decembris)
+un saka: "Tu tagad veici
 
 0:18:25.289,0:18:28.279
-a $50 quadrillion discovery."
+50 kvadriljonu dolāru vērtu atklājumu."
 
 0:18:28.279,0:18:32.860
-Grad student was like "Uhh!"
+Un students atbildēja ko līdzīgu: "Uhh!"
 
 0:18:32.860,0:18:39.860
-Seaborg was absolutely right. He had figured
-out that thorium could serve as an essentially
+Sīborgam bija absolūta taisnība. Viņš bija atklājis,
+ka torijs var kalpot par praktiski neizsmeļamu
 
 0:18:40.159,0:18:47.029
-unlimited nuclear fuel. And he knew how abundant
-thorium was in the crust of the Earth. And
+kodoldegvielas avotu. Un viņš zināja, ka torijs uz Zemes
+ir ļoti izplatīts elements.
 
 0:18:47.029,0:18:53.100
-he realized that through this process, if
-you had some uranium-233, you could catalyze
+Un viņš saprata, ka šajā procesā, ja jums ir nedaudz 
+urāna-233, jūs varat to izmantot kā katalizatoru 
 
 0:18:53.100,0:18:56.549
-the burning of thorium indefinitely.
+ar kuru varat bezgalīgi "dedzināt" toriju.
 
 0:18:56.549,0:19:01.690
-You're fissioning uranium-233, but you're
-making a new one. So it's not really a catalyst
+Patiesībā jūs sadalāt urānu-233, bet tajā pat laikā
+radiet to arī no jauna. Tāpēc tas nav katalizators
 
 0:19:01.690,0:19:06.580
-in the true chemical sense that a catalyst
-is not consumed in a reaction. But you can
+ķīmisko reakciju izpratnē, kurā katalizators netiek 
+patērēts, bet jūs pilnībā varat to uzskatīt
 
 0:19:06.580,0:19:08.950
-almost think about it as a pseudo-catalyst.
+par pseido-katalizatoru.
 
 0:19:08.950,0:19:12.830
-So we'll take it from first principles. Let's
-talk a bit about what nuclear fission is.
+Tagad parunāsim par to, kas ir kodolu dalīšanās.
 
 0:19:12.830,0:19:17.820
-You have fissile nuclei. That means this is
-a nucleus. If you hit it with a neutron, it's
+Jums ir dalītiesspējīgs kodols. Tātad, tas ir atoma kodols.
+Ja jūs apstarojat to ar neitronu,
 
 0:19:17.820,0:19:23.250
-going to fission and split into two pieces,
-two fission products. And also significantly,
+tad tas parasti sadalās divās daļās, 
+un kas vēl ir svarīgi,
 
 0:19:23.250,0:19:28.059
-this one neutron is going to spawn the formation
-of two or three additional neutrons.
+tas izstaro arī 2-3 papildu neitronus
 
 0:19:28.059,0:19:33.740
-Why do we care? Here's why we care...
+Kāpēc tas mums ir svarīgi?
 
 0:19:33.740,0:19:40.529
-Because every kilogram of fissile material
-will produce as much energy as 13,000 barrels
+Tāpēc, ka ar katru kilogramu dalītiesspējīga materiāla,
+mēs varam iegūt enerģiju, kas salīdzināma ar
 
 0:19:40.529,0:19:47.490
-of oil. Nuclear fission is a million times
-more energy-dense than a chemical reaction.
+13000 bareliem naftas. Kodolu dalīšanās enerģijas blīvums
+ir miljoniem reižu lielāks nekā ķīmiskai reakcijai.
 
 0:19:47.490,0:19:52.320
-Civilization has changed over advancements
-in technology a whole lot more modest than
+Civilizācija ir veikusi milzīgus tehnoloģiskus sasniegumus
 
 0:19:52.320,0:19:52.990
-this.
+ar daudz mazākām enerģijas iespējām.
 
 0:19:52.990,0:19:57.320
-When you fission something, it breaks into
-these two pieces, but they're radioactive.
+Kad jūs sašķeļat kādu kodolu divās daļās,
+tās ir radioaktīvas.
 
 0:19:57.320,0:19:58.419
-Why are they radioactive?
+Kāpēc tās ir radioaktīvas?
 
 0:19:58.419,0:20:03.929
-And this is a chart that shows the number
-of protons in matter and the number of neutrons.
+Šī diagramma parāda dabā sastopamo vielu atomu
+protonu un neitronu attiecību. 
 
 0:20:03.929,0:20:09.470
-Now, if the number of protons and the number
-of neutrons were the same, all of these isotopes
+Ja visu izotopu protonu un neitronu attiecība visiem būtu vienāda,
 
 0:20:09.470,0:20:12.100
-would stay on this nice line right here, you
-see?
+grafikā būtu viena taisna līnija.
 
 0:20:12.100,0:20:16.840
-But they don't do that. At the beginning,
-it's a roughly equal number of protons and
+Bet tā nav. Sākumā protonu un neitronu
+attiecība ir aptuveni vienāda,
 
 0:20:16.840,0:20:21.399
-neutrons. But as they get heavier, they definitely
-get on the very neutron-rich side of things.
+Bet, kodoliem paliekot lielākiem, neitronu attiecība
+paliek arvien lielāka.
 
 0:20:21.399,0:20:26.429
-You see these black dots? Those are the stable
-nuclides and all the other guys are radioactive.
+Melnie punkti norāda stabilos kodolus, kas nav radiokatīvi.
 
 0:20:26.429,0:20:31.360
-The strong nuclear forces holding the nucleus
-together, the protons are pushing the nucleus
+Protoni ir pozitīvi lādēti un elektriskais lauks kodolus cenšas saraut,
 
 0:20:31.360,0:20:35.090
-apart. OK, the protons are all positively
-charged they want rip the thing apart. The
+bet kodolu stiprā mijiedarbība satur kodolus kopā.
 
 0:20:35.090,0:20:40.289
-neutrons are adding more of that strong nuclear
-force glue, holding everything together and
+Arvien vairāk neitronu nodrošina vairāk
+kodolu stiprās mijiedarbības "līmi"
 
 0:20:40.289,0:20:43.379
-they are not adding more of the push-it-apart
-stuff.
+tāpēc kodoli nesašķīst.
 
 0:20:43.379,0:20:49.480
-Way down here are uranium and thorium and
-they have about one and half times as many
+Šeit lejā ir urāns un torijs. Un tiem ir neitronu ir aptuveni
+divas reizes vairāk
 
 0:20:49.480,0:20:54.850
-neutrons as protons. When you burst them in
-half the two pieces that you get inherit that
+nekā protonu. Ja šādu kodolu sadalāt divās
+daļās, tām abām ir aptuveni tāda pati attiecība,
 
 0:20:54.850,0:21:00.110
-ratio but it's the wrong ratio for them. They
-are over here they wanted to be more like
+bet šiem kodoliem tāda nav vajadzīga. Tiem vajag 
+attiecību kas ir tuvāka
 
 0:21:00.110,0:21:02.059
-one and a quarter instead of one and a half.
+viens pret viens un viena ceturtdaļa.
 
 0:21:02.059,0:21:05.620
-They have too many neutrons. Nature has a
-nifty process for fixing this little problem
+Tiem ir par daudz neitronu. Dabā pastāv dažādi veidi,
+kā ar to tikt galā.
 
 0:21:05.620,0:21:09.659
-it's called beta decay. A neutron essentially
-turns into a proton and it spits out an electron.
+Viens no tiem ir beta sabrukšana. Tajā neitrons pārvēršas
+par protonu un kodols izstaro elektronu.
 
 0:21:09.659,0:21:14.159
-When you fission a nucleus why is what you
-get out radioactive? And it has to do with
+Tāpēc, kodolu dalīšanās procesā rodas kodoli, kas ir radioaktīvi.
 
 0:21:14.159,0:21:18.759
-this proton and neutron balance. The balance
-is wrong for what you have made even though
+Lai arī kodolu dalīšanās sākumā protonu un neitronu attiecība kodolā bija pareiza,
 
 0:21:18.759,0:21:20.440
-it was right for what you started with.
+reakcijas beigās tā kļuva nepareiza.
 
 0:21:20.440,0:21:26.590
-These are the mass numbers of each of those
-and they assume two broad peaks of distribution.
+Šeit ir parādīta kodolu dalīšanās produktu masas
+sadalījums ar diviem maksimumiem.
 
 0:21:26.590,0:21:30.990
-This is the smaller fission product and this
-is the larger fission product because each
+Šī ir mazākā bijušā kodola daļa un šī ir lielākā daļa,
 
 0:21:30.990,0:21:35.620
-fission generates two of them. But, because
-they are neutron rich they have to beta decay
+jo parasti tie nesadalās tieši uz pusēm. Tā kā tie ir pārbagāti
+ar neitroniem,
 
 0:21:35.620,0:21:38.240
-a couple of times before they reach a stable
-nucleus.
+tiem ir jāatbrīvojas no tiem, lai kļūtu par stabiliem kodoliem.
 
 0:21:38.240,0:21:42.879
-Let's talk just a minute about radioactivity
-because I had an erroneous notion of what
+Tagad parunāsim par radioaktivitāti. Arī man 
+kādreiz bija nepareiza izpratne par to.
 
 0:21:42.879,0:21:46.710
-radioactivity was. I thought that if you had
-something that have like a half-life of a
+Es domāju, ka, ja vienam elementam pussabrukšanas laiks ir diena,
 
 0:21:46.710,0:21:51.090
-day, and you had something that had a half-life
-of a million years, it meant that the dude
+bet otram — miljoni gadu, tad man šķita, 
 
 0:21:51.090,0:21:55.970
-that was radioactive for a day is like brrrrrr
-for a day and then, "Opp! I'm done." And the
+tas, kas ir radiokatīvs vienu dienu, tas saka "tr" un pēc dienas 
+hop, un "Es esmu stabils". Bet tas,
 
 0:21:55.970,0:21:59.700
-dude with half-life for a million years is
-like brrrrrrrrr for a million years and done.
+kas ir radioaktīvs miljons gadus, tas saka "brrrrrrrrr"
+miljons gadus līdz paliek stabils.
 
 0:21:59.700,0:22:00.419
-OK.
+Tā.
 
 0:22:00.419,0:22:04.649
-So you go which one of these is more dangerous?
-Well, definitely the one that's got a half-life
+Kā jūs domājat, kurš no tiem ir bīstamāks?
+Protams, ka parasti šķiet,
 
 0:22:04.649,0:22:08.649
-of a million years because that's got to be
-like radioactive forever and the dude's radioactive
+ka bīstamāks ir tas, kas ir radioaktīvs bezmaz mūžīgi,
 
 0:22:08.649,0:22:11.509
-for a day that's not a big deal, right?
+bet tas, kas tikai vienu dienu, tas ir nekaitīgs. Vai ne?
 
 0:22:11.509,0:22:17.340
-Completely wrong. OK. Utterly backwards. The
-dude who is radioactive for a day is really,
+Patiesībā ir tieši otrādi. Tas, kas ir radioaktīvs
+vienu dienu, tas ir ļoti, ļoti, ļoti radioaktīvs.
 
 0:22:17.340,0:22:23.370
-really radioactive. The dude that’s radioactive
-for a million years is hardly radioactive
+Tas, kas ir radioaktīvs miljons gadus, praktiski nav radioaktīvs.
 
 0:22:23.370,0:22:27.649
-at all. Which one of those two is more dangerous?
-The one that's radioactive for a day by a
+Kurš no abiem ir bīstamāks? Patiesi bīstams ir tas,
 
 0:22:27.649,0:22:29.480
-long shot.
+kurš ir radioaktīvs tikai vienu dienu.
 
 0:22:29.480,0:22:35.870
-So your radioactivity is directly and inversely
-proportional to your half-life. So all these
+Radioaktivitāte ir apgriezti proporcionāla
+kodola pussabrukšanas laikam. 
 
 0:22:35.870,0:22:40.289
-guys that have real short half-lives, very,
-very dangerous, but they are going away real
+Šie sadalīšanās produkti ir ļoti, ļoti bīstami,
+bet tie pazūd ļoti ātri.
 
 0:22:40.289,0:22:45.580
-quick. This guy, 2.3 million years, no problem.
-It's not going to hurt you. It's just not
+Šis, kas dzīvo 2,3 miljonus gadu, nesagādā nekādas problēmas.
+Tas jums nekaitēs,
 
 0:22:45.580,0:22:47.240
-nearly radioactive enough.
+jo tas nav pietiekami radioaktīvs.
 
 0:22:47.240,0:22:51.409
-Now What about thorium and uranium? Both are
-naturally occurring materials. Thorium has
+Kā ir ar toriju un urānu? Abi ir dabā sastopami
+elementi. Torijam ir tikai
 
 0:22:51.409,0:22:57.909
-only one isotope thorium-232. It has a 14
-billion year half-life. So when the Universe
+viens izotops – torijs-232. Tā pussabrukšanas laiks ir
+14 miljardi gadu. Tad, kad visums
 
 0:22:57.909,0:23:02.039
-is twice as old as it is now, thorium will
-have only decayed one half-life.
+būs divreiz vecāks kā tagad, tikai puse no visa torija būs 
+sabrukusi.
 
 0:23:02.039,0:23:06.330
-What does it tell you how radioactive thorium
-is?
+Cik radioaktīvs tad ir torijs?
 
 0:23:06.330,0:23:12.350
-Hardly at all. That's why it is still around.
-Uranium, two isotopes uranium-235, uranium-238
+Tas ir praktiski stabils. Un tāpēc tā vēl arvien ir tik daudz.
+Urānam ir divi dābā sastopami izotopi: urāns-235 un urāns-238.
 
 0:23:12.350,0:23:16.379
-both of course are radioactive. U-238 has
-a 5 billion year half-life, that's pretty
+Abi, protams, ir radioaktīvi. Urāna-238 pussabrukšanas laiks ir
+5 miljardi gadu, un tas, kas atrodams uz Zemes,
 
 0:23:16.379,0:23:19.899
-old, that's how old the earth is, that's how
-old the Universe is.
+ir aptuveni Zemes vecumā.
 
 0:23:19.899,0:23:24.019
-Uranium-235 on the other hand has a much shorter
-half-life, seven hundred million years. OK.
+Urāna-235 dzīves laiks ir daudz īsāks,
+tas pussabrūk 700 miljonu gadu laikā.
 
 0:23:24.019,0:23:27.240
-How common is this stuff on the earth? Most
-of the earth is made of oxygen. Isn't that
+Cik izplatīts tas ir uz zemes? Vairums zemes sastāv
+no skābekļa.
 
 0:23:27.240,0:23:32.499
-strange? Like 46 percent of the crust of the
-earth is oxygen. Because everything is oxidized,
+Vai tas nav jocīgi?. 46% no Zemes ir skābeklis, jo 
+gandrīz viss ir oksidējies.
 
 0:23:32.499,0:23:35.879
-all the rocks, then silicon, aluminum, iron,
-calcium, a bunch of stuff.
+Visas klintis: silīcijs, alumīnijs, dzelzs, kalcijs,
+un daudz kas cits.
 
 0:23:35.879,0:23:40.759
-Well here is thorium at 10 parts per million,
-but there is other stuff that we think of
+Torijs no tā visa ir 10 daļas no miljona.
+Bet ir daudzi elementi, kas ir retāki par to.
 
 0:23:40.759,0:23:45.740
-that is even less common; beryllium, tin,
-tungsten. Here's uranium, two and a half parts
+Berilijs, alva, volframs. Šeit ir 
+urāns — divas ar pusi daļas no miljona.
 
 0:23:45.740,0:23:50.960
-per million. Tungsten, aluminum, mercury,
-silver, and no surprise where is gold? That's
+Volframs, alumīnijs, dzīvsudrabs, sudrabs,
+un kur ir zelts? Nav nekāds pārsteigums,
 
 0:23:50.960,0:23:52.710
-why girls want you to give it to them.
+ka sievietes to vēlas.
 
 0:23:52.710,0:23:58.070
-Now, let's say we were looking at uranium-235
-as if it was its own thing. It's less than
+Tagad apskatīsim, kur būtu urāns-235, ja to izdalītu
+kā atsevišķu elementu.
 
 0:23:58.070,0:24:03.350
-one percent of uranium, it's about 0.7 percent
-uranium. You can see that uranium-235 is on
+Tā ir mazāk par procentu no visa urāna —
+aptuveni 0,7% no visa urāna. Jūs redzat, ka
 
 0:24:03.350,0:24:07.450
-par with the abundance of silver and platinum.
+urāns-235 ir tikpat rets kā sudrabs un platīns.
 
 0:24:07.450,0:24:12.889
-Can you imagine burning platinum for energy?
-That would just be nuts. It is nuts. And that's
+Vai varat iedomāties, ka platīnu dedzinātu, lai iegūtu enerģiju?
+Tas būtu trakums. Bet patiesībā
 
 0:24:12.889,0:24:18.039
-literally what we're doing with our nuclear
-energy sources today. We're burning this extremely
+mūsdienu kodolenerģētika dara tieši to.
+Mēs dedzinām šo izcili reto un dārgo vielu,
 
 0:24:18.039,0:24:25.009
-rare stuff and we're not burning the common
-stuff, the uranium-238 and the thorium. We're
+bet neizmantojam daudz izplatītāko urānu-238
+un toriju.
 
 0:24:25.009,0:24:27.539
-leaving that stuff unburnt.
+Tos mēs atstājam neizmantotus.
 
 0:24:27.539,0:24:32.570
-Some people who are kind of environmentalists,
-they say, "Listen, nuclear power is not sustainable."
+Daži cilvēki, kas uztraucas par dabu saka:
+"Kodolenerģētika nav ilgtspējīga.
 
 0:24:32.570,0:24:36.940
-They say to me, "We're going to run out of
-uranium." I said, "OK. I will yield that point
+Mums pietrūks urāna."
+Es parasti atbildu: "Es piekrītu, ja tā domā
 
 0:24:36.940,0:24:41.950
-to you if we're talking about today's nuclear
-technology. On the other hand, if we start
+par šodienas kodolenerģētiku. Bet, ja mēs domājam
 
 0:24:41.950,0:24:45.840
-thinking about some of these other things
-we can do, that story changes."
+par citām kodolenerģijas iespējām, tad tas tā nav."
 
 0:24:45.840,0:24:51.559
-Thorium all by itself is not going to release
-nuclear energy. But if you hit the thorium
+Torijs viens pats nav izmantojams, lai iegūtu kodolenerģiju.
+Bet, ja jūs iesitat torijam ar neitronu,
 
 0:24:51.559,0:24:55.669
-with a neutron, the thorium will absorb the
-neutron and it will turn from thorium-232
+tad torijs to absorbē, un kļūst no torija-232
 
 0:24:55.669,0:25:02.249
-into thorium-233. Thorium-233 only has a half-life
-of like 20 minutes, so is it really radioactive?
+par toriju-233. Torija-233 pusdzīves ilgums ir tikai
+20 minūtes. Vai tas ir radioaktīvs?
 
 0:25:02.249,0:25:08.730
-Oh yeah, smoking radioactive, really, really
-hot stuff. It's going to decay into protactinium-233,
+O, jā. Tas ir trakoti radioaktīvs un ļoti, ļoti, ļoti kaitīgs.
+Dažu minūšu laikā tas sabrūk par protaktīniju-233,
 
 0:25:08.730,0:25:10.559
-which has a half-life of about a month.
+kura pusdzīves laiks ir aptuveni mēnesis.
 
 0:25:10.559,0:25:14.379
-So, pretty darn hot stuff. You probably don't
-want to mess with this stuff either. Then
+Tāpēc arī šis ir diezgan kaitīgs, un jūs visticamāk
+nevēlētos ar to spēlēties.
 
 0:25:14.379,0:25:18.879
-it will decay over about a month to uranium-233,
-which has a half life of about 160,000 years,
+Nedaudz ilgāk kā mēneša laikā tas sabrūk par urānu-233, kura
+pussabrukšanas laiks ir aptuveni, 160000 gadu,
 
 0:25:18.879,0:25:22.200
-and is much less radioactive.
+tātad tas ir daudz mazāk radioaktīvs.
 
 0:25:22.200,0:25:27.409
-Uranium-233, if you hit it with a neutron
-it will fission. In addition to releasing
+Ja urānam-233 iesit ar neitronu,
+tad tas sabrūk. Un papildus izdalītajai enerģijai,
 
 0:25:27.409,0:25:32.700
-all that energy, it will release two or three
-additional neutrons. You need one of those
+tas izstaro arī divus vai trīs neitronus. Jums
+ir nepieciešami šie neitroni,
 
 0:25:32.700,0:25:37.559
-neutrons to go find another thorium and you
-need another one of those neutrons to find
+lai ar vienu no tiem apstarotu kādu citu torija kodolu,
 
 0:25:37.559,0:25:41.169
-another uranium-233 to continue the reaction.
+bet ar otru – urānu-233, lai uzturētu dalīšanās reakciju.
 
 0:25:41.169,0:25:47.759
 Some of these fission products have a really
