@@ -46,7 +46,7 @@ Thorium Petition has <strong>not yet launched</strong>. (Not long now!) Please j
 </div>
 
 <div style="overflow:hidden; width:150px; float:left;">
-<g:plusone></g:plusone>
+<g:plusone annotation="none"></g:plusone>
 </div>
 
 <div style="overflow:hidden; width:150px; float:left;">
@@ -87,13 +87,20 @@ LFTR technology was explored at ORNL in Tennessee, until research was halted by 
 <div class="space">&nbsp;</div>
 
 <div class="text">
-It is <strong>not clear</strong> that the Obama Administration is familiar with LFTR, or that President Obama himself has been properly briefed. In <a href="http://nucleargreen.blogspot.com/2009/05/secretary-chus-answer-and-facts.html">2009 Secretary of Energy Steven Chu stated</a> LFTR is not part of the Office of Nuclear Energy's research program, citing...
+  In <a href="http://nucleargreen.blogspot.com/2009/05/secretary-chus-answer-and-facts.html">2009 Secretary of Energy Steven Chu stated</a> LFTR is not part of the Office of Nuclear Energy's research program, citing...
 <ul>
 <li>corrosive effect of molten salt<br /><strong>...to which ORNL proposed multiple solutions in the 1970s</strong><br /><br /></li>
 <li>high melting temperature of the salt<br /><strong>...which is in fact a terrific safety feature</strong><br /><br /></li>
 <li>proliferation concerns<br /><strong>...also addressed by ORNL in the late 1970s</strong><br /></li>
 </ul>
-Steven Chu <strong>knows what LFTR is</strong>. But it is <strong>entirely possible</strong> he <strong>has not</strong> reviewed the technology in depth. Certainly President Obama won't be aware, if his Secretary of Energy is not.</div>
+<p>...and <a href="http://www.reddit.com/r/energy/comments/q349j/on_jan_13_i_sent_doe_sec_stephen_chu_an_email_in/">in a letter to a Redditor in 2011</a> Chu says they are...</p>
+<ul>
+  <li>funding a study   at ANL to evaluate the transition of a   uranium-fueled fast reactor to a thorium-fueled fast reactor<br />
+    <strong>...a far less attractive means of converting thorium into energy, with an inevitable finding that thorium in an impractical alternative to uranium</strong><br />
+  </li>
+</ul>
+<p>Steven Chu <strong>knows what LFTR is</strong>. But for whatever reason looks to &quot;evaluate&quot; thorium in a solid fuel reactor. The benifits of thorium over uranium in such a reactor are vastly reduced. A <strong>thorium molten-salt reactor</strong> design is what needs to be evaluated as a <strong>top priority</strong>.</p>
+</div>
 
 <div class="space">&nbsp;</div>
 
@@ -129,7 +136,7 @@ If you've already signed the thorium petition -INSERT LINK- and would like to he
 </div>
 
 <div style="overflow:hidden; width:150px; float:left;">
-<g:plusone></g:plusone>
+<g:plusone annotation="none"></g:plusone>
 </div>
 
 <div style="overflow:hidden; width:150px; float:left;">
@@ -144,7 +151,7 @@ Be sure to share this petition with your friends. The clock is ticking! Rapid de
 <div class="space">&nbsp;</div>
 
 <div class="text">
-But of course, the fastest clicking tock is the <strong>30-day limit</strong> on the petition itself! Yes, this is urgent. <strong>Please sign</strong> the THORIUMM PETITION right <strong>now</strong>! -INSERT LINK-
+But of course, the most critical deadline is the <strong>30-day limit</strong> on the petition itself! Yes, this is urgent. <strong>Please sign</strong> the THORIUMM PETITION right <strong>now</strong>! -INSERT LINK-
 </div>
 
 <div class="nothing">&nbsp;</div>
