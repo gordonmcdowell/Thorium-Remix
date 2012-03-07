@@ -26,7 +26,7 @@ Pressure is lost, water that's being held
 at 300 degrees Celsius [makes splashing sound]
 
 0:00:28.760,0:00:34.320
-splashes to steam. Its volume increases roughly
+flashes to steam. Its volume increases roughly
 by a factor of 1000. If you don't get emergency
 
 0:00:34.320,0:00:38.010
