@@ -22,7 +22,7 @@
 <div id="Header">
 <h1 class="main_title">THORIUM REMIX</h1>
 <ul class="tabs">
-<li><a href="/2012/">2012<br />&nbsp;</a></li>
+<li><a href="/news/">NEW<br />&nbsp;</a></li>
 <li><a href="/cc-by-sa/">CC<br />&nbsp;</a></li>
 <li id="Selected"><a href="/act/">ACT<br />&nbsp;</a></li>
 <li><a href="/dvd/">DVD<br />&nbsp;</a></li>
@@ -41,18 +41,16 @@ The fastest, cheapest &amp; easiest way to help, is to share THORIUM REMIX 2011 
 <div class="space">&nbsp;</div>
 
 <div class="text">
-If you want to <strong>do</strong> something to ensure the thorium energy future gets here quicker, join the following...
+To learn more, and to <strong>really</strong>  engage I'd suggest visitng/joining the following:
 <ul>
-<li><a href="http://www.facebook.com/ThoriumPetition">USA Gov Thorium Petition (join now so you are alerted when petition is launched!) </a></li>
-<li><a href="http://www.thoriumenergyalliance.com/">Thorium Energy Alliance</a></li>
-<li><a href="http://www.facebook.com/ThoriumRemix">Thorium Remix (on facebook)</a></li>
-</ul> 
-...and if you're looking to learn more check out...
-<ul>
-<li><a href="http://www.facebook.com/EnergyFromThorium">Energy from Thorium (on facebook)</a></li>
+  <li><a href="http://www.facebook.com/EnergyFromThorium">Energy from Thorium (on facebook)</a></li>
+  <li><a href="http://www.thoriumenergyalliance.com/">Thorium Energy Alliance</a></li>
 <li><a href="http://itheo.org/">International Thorium Energy Organization</a></li>
 <li><a href="http://energyfromthorium.com/">Energy from Thorium</a></li>
+<li><a href="http://www.facebook.com/ThoriumRemix">Thorium Remix (on facebook)</a></li>
+<li><a href="http://ThoriumPetition.com">USA Gov Thorium Petition (on facebook, a work in progress but good to join) </a></li>
 </ul> 
+...these provide thorium FAQs, enthusiasts and experts to assist with any technical/policy questions you may have.
 </div>
 
 
@@ -203,15 +201,7 @@ Helpful tips:
 <font style="white-space:nowrap;">private contact: <a href="mailto:THORIUMREMIX@GMAIL.COM">email</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font> <font style="white-space:nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public contact: <a href="http://www.facebook.com/ThoriumRemix">facebook</a> <a href="http://www.youtube.com/user/thoriumremix">youtube</a> <a href="http://twitter.com/#!/thoriumremix">twitter</a> <a href="http://www.reddit.com/r/ThoriumRemix/">reddit</a></font>
 </div>
 
-<ul class="language-tabs">
-<li><a href="/es/">spanish</a></li>
-<li><a href="/lv/">latvian</a></li>
-<li><a href="/ja/">japanese</a></li>
-<li><a href="/de/">deutsch</a></li>
-<li><a href="/fr/">français</a></li>
-<li id="Selected"><a href="/">english</a></li>
-<li><a href="/hr/">croatian</a></li>
-</ul>
+
 
 </div>
 </body>
