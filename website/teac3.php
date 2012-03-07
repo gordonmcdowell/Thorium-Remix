@@ -140,7 +140,7 @@ You like thorium? You like clothing? Bumper stickers? Maybe you just like John. 
 <ul class="language-tabs">
 <li><a href="/es/">spanish</a></li>
 <li><a href="/lv/">latvian</a></li>
-<li><a href="/ja/">japanese</a></li>
+<li><a href="/ja/teac3/">japanese</a></li>
 <li><a href="/de/">deutsch</a></li>
 <li><a href="/fr/">français</a></li>
 <li id="Selected"><a href="/">english</a></li>

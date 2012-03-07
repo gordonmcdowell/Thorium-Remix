@@ -101,7 +101,7 @@ The three Calgary talks offered a fantastic variety in subject matter: TEDxYYC w
 <li><a href="/es/">spanish</a></li>
 <li><a href="/lv/">latvian</a></li>
 <li><a href="/ja/">japanese</a></li>
-<li><a href="/de/">deutsch</a></li>
+<li><a href="/de/tedxyyc/">deutsch</a></li>
 <li><a href="/fr/">français</a></li>
 <li id="Selected"><a href="/">english</a></li>
 <li><a href="/hr/">croatian</a></li>

@@ -23,6 +23,7 @@
 <h1 class="main_title">Der Thorium-Flüssigsalzreaktor</h1>
 <ul class="tabs">
 <li id="Selected"><a href="/de/2011/">2011<br />&nbsp;</a></li>
+<li><a href="/de/tedxyyc/">TEDxYYC<br />&nbsp;</a></li>
 </ul><br /><br />
 </div>
 
