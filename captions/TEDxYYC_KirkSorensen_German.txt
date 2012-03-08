@@ -3,12 +3,12 @@ Fast jeder von uns ist Teil einer
 Gemeinschaft, sei sie groß oder klein,
 
 0:00:11.290,0:00:14.869
-und alle Gemeinschaften 
+und alle Gemeinschaften
 haben ähnliche Bedürfnisse:
 
 0:00:14.869,0:00:16.920
-Sie brauchen Licht,
-sie brauchen Wärme,
+Sie brauchen Licht.
+Sie brauchen Wärme,
 
 0:00:16.920,0:00:20.950
 sie brauchen Klimaanlagen.
@@ -24,7 +24,7 @@ verteilt und sicher gelagert werden.
 
 0:00:26.289,0:00:31.000
 Müll muss einsammelt, entfernt
-und aufbereitet werden. 
+und aufbereitet werden.
 
 0:00:31.000,0:00:33.500
 Menschen müssen von einem Ort
@@ -63,10 +63,10 @@ beschäftigt hat, war diese hier:
 
 0:00:58.990,0:01:03.920
 eine Mondkolonie. Sie hat die gleichen Bedürfnisse
-wie ein Gemeinwesen auf der Erde, 
+wie ein Gemeinwesen auf der Erde, ...
 
 0:01:03.920,0:01:06.888
-aber ein paar
+... aber ein paar
 sehr spezielle Einschränkungen.
 
 0:01:08.888,0:01:10.020
@@ -74,8 +74,8 @@ Und wir müssen uns überlegen, wie wir eine solche
 spezielle Gemeinschaft mit Energie versorgen können.
 
 0:01:10.020,0:01:13.289
-Es gibt keine Kohle auf dem Mond,
-es gibt kein Öl.
+Es gibt keine Kohle auf dem Mond.
+Es gibt kein Öl.
 
 0:01:13.289,0:01:16.000
 Es gibt kein Erdgas.
@@ -135,7 +135,7 @@ Das ist bei weitem nicht heiß genug,
 um effektiv Elektrizität zu erzeugen.
 
 0:01:57.879,0:02:01.229
-Darum müssen wassergekühlte Reaktor
+Darum müssen wassergekühlte Reaktoren
 bei Drücken laufen, die sehr viel höher sind
 
 0:02:01.229,0:02:02.790
@@ -150,7 +150,7 @@ andere sogar bei einem
 Druck von 150 bar.
 
 0:02:10.580,0:02:14.070
-Das lässt sich nicht verhindern.
+Das lässt sich nicht vermeiden.
 Das muss man halt so machen,
 
 0:02:14.070,0:02:16.650
@@ -192,8 +192,8 @@ der aus dem Reaktor kommt,
 wenn es einen Unfall mit Druckverlust gibt.
 
 0:02:48.319,0:02:52.010
-Wasserdampf braucht tausendmal mehr
-Volumen als flüssiges Wasser.
+Wasserdampf hat ein tausendfach
+höheres Volumen als flüssiges Wasser.
 
 0:02:52.010,0:02:56.200
 Daher ist das Containment sehr groß
@@ -260,7 +260,7 @@ Auf dem Mond gibt es aber keine Seen oder Flüsse.
 Und wenn Sie jetzt sagen, dass wassergekühlte Reaktoren ...
 
 0:03:49.050,0:03:54.249
-... für eine Mondkolonie doch wohl keine
+... für eine Mondkolonie wohl doch keine
 so gute Idee sind, würde ich Ihnen zustimmen.
 
 0:03:54.249,0:03:57.819
@@ -284,7 +284,7 @@ eines Freundes und sah ein Buch in seinem Regal:
 und ich fragte, ob ich es ausleihen könne.
 
 0:04:13.839,0:04:17.829
-Ich las über Forschungsarbeiten damals in den 1950er
+Ich las darin über Forschungsarbeiten damals in den 1950er
 Jahren in den Vereinigten Staaten, die sich mit einem ...
 
 0:04:17.829,0:04:22.400
@@ -308,7 +308,7 @@ Fluoride sind chemisch außerordentlich stabil.
 
 0:04:35.150,0:04:40.169
 Sie reagieren nicht mit Luft oder Wasser,
-Sie müssen sie auf 400 Grad Celsius aufheizen, ...
+Man muss sie auf 400 Grad Celsius aufheizen, ...
 
 0:04:40.169,0:04:42.479
 ... um sie zum Schmelzen zu bringen,
@@ -318,7 +318,7 @@ und das ist geradezu perfekt, ...
 ... um in einem Kernreaktor Strom zu erzeugen.
 
 0:04:45.249,0:04:48.810
-Und jetzt kommt der Clou: Diese Reaktoren
+Und das ist der Clou: Diese Reaktoren
 brauchen nicht mit hohen Drücken zu arbeiten.
 
 0:04:48.810,0:04:50.680
@@ -340,7 +340,7 @@ seine Dichte nennenswert verändert.
 Darum kann das Containment um den Reaktor ...
 
 0:05:02.770,0:05:06.080
-sehr viel kleiner und enganliegend sein.
+... sehr viel kleiner und enganliegend sein.
 Anders als die Festbrennstoffe, die schmelzen können, ...
 
 0:05:06.080,0:05:10.310
@@ -470,8 +470,8 @@ wiederverwenden. Das wäre ja auch ein ...
 ... absolutes Muss, um erfolgreich zu sein.
 
 0:06:48.129,0:06:52.430
-We die Pflanzen, die wir zur Ernährung der Menschen brauchen,
-auch in der zwei Wochen langen ...
+Wir können die Pflanzen, die wir als Nahrung für die 
+Menschen brauchen, auch in der zwei Wochen langen ...
 
 0:06:52.430,0:06:55.150
 ... Mondnacht wachsen lassen:
@@ -483,7 +483,7 @@ oder LFTR – genau die Energiequelle ist, die eine ...
 
 0:06:58.729,0:07:03.289
 ... autarke Mondkolonie Wirklichkeit werden lassen könnte.
-Aber ich hatte eine einfache Frage:
+Aber dann habe ich mir eine einfache Frage gestellt:
 
 0:07:03.289,0:07:06.560
 Wenn das eine derart großartige Sache
@@ -491,21 +491,21 @@ für eine Gemeinschaft auf dem Mond ist,
 
 0:07:06.560,0:07:09.630
 warum dann nicht für eine Gemeinschaft auf der Erde?
-Für eine Gesellschaft der Zukunft: ...
+Für eine Gesellschaft der Zukunft, ...
 
 0:07:09.630,0:07:11.630
-... selbstversorgend und energieunabhängig.
+... die sich selbst versorgt und energieunabhängig ist.
 
 0:07:11.630,0:07:14.820
 Dieselbe Art der Energieerzeugung
-und dieselben Recycling-Techniken,
+und dieselben Recycling-Techniken, ...
 
 0:07:14.820,0:07:17.920
-die großen Einfluß auf das
-Überleben auf dem Mond haben,
+... die großen Einfluß auf das
+Überleben auf dem Mond haben, ...
 
 0:07:17.920,0:07:21.080
-könnten ebenso einen großen Einfluß
+... könnten auch einen großen Einfluß
 auf das Überleben auf der Erde haben.
 
 0:07:21.080,0:07:25.830
@@ -517,8 +517,8 @@ Leider sehen dadurch manche Teile
 unseres Planeten wie der Mond aus.
 
 0:07:28.960,0:07:32.430
-Weil wir fossile Brennstoffe verwenden, werden wir in 
-Konflikte in instabilen Regionen der Welt verwickelt.
+Durch fossile Brennstoffe werden wir in Konflikte
+in instabilen Regionen der Welt verwickelt.
 
 0:07:32.430,0:07:34.929
 Wir zahlen mit Geld und mit Leben.
@@ -532,19 +532,19 @@ Wissen Sie, im LFTR können wir Thorium
 etwa 200 Mal effizienter einsetzen, ...
 
 0:07:40.659,0:07:44.540
-als wir es heute mit Uran machen,
-denn der LFTR ist in der Lage,
+... als wir es heute mit Uran machen,
+denn der LFTR ist in der Lage, ...
 
 0:07:44.540,0:07:47.009
-die Energie im Thorium
+... die Energie im Thorium
 fast vollständig freizusetzen.
 
 0:07:47.009,0:07:50.840
 Das vermindert die Abfallproduktion
-gegenüber Uran um das Hundertfache,
+gegenüber Uran um das Hundertfache, ...
 
 0:07:50.840,0:07:53.520
-und millionenfach gegenüber fossilen Brennstoffen.
+... und millionenfach gegenüber fossilen Brennstoffen.
 
 0:07:53.520,0:07:56.539
 Wir brauchen auch weiterhin flüssige Kraftstoffe
@@ -555,7 +555,7 @@ für Fahrzeuge und Maschinen, ...
 dem Kohlendioxid in der Atmosphäre ...
 
 0:08:00.539,0:08:04.400
-und aus Wasser gewinnen – ganz ähnlich, wie es die Natur macht.
+... und aus Wasser gewinnen – ganz ähnlich, wie es die Natur macht.
 Wir können Wasserstoff durch Aufspalten von Wasser erzeugen ...
 
 0:08:04.400,0:08:07.789
@@ -639,8 +639,7 @@ eine kompakte Anlage, ...
 Nacht die Energie produzieren, die wir brauchen – ...
 
 0:09:18.360,0:09:19.900
-... und zwar ohne Rücksicht
-auf das jeweilige Wetter.
+... und zwar völlig unabhängig vom Wetter.
 
 0:09:19.900,0:09:24.380
 2007 haben wir 5 Milliarden Tonnen Kohle verbraucht,
@@ -667,7 +666,7 @@ wo eine wachsende, enthusiastische Gemeinschaft ...
 
 0:09:43.339,0:09:46.019
 ... von Thorium-Befürwortern dabei ist,
-der Welt zu erzählen, ...
+der Welt mitzuteilen, ...
 
 0:09:46.019,0:09:49.930
 ... wie wir eine saubere und nachhaltige

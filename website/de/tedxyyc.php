@@ -54,8 +54,8 @@ Gemeinschaft, sei sie groß oder klein,
 und alle Gemeinschaften
 haben ähnliche Bedürfnisse:
 
-Sie brauchen Licht,
-sie brauchen Wärme,
+Sie brauchen Licht.
+Sie brauchen Wärme,
 
 sie brauchen Klimaanlagen.
 Menschen funktionieren nicht sehr gut,
@@ -83,7 +83,7 @@ gibt uns Licht und Klima,
 Energie in Form von Wärme hält uns warm,
 und Energie in chemischer Form 
 
- liefert Kunstdünger und treibt
+liefert Kunstdünger und treibt
 Landwirtschaftsmaschinen und Verkehr an.
 
 Ich habe 10 Jahre lang
@@ -104,8 +104,8 @@ sehr spezielle Einschränkungen.
 Und wir müssen uns überlegen, wie wir eine solche
 spezielle Gemeinschaft mit Energie versorgen können.
 
-Es gibt keine Kohle auf dem Mond,
-es gibt kein Öl.
+Es gibt keine Kohle auf dem Mond.
+Es gibt kein Öl.
 
 Es gibt kein Erdgas.
 Es gibt keine Atmosphäre.
@@ -149,7 +149,7 @@ bei 100 Grad Celsius.
 Das ist bei weitem nicht heiß genug,
 um effektiv Elektrizität zu erzeugen.
 
-Darum müssen wassergekühlte Reaktor
+Darum müssen wassergekühlte Reaktoren
 bei Drücken laufen, die sehr viel höher sind
 
 als der normale Luftdruck.
@@ -160,7 +160,7 @@ arbeiten bei über 70 bar,
 andere sogar bei einem
 Druck von 150 bar.
 
-Das lässt sich nicht verhindern.
+Das lässt sich nicht vermeiden.
 Das muss man halt so machen,
 
 wenn man mit einem wassergekühlten
@@ -191,8 +191,8 @@ der aus dem Reaktor kommt,
 
 wenn es einen Unfall mit Druckverlust gibt.
 
-Wasserdampf braucht tausendmal mehr
-Volumen als flüssiges Wasser.
+Wasserdampf hat ein tausendfach
+höheres Volumen als flüssiges Wasser.
 
 Daher ist das Containment sehr groß
 im Vergleich zum Reaktor.
@@ -242,7 +242,7 @@ Andernfalls können sie keinen Strom erzeugen.
 Auf dem Mond gibt es aber keine Seen oder Flüsse.
 Und wenn Sie jetzt sagen, dass wassergekühlte Reaktoren 
 
- für eine Mondkolonie doch wohl keine
+ für eine Mondkolonie wohl doch keine
 so gute Idee sind, würde ich Ihnen zustimmen.
 
 Aber wissen Sie, ich hatte das Glück, etwas
@@ -251,7 +251,7 @@ Aber wissen Sie, ich hatte das Glück, etwas
 die diese Probleme alle nicht hat, und zwar aus einem ganz
 einfachen Grund: sie arbeitet nicht mit Wasserkühlung, 
 
- und sie arbeitet nicht mit festen Brennstoffen.
+und sie arbeitet nicht mit festen Brennstoffen.
 Verblüffenderweise arbeitet sie mit Salz.
 
 Eines Tages bei der Arbeit war ich im Büro
@@ -260,7 +260,7 @@ eines Freundes und sah ein Buch in seinem Regal:
 »Reaktoren mit Flüssigbrennstoffen«. Das interessierte mich,
 und ich fragte, ob ich es ausleihen könne.
 
-Ich las über Forschungsarbeiten damals in den 1950er
+Ich las darin über Forschungsarbeiten damals in den 1950er
 Jahren in den Vereinigten Staaten, die sich mit einem 
 
 Kernreaktor befassten, der nicht mit festem Brennstoff oder
@@ -278,14 +278,14 @@ Beryllium, Uran und Thorium.
 Fluoride sind chemisch außerordentlich stabil.
 
 Sie reagieren nicht mit Luft oder Wasser,
-Sie müssen sie auf 400 Grad Celsius aufheizen, 
+Man muss sie auf 400 Grad Celsius aufheizen, 
 
- um sie zum Schmelzen zu bringen,
+um sie zum Schmelzen zu bringen,
 und das ist geradezu perfekt, 
 
- um in einem Kernreaktor Strom zu erzeugen.
+um in einem Kernreaktor Strom zu erzeugen.
 
-Und jetzt kommt der Clou: Diese Reaktoren
+Und das ist der Clou: Diese Reaktoren
 brauchen nicht mit hohen Drücken zu arbeiten.
 
 Und das ist der größte Unterschied.
@@ -397,8 +397,8 @@ wiederverwenden. Das wäre ja auch ein
 
  absolutes Muss, um erfolgreich zu sein.
 
-We die Pflanzen, die wir zur Ernährung der Menschen brauchen,
-auch in der zwei Wochen langen 
+Wir können die Pflanzen, die wir als Nahrung für die 
+Menschen brauchen, auch in der zwei Wochen langen 
 
  Mondnacht wachsen lassen:
 mit Licht und Strom aus dem Reaktor.
@@ -407,15 +407,15 @@ Es sah ganz so aus, als ob der Thorium-Flüssigsalzreaktor –
 oder LFTR – genau die Energiequelle ist, die eine 
 
  autarke Mondkolonie Wirklichkeit werden lassen könnte.
-Aber ich hatte eine einfache Frage:
+Aber dann habe ich mir eine einfache Frage gestellt:
 
 Wenn das eine derart großartige Sache
 für eine Gemeinschaft auf dem Mond ist,
 
 warum dann nicht für eine Gemeinschaft auf der Erde?
-Für eine Gesellschaft der Zukunft: 
+Für eine Gesellschaft der Zukunft,
 
- selbstversorgend und energieunabhängig.
+die sich selbst versorgt und energieunabhängig ist.
 
 Dieselbe Art der Energieerzeugung
 und dieselben Recycling-Techniken,
@@ -423,7 +423,7 @@ und dieselben Recycling-Techniken,
 die großen Einfluß auf das
 Überleben auf dem Mond haben,
 
-könnten ebenso einen großen Einfluß
+könnten auch einen großen Einfluß
 auf das Überleben auf der Erde haben.
 
 Heute verbrennen wir fossile Brennstoffe, weil sie leicht
@@ -432,8 +432,8 @@ zu finden sind, und einfach, weil wir es können.
 Leider sehen dadurch manche Teile
 unseres Planeten wie der Mond aus.
 
-Weil wir fossile Brennstoffe verwenden, werden wir in
-Konflikte in instabilen Regionen der Welt verwickelt.
+Durch fossile Brennstoffe werden wir in Konflikte
+in instabilen Regionen der Welt verwickelt.
 
 Wir zahlen mit Geld und mit Leben.
 
@@ -523,8 +523,7 @@ eine kompakte Anlage,
  sehr energieeffizient und sicher. Sie könnte Tag und
 Nacht die Energie produzieren, die wir brauchen – 
 
- und zwar ohne Rücksicht
-auf das jeweilige Wetter.
+ und zwar völlig unabhängig vom Wetter.
 
 2007 haben wir 5 Milliarden Tonnen Kohle verbraucht,
 31 Milliarden Barrel Öl 
@@ -544,7 +543,7 @@ Wenn Sie dies alles interessant finden,
 wo eine wachsende, enthusiastische Gemeinschaft 
 
  von Thorium-Befürwortern dabei ist,
-der Welt zu erzählen, 
+der Welt mitzuteilen, 
 
  wie wir eine saubere und nachhaltige
 Zukunft der Energie erreichen können – 
