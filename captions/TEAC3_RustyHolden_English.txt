@@ -1,109 +1,764 @@
-I’m Rusty Holden I’m from Thorenco and talking about the little LFTR, a pilot plant that I designed computationally in the last couple of months. In overview on where we go next because we have to do a little materials testing. 
+0:00:00.149,0:00:07.149
+I'­m Rusty Holden I'­m from Thorenco and talking
+about the little LFTR, a pilot plant that
 
-This is 40 Megawatts, here’s our defining differences, the neutrons converting Thorium directly to Uranium-233. Also in the pure design, which I have here, we’re not producing any Plutonium to speak of or any of the other dreaded transuranics.  The usual suspects, thee contamination issue for thousands of years.
+0:00:07.240,0:00:13.949
+I designed computationally in the last couple
+of months. In overview on where we go next
 
-With the liquid the defining difference: no melt down, no fuel rods, no cooling ponds and again no 10,000 year fuel storage problems. Finally with the liquid fuels we have the safety situation pretty much in hand. You’ve seen the fuel dump that has been discussed, this is when the hot fuel drops down into the tank during the unforeseeable emergency situation. 
+0:00:13.949,0:00:16.550
+because we have to do a little materials testing.
 
-My only improvement on that is to salt the tank that receives the hot fuel with denaturing materials and with diluents and with neutron absorbers but we’ll get to that in a moment.
+0:00:16.550,0:00:22.460
+This is 40 Megawatts, here'­s our defining
+differences, the neutrons converting Thorium
 
-Here we go, how do we start this thing? I pick a molten salt Sodium Beryllium Fluoride, I’m using this one because its inexpensive, readily available and you don’t have to do any isotopic separation. Isn’t a case of Lithium, you have to fish out the Lithium-6 in this you don’t. 
+0:00:22.460,0:00:28.820
+directly to Uranium-233. Also in the pure
+design, which I have here, we'­re not producing
 
-There is a penalty, there’s a little bit of neutron cost in the economy here but I think this is a good salt to look at, it’s excellent because its got a very long liquid range; 350o C  - 1500o C that’s good. It gives an operating range between 450 and 650, which is good it doesn’t strain the materials. 
+0:00:28.820,0:00:34.970
+any Plutonium to speak of or any of the other
+dreaded transuranics. The usual suspects,
 
-The nice thing also is this, a low power design, I wanna test the materials, I wanna do it inexpensively so we got natural convection that we can do with a pool type reactor design. 
+0:00:34.970,0:00:39.050
+thee contamination issue for thousands of
+years.
 
-What’s our fuel? This is easy, all we do is we get our coolant our Sodium Beryllium Fluoride and we add our Fissile to it in this case its pure 235UF4, We add our Fertile which is our Thorium Tetrafluoride and I examined some cases just varying the amount of Thorium in the fuel. 
+0:00:39.050,0:00:43.940
+With the liquid the defining difference: no
+melt down, no fuel rods, no cooling ponds
 
-The good news is this, the more Thorium the better the fuel. Here’s the liquid fuel characteristics melted around 400o C. We can adjust that melting temperature by adding additional Fluoride salts so we can have a lower melt. We can do that also with the coolant, we can adjust the melting temperature with relative E’s.
+0:00:43.940,0:00:50.030
+and again no 10,000 year fuel storage problems.
+Finally with the liquid fuels we have the
 
-The fuel is compatible with the coolant because it’s made out of the coolant and its compatible with the Hastelloy-Nickel Cladding. The materials absolutely necessary to separate your coolant from your fuel, you don’t wanna contaminate your coolant because then if you have that possibility your not gonna be in business ever.
+0:00:50.030,0:00:57.030
+safety situation pretty much in hand. You'­ve
+seen the fuel dump that has been discussed,
 
-In this reactor design I use the Beryllium in the salt as the moderator, so I sidestep having moderator in the molten salt assembly, I don’t have graphite sitting in the cord, makes a smaller design. This is the conceptual honey comb geometry, this is new geometry, thee honey is the yellow that’s the coolant coming your way.   
+0:00:57.180,0:01:03.640
+this is when the hot fuel drops down into
+the tank during the unforeseeable emergency
 
-The blue is the Thorium that’s your neutron reflector your blanket, its kicking those neutrons back into the core and the red is the fuel circulating in the Hastelloy Lapis. In this chart we’ll say we’re pumping the fuel north and then the honey comb we’re looking down on the reactor and the honey’s coming our way, that’s our ??.
+0:01:03.640,0:01:04.739
+situation.
 
-The reason we have this geometry is with the thermal management, Hastelloy does not conduct heat as well as many of the other more traditional materials do so I Increase the surface area of our cladding so that we achieve a nice result. 
+0:01:04.739,0:01:11.739
+My only improvement on that is to salt the
+tank that receives the hot fuel with denaturing
 
-We have the fuel pumped throughout the Lattice. Also with this Lattice design we have a cover gas in our fuel and we’re pumping that cover gas around and this is the way we fish out our fission gases. Your fission gases are sort of the parents of many of the fission products and this is a superior way to clean and condition your fuel during operations is to manage that gas and the easiest way to do it, is to circulate a cover gas sitting on top. 
+0:01:12.080,0:01:17.850
+materials and with diluents and with neutron
+absorbers but we'­ll get to that in a moment.
 
-Here’s thee computational innovation here which shows you in to detail what the hexcel system looks like. With the green is the fuel we’re pumping at north again, the honey the yellow we’re coming your way, that’s the coolant and your fuel and the Hastelloy is the magenta its your cladding that’s separating fuel from coolant.
+0:01:17.850,0:01:23.170
+Here we go, how do we start this thing? I
+pick a molten salt Sodium Beryllium Fluoride,
 
-We see what the core looks like, we’re at 160cm across thee hexagonal shape, it’s a right hexagonal prism, so its 160cm tall and 160cm across the shoulders. Thee opening of the lades are in 4cm segments.  
+0:01:23.170,0:01:28.940
+I'­m using this one because its inexpensive,
+readily available and you don'­t have to do
 
-They’re there because that’s the mean free path of the neutrons in this particular assembly. We put my hex system where it saids reactor core, it heats up that chimney full of salt, salt goes up to the top visits the heat exchanger gets cool goes back down that’s your primary loop, your salt is in an endless circle here
+0:01:28.940,0:01:35.750
+any isotopic separation. Isn'­t a case of
+Lithium, you have to fish out the Lithium-6
 
-and inside of this flask I call it a thermal reservoir. We have a lot of heat that we store and the way that we fish it out is with the heat exchangers and the secondary loop probably critical CO2 ?? heat exchange whatever the most efficient is. 
+0:01:35.750,0:01:36.940
+in this you don'­t.
 
-I like the gas because your hardware’s a lot smaller and a lot more efficient. I keep my traditional control rods and safety rods that sort of thing. I keep it there for regulatory reasons, its good to have traditional controls in addition to all the other controls we’ve designed that are new. 
+0:01:36.940,0:01:42.229
+There is a penalty, there'­s a little bit
+of neutron cost in the economy here but I
 
-But this provides a nice transition from the old to the new, is using the trident to control it gives us a good shot of having regulatory success.
+0:01:42.229,0:01:47.200
+think this is a good salt to look at, it'­s
+excellent because its got a very long liquid
 
-This is what the neutrons look like in the fuel. Horizontal scales, increasing energy goes up to 10 million electronic vaults. Way down in this end, a tenth or so of electron vaults, tiny electron vaults. The green shows you Thorium’s appetite or affinity for neutrons as a function of energy and the red shows you affinity by Uraninum-233 in this case for neutrons.
-You see Uranium loves those cold or those chilled out or thermal neutrons and a little bit below one electron vault. The idea of this thing, what makes it go is you have to have enough thermalised neutrons to keep that neutron chain reaction going. 
+0:01:47.200,0:01:54.200
+range; 350o C - 1500o C that'­s good. It gives
+an operating range between 450 and 650, which
 
-But also you wanna be able to make as much fuel as you can on the go, so that’s why I like a little higher spectrum here or this is pretty hard spectrum and what’s going on is we’re getting lots of opportunity for the neutrons to be captured by the Thorium.        
+0:01:54.970,0:01:57.220
+is good it doesn'­t strain the materials.
 
-so that we can almost, we can get towards a break-even situation of producing as much fissile material as we consume during reactor operations. There’s many advantages of course, there’s great making the fissile right in the core because that’s the safest place in the world for fissile because it’s protected by radiation shield.
+0:01:57.220,0:02:02.610
+The nice thing also is this, a low power design,
+I wanna test the materials, I wanna do it
 
-What happened with these three fuel designs, the 1 on this is when your reactor is critical, when you go below 1 that means your reactor is fizzled out, the fission products have won the battle and now you’ve just got a bunch of hampers. The more Thorium that’s in the fuel thee longer it’s gonna last, the longer its gonna stay above 1.
+0:02:02.610,0:02:08.989
+inexpensively so we got natural convection
+that we can do with a pool type reactor design.
 
-These computations were done without pulling the fission gases out. My next set of computations will be using condition fuel to flatten out this chart so that my fuel will be very very long lived, many decades probably of fuel.
+0:02:08.989,0:02:14.730
+What'­s our fuel? This is easy, all we do
+is we get our coolant our Sodium Beryllium
 
-The idea of this is to keep the fuel in the plant, not take it away from the plant, regulators like that it’s a good idea. The way to do that is condition that fuel, you can, I’ve talked about the fission gases you capture them outside the core
+0:02:14.730,0:02:21.730
+Fluoride and we add our Fissile to it in this
+case its pure 235UF4, We add our Fertile which
 
-the trick is you just pull them out run them through a cold box and your fission gases will get stuck in the cold, they’ll come out and then they’ll drop down into the fission products solids that are thee neutron poisons.
+0:02:22.909,0:02:29.909
+is our Thorium Tetrafluoride and I examined
+some cases just varying the amount of Thorium
 
-This was our performance the low power test, 10 megawatts, we burned up 141 Kg of U-233 in this exercise then we produced about 102 kilograms of U-233. With a big fissile load of this thing at 1.6 metric tonnes that’s high but that’s the price of having a fuel that can be made eternal. 
+0:02:31.319,0:02:32.370
+in the fuel.
 
-Being able to work in the harder spectrum rather than a softer thermalised spectrum. We have 9 tonnes of Thorium in here and we produced 23 grams of U-232 that’s the stuff that shows to the world, it sends out a gamma signal, you can see it from a satellite, way out in space or instruments on a boat or on the ground 
+0:02:32.370,0:02:37.599
+The good news is this, the more Thorium the
+better the fuel. Here'­s the liquid fuel characteristics
 
-It saids there’s Uranium-233 here its hot, if you’ve tried to run off with it, it’s a dead giveaway and if you’ve tried to build a bomb out of it, it provides a nice way to come in with some counter measure that see those photons and will zoom right in and zap wherever that unaccounted for Uranium is. 
+0:02:37.599,0:02:43.790
+melted around 400o C. We can adjust that melting
+temperature by adding additional Fluoride
 
-Here’s are transuranics, transuranics are usual suspects, Plutonium-239 and hangs out for 24,110 year and a half-life, takes a quite a long time to fizzle out.
+0:02:43.790,0:02:50.029
+salts so we can have a lower melt. We can
+do that also with the coolant, we can adjust
 
-These figures show ten to the minus 7, ten to the minus 4, ten to the minus 7, ten to the minus 9 grams, this is tiny, tiny production. I got lazy when I did the edition here I said less than a milligram, well its significantly less than a milligram a thousand of a gram of these dreaded materials 10 years of operation under case 6.
+0:02:50.029,0:02:52.840
+the melting temperature with relative E'­s.
 
-This is good, waste profile much healthier all we have to worry about is the fission products and we’ve already captured a lot of those fission products in that cold box and we have a much more workable situation here.
+0:02:52.840,0:02:57.769
+The fuel is compatible with the coolant because
+it'­s made out of the coolant and its compatible
 
-Now here’s the fuel dump the vertical pipes that connects the hex-cell array to thee safety drums. These are the emergency drums, we can’t foresee every kind of black swan when its gonna show up, when its gonna show up and what it’s gonna be. 
+0:02:57.769,0:03:04.349
+with the Hastelloy-Nickel Cladding. The materials
+absolutely necessary to separate your coolant
 
-So under this system we can trip the emergency switch either by the operator if he’s still there or a seismic signal comes through or a thermal signal comes through in other words the fuels too hot. 
+0:03:04.349,0:03:09.269
+from your fuel, you don'­t wanna contaminate
+your coolant because then if you have that
 
-So it can melt through a plug or the other methods as the temperature of the fuel increases curie points of magnetic materials can be exceeded and circuits opened and physical circuits opened so we can dumb that fuel right down into the tank and there is the denaturant Uranium-238 sitting right in the tank in gravel form it melts into the fuel denaturing it.
+0:03:09.269,0:03:12.430
+possibility your not gonna be in business
+ever.
 
-We have Cadmium Fluoride in the gravel in the tank its there grabbing the excess thermal neutrons taking them out of circulation. We also have additional dilutants in the tank we can use the coolant or there are some other dilutants that are low melting fluoride compounds that can solve the after heat problem immediately because we’re changing the density of the fuel
+0:03:12.430,0:03:19.430
+In this reactor design I use the Beryllium
+in the salt as the moderator, so I sidestep
 
-or the density of the fission products, we’re making them more aware in the material so we can handle this thing with passive air coolant. It just like a bunch of drums sitting in the air as long as the air can circulate there’s enough cooling so that we don’t have a problem controlling that after heat as we’ve seen in Japan and elsewhere. 
+0:03:19.909,0:03:26.379
+having moderator in the molten salt assembly,
+I don'­t have graphite sitting in the cord,
 
-Here’s our ?? a little bit our prism is 5ft 2 that’s what a 160cm, so 5ft 2 tall, 5 ft 2 wide. Our fuel volume is 615 gallons we all understand gallons the leader always ?? me but that’s all there is 615. 
+0:03:26.379,0:03:32.499
+makes a smaller design. This is the conceptual
+honey comb geometry, this is new geometry,
 
-We’ve got a lot of coolant in this design of mine because what we’re trying to do is my that thermal reservoir because then you get load following effects, sort of money in the bank with a big hot thermal full of salt, 93,000 Litres that’s about 25,000 gallons of hot salt.
+0:03:32.499,0:03:36.769
+thee honey is the yellow that'­s the coolant
+coming your way.
 
-and then our reflectors of Thorium in this case it was solid I got 16 tonnes of reflector there, thee reflector salt had also with a little bit of Uranium-238 so that thee Uranium-233 could produce in the reflectors denature.
+0:03:36.769,0:03:42.559
+The blue is the Thorium that'­s your neutron
+reflector your blanket, its kicking those
 
-The advantage of remote fuel handing this for the people the plant workers they don’t have to be exposed to the fuel the way plant workers are today with the fuel. We can pump it around capture those fission gases during operations remotely. 
+0:03:42.559,0:03:49.559
+neutrons back into the core and the red is
+the fuel circulating in the Hastelloy Lapis.
 
-We have the emergency situation of lets get that fuel cocooned there it is again it drops into the drums we got the dilutant, denaturant and we got our neutron absorbing materials and gamma shielding right in the drums and ready to go we’re prepared for an emergency.
+0:03:50.859,0:03:56.230
+In this chart we'­ll say we'­re pumping the
+fuel north and then the honey comb we'­re
 
-The proliferation hardening on this one that U-232 sends out that signal, so if somebodys tried to run off with it we can catch them pretty easily. We’ve got Protactinium in the fuel this is the intermediate between Thorium and Uranium-233, it sends out a bright gamma cascade, it provides a very strong radiation shield.
+0:03:56.230,0:04:01.299
+looking down on the reactor and the honey'­s
+coming our way, that'­s our ??.
 
-It’s got a one month half-life so there’s about a 3 month period where that fuel is gamma hot. In addition there will be some other fission products in that fuel and it will also be adding to thee radiation shield. So if you can’t safeguard your fuel in 3 months your not running a good country put it that way.
+0:04:01.299,0:04:06.040
+The reason we have this geometry is with the
+thermal management, Hastelloy does not conduct
 
-For the proliferation community the guys that are always worried about people running off with the fuel if there’s a problem we’ve denatured it, the fuel cannot be weaponised. So here’s the trick is as long as we don’t have Uranium-238 in the fuel during operations we’re avoiding making the Plutonium and transuranics which is good that being a good ??.  
-But to manage the other side the dark side the guys who wanna make weapons and stuff then we got to contaminate the fuel. My argument is lets contaminate it only in emergency situations when we have to and that provides a much better environmental footprint for this type of nuclear fuel.
+0:04:06.040,0:04:12.159
+heat as well as many of the other more traditional
+materials do so I Increase the surface area
 
-Also we have active control features in this thing, I pointed out we have control rods and that sort of thing this makes it easier on the regulatory community. They see something familiar, codes exist to manage the regulatory side of things the controlling of this thing using standard neutron absorbers in the reactor ??
+0:04:12.159,0:04:17.109
+of our cladding so that we achieve a nice
+result.
 
-Again the fuel quality is managed conditioned during operations so we can add that fissile, we can remove the fissile we can also add and remove the fertool. The nice thing is we can get those fission gases and capture them and keep those fission products out of our fuel.
+0:04:17.109,0:04:22.479
+We have the fuel pumped throughout the Lattice.
+Also with this Lattice design we have a cover
 
+0:04:22.479,0:04:28.729
+gas in our fuel and we'­re pumping that cover
+gas around and this is the way we fish out
 
-Here’s the thank you notes this goes to my friend Rick Witt an ?? at PPNL who’s done computational work for me for about 6 years now we got a pretty, well figured out how to optimise these things. Doctor Burchfield did the review for this speech to make sure I didn’t misstate anything.
+0:04:28.729,0:04:33.830
+our fission gases. Your fission gases are
+sort of the parents of many of the fission
 
-The department of energy and PNNL provided the funding for the programme. I thank the Alliance for the podium today and there’s just one more thing Thorium developers remember we’re in a regulated area here ok because we make Uranium-233, any Thorium developer in the room make a note talk to your lawyer about 10 C.F.R.810
+0:04:33.830,0:04:40.270
+products and this is a superior way to clean
+and condition your fuel during operations
 
-We’ve got export controls and so forth that come from the Proliferation Trees and other international instruments. All you have to do is get permission, to do what you’re planning to do and you have to disclose who you’re working with.
+0:04:40.270,0:04:46.539
+is to manage that gas and the easiest way
+to do it, is to circulate a cover gas sitting
 
-But if you don’t do if you try to you know do it circumvent it, you might get on the wrong side of the law and who wants that, I mean the penalties 10 years to life lets pay attention to that.
+0:04:46.539,0:04:47.620
+on top.
 
-Thank you very much I’m Rusty Holden and its time for the next speech.
+0:04:47.620,0:04:52.710
+Here'­s thee computational innovation here
+which shows you in to detail what the hexcel
+
+0:04:52.710,0:04:58.870
+system looks like. With the green is the fuel
+we'­re pumping at north again, the honey the
+
+0:04:58.870,0:05:04.699
+yellow we'­re coming your way, that'­s the
+coolant and your fuel and the Hastelloy is
+
+0:05:04.699,0:05:11.699
+the magenta its your cladding that'­s separating
+fuel from coolant.
+
+0:05:11.970,0:05:18.970
+We see what the core looks like, we'­re at
+160cm across thee hexagonal shape, it'­s a
+
+0:05:19.300,0:05:26.300
+right hexagonal prism, so its 160cm tall and
+160cm across the shoulders. Thee opening of
+
+0:05:31.349,0:05:33.930
+the lades are in 4cm segments.
+
+0:05:33.930,0:05:40.250
+They'­re there because that'­s the mean free
+path of the neutrons in this particular assembly.
+
+0:05:40.250,0:05:47.110
+We put my hex system where it saids reactor
+core, it heats up that chimney full of salt,
+
+0:05:47.110,0:05:52.720
+salt goes up to the top visits the heat exchanger
+gets cool goes back down that'­s your primary
+
+0:05:52.720,0:05:56.330
+loop, your salt is in an endless circle here
+
+0:05:56.330,0:06:01.990
+and inside of this flask I call it a thermal
+reservoir. We have a lot of heat that we store
+
+0:06:01.990,0:06:07.289
+and the way that we fish it out is with the
+heat exchangers and the secondary loop probably
+
+0:06:07.289,0:06:11.479
+critical CO2 ?? heat exchange whatever the
+most efficient is.
+
+0:06:11.479,0:06:17.639
+I like the gas because your hardware'­s a
+lot smaller and a lot more efficient. I keep
+
+0:06:17.639,0:06:24.639
+my traditional control rods and safety rods
+that sort of thing. I keep it there for regulatory
+
+0:06:24.969,0:06:31.909
+reasons, its good to have traditional controls
+in addition to all the other controls we'­ve
+
+0:06:31.909,0:06:32.969
+designed that are new.
+
+0:06:32.969,0:06:38.740
+But this provides a nice transition from the
+old to the new, is using the trident to control
+
+0:06:38.740,0:06:43.169
+it gives us a good shot of having regulatory
+success.
+
+0:06:43.169,0:06:48.159
+This is what the neutrons look like in the
+fuel. Horizontal scales, increasing energy
+
+0:06:48.159,0:06:53.569
+goes up to 10 million electronic vaults. Way
+down in this end, a tenth or so of electron
+
+0:06:53.569,0:07:00.569
+vaults, tiny electron vaults. The green shows
+you Thorium'­s appetite or affinity for neutrons
+
+0:07:00.659,0:07:07.659
+as a function of energy and the red shows
+you affinity by Uraninum-233 in this case
+
+0:07:08.129,0:07:12.520
+for neutrons.
+You see Uranium loves those cold or those
+
+0:07:12.520,0:07:18.169
+chilled out or thermal neutrons and a little
+bit below one electron vault. The idea of
+
+0:07:18.169,0:07:25.169
+this thing, what makes it go is you have to
+have enough thermalised neutrons to keep that
+
+0:07:25.870,0:07:27.740
+neutron chain reaction going.
+
+0:07:27.740,0:07:33.699
+But also you wanna be able to make as much
+fuel as you can on the go, so that'­s why
+
+0:07:33.699,0:07:38.379
+I like a little higher spectrum here or this
+is pretty hard spectrum and what'­s going
+
+0:07:38.379,0:07:45.129
+on is we'­re getting lots of opportunity for
+the neutrons to be captured by the Thorium.
+
+0:07:45.129,0:07:51.169
+so that we can almost, we can get towards
+a break-even situation of producing as much
+
+0:07:51.169,0:07:58.169
+fissile material as we consume during reactor
+operations. There'­s many advantages of course,
+
+0:07:58.349,0:08:03.080
+there'­s great making the fissile right in
+the core because that'­s the safest place
+
+0:08:03.080,0:08:07.659
+in the world for fissile because it'­s protected
+by radiation shield.
+
+0:08:07.659,0:08:13.680
+What happened with these three fuel designs,
+the 1 on this is when your reactor is critical,
+
+0:08:13.680,0:08:18.590
+when you go below 1 that means your reactor
+is fizzled out, the fission products have
+
+0:08:18.590,0:08:24.039
+won the battle and now you'­ve just got a
+bunch of hampers. The more Thorium that'­s
+
+0:08:24.039,0:08:30.479
+in the fuel thee longer it'­s gonna last,
+the longer its gonna stay above 1.
+
+0:08:30.479,0:08:37.080
+These computations were done without pulling
+the fission gases out. My next set of computations
+
+0:08:37.080,0:08:44.080
+will be using condition fuel to flatten out
+this chart so that my fuel will be very very
+
+0:08:44.520,0:08:49.470
+long lived, many decades probably of fuel.
+
+0:08:49.470,0:08:56.290
+The idea of this is to keep the fuel in the
+plant, not take it away from the plant, regulators
+
+0:08:56.290,0:09:02.420
+like that it'­s a good idea. The way to do
+that is condition that fuel, you can, I'­ve
+
+0:09:02.420,0:09:07.230
+talked about the fission gases you capture
+them outside the core
+
+0:09:07.230,0:09:12.570
+the trick is you just pull them out run them
+through a cold box and your fission gases
+
+0:09:12.570,0:09:17.340
+will get stuck in the cold, they'­ll come
+out and then they'­ll drop down into the fission
+
+0:09:17.340,0:09:23.610
+products solids that are thee neutron poisons.
+
+0:09:23.610,0:09:30.610
+This was our performance the low power test,
+10 megawatts, we burned up 141 Kg of U-233
+
+0:09:32.690,0:09:39.690
+in this exercise then we produced about 102
+kilograms of U-233. With a big fissile load
+
+0:09:41.160,0:09:47.780
+of this thing at 1.6 metric tonnes that'­s
+high but that'­s the price of having a fuel
+
+0:09:47.780,0:09:50.130
+that can be made eternal.
+
+0:09:50.130,0:09:55.910
+Being able to work in the harder spectrum
+rather than a softer thermalised spectrum.
+
+0:09:55.910,0:10:02.910
+We have 9 tonnes of Thorium in here and we
+produced 23 grams of U-232 that'­s the stuff
+
+0:10:02.920,0:10:08.410
+that shows to the world, it sends out a gamma
+signal, you can see it from a satellite, way
+
+0:10:08.410,0:10:11.670
+out in space or instruments on a boat or on
+the ground
+
+0:10:11.670,0:10:18.120
+It saids there'­s Uranium-233 here its hot,
+if you'­ve tried to run off with it, it'­s
+
+0:10:18.120,0:10:23.430
+a dead giveaway and if you'­ve tried to build
+a bomb out of it, it provides a nice way to
+
+0:10:23.430,0:10:28.810
+come in with some counter measure that see
+those photons and will zoom right in and zap
+
+0:10:28.810,0:10:32.240
+wherever that unaccounted for Uranium is.
+
+0:10:32.240,0:10:39.240
+Here'­s are transuranics, transuranics are
+usual suspects, Plutonium-239 and hangs out
+
+0:10:39.530,0:10:45.360
+for 24,110 year and a half-life, takes a quite
+a long time to fizzle out.
+
+0:10:45.360,0:10:50.540
+These figures show ten to the minus 7, ten
+to the minus 4, ten to the minus 7, ten to
+
+0:10:50.540,0:10:57.540
+the minus 9 grams, this is tiny, tiny production.
+I got lazy when I did the edition here I said
+
+0:10:58.740,0:11:04.190
+less than a milligram, well its significantly
+less than a milligram a thousand of a gram
+
+0:11:04.190,0:11:09.130
+of these dreaded materials 10 years of operation
+under case 6.
+
+0:11:09.130,0:11:14.720
+This is good, waste profile much healthier
+all we have to worry about is the fission
+
+0:11:14.720,0:11:20.230
+products and we'­ve already captured a lot
+of those fission products in that cold box
+
+0:11:20.230,0:11:25.430
+and we have a much more workable situation
+here.
+
+0:11:25.430,0:11:32.400
+Now here'­s the fuel dump the vertical pipes
+that connects the hex-cell array to thee safety
+
+0:11:32.400,0:11:38.420
+drums. These are the emergency drums, we can'­t
+foresee every kind of black swan when its
+
+0:11:38.420,0:11:42.270
+gonna show up, when its gonna show up and
+what it'­s gonna be.
+
+0:11:42.270,0:11:48.900
+So under this system we can trip the emergency
+switch either by the operator if he'­s still
+
+0:11:48.900,0:11:55.060
+there or a seismic signal comes through or
+a thermal signal comes through in other words
+
+0:11:55.060,0:11:56.910
+the fuels too hot.
+
+0:11:56.910,0:12:03.790
+So it can melt through a plug or the other
+methods as the temperature of the fuel increases
+
+0:12:03.790,0:12:10.590
+curie points of magnetic materials can be
+exceeded and circuits opened and physical
+
+0:12:10.590,0:12:17.360
+circuits opened so we can dumb that fuel right
+down into the tank and there is the denaturant
+
+0:12:17.360,0:12:24.360
+Uranium-238 sitting right in the tank in gravel
+form it melts into the fuel denaturing it.
+
+0:12:25.230,0:12:30.220
+We have Cadmium Fluoride in the gravel in
+the tank its there grabbing the excess thermal
+
+0:12:30.220,0:12:36.110
+neutrons taking them out of circulation. We
+also have additional dilutants in the tank
+
+0:12:36.110,0:12:43.110
+we can use the coolant or there are some other
+dilutants that are low melting fluoride compounds
+
+0:12:44.040,0:12:51.000
+that can solve the after heat problem immediately
+because we'­re changing the density of the
+
+0:12:51.000,0:12:51.320
+fuel
+
+0:12:51.320,0:12:56.230
+or the density of the fission products, we'­re
+making them more aware in the material so
+
+0:12:56.230,0:13:02.580
+we can handle this thing with passive air
+coolant. It just like a bunch of drums sitting
+
+0:13:02.580,0:13:08.740
+in the air as long as the air can circulate
+there'­s enough cooling so that we don'­t
+
+0:13:08.740,0:13:15.200
+have a problem controlling that after heat
+as we'­ve seen in Japan and elsewhere.
+
+0:13:15.200,0:13:22.200
+Here'­s our ?? a little bit our prism is 5ft
+2 that'­s what a 160cm, so 5ft 2 tall, 5 ft
+
+0:13:23.870,0:13:30.870
+2 wide. Our fuel volume is 615 gallons we
+all understand gallons the leader always ?? me
+
+0:13:32.550,0:13:35.810
+but that'­s all there is 615.
+
+0:13:35.810,0:13:40.200
+We'­ve got a lot of coolant in this design
+of mine because what we'­re trying to do is
+
+0:13:40.200,0:13:45.760
+my that thermal reservoir because then you
+get load following effects, sort of money
+
+0:13:45.760,0:13:52.680
+in the bank with a big hot thermal full of
+salt, 93,000 Litres that'­s about 25,000 gallons
+
+0:13:52.680,0:13:54.280
+of hot salt.
+
+0:13:54.280,0:14:00.120
+and then our reflectors of Thorium in this
+case it was solid I got 16 tonnes of reflector
+
+0:14:00.120,0:14:07.120
+there, thee reflector salt had also with a
+little bit of Uranium-238 so that thee Uranium-233
+
+0:14:07.170,0:14:10.650
+could produce in the reflectors denature.
+
+0:14:10.650,0:14:16.170
+The advantage of remote fuel handing this
+for the people the plant workers they don'­t
+
+0:14:16.170,0:14:21.590
+have to be exposed to the fuel the way plant
+workers are today with the fuel. We can pump
+
+0:14:21.590,0:14:26.670
+it around capture those fission gases during
+operations remotely.
+
+0:14:26.670,0:14:33.390
+We have the emergency situation of lets get
+that fuel cocooned there it is again it drops
+
+0:14:33.390,0:14:38.890
+into the drums we got the dilutant, denaturant
+and we got our neutron absorbing materials
+
+0:14:38.890,0:14:43.980
+and gamma shielding right in the drums and
+ready to go we'­re prepared for an emergency.
+
+0:14:43.980,0:14:50.090
+The proliferation hardening on this one that
+U-232 sends out that signal, so if somebodys
+
+0:14:50.090,0:14:55.900
+tried to run off with it we can catch them
+pretty easily. We'­ve got Protactinium in
+
+0:14:55.900,0:15:02.900
+the fuel this is the intermediate between
+Thorium and Uranium-233, it sends out a bright
+
+0:15:03.040,0:15:07.710
+gamma cascade, it provides a very strong radiation
+shield.
+
+0:15:07.710,0:15:12.780
+It'­s got a one month half-life so there'­s
+about a 3 month period where that fuel is
+
+0:15:12.780,0:15:18.540
+gamma hot. In addition there will be some
+other fission products in that fuel and it
+
+0:15:18.540,0:15:25.530
+will also be adding to thee radiation shield.
+So if you can'­t safeguard your fuel in 3
+
+0:15:25.530,0:15:28.690
+months your not running a good country put
+it that way.
+
+0:15:28.690,0:15:33.960
+For the proliferation community the guys that
+are always worried about people running off
+
+0:15:33.960,0:15:39.750
+with the fuel if there'­s a problem we'­ve
+denatured it, the fuel cannot be weaponised.
+
+0:15:39.750,0:15:46.750
+So here'­s the trick is as long as we don'­t
+have Uranium-238 in the fuel during operations
+
+0:15:47.830,0:15:54.830
+we'­re avoiding making the Plutonium and transuranics
+which is good that being a good ??.
+
+0:15:55.880,0:16:00.860
+But to manage the other side the dark side
+the guys who wanna make weapons and stuff
+
+0:16:00.860,0:16:07.740
+then we got to contaminate the fuel. My argument
+is lets contaminate it only in emergency situations
+
+0:16:07.740,0:16:14.660
+when we have to and that provides a much better
+environmental footprint for this type of nuclear
+
+0:16:14.660,0:16:15.580
+fuel.
+
+0:16:15.580,0:16:20.900
+Also we have active control features in this
+thing, I pointed out we have control rods
+
+0:16:20.900,0:16:25.840
+and that sort of thing this makes it easier
+on the regulatory community. They see something
+
+0:16:25.840,0:16:32.430
+familiar, codes exist to manage the regulatory
+side of things the controlling of this thing
+
+0:16:32.430,0:16:36.500
+using standard neutron absorbers in the reactor
+??
+
+0:16:36.500,0:16:41.950
+Again the fuel quality is managed conditioned
+during operations so we can add that fissile,
+
+0:16:41.950,0:16:47.390
+we can remove the fissile we can also add
+and remove the fertool. The nice thing is
+
+0:16:47.390,0:16:52.350
+we can get those fission gases and capture
+them and keep those fission products out of
+
+0:16:52.350,0:16:53.120
+our fuel.
+
+0:16:53.120,0:16:59.600
+Here'­s the thank you notes this goes to my
+friend Rick Witt an ?? at PPNL who'­s done
+
+0:16:59.600,0:17:05.800
+computational work for me for about 6 years
+now we got a pretty, well figured out how
+
+0:17:05.800,0:17:10.790
+to optimise these things. Doctor Burchfield
+did the review for this speech to make sure
+
+0:17:10.790,0:17:11.990
+I didn'­t misstate anything.
+
+0:17:11.990,0:17:17.750
+The department of energy and PNNL provided
+the funding for the programme. I thank the
+
+0:17:17.750,0:17:24.319
+Alliance for the podium today and there'­s
+just one more thing Thorium developers remember
+
+0:17:24.319,0:17:31.319
+we'­re in a regulated area here ok because
+we make Uranium-233, any Thorium developer
+
+0:17:32.090,0:17:36.590
+in the room make a note talk to your lawyer
+about 10 C.F.R.810
+
+0:17:36.590,0:17:43.590
+We'­ve got export controls and so forth that
+come from the Proliferation Trees and other
+
+0:17:43.850,0:17:50.130
+international instruments. All you have to
+do is get permission, to do what you'­re planning
+
+0:17:50.130,0:17:54.700
+to do and you have to disclose who you'­re
+working with.
+
+0:17:54.700,0:18:01.100
+But if you don'­t do if you try to you know
+do it circumvent it, you might get on the
+
+0:18:01.100,0:18:05.300
+wrong side of the law and who wants that,
+I mean the penalties 10 years to life lets
+
+0:18:05.300,0:18:05.550
+pay attention to that.
+
+0:18:05.490,0:18:09.550
+Thank you very much I'­m Rusty Holden and
+its time for the next speech.
+
+0:18:09.550,0:18:14.530
 Thank you Rusty.
+
+

@@ -1,75 +1,1063 @@
-Ok huh I’m from Canada, we know we’re not going to do it alone and I’d encourage you to try to get in the frame of mind to bid. It’s not the US only or France only or Japan only or, well it could be China only, but beyond that there is a lot of work to do we should you should be helping each other.
-My field is on the actual core design so I’ll try to give you a little bit of basics and try to tell you where generally things are going in the world.
-Thorium is not fissile on its own, it doesn’t fission on its own, weneed a little bit of fissile material to start these up. Once started though, we can run these on cheap and abundant Thorium and keep their reactor going indefinitely on this.
-The great thing with Thorium and the U233 that chain, it can be done in any new type of neutron spectrum, from the more common thermal to the less used fast spectrum.
-Processing of Thorium or processing in general is extremely difficult for solid fuel reactors, that’s why there is a little bit of interest world wide really not that much but since we are dealing with fluids here it’s much simpler for fluid fuels like our Molten salts.
-It’s easier processing but it’s still a challenge and there is going to be a lot of R&D money needed to bring that forward. Without processing Thorium can be used with the aid of Uranium, a little bit of low enriched Uranium, can yield far superior, what we call converter reactors or the simpler burner reactors, than our current light water reactors or LWRs.
-Now, a little bit of basics about Molten Salt reactors. Molten Salt reactors is the more broader term, lifter is a bit narrower and a bit newer. But in general, our fuel which is Thorium and/or Uranium and/or Plutonium is dissolved in a carrier salt, Flibe is one of the examples in enriched lithium and ?? Fluoride.
-This fluid fuel is also the coolant and that carries heat energy out of the core to heat exchangers. It’s very high temperature operation typically around 700 degrees so that couples very well to almost any kind of power system you might imagine.
-A lot of us are going to be talking about brayton systems, supercritical carbon dioxide and helium etc but it matches very well to general ultra supercritical steam as well, like the coal burners are using right now- so we can use off the shelf technology as well even things like open air cycles.
-The text book design is called the Single fluid Graphite Moderated Molten Salt Breeder reactor, this is straight out of the Gen 4 program, generation 4 program that look at advanced reactors for the future, this is one of 6 of them. 
-In this design the core itself was just a large tank filled with graphite logs basically, that the fluid salt flows in and in the reactor it’s critical so heat is generated then that same fluid salt flows out to the heat exchanger, gives its heat to clean salt and then that clean salt will either in this diagram to a brayton cycle or, like I said, it could be steam, it could be almost anything.
-Near the bottom we have this freeze plug, so basically anything goes wrong we lose power etc that freeze plug will melt and the salts are drained the tanks that are specifically built to deal with that decay heat. There is a lot of design choices, one is breeder versus converter, breeder means it makes your own fuel after you start it up.
-And if we just make just enough to keep going that’s nice because we don’t have to worry about shipping out any fissile material etc, we call that break even breeding and most of us feel that that’s the way we should be going. That requires the processing of the fission products to continuously, fairly slowly but continuously remove them.
-We might need some enrichment plans now to get them going but once we’re going on that we don’t need new enrichment plans anymore.
-Converter reactors on the other hand we need some annual fissile makeup which is typically going to be low in enriched uranium, but that skips fuel processing, or at least it skips it for decades and we do it after the sort of life time of the salt etc. Much less R&D needed, much simpler designs, we’re much more ready to go with things and the core design is typically much simplified.
-There is also what we call the single fluid or two fluid and they’re even confused that there is something called a one and a half fluid. Single fluid everything is one carrier salt as it’s fairly obvious, the core design is typically a fair bit simpler this way. Processing in order to remove those fission products is a lot harder it’s not as hard as solid fuels but it’s the hardest way with liquid fuels because Thorium itself is very very chemically similar to the rarer fission products that are the most important ones to remove.
-Two fluid designs on the other hand, they have a separate salt for the thorium that sort of catches neutrons and a fuel salt for the uranium 233 that that blanket salt produces.
-Fission product removal is a lot simpler because the fission products are produced in the fuel salt and there is no Thorium there so it’s a lot easier. Core design was thought to be a lot more complex, what Oakridge looked at, Oakridge developed these in the 50s, 60s and 70s. The design they looked at was very complicated we think there’s a lot easier ways to do this now but pretty much any kind of two fluid design we have to verify these barrier materials, it could be even graphite itself, but there are a lot of different choices to separate those two salts.
-It shouldn’t be very hard but it’s something we need to do and anything nuclear can be quite expensive. Then we have either harder or softer spectrum between thermal and fast spectrums. Harder spectrum are fast, we can skip using graphite, graphite is not really that hard to use with these reactors but if we can rid of it it’s probably a good idea to, just one less thing to worry about.
-Easier to breed, we get sort of more neutrons per fission etc. Although it typically takes a lot more fissile material to start it up and there is some exceptions but that is a general rule of thumb. And avoiding what I call neutron leakage can be a problem, in a harder spectrum design it can be, and especially in the single fluid, harder to avoid losing a lot of neutrons to leakage, we have this sort of neutron budget that we have to worry about.
-With a softer spectrum control is a lot easier as well, things happen a lot slower with thermal neutrons. Much smaller fissile material to start up but we need to remove those fission products faster if we want to breed or break even.
-Now, my main design efforts have been in a two fluid design, what’s called a tube within tube hopefully solves what Oakridge often termed their plumbing problem which is the complexity they had to deal with. It’s a very simple geometric sort of trick in a sense to get good size power cords of this two fluid design with much simpler plumbing so to speak.
-I sort of consider high performance big as bang for your buck? But there is significant R&D needed for this design and in most designs. My other main focus for the last couple of years has been on what’s called the denatured molten salt reactor DMSR, this was developed in the late 70s at Oakridge national apse? 
-It’s a really simple design, it’s basically just a larger version of the test reactor that they built on the 60s, a lot less R&D needed and now, it doesn’t break even so it needs a little bit of manual fuel which is low enriched uranium which is very much available, so it uses a mix of low enriched uranium and Thorium, most of the energy comes from Thorium but it’s sort of helped along by that low enriched uranium.
-Now since October 2010 to use a term Jim Kennedy was using about the Chinese sometimes, I’ve sort of gone dark so I’ve been working on a lot of new areas but instead of going public right away with a lot of my… so keeping things a bit secret so sorry no hints but quite excited and looking forward to sharing these with you.
-Now how do you judge a reactor in general and that then guides us to what sort of design criteria we should chose, of course safety, costs, resource sustainability and long lived waste I think these are really the most important and pretty much every design we look at with molten salt reactors these issues are very similar.
-What can be a little bit different between designs is proliferation resistance, we have a good story in all our different types of designs and it’s a bit of an apples and oranges comparison it’s hard to make a really detailed comparison but I think some can be labelled extremely high proliferation resistance.
-Rapid deployment capability, if we want to build these by the hundreds or thousands to really make a difference can we? And there can be some differences there and then technological uncertainty, how much R&D we’re going to need to move forward. Now as I say advantages of all molten salt reactors is the safety we don’t have large pressure vessels that could possibly fail. There’s no really no chemical driving forces here.
-We have no water so no steam, or explosions or hydrogen production we have no zirconium water interactions etc. The graphite can technically burn but that’s about all it can do and it’s very simple to avoid that of course some of our designs don’t even have graphite.
-There’s almost no volatile fission products in the salt, all these accidents Chernobyl, fukushima, it’s the volatile things, things that will go off into the air and spread out that’s the real issue. Its’ almost impossible to imagine how radiation can be spread from a nuclear reactor beyond these things.
-They get into bizarre corium hidden water in a certain way water getting inside the corium and then exploding, you really have to be imagining beyond these volatile. But with the molten salts those volatile elements they come out naturally they come out while we’re running, we collect them, store them completely separate from their reactor. 
-So if anything goes wrong, even a terrorist attack, a missile strike etc you might splash some salt around but it basically lands and hardens and very very little will come out of it.
-But we don’t need nay excess reactivity there’s no sort of shim rods or control rods that could be accidently removed, we don’t need any of that.
-They’re very stable, the instantly acting negative temperature reactivity coefficients and again we have that freeze valve to lead the core, lead the heat to where we can deal with the decay heat best.
-Low capital cost, molten salts in general is not quite as well known they’re just in general excellent coolants, much better than water, much much better than liquid sodium etc. so your pumps are smaller the heat exchangers are smaller and that makes things a lot easier to fabricate.
-This has a trickle down effect on your building layout, construction schedules, factory fabrication etc. of course we have a much higher thermal efficiency, 44% we could probably push 50% with these on our various choices and that’s another wonderful thing that we have so many choices. 
-And of course the fuel cycle costs are very very low and no need, since we have all this sort of passive Safety things happen by physics not by engineering design, we don’t have that defence in depth or these massive internal structures to deal with steam containment and vast water reserves to deal with that.
-Just looking at the size of the heat exchangers on the far left, we have the primary heat exchanger, we need four of those for a 1000 megawatt plant and 16 of these tiny little steam generator tubes versus in the middle for those very large 70 foot tall steam generators that the PWR folks need to work with.
-And the sodium cool fast reactor people, they love to show how tiny their reactor is itself but they tend to neglect showing the absolutely massive water to liquid sodium steam generators and well their primary heat exchangers as well so their volume is just enormous factor compared to ours.
-Resource sustainability, once we start these breeder reactor designs, if we’re running them as breeders, all we need is just minor amounts of thorium so 30000 dollars worth of thorium well depends on your price per kilowatt but half a billion dollars worth of electricity. 
-Converter designs are a lot simpler and they do require some uranium but very modest amounts. Typically Oakridge’s base design and we can improve on that, is worth 35 tonnes of uranium per GWe year a 1000 MWe plant running for a year versus 200 tonnes of Light Water Reactors and that gives a fuel cycle cost of under a tenth of a cent per kilowatt hour so there’s not too much room for improvement there anyway.
-And I would bring that up, uranium is not really the enemy, thorium is an amazing on its own but these reactors can help us use uranium a lot better as well.
-We’re not going to run out of uranium in 20 years we can run out of cheap uranium and that can start to hurt the light water folks, because they need so much of it but if you can find some competent geologists that know their field they will tell you that there’s no way that the uranium could ever be really more than 500$ a kg because then we’d have so much low grade? ores that’d be economically viable there. And even 500$ a kg in these designs that use it’s still only a couple tenths of a cent per kilowatt-hour.
-Now mining is maybe not pretty in general but a 1.7 million tonnes of uranium ore that was dug up in well 2009 had a world average at 3% ore grade. We have to compare that, mining is not pretty but there’s 2500 million tonnes of copper ore, 1700 Mt of iron ore and 7000 Mt of coal so the mining picture here is still a minor one.
-And if uranium is used with thorium in the dmsr designs we could have 100% of the worlds electricity 25000 Giga watts without increasing the mining we’re doing already. And even if we needed to go to very low-grade ores, it might cost 500$ a kg but there’s almost unlimited supplies then it’s still only a couple hundred Mt of ore mine per year.
-A long lived waste that’s another great story for molten salt reactors lifter in general, the fission products were very similar to almost any other reactor design but they’re almost all relatively benign after a few hundred years. The real problem is what we call the transuranics, things above uranium, neptunium, specifically plutonium and even above that. 
-That’s the real reason you have yucca mountains, which are their repositories they’re built so that 100 years later we can sort of come back and take that out because you also don’t want to bury plutonium for generations.
-All the molten salt reactors designs, regardless of the… they produce a lot less transuranics and we can all just keep them in the salt or every time we process make sure we put them back in the salt. It’s surprising to many but I can show you the numbers if you don’t believe me, converters can do just as well breeders than that. 
-Converters will produce a little more plutonium a year but you only have to process it every 10, 20, 30 years so the picture can look just as well. That blue line is the actinide waste, that’s the transuranics and that’s what is so nasty for so long and this is logarithmic on both scales so going out into millions of years.
-That’s what takes so long the dash line is the fission products and they drop like a rock through the first few hundred years and then there’s a few left that are just low energy ?? etc nothing too much to be concerned with. 
-The blue line shows for a fast breeder the sodium guys and then this green line is for the molten salt breeder reactor and that would be very similar line for even the converter reactors. 
-These arrows I have on the side, PWR U, DMSR U and then the MSBR on Thorium, that shows sort of when we run these reactors how much radio toxicity we’re actually destroying in the world or transmuting and the DMSR design we can do pretty much as well as the breeder but we actually destroy a lot more natural radio toxicity.
-So it’s probably the only reactor design in the world that can make the claim that when you run these reactors 300 years later when the fission products have died away we’ve actually lowered the worlds radio toxicity ok no other designs so we’re doing the world a favour doing that.
-Now proliferation resistance is mainly a political issue okay, if a country wants it they’re going to build simple graphite power reactors etc. It’s not really a technological issue but that said we still should do whatever we can to maximise proliferation resistance of designs.
-Now I will mention though that the media often portrays thorium as somehow eliminating proliferation concerns altogether, this is not true and that’s important to understand, it can really help us but it’s still something we have to be vigilant about.
-The proliferation resistance of the pure cycle, what we’d maybe call the breeder cycle, the big benefit is from something called uranium 232, it’s there a long time its got a 69 year life and one of its daughter products makes a really high energy gamma ray, extremely easy to detect if anyone was trying to smuggle this around and makes it really hard to work with.
-And no national program has ever been based on uranium 233. We can also easily denature these by dumping in uranium 238 and that makes the uranium useless for any kind of weapons.
-The protractor ?? removal, I won’t get into details here, but that can be eliminated in any design, even single fluids believe it or not for those that know a little bit here but that should be avoided because that can lead to what you call clean 233 that doesn’t have that 232 contaminate.
-And in these designs there’s only tiny small amounts of plutonium and its really really poor quality, pretty much impossible even to ever imagine. Denatured cycles though and this includes the converted designs, with the pure cycle it does represent highly enriched uranium and those 3 words together will be a non starter for a lot of people and it’ll be hard to even get them to look at things.
-But if we run them denatured there’s pros and cons to that but that makes any uranium completely useless for weapons. It does mean we’re going to have a it more plutonium and again its surprising that there’s not a big difference in how much plutonium will be in the salt but plutonium is a lot harder to remove from the salts than uranium and it’s really poor quality plutonium.
-It’s debatable whether light water reactor plutonium in the waste could ever be really used to make a weapon, in the DMSR approach is much poorer is the triple of the spontaneous fission rate that makes things internally and a lot more heat production.
-The DMSR approach has been singled out in various, well, in some studies
- As probably being one of the highest proliferation resistance of any possible reactor.
-Rapid deployment capability is basically how much fissile we need to start it there’s also the technological issues these are a lot, any type design is a lot easier to built than the light water reactors but one of the differentiators is how much fissile to start and what type. We don’t really have many U233 in the world but there’s a little bit here that we’re trying to save in the United states.
-Spent fluid plutonium everyone talks about that but its quite expensive to get at and its also somewhat limited. Fast spectrum, single fluid or one and a half fluid designs they need a lot more fissile material to start it up, up to 8 tonnes per Giga watt electrical.
-Its still a little less form the fast breeder guys but its still a lot in development. Two fluid breeders or any denature design we can start those with low enriched uranium, that’s another advantage of the two fluid design. And another thing, can we make these small to start? And there’s differences there. The two fluid designs with what I call a full blanket around them, we can make them pretty much as small as we want and please don’t start thinking were going to have them in your basements or in your car, that’s ridiculous but we can make them quite small power.
-Single fluid graphite converters, the sort of neutron budget gets worse as you get smaller but you’re not trying to break even so yes we can make those pretty small. The conventional design the single fluid graphite breeder and to break even that is actually very hard to make them very small, of course 100-megawatt size. And the single fluid fast breeder, the French had the most well known design, that’s very hard as well.
-Technological uncertainty that I think is the biggest influentiator in these designs, R&D and nuclear power is expensive so if we can minimize this at least for the first generation of designs we should do that.
-The fission product removal, it does need a lot of R&D even the two fluid design is a lot simpler than that design but there’s still a lot of work that needs to be done there before you have a commercial design. 
-And only single fluid graphite designs don’t really need the material that has to be verified as some sort of barrier material that we have to verify in a strong neutron fluid and going beyond 700 degrees which some, well the French, their design is pretty much forced to go in that direction and then we’re getting into areas that we don’t know the material science that well, a lot to prove there.
-If graphite is used some of us, there’s different designs that will or will not, we either have large cores where we don’t have to ever change the graphite or we have to prove these replacement technologies.
-And summary then all Molten salt reactors designs excel in safety, costs, resource usage, long lived wastes. I think the tube in tube, what I’ve been promoting the two design may offer the best overall capital cost and rapid deployment and then the simpler design, the DMSR design offers the very lowest in technological uncertainty and really really high proliferation resistance.
-They all are high, I think this is the absolute highest though. The inherent features, the physics of them itself, they favour the overall safe waste reduction, cost and deployment but they also have a lot of flexibility, we can attain the very highest levels of proliferation resistance, we can run on minute amounts of thorium or modest amount of uranium with thorium for the utmost in simplicity.
-There’s a lot of things going around in the backrooms that many are not aware of, it’s exciting times but sorry not quite ready for public disclosure, but that’s all I have to say for now.
+0:00:00.240,0:00:07.240
+Ok huh I'­m from Canada, we know we'­re not
+going to do it alone and I'­d encourage you
 
+0:00:10.549,0:00:16.640
+to try to get in the frame of mind to bid.
+It'­s not the US only or France only or Japan
+
+0:00:16.640,0:00:21.609
+only or, well it could be China only, but
+beyond that there is a lot of work to do we
+
+0:00:21.609,0:00:25.890
+should you should be helping each other.
+My field is on the actual core design so I'­ll
+
+0:00:25.890,0:00:29.220
+try to give you a little bit of basics and
+try to tell you where generally things are
+
+0:00:29.220,0:00:32.410
+going in the world.
+Thorium is not fissile on its own, it doesn'­t
+
+0:00:32.410,0:00:36.570
+fission on its own, weneed a little bit of
+fissile material to start these up. Once started
+
+0:00:36.570,0:00:40.770
+though, we can run these on cheap and abundant
+Thorium and keep their reactor going indefinitely
+
+0:00:40.770,0:00:43.610
+on this.
+The great thing with Thorium and the U233
+
+0:00:43.610,0:00:48.070
+that chain, it can be done in any new type
+of neutron spectrum, from the more common
+
+0:00:48.070,0:00:54.070
+thermal to the less used fast spectrum.
+Processing of Thorium or processing in general
+
+0:00:54.070,0:00:58.330
+is extremely difficult for solid fuel reactors,
+that'­s why there is a little bit of interest
+
+0:00:58.330,0:01:02.780
+world wide really not that much but since
+we are dealing with fluids here it'­s much
+
+0:01:02.780,0:01:07.560
+simpler for fluid fuels like our Molten salts.
+It'­s easier processing but it'­s still a
+
+0:01:07.560,0:01:11.929
+challenge and there is going to be a lot of
+R&D money needed to bring that forward. Without
+
+0:01:11.929,0:01:16.520
+processing Thorium can be used with the aid
+of Uranium, a little bit of low enriched Uranium,
+
+0:01:16.520,0:01:21.490
+can yield far superior, what we call converter
+reactors or the simpler burner reactors, than
+
+0:01:21.490,0:01:25.619
+our current light water reactors or LWRs.
+Now, a little bit of basics about Molten Salt
+
+0:01:25.619,0:01:31.149
+reactors. Molten Salt reactors is the more
+broader term, lifter is a bit narrower and
+
+0:01:31.149,0:01:35.770
+a bit newer. But in general, our fuel which
+is Thorium and/or Uranium and/or Plutonium
+
+0:01:35.770,0:01:40.979
+is dissolved in a carrier salt, Flibe is one
+of the examples in enriched lithium and ?? Fluoride.
+
+0:01:40.979,0:01:45.429
+This fluid fuel is also the coolant and that
+carries heat energy out of the core to heat
+
+0:01:45.429,0:01:50.210
+exchangers. It'­s very high temperature operation
+typically around 700 degrees so that couples
+
+0:01:50.210,0:01:53.810
+very well to almost any kind of power system
+you might imagine.
+
+0:01:53.810,0:01:57.270
+A lot of us are going to be talking about
+brayton systems, supercritical carbon dioxide
+
+0:01:57.270,0:02:02.249
+and helium etc but it matches very well to
+general ultra supercritical steam as well,
+
+0:02:02.249,0:02:06.049
+like the coal burners are using right now-
+so we can use off the shelf technology as
+
+0:02:06.049,0:02:09.890
+well even things like open air cycles.
+The text book design is called the Single
+
+0:02:09.890,0:02:14.830
+fluid Graphite Moderated Molten Salt Breeder
+reactor, this is straight out of the Gen 4
+
+0:02:14.830,0:02:18.280
+program, generation 4 program that look at
+advanced reactors for the future, this is
+
+0:02:18.280,0:02:21.670
+one of 6 of them.
+In this design the core itself was just a
+
+0:02:21.670,0:02:27.160
+large tank filled with graphite logs basically,
+that the fluid salt flows in and in the reactor
+
+0:02:27.160,0:02:32.060
+it'­s critical so heat is generated then that
+same fluid salt flows out to the heat exchanger,
+
+0:02:32.060,0:02:36.300
+gives its heat to clean salt and then that
+clean salt will either in this diagram to
+
+0:02:36.300,0:02:41.220
+a brayton cycle or, like I said, it could
+be steam, it could be almost anything.
+
+0:02:41.220,0:02:45.430
+Near the bottom we have this freeze plug,
+so basically anything goes wrong we lose power
+
+0:02:45.430,0:02:50.000
+etc that freeze plug will melt and the salts
+are drained the tanks that are specifically
+
+0:02:50.000,0:02:53.650
+built to deal with that decay heat. There
+is a lot of design choices, one is breeder
+
+0:02:53.650,0:02:58.200
+versus converter, breeder means it makes your
+own fuel after you start it up.
+
+0:02:58.200,0:03:02.170
+And if we just make just enough to keep going
+that'­s nice because we don'­t have to worry
+
+0:03:02.170,0:03:06.210
+about shipping out any fissile material etc,
+we call that break even breeding and most
+
+0:03:06.210,0:03:10.780
+of us feel that that'­s the way we should
+be going. That requires the processing of
+
+0:03:10.780,0:03:15.140
+the fission products to continuously, fairly
+slowly but continuously remove them.
+
+0:03:15.140,0:03:19.200
+We might need some enrichment plans now to
+get them going but once we'­re going on that
+
+0:03:19.200,0:03:24.340
+we don'­t need new enrichment plans anymore.
+Converter reactors on the other hand we need
+
+0:03:24.340,0:03:29.780
+some annual fissile makeup which is typically
+going to be low in enriched uranium, but that
+
+0:03:29.780,0:03:34.900
+skips fuel processing, or at least it skips
+it for decades and we do it after the sort
+
+0:03:34.900,0:03:41.860
+of life time of the salt etc. Much less R&D
+needed, much simpler designs, we'­re much
+
+0:03:41.860,0:03:46.250
+more ready to go with things and the core
+design is typically much simplified.
+
+0:03:46.250,0:03:50.100
+There is also what we call the single fluid
+or two fluid and they'­re even confused that
+
+0:03:50.100,0:03:54.430
+there is something called a one and a half
+fluid. Single fluid everything is one carrier
+
+0:03:54.430,0:04:00.050
+salt as it'­s fairly obvious, the core design
+is typically a fair bit simpler this way.
+
+0:04:00.050,0:04:03.090
+Processing in order to remove those fission
+products is a lot harder it'­s not as hard
+
+0:04:03.090,0:04:08.120
+as solid fuels but it'­s the hardest way with
+liquid fuels because Thorium itself is very
+
+0:04:08.120,0:04:12.860
+very chemically similar to the rarer fission
+products that are the most important ones
+
+0:04:12.860,0:04:15.260
+to remove.
+Two fluid designs on the other hand, they
+
+0:04:15.260,0:04:19.569
+have a separate salt for the thorium that
+sort of catches neutrons and a fuel salt for
+
+0:04:19.569,0:04:24.469
+the uranium 233 that that blanket salt produces.
+Fission product removal is a lot simpler because
+
+0:04:24.469,0:04:27.889
+the fission products are produced in the fuel
+salt and there is no Thorium there so it'­s
+
+0:04:27.889,0:04:31.960
+a lot easier. Core design was thought to be
+a lot more complex, what Oakridge looked at,
+
+0:04:31.960,0:04:38.120
+Oakridge developed these in the 50s, 60s and
+70s. The design they looked at was very complicated
+
+0:04:38.120,0:04:41.979
+we think there'­s a lot easier ways to do
+this now but pretty much any kind of two fluid
+
+0:04:41.979,0:04:46.430
+design we have to verify these barrier materials,
+it could be even graphite itself, but there
+
+0:04:46.430,0:04:49.159
+are a lot of different choices to separate
+those two salts.
+
+0:04:49.159,0:04:53.139
+It shouldn'­t be very hard but it'­s something
+we need to do and anything nuclear can be
+
+0:04:53.139,0:04:57.710
+quite expensive. Then we have either harder
+or softer spectrum between thermal and fast
+
+0:04:57.710,0:05:01.460
+spectrums. Harder spectrum are fast, we can
+skip using graphite, graphite is not really
+
+0:05:01.460,0:05:05.499
+that hard to use with these reactors but if
+we can rid of it it'­s probably a good idea
+
+0:05:05.499,0:05:09.810
+to, just one less thing to worry about.
+Easier to breed, we get sort of more neutrons
+
+0:05:09.810,0:05:14.009
+per fission etc. Although it typically takes
+a lot more fissile material to start it up
+
+0:05:14.009,0:05:17.210
+and there is some exceptions but that is a
+general rule of thumb. And avoiding what I
+
+0:05:17.210,0:05:22.650
+call neutron leakage can be a problem, in
+a harder spectrum design it can be, and especially
+
+0:05:22.650,0:05:27.240
+in the single fluid, harder to avoid losing
+a lot of neutrons to leakage, we have this
+
+0:05:27.240,0:05:29.580
+sort of neutron budget that we have to worry
+about.
+
+0:05:29.580,0:05:34.349
+With a softer spectrum control is a lot easier
+as well, things happen a lot slower with thermal
+
+0:05:34.349,0:05:39.129
+neutrons. Much smaller fissile material to
+start up but we need to remove those fission
+
+0:05:39.129,0:05:41.719
+products faster if we want to breed or break
+even.
+
+0:05:41.719,0:05:47.449
+Now, my main design efforts have been in a
+two fluid design, what'­s called a tube within
+
+0:05:47.449,0:05:52.499
+tube hopefully solves what Oakridge often
+termed their plumbing problem which is the
+
+0:05:52.499,0:05:56.870
+complexity they had to deal with. It'­s a
+very simple geometric sort of trick in a sense
+
+0:05:56.870,0:06:02.509
+to get good size power cords of this two fluid
+design with much simpler plumbing so to speak.
+
+0:06:02.509,0:06:07.210
+I sort of consider high performance big as
+bang for your buck? But there is significant
+
+0:06:07.210,0:06:13.319
+R&D needed for this design and in most designs.
+My other main focus for the last couple of
+
+0:06:13.319,0:06:17.680
+years has been on what'­s called the denatured
+molten salt reactor DMSR, this was developed
+
+0:06:17.680,0:06:22.099
+in the late 70s at Oakridge national apse?
+It'­s a really simple design, it'­s basically
+
+0:06:22.099,0:06:27.120
+just a larger version of the test reactor
+that they built on the 60s, a lot less R&D
+
+0:06:27.120,0:06:31.379
+needed and now, it doesn'­t break even so
+it needs a little bit of manual fuel which
+
+0:06:31.379,0:06:35.830
+is low enriched uranium which is very much
+available, so it uses a mix of low enriched
+
+0:06:35.830,0:06:39.870
+uranium and Thorium, most of the energy comes
+from Thorium but it'­s sort of helped along
+
+0:06:39.870,0:06:45.430
+by that low enriched uranium.
+Now since October 2010 to use a term Jim Kennedy
+
+0:06:45.430,0:06:49.620
+was using about the Chinese sometimes, I'­ve
+sort of gone dark so I'­ve been working on
+
+0:06:49.620,0:06:55.029
+a lot of new areas but instead of going public
+right away with a lot of my'– so keeping things
+
+0:06:55.029,0:07:00.789
+a bit secret so sorry no hints but quite excited
+and looking forward to sharing these with
+
+0:07:00.789,0:07:03.319
+you.
+Now how do you judge a reactor in general
+
+0:07:03.319,0:07:09.289
+and that then guides us to what sort of design
+criteria we should chose, of course safety,
+
+0:07:09.289,0:07:14.939
+costs, resource sustainability and long lived
+waste I think these are really the most important
+
+0:07:14.939,0:07:20.520
+and pretty much every design we look at with
+molten salt reactors these issues are very
+
+0:07:20.520,0:07:22.199
+similar.
+What can be a little bit different between
+
+0:07:22.199,0:07:26.409
+designs is proliferation resistance, we have
+a good story in all our different types of
+
+0:07:26.409,0:07:31.069
+designs and it'­s a bit of an apples and oranges
+comparison it'­s hard to make a really detailed
+
+0:07:31.069,0:07:36.539
+comparison but I think some can be labelled
+extremely high proliferation resistance.
+
+0:07:36.539,0:07:40.669
+Rapid deployment capability, if we want to
+build these by the hundreds or thousands to
+
+0:07:40.669,0:07:45.199
+really make a difference can we? And there
+can be some differences there and then technological
+
+0:07:45.199,0:07:49.129
+uncertainty, how much R&D we'­re going to
+need to move forward. Now as I say advantages
+
+0:07:49.129,0:07:53.349
+of all molten salt reactors is the safety
+we don'­t have large pressure vessels that
+
+0:07:53.349,0:07:57.379
+could possibly fail. There'­s no really no
+chemical driving forces here.
+
+0:07:57.379,0:08:01.889
+We have no water so no steam, or explosions
+or hydrogen production we have no zirconium
+
+0:08:01.889,0:08:08.369
+water interactions etc. The graphite can technically
+burn but that'­s about all it can do and it'­s
+
+0:08:08.369,0:08:12.680
+very simple to avoid that of course some of
+our designs don'­t even have graphite.
+
+0:08:12.680,0:08:17.349
+There'­s almost no volatile fission products
+in the salt, all these accidents Chernobyl,
+
+0:08:17.349,0:08:21.490
+fukushima, it'­s the volatile things, things
+that will go off into the air and spread out
+
+0:08:21.490,0:08:26.839
+that'­s the real issue. Its'­ almost impossible
+to imagine how radiation can be spread from
+
+0:08:26.839,0:08:31.499
+a nuclear reactor beyond these things.
+They get into bizarre corium hidden water
+
+0:08:31.499,0:08:35.449
+in a certain way water getting inside the
+corium and then exploding, you really have
+
+0:08:35.449,0:08:40.360
+to be imagining beyond these volatile. But
+with the molten salts those volatile elements
+
+0:08:40.360,0:08:44.169
+they come out naturally they come out while
+we'­re running, we collect them, store them
+
+0:08:44.169,0:08:48.750
+completely separate from their reactor.
+So if anything goes wrong, even a terrorist
+
+0:08:48.750,0:08:53.470
+attack, a missile strike etc you might splash
+some salt around but it basically lands and
+
+0:08:53.470,0:08:55.660
+hardens and very very little will come out
+of it.
+
+0:08:55.660,0:09:01.050
+But we don'­t need nay excess reactivity there'­s
+no sort of shim rods or control rods that
+
+0:09:01.050,0:09:04.050
+could be accidently removed, we don'­t need
+any of that.
+
+0:09:04.050,0:09:08.320
+They'­re very stable, the instantly acting
+negative temperature reactivity coefficients
+
+0:09:08.320,0:09:13.980
+and again we have that freeze valve to lead
+the core, lead the heat to where we can deal
+
+0:09:13.980,0:09:17.190
+with the decay heat best.
+Low capital cost, molten salts in general
+
+0:09:17.190,0:09:22.740
+is not quite as well known they'­re just in
+general excellent coolants, much better than
+
+0:09:22.740,0:09:27.970
+water, much much better than liquid sodium
+etc. so your pumps are smaller the heat exchangers
+
+0:09:27.970,0:09:31.000
+are smaller and that makes things a lot easier
+to fabricate.
+
+0:09:31.000,0:09:36.639
+This has a trickle down effect on your building
+layout, construction schedules, factory fabrication
+
+0:09:36.639,0:09:41.220
+etc. of course we have a much higher thermal
+efficiency, 44% we could probably push 50%
+
+0:09:41.220,0:09:45.509
+with these on our various choices and that'­s
+another wonderful thing that we have so many
+
+0:09:45.509,0:09:48.170
+choices.
+And of course the fuel cycle costs are very
+
+0:09:48.170,0:09:54.420
+very low and no need, since we have all this
+sort of passive Safety things happen by physics
+
+0:09:54.420,0:09:59.589
+not by engineering design, we don'­t have
+that defence in depth or these massive internal
+
+0:09:59.589,0:10:04.550
+structures to deal with steam containment
+and vast water reserves to deal with that.
+
+0:10:04.550,0:10:08.720
+Just looking at the size of the heat exchangers
+on the far left, we have the primary heat
+
+0:10:08.720,0:10:14.389
+exchanger, we need four of those for a 1000
+megawatt plant and 16 of these tiny little
+
+0:10:14.389,0:10:20.250
+steam generator tubes versus in the middle
+for those very large 70 foot tall steam generators
+
+0:10:20.250,0:10:25.089
+that the PWR folks need to work with.
+And the sodium cool fast reactor people, they
+
+0:10:25.089,0:10:30.060
+love to show how tiny their reactor is itself
+but they tend to neglect showing the absolutely
+
+0:10:30.060,0:10:36.860
+massive water to liquid sodium steam generators
+and well their primary heat exchangers as
+
+0:10:36.860,0:10:42.009
+well so their volume is just enormous factor
+compared to ours.
+
+0:10:42.009,0:10:45.279
+Resource sustainability, once we start these
+breeder reactor designs, if we'­re running
+
+0:10:45.279,0:10:50.550
+them as breeders, all we need is just minor
+amounts of thorium so 30000 dollars worth
+
+0:10:50.550,0:10:55.069
+of thorium well depends on your price per
+kilowatt but half a billion dollars worth
+
+0:10:55.069,0:10:58.550
+of electricity.
+Converter designs are a lot simpler and they
+
+0:10:58.550,0:11:03.970
+do require some uranium but very modest amounts.
+Typically Oakridge'­s base design and we can
+
+0:11:03.970,0:11:09.540
+improve on that, is worth 35 tonnes of uranium
+per GWe year a 1000 MWe plant running for
+
+0:11:09.540,0:11:14.680
+a year versus 200 tonnes of Light Water Reactors
+and that gives a fuel cycle cost of under
+
+0:11:14.680,0:11:19.149
+a tenth of a cent per kilowatt hour so there'­s
+not too much room for improvement there anyway.
+
+0:11:19.149,0:11:22.440
+And I would bring that up, uranium is not
+really the enemy, thorium is an amazing on
+
+0:11:22.440,0:11:26.589
+its own but these reactors can help us use
+uranium a lot better as well.
+
+0:11:26.589,0:11:30.329
+We'­re not going to run out of uranium in
+20 years we can run out of cheap uranium and
+
+0:11:30.329,0:11:34.529
+that can start to hurt the light water folks,
+because they need so much of it but if you
+
+0:11:34.529,0:11:38.769
+can find some competent geologists that know
+their field they will tell you that there'­s
+
+0:11:38.769,0:11:44.639
+no way that the uranium could ever be really
+more than 500$ a kg because then we'­d have
+
+0:11:44.639,0:11:49.740
+so much low grade? ores that'­d be economically
+viable there. And even 500$ a kg in these
+
+0:11:49.740,0:11:53.740
+designs that use it'­s still only a couple
+tenths of a cent per kilowatt-hour.
+
+0:11:53.740,0:11:58.279
+Now mining is maybe not pretty in general
+but a 1.7 million tonnes of uranium ore that
+
+0:11:58.279,0:12:03.440
+was dug up in well 2009 had a world average
+at 3% ore grade. We have to compare that,
+
+0:12:03.440,0:12:10.440
+mining is not pretty but there'­s 2500 million
+tonnes of copper ore, 1700 Mt of iron ore
+
+0:12:10.540,0:12:16.759
+and 7000 Mt of coal so the mining picture
+here is still a minor one.
+
+0:12:16.759,0:12:21.009
+And if uranium is used with thorium in the
+dmsr designs we could have 100% of the worlds
+
+0:12:21.009,0:12:25.860
+electricity 25000 Giga watts without increasing
+the mining we'­re doing already. And even
+
+0:12:25.860,0:12:30.959
+if we needed to go to very low-grade ores,
+it might cost 500$ a kg but there'­s almost
+
+0:12:30.959,0:12:36.230
+unlimited supplies then it'­s still only a
+couple hundred Mt of ore mine per year.
+
+0:12:36.230,0:12:40.730
+A long lived waste that'­s another great story
+for molten salt reactors lifter in general,
+
+0:12:40.730,0:12:44.430
+the fission products were very similar to
+almost any other reactor design but they'­re
+
+0:12:44.430,0:12:49.410
+almost all relatively benign after a few hundred
+years. The real problem is what we call the
+
+0:12:49.410,0:12:54.230
+transuranics, things above uranium, neptunium,
+specifically plutonium and even above that.
+
+0:12:54.230,0:12:58.569
+That'­s the real reason you have yucca mountains,
+which are their repositories they'­re built
+
+0:12:58.569,0:13:03.190
+so that 100 years later we can sort of come
+back and take that out because you also don'­t
+
+0:13:03.190,0:13:08.300
+want to bury plutonium for generations.
+All the molten salt reactors designs, regardless
+
+0:13:08.300,0:13:12.420
+of the'– they produce a lot less transuranics
+and we can all just keep them in the salt
+
+0:13:12.420,0:13:15.759
+or every time we process make sure we put
+them back in the salt. It'­s surprising to
+
+0:13:15.759,0:13:19.639
+many but I can show you the numbers if you
+don'­t believe me, converters can do just
+
+0:13:19.639,0:13:23.620
+as well breeders than that.
+Converters will produce a little more plutonium
+
+0:13:23.620,0:13:28.529
+a year but you only have to process it every
+10, 20, 30 years so the picture can look just
+
+0:13:28.529,0:13:34.350
+as well. That blue line is the actinide waste,
+that'­s the transuranics and that'­s what
+
+0:13:34.350,0:13:39.110
+is so nasty for so long and this is logarithmic
+on both scales so going out into millions
+
+0:13:39.110,0:13:41.990
+of years.
+That'­s what takes so long the dash line is
+
+0:13:41.990,0:13:46.089
+the fission products and they drop like a
+rock through the first few hundred years and
+
+0:13:46.089,0:13:51.569
+then there'­s a few left that are just low
+energy ?? etc nothing too much to be concerned
+
+0:13:51.569,0:13:54.050
+with.
+The blue line shows for a fast breeder the
+
+0:13:54.050,0:13:59.300
+sodium guys and then this green line is for
+the molten salt breeder reactor and that would
+
+0:13:59.300,0:14:02.069
+be very similar line for even the converter
+reactors.
+
+0:14:02.069,0:14:07.689
+These arrows I have on the side, PWR U, DMSR
+U and then the MSBR on Thorium, that shows
+
+0:14:07.689,0:14:12.790
+sort of when we run these reactors how much
+radio toxicity we'­re actually destroying
+
+0:14:12.790,0:14:18.730
+in the world or transmuting and the DMSR design
+we can do pretty much as well as the breeder
+
+0:14:18.730,0:14:22.149
+but we actually destroy a lot more natural
+radio toxicity.
+
+0:14:22.149,0:14:25.339
+So it'­s probably the only reactor design
+in the world that can make the claim that
+
+0:14:25.339,0:14:29.689
+when you run these reactors 300 years later
+when the fission products have died away we'­ve
+
+0:14:29.689,0:14:35.269
+actually lowered the worlds radio toxicity
+ok no other designs so we'­re doing the world
+
+0:14:35.269,0:14:38.529
+a favour doing that.
+Now proliferation resistance is mainly a political
+
+0:14:38.529,0:14:42.699
+issue okay, if a country wants it they'­re
+going to build simple graphite power reactors
+
+0:14:42.699,0:14:47.360
+etc. It'­s not really a technological issue
+but that said we still should do whatever
+
+0:14:47.360,0:14:51.089
+we can to maximise proliferation resistance
+of designs.
+
+0:14:51.089,0:14:55.689
+Now I will mention though that the media often
+portrays thorium as somehow eliminating proliferation
+
+0:14:55.689,0:14:59.720
+concerns altogether, this is not true and
+that'­s important to understand, it can really
+
+0:14:59.720,0:15:05.420
+help us but it'­s still something we have
+to be vigilant about.
+
+0:15:05.420,0:15:10.120
+The proliferation resistance of the pure cycle,
+what we'­d maybe call the breeder cycle, the
+
+0:15:10.120,0:15:14.720
+big benefit is from something called uranium
+232, it'­s there a long time its got a 69
+
+0:15:14.720,0:15:20.079
+year life and one of its daughter products
+makes a really high energy gamma ray, extremely
+
+0:15:20.079,0:15:24.550
+easy to detect if anyone was trying to smuggle
+this around and makes it really hard to work
+
+0:15:24.550,0:15:26.490
+with.
+And no national program has ever been based
+
+0:15:26.490,0:15:33.269
+on uranium 233. We can also easily denature
+these by dumping in uranium 238 and that makes
+
+0:15:33.269,0:15:38.009
+the uranium useless for any kind of weapons.
+The protractor ?? removal, I won'­t get into
+
+0:15:38.009,0:15:42.759
+details here, but that can be eliminated in
+any design, even single fluids believe it
+
+0:15:42.759,0:15:46.749
+or not for those that know a little bit here
+but that should be avoided because that can
+
+0:15:46.749,0:15:51.600
+lead to what you call clean 233 that doesn'­t
+have that 232 contaminate.
+
+0:15:51.600,0:15:55.730
+And in these designs there'­s only tiny small
+amounts of plutonium and its really really
+
+0:15:55.730,0:16:00.529
+poor quality, pretty much impossible even
+to ever imagine. Denatured cycles though and
+
+0:16:00.529,0:16:05.249
+this includes the converted designs, with
+the pure cycle it does represent highly enriched
+
+0:16:05.249,0:16:09.699
+uranium and those 3 words together will be
+a non starter for a lot of people and it'­ll
+
+0:16:09.699,0:16:13.290
+be hard to even get them to look at things.
+But if we run them denatured there'­s pros
+
+0:16:13.290,0:16:18.620
+and cons to that but that makes any uranium
+completely useless for weapons. It does mean
+
+0:16:18.620,0:16:22.310
+we'­re going to have a it more plutonium and
+again its surprising that there'­s not a big
+
+0:16:22.310,0:16:26.730
+difference in how much plutonium will be in
+the salt but plutonium is a lot harder to
+
+0:16:26.730,0:16:31.170
+remove from the salts than uranium and it'­s
+really poor quality plutonium.
+
+0:16:31.170,0:16:35.589
+It'­s debatable whether light water reactor
+plutonium in the waste could ever be really
+
+0:16:35.589,0:16:40.550
+used to make a weapon, in the DMSR approach
+is much poorer is the triple of the spontaneous
+
+0:16:40.550,0:16:44.939
+fission rate that makes things internally
+and a lot more heat production.
+
+0:16:44.939,0:16:49.810
+The DMSR approach has been singled out in
+various, well, in some studies
+
+0:16:49.810,0:16:53.860
+As probably being one of the highest proliferation
+resistance of any possible reactor.
+
+0:16:53.860,0:16:57.629
+Rapid deployment capability is basically how
+much fissile we need to start it there'­s
+
+0:16:57.629,0:17:01.910
+also the technological issues these are a
+lot, any type design is a lot easier to built
+
+0:17:01.910,0:17:05.880
+than the light water reactors but one of the
+differentiators is how much fissile to start
+
+0:17:05.880,0:17:10.029
+and what type. We don'­t really have many
+U233 in the world but there'­s a little bit
+
+0:17:10.029,0:17:12.390
+here that we'­re trying to save in the United
+states.
+
+0:17:12.390,0:17:16.189
+Spent fluid plutonium everyone talks about
+that but its quite expensive to get at and
+
+0:17:16.189,0:17:22.419
+its also somewhat limited. Fast spectrum,
+single fluid or one and a half fluid designs
+
+0:17:22.419,0:17:26.419
+they need a lot more fissile material to start
+it up, up to 8 tonnes per Giga watt electrical.
+
+0:17:26.419,0:17:32.000
+Its still a little less form the fast breeder
+guys but its still a lot in development. Two
+
+0:17:32.000,0:17:36.900
+fluid breeders or any denature design we can
+start those with low enriched uranium, that'­s
+
+0:17:36.900,0:17:41.159
+another advantage of the two fluid design.
+And another thing, can we make these small
+
+0:17:41.159,0:17:45.230
+to start? And there'­s differences there.
+The two fluid designs with what I call a full
+
+0:17:45.230,0:17:48.909
+blanket around them, we can make them pretty
+much as small as we want and please don'­t
+
+0:17:48.909,0:17:52.419
+start thinking were going to have them in
+your basements or in your car, that'­s ridiculous
+
+0:17:52.419,0:17:57.720
+but we can make them quite small power.
+Single fluid graphite converters, the sort
+
+0:17:57.720,0:18:01.380
+of neutron budget gets worse as you get smaller
+but you'­re not trying to break even so yes
+
+0:18:01.380,0:18:06.400
+we can make those pretty small. The conventional
+design the single fluid graphite breeder and
+
+0:18:06.400,0:18:10.390
+to break even that is actually very hard to
+make them very small, of course 100-megawatt
+
+0:18:10.390,0:18:15.830
+size. And the single fluid fast breeder, the
+French had the most well known design, that'­s
+
+0:18:15.830,0:18:18.600
+very hard as well.
+Technological uncertainty that I think is
+
+0:18:18.600,0:18:24.020
+the biggest influentiator in these designs,
+R&D and nuclear power is expensive so if we
+
+0:18:24.020,0:18:27.529
+can minimize this at least for the first generation
+of designs we should do that.
+
+0:18:27.529,0:18:32.429
+The fission product removal, it does need
+a lot of R&D even the two fluid design is
+
+0:18:32.429,0:18:36.400
+a lot simpler than that design but there'­s
+still a lot of work that needs to be done
+
+0:18:36.400,0:18:41.010
+there before you have a commercial design.
+And only single fluid graphite designs don'­t
+
+0:18:41.010,0:18:46.429
+really need the material that has to be verified
+as some sort of barrier material that we have
+
+0:18:46.429,0:18:53.429
+to verify in a strong neutron fluid and going
+beyond 700 degrees which some, well the French,
+
+0:18:54.740,0:18:59.289
+their design is pretty much forced to go in
+that direction and then we'­re getting into
+
+0:18:59.289,0:19:03.850
+areas that we don'­t know the material science
+that well, a lot to prove there.
+
+0:19:03.850,0:19:09.140
+If graphite is used some of us, there'­s different
+designs that will or will not, we either have
+
+0:19:09.140,0:19:14.270
+large cores where we don'­t have to ever change
+the graphite or we have to prove these replacement
+
+0:19:14.270,0:19:16.820
+technologies.
+And summary then all Molten salt reactors
+
+0:19:16.820,0:19:21.840
+designs excel in safety, costs, resource usage,
+long lived wastes. I think the tube in tube,
+
+0:19:21.840,0:19:25.669
+what I'­ve been promoting the two design may
+offer the best overall capital cost and rapid
+
+0:19:25.669,0:19:30.710
+deployment and then the simpler design, the
+DMSR design offers the very lowest in technological
+
+0:19:30.710,0:19:33.580
+uncertainty and really really high proliferation
+resistance.
+
+0:19:33.580,0:19:38.210
+They all are high, I think this is the absolute
+highest though. The inherent features, the
+
+0:19:38.210,0:19:43.059
+physics of them itself, they favour the overall
+safe waste reduction, cost and deployment
+
+0:19:43.059,0:19:47.090
+but they also have a lot of flexibility, we
+can attain the very highest levels of proliferation
+
+0:19:47.090,0:19:52.200
+resistance, we can run on minute amounts of
+thorium or modest amount of uranium with thorium
+
+0:19:52.200,0:19:56.260
+for the utmost in simplicity.
+There'­s a lot of things going around in the
+
+0:19:56.260,0:20:02.770
+backrooms that many are not aware of, it'­s
+exciting times but sorry not quite ready for
+
+0:20:02.770,0:20:09.770
+public disclosure, but that'­s all I have
+to say for now.
