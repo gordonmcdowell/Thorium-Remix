@@ -1249,334 +1249,308 @@ lai ar vienu no tiem apstarotu kādu citu torija kodolu,
 bet ar otru – urānu-233, lai uzturētu dalīšanās reakciju.
 
 0:25:41.169,0:25:47.759
-Some of these fission products have a really
-big propensity to eat neutrons. The way they
+Dažiem no šiem sadalīšanās produktiem ir milzīga
+vēlme "apēst" neitronus.
 
 0:25:47.759,0:25:53.009
-describe this in nuclear reactions is they
-call it a cross section. How probable is a
+Zinātnieki šo īpašību raksturo ar t.s. neitronu
+satveršanas laukumu. Tas norāda, cik liela ir 
 
 0:25:53.009,0:25:58.759
-reaction going to be? One of those fission
-products is named xenon-135, and here is its
+varbūtība, ka kodols notvers neitronu. Viens no šādiem
+elementiem ir Ksenons-135. Te ir tā satveršanas laukums,  
 
 0:25:58.759,0:26:04.590
-cross section relative to two nuclear fuels.
-See these little bitty guys? Imagine we're
+salīdzinot ar citiem elementiem.
+Vai redzat šos mazos aplīšus? 
 
 0:26:04.590,0:26:07.960
-playing darts or something, and throwing them.
-Which one are we going to hit?
+Iedomājieties, ka mēs spēlējam dartus.
+Kurā no tiem ir visvieglāk trāpīt?
 
 0:26:07.960,0:26:14.090
-When xenon-135 forms from fission, look at
-all these chain, blah, blah, blah. Where's
+Kodolu dalīšanās procesā rodas arī Ksenons-135.
+Kur tas ir?
 
 0:26:14.090,0:26:21.090
-135? OK, that's not particularly an uncommon
-event to form that particular guy. Xenon-135
+135 ir šeit. Pastāv varbūtība, ka procesā izveidosies arī
+šis elements.
 
 0:26:24.769,0:26:29.999
-has a half life of nine hours. It's very radioactive,
-but during that nine hours, it really wants
+Ksenona-135 pusdzīves laiks ir deviņas stundas. Tas ir
+ļoti radioaktīvs, bet šo stundu laikā
 
 0:26:29.999,0:26:30.940
-to eat your neutron.
+tas ļoti vēlas "apēst" jūsu neitronu.
 
 0:26:30.940,0:26:31.190
-This turns out to be a big problem for real
-nuclear reactors. It messes up how they want
+Esošajos reaktoros tas rada nopietnas grūtības.
+Jo ksenons darbojas pretī tam, ko jūs vēlaties.
 
 0:26:31.169,0:26:32.879
-to operate because of the existence of xenon.
-This actually was a contributing effect to
+Patiesībā Ksenons-135 bija pie vainas
 
 0:26:32.879,0:26:39.289
-the Chernobyl disaster was the presence of
-xenon-135. And it's really hard to deal with
+Černobiļas katastrofā. Un reaktoros
 
 0:26:39.289,0:26:45.580
-in solid fuel reactors. Xenon was such a big
-deal, in fact, this was one of the first reactors
+ar cietu kodoldegvielu tas ir īpaši sarežģīti.
+Patiesībā ksenons traucē visos reaktoros,
 
 0:26:45.580,0:26:50.499
-that was ever built. This was the Hanford
-reactor in Washington. They built this during
+sākot no paša pirmā. Šis ir Henfordas reaktors
+Vašingtonā. To uzbūvēja Manhetenas projekta laikā.
 
 0:26:50.499,0:26:54.360
-the Manhattan project to make plutonium for
-nuclear weapons.
+Lai izstrādātu plutoniju kodolieročiem.
 
 0:26:54.360,0:26:58.740
-When they first built it, they turned it on
-and everything seemed to be going. After about
+Kad to uzbūvēja, sākumā viss gāja normāli,
+bet pēc vairākām stundām darba,
 
 0:26:58.740,0:27:05.340
-a day or two of running it, all of a sudden
-the power went and dropped, almost to zero.
+reaktora jauda pēkšņi kritās gandrīz
+līdz nullei.
 
 0:27:05.340,0:27:09.480
-They were like, "What the heck is that?",
-and they couldn't figure it out. They left
+Visi brīnījās: "Kas, ellē, notiek?"
+Tomēr nolēma to atstāt mierā.
 
 0:27:09.480,0:27:15.970
-it alone, and after about 12 or 18 hours it
-went and it came back up to power again, and
+Un pēc kādām 12-18 stundām, reaktors pats atsāka
+strādāt.
 
 0:27:15.970,0:27:21.100
-it held there. They're like, "What?", and
-pretty soon it goes and drops off again. They're
+Un, kamēr visi brīnījās, kas notiek, pēc vairākām stundām
+jauda atkal kritās.
 
 0:27:21.100,0:27:25.139
-going, "This makes no sense, we're not doing
-anything! The thing's turning on and turning
+"Tas ir ārprāts, mēs neko nedarām,
+bet reaktors pats slēdz sevi
 
 0:27:25.139,0:27:27.399
-off, and it's turning on and it's turning
-off."
+iekšā un ārā." 
 
 0:27:27.399,0:27:33.929
-What was going on was, the reactor would turn
-on, and xenon-135 would begin to build up.
+Patiesībā notika tas, ka reaktoram darbojoties,
+tajā uzkrājās ksenons-135.
 
 0:27:33.929,0:27:37.769
-And as it built up, it would start eating
-all these neurons, right. And they were and
+Kad tas sakrājās pietiekami daudz, tas apēda
+arvien vairāk neitronu.
 
 0:27:37.769,0:27:41.110
-it would take the reactor back down again.
+To vairs nebija pietiekami daudz un reakcija apstājās.
 
 0:27:41.110,0:27:44.869
-Then after a while it would decay away, and
-once it decayed away [makes ascending plane
+Kad tas sabruka, [augšupejošs svilpiens]
 
 0:27:44.869,0:27:50.330
-sound] the reactor would come back on again.
-So it was following this up and down effect.
+un reaktors atsāka strādāt.
 
 0:27:50.330,0:27:53.320
-Just crazy, I mean, these guys didn't even
-know what xenon-135 was, because this was
+Tajā laikā viņi pat nezināja, kas ir ksenons-135,
 
 0:27:53.320,0:27:58.720
-one of the first nuclear reactors ever built.
-Luckily for us, the guy who built this reactor
+jo tas bija pasaulē pirmais reaktors.
+Mums par laimi, bija tāds
 
 0:27:58.720,0:28:00.789
-was this guy, Eugene Wigner.
+Eižens Vīners.
 
 0:28:00.789,0:28:02.399
-He was unbelievably brilliant, maybe one of
-the smartest guys who ever lived. Won the
+Neticami gudrs, iespējams viens no pasaules gudrākajiem
+prātiem, kas ieguvis Nobeļa prēmiju.
 
 0:28:02.399,0:28:05.110
-Nobel Prize. He would just lie in bed, trying
-to figure out “How far ahead of the Germans
+Viņš pirms gulēšanas domāja par to
+"Cik tālu ar kodlreaktoru ir vācieši?"
 
 0:28:05.110,0:28:08.529
-are we? Where do you think they are?” He
-was just always gaming it and trying to figure
+Viņš vienmēr par domāja par to.
 
 0:28:08.529,0:28:08.830
-it out.
+Un viņš domāja par to:
 
 0:28:08.830,0:28:13.139
-He had thought, "What could possibly go wrong
-in this machine I built." He goes, "Well,
+"Kas slikts varētu notikt ar manu reaktoru?"
 
 0:28:13.139,0:28:18.639
-there could be something that we'll make that
-will be very, very absorptive of neutrons.
+Un viņš izdomāja, ka reaktorā varētu rasties
+kaut kas tāds, kas labi absorbē neitronus.
 
 0:28:18.639,0:28:24.559
-And that something we make might decay quickly.
-And if it was really absorptive and it decayed
+"Un, ja tas sabrūk pietiekami ātri,
 
 0:28:24.559,0:28:26.220
-quickly, the reactor would do... this!"
+tad tas varētu likt reaktoram darboties ... tieši tā!"
 
 0:28:26.220,0:28:32.249
-He didn't know what it was yet! He just was
-hypothesizing that such a thing existed! And
+Viņš pat nezināja, kas tas īsti bija,
+bet izsecināja, ka kaut kas tāds varētu pastāvēt.
 
 0:28:32.249,0:28:36.149
-so when this machine of his started doing
-this, he goes, "I think I know what's going
+Un kad viņa reaktors sāka tā uzvesties,
+viņš saprata, kā ar to cīnīties.
 
 0:28:36.149,0:28:40.980
-on." There were a bunch of places to put in
-extra fuel, and he was able to override this
+Reaktorā bija vairākas brīvas vietas un viņi
+tajā salika papildu degvielas stieņus,
 
 0:28:40.980,0:28:44.789
-effect. I mean, we're really lucky he did
-this, or we would not have been able to finish
+lai kompensētu šo efektu. Līdz ar to viņi
 
 0:28:44.789,0:28:48.980
-the Manhattan Project. So they were able to
-complete the creation of plutonium in order
+varēja pabeigt Manhetenas projektu. Un ieguva plutoniju
 
 0:28:48.980,0:28:50.820
-to make the first nuclear weapon.
+no kura izgatavoja pasaules pirmo kodolbumbu.
 
 0:28:50.820,0:28:55.610
-They took natural uranium, and they separated
-those two isotopes, highly enriched it in
+Viņi ņēma dabīgo urānu, un sadalīja to izotopos,
+lai iegūtu lielāku urāna-235 koncentrāciju.
 
 0:28:55.610,0:29:02.460
-uranium-235. They'd take uranium-235 from
-less than one percent up to like 90-plus percent.
+Viņi palielināja tā koncentrāciju no mazāk par
+vienu procenta līdz vairāk par 90%.
 
 0:29:02.460,0:29:07.989
-And this was really hard. It took big factories,
-very difficult to do isotopic enrichment.
+Un tas nav viegli. Lai veiktu izotopu atdalīšanu,
+nepieciešamas lielas rūpnīcas.
 
 0:29:07.989,0:29:12.720
-But this is how they made the uranium for
-the first nuclear weapon used in war. This
+Bet pirmajai atombumbai urānu ieguva tieši tā.
 
 0:29:12.720,0:29:16.529
-was the bomb at Hiroshima. It was called "Little
-Boy," and they never tested it, because they
+To bumbu nometa uz Hirosimas un nosauca par
+"mazo puisēnu". To nemēģināja, jo zināja,
 
 0:29:16.529,0:29:17.499
-already knew it was going to work.
+ka tā strādās.
 
 0:29:17.499,0:29:22.850
-Then they said, "Well, what can we do with
-all this junk uranium-238, the 99.3 percent
+Un viņi domāja, "ko gan mēs varētu darīt ar atlikušajiem
+99,3% urāna-238?"
 
 0:29:22.850,0:29:27.299
-of it?" Well, Seaborg had already figured
-out you could expose it to neutrons, and you
+Sīborgs izdomāja, ka to varētu apstarot ar neitroniem,
 
 0:29:27.299,0:29:29.649
-could make it into Plutonium.
+un iegūt no tā plutoniju.
 
 0:29:29.649,0:29:35.239
-After a short cooling-off period, the now
-highly irradiated fuel rods were transported
+Pēc neilga laika vēl arvien stipri radioaktīvos
+stieņus nogādāja uz
 
 0:29:35.239,0:29:38.119
-to T-plant in Hanford's 200 area.
+T-staciju Henfordas 200 apgabalā.
 
 0:29:38.119,0:29:43.669
-Now, plutonium is a different chemical element
-than uranium, so they can be chemically separated.
+Plutonijs ir savādāks ķīmiskais elements nekā urāns,
+tāpēc tos var atdalīt ķīmiskā veidā.
 
 0:29:43.669,0:29:49.929
-The process yielded minute amounts of plutonium.
-By weight, the most expensive material on
+Šajā procesā viņi ieguva niecīgu plutonija daudzumu,
+kas, rēķinot uz masas vienību, bija dārgākais
 
 0:29:49.929,0:29:50.659
-the planet.
+elements pasaulē.
 
 0:29:50.659,0:29:56.789
-And chemically separating things is like a
-bazillion times easier than isotopically separating
+Bet atdalīt vienu no otra ķīmiskos elementus ir
+miljoniem reižu vienkāršāk, nekā viena elementa izotopus.
 
 0:29:56.789,0:29:57.929
-it. Because uranium-235 and uranium-238 are
-identical chemically. There's no chemical
+Ķīmiski urāns-235 un urān-238 ir vienādi.
+Starp tiem nav nekādu ķīmisku atšķirību.
 
 0:29:57.929,0:29:59.019
-difference between them. But there is a chemical
-difference between plutonium and uranium,
+Bet plutonijs un urāns atšķiras ķīmiski.
 
 0:29:59.019,0:30:02.580
-so it was a lot easier to do a chemical separation
-of the plutonium you'd made.
+un tāpēc tos var atdalīt vienu no otra ķīmiskā ceļā.
 
 0:30:02.580,0:30:07.440
-And that's how they made the first nuclear
-weapon, the Trinity blast in New Mexico, and
+Un tā viņi radīja pirmo plutonija bumbu, Triniti,
+kuru uzspridzināja Meksikā,
 
 0:30:07.440,0:30:11.730
-that's also how they made the Nagasaki bomb,
-Fat Man. Seaborg says, "OK, well, maybe we
+arī "Resno zēnu", kuru nometa Nagasaki.
 
 0:30:11.730,0:30:15.759
-can do the same thing with Thorium. Maybe
-we can expose it to neutrons, and we can make
+Sīborgs domāja par to, ka to pašu varētu darīt,
+arī izmantojot toriju. Piemēram, apstarot to ar neitroniem,
 
 0:30:15.759,0:30:22.279
-it into uranium-233. Uranium will be chemically
-separable from Thorium, and we can go make
+un pārvērst to urānā-233. Urānu arī var atdalīt no torija
+ķīmiskā procesā, un izgatavot no tā bumbu.
 
 0:30:22.279,0:30:23.649
-a bomb out of it." Right? Sounds great.
+Izklausās labi.
 
 0:30:23.649,0:30:28.489
-So they started looking at it, and it turns
-out, no, it's a really bad idea, because as
+Viņi sāka šo iespēju pētīt, un atklājās, ka tā tomēr ir
+slikta ideja.
 
 0:30:28.489,0:30:34.489
-you made the uranium-233, you were always
-making uranium-232. Here's the decay chain
+Jo atklājās, ka, izmantojot urānu-233, vienmēr iegūst arī
+urānu-232. Šeit sabrukšanas ķēdē ir urāns-232.
 
 0:30:34.489,0:30:41.489
-that uranium-232 is on. It jumps down one
-year, three days, 55 seconds, 0.16 seconds,
+Tas pārvēršas par citiem elementiem gada laikā,
+trijās dienās, 55 sekundēs, 0.16 sekundēs,
 
 0:30:42.619,0:30:49.440
-and it jumps down to these guys - bismuth-212,
-thallium-208 and these two decay products
+un beigās pārvēršas par bismutu-212 un talliju-208,
+bet šie divi elementi izstaro
 
 0:30:49.440,0:30:50.879
-have harder gamma emission.
+spēcīgus gamma starus.
 
 0:30:50.879,0:30:56.850
-They put out very, very strong gamma rays.
-And these gamma rays are super bad news if
+Bet gamma stari ir ļoti nevēlami, ja vēlaties izveidot
+praktisku kodolieroci.
 
 0:30:56.850,0:31:01.119
-you want to go and build a practical nuclear
-device. Because, number one they kill you
+Jo pirmkārt, tas nogalina visus,
 
 0:31:01.119,0:31:04.649
-when you work on them, number two, they tell
-everybody who's got gamma ray detectors where
+kas ar to strādā, un otrkārt, ar gamma staru detektoriem
 
 0:31:04.649,0:31:05.830
-the stuff is.
+var ātri atklāt, kur atrodas šāda bumba.
 
 0:31:05.830,0:31:10.259
-So really quickly they were going, OK, we
-can work with uranium-235, that seems OK,
+Līdz ar to, viņi ātri saprata, ka var izmantot urānu-235,
 
 0:31:10.259,0:31:15.929
-we can work with plutonium, that seems OK,
-but this uranium-233 stuff has bad news for
+var izmantot plutoniju, bet urāns-233 neder
 
 0:31:15.929,0:31:17.739
-making a nuclear weapon.
+lai to izmantotu kodolieročos.
 
 0:31:17.739,0:31:23.389
-Thorium was set aside as a potential nuclear
-weapons fuel all during the war. After the
+Tāpēc kara laikā torijs tika nolikts malā.
 
 0:31:23.389,0:31:26.629
-war, they picked up on this again because
-now they were thinking, "Let's talk about
+Pēc kara viņi atsāka domāt par to, kā
 
 0:31:26.629,0:31:32.549
-making power instead of making nuclear weapons."
-This is a chart that shows absorption propensity
+"ieroču vietā radīt enerģiju".
+Šajā grafikā parādīta dažādu elementu neitronu absorbēšana
 
 0:31:32.549,0:31:36.369
-of each of these different nuclear fuels as
-a function of neutron energy.
+atkarībā no neitronu enerģijas.
 
 0:31:36.369,0:31:40.830
-This is what's called thermal energy, this
-means they've been slowed way down. This is
+Šie ir t.s. termālie neitroni, kas atdevuši savu enerģiju siltumā.
 
 0:31:40.830,0:31:45.619
-fast energy, that means a neutron is still
-going really fast. Look how much bigger the
+Šie ir t.s. ātrie neitroni, kas tikko izlidojuši no kodola un ir ļoti ātri.
+Skatieties,
 
 0:31:45.619,0:31:50.070
-cross sections are in thermal than they are
-in fast.
+cik daudz reizes lielāks ir šķērsgriezums, ja neitroni ir lēni.
 
 0:31:50.070,0:31:55.039
 What's this guy down here, this is fast times
