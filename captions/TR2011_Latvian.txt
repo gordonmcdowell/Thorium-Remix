@@ -1553,125 +1553,114 @@ Skatieties,
 cik daudz reizes lielāks ir šķērsgriezums, ja neitroni ir lēni.
 
 0:31:50.070,0:31:55.039
-What's this guy down here, this is fast times
-25. Taking this row, because you can barely
+Šeit lejā ir parādīti ātro neitronu ķeršanas laukumi ×25.
+Tā kā šajā rindā tie ir knapi saskatāmi,
 
 0:31:55.039,0:32:01.389
-see these little bitty dots, and I've blown
-it up by a factor 25. You can see some proportions
+Šeit tie ir parādīti 25 reizes lielāki.
+Jūs redzat, cik liela ir atšķirība.
 
 0:32:01.389,0:32:05.269
-here. Now what these colors mean is the red
-means that it's going to absorb the neutron
+Sarkanā krāsa norāda, ka kodols neitronu tikai absorbē,
 
 0:32:05.269,0:32:08.369
-and the blue means that it's going to absorb
-the neutron and fission.
+bet zilā krāsa norāda, ka kodols ne tika absorbē neitronu, bet 
+arī sadalās.
 
 0:32:08.369,0:32:12.159
-What you want, you want blue. Thick blue is
-good. Well, lots of blue, because when you
+Jūs vēlaties zilo krāsu. Zilā krāsa ir laba.
 
 0:32:12.159,0:32:14.739
-hit these dudes with neutron, you want them
-fission.
+Jo tad šie kodoli, absorbējot neitronu sadalās.
 
 0:32:14.739,0:32:20.690
-Look at plutonium, wow, big target, right?
-But one third of the time it's just going
+Tagad skatieties uz plutoniju. Uh. Liels mērķis, vai ne?
+Bet katru trešo reizi tas vienkārši apēd mūsu
 
 0:32:20.690,0:32:26.330
-to eat the neutron in thermal fission. That's
-not good. On the other hand, in fast fission,
+termālo neitronu. Tas gan nav labi. No otras puses,
+ar ātrajiem neitroniem tas gandrīz vienmēr
 
 0:32:26.330,0:32:32.700
-look at that, wow, was going to fission almost
-all the time. We like that was, but look how
+sadalās. Tomēr cik daudz mums ir jāapvieno šie mazie laukumiņi,
 
 0:32:32.700,0:32:37.499
-many these little dots we are going to need
-to add up to this size. We are going to need
+lai iegūtu vienu lielo. Mums tādu vajag
 
 0:32:37.499,0:32:38.429
-a lot.
+ļoti daudz.
 
 0:32:38.429,0:32:45.119
-How much energy did the neutron have that
-you smack the nuclear fuel with? How energy
+Cik daudz neitronu un cik daudz kodoldegvielas
+ir vajadzīgs
 
 0:32:45.119,0:32:50.389
-did they have and then how many neutrons did
-you kick out when you smack it to fission?
+lai nodrošinātu nepārtrauktu kodoldalīšanos?
 
 0:32:50.389,0:32:56.070
-These little bitty dots, they appear in this
-part of the curve. This is the fast region,
+Šie mazie punktiņi attiecas uz šo līknes daļu.
+Šie ir ātrie neitroni.
 
 0:32:56.070,0:32:59.749
-this is the thermal region. On the thermal
-region, look who is doing the best, look at
+Šie ir termālie neitroni. Kas vislabāk
+izskatās termālajā daļā?
 
 0:32:59.749,0:33:06.749
-uranium-233, about 2.3. Look at plutonium,
-is that deep low two right there. That's what
+Urāns-233 ap 2.3. Plutonijs ir šeit lejā,
+tāpēc jūs nevarat dedzināt urānu-238
 
 0:33:09.169,0:33:14.999
-makes it that you cannot burn up uranium-238
-in a thermal-spectrum reactor like a water
+ar termālajiem neitroniem, piemēram, ar ūdeni
+dzesētā reaktorā
 
 0:33:14.999,0:33:17.220
-cooled reactor like a CANDU or like a water
-reactor.
+vai CANDU reaktorā.
 
 0:33:17.220,0:33:23.129
-You just can't do it. So they look at that
-and say, man, we just can't burn uraniun-238
+Reaktorā ar termālajiem neitroniem,
+tas vienkārši nav iespējams.
 
 0:33:23.129,0:33:26.789
-in the thermal reactor. It just can't be done.
-These guys aren't deterred, they said, "Well,
+Bet zinātnieki nepadevās:
 
 0:33:26.789,0:33:28.799
-here is what we'll do, we'll just build a
-fast reactor, because look how good it gets
+"Tad mēs varam izmantot ātros neitronus.
+Skatieties, cik labi tas izskatās tad.
 
 0:33:28.799,0:33:33.609
-in the fast region, wow, it gets above two,
-three, wow! This is really good!" This was
+Ar ātrajiem neitroniem, tas ir 2-3 reizes lielāks!
 
 0:33:33.609,0:33:39.190
-the genesis of the idea of the fast breeder
-reactor, a reactor that was based around having
+Un tā radās brīdera reaktora ideja
 
 0:33:39.190,0:33:42.320
-fast neutrons and plutonium fuel.
+kas izmanto kā degvielu plutoniju un ātros neitronus.
 
 0:33:42.320,0:33:47.480
-But uranium-233 on the other hand, OK, it
-gets a little better in the fast, but dang
+Toties urāns-233, lai arī ar ātrajiem neitroniem ir
+nedaudz labāks,
 
 0:33:47.480,0:33:50.019
-it's still pretty damn good right in the thermal.
+tas vēl arvien ir ļoti labs arī ar lēnajiem neitroniem.
 
 0:33:50.019,0:33:55.779
-Big targets, a lot easier, everybody who is
-pushing thorium said, "We like thermal. This
+Tie, kas aizstāvēja toriju teica: "Mums patīk termālie neitroni.
 
 0:33:55.779,0:33:59.710
-is the kind of reactor we want to build" and
-everybody who is pushing plutonium said, "No,
+mēs vēlamies būvēt šādu reaktoru".
+Tie, kas aizstāvēja plutoniju teica:
 
 0:33:59.710,0:34:03.019
-no, no, we want a fast reactor, that's the
-only way to do it."
+"Nē, nē, mēs vēlamies ātro neitronu reaktoru. To var darīt
+tikai tā".
 
 0:34:03.019,0:34:06.480
-What did we really do, we didn't do either
-one of these. In reality, all our reactors
+Galu galā mēs neizmantojam nevienu no šiem variantiem.
+Patiesībā šodienas reaktoros
 
 0:34:06.480,0:34:12.660
-today are burning uranium-235 which is like
-burning platinum, very, very, very rare. We
+mēs dedzinām urānu-235, kas ir tik rets elements,
+ka tik pat labi mēs varētu dedzināt platīnu.
 
 0:34:12.660,0:34:17.510
 didn't take either one of these paths ultimately.
