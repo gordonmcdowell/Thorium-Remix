@@ -243,11 +243,11 @@ toute son énergie pour une année. Et il dit:
 0:04:22.860,0:04:26.630
 "Et il y a un zillion d'autres
  lieux sur la
-terre qui sont comme ma mine. C'est une belle
+Terre qui sont comme ma mine. C'est une belle
 
 0:04:26.630,0:04:30.300
 mine, mais elle n'est pas unique, et ce n'est pas
-comme si c'est le seul endroit sur terre où on le trouve"
+comme si c'est le seul endroit sur Terre où on le trouve"
 
 0:04:30.300,0:04:35.960
 A chaque fois que l'humanité a été en mesure d'accéder
@@ -2333,11 +2333,8 @@ la même technologie dans une centrale au charbon.
 Ce n'est rien comme ça. Une centrale au charbon est sale,
 c'est puant, c'est sale, et c'est dégoulinant.
 
-0:44:06.900,0:44:10.370
-Cette machine était presque antiseptique
-dans sa présentation.
-
-0:44:10.370,0:44:10.620
+0:44:06.900,0:44:10.620
+Cette machine était presque antiseptique dans sa présentation.
 C'est nécessaire?
 
 0:44:10.370,0:44:17.370
@@ -2355,13 +2352,8 @@ Elle tourne l'arbre qui fait marcher ceci.
 A coté on a ce petit truc, appelé
 la turbine haute pression. Et on
 
-0:44:29.960,0:44:30.700
-ne le voit pas vraiment. On voit les trois grandes
-turbines basse pression, mais on ne voit pas la
-
-0:44:30.700,0:44:32.090
-turbine haute pression. La turbine haute pression
-est toute petite. C'est environ un tiers de la taille
+0:44:29.960,0:44:32.090
+ne le voit pas vraiment. C'est environ un tiers de la taille
 
 0:44:32.090,0:44:37.200
 de la génératrice. La turbine haute-pression
@@ -2524,10 +2516,8 @@ Donc il y a beaucoup de systèmes,
 et puis, il y a des renforts pour ces systèmes,
 et tout repose sur la haute pression et
 
-0:47:42.200,0:47:43.450
+0:47:42.200,0:47:43.920
 sur l'utilisation de l'eau.
-
-0:47:43.450,0:47:43.920
 Oui, monsieur?
 
 0:47:43.920,0:47:49.100
@@ -2739,12 +2729,9 @@ La chaleur de désintégration a continué à croître.
 0:51:28.370,0:51:30.160
 La chaleur n'était pas enlevé du réacteur.
 
-0:51:30.160,0:51:32.840
-Pourquoi ils n'utilisaient pas la puissance du réacteur
-pour alimenter les pompes? Parce que le réacteur
-
-0:51:32.840,0:51:33.400
-avait été arrêté.
+0:51:30.160,0:51:33.400
+Pourquoi ils n'utilisaient pas la puissance du réacteur pour
+alimenter les pompes? Parce que le réacteur avait été arrêté.
 
 0:51:33.400,0:51:38.360
 Avec une conception stupide, il arrivera quelque chose
@@ -2755,7 +2742,7 @@ de mauvais, même après 40 ans. Un ami à moi
 et il a travaillé sur l'usine de Fukushima,
 
 0:51:42.620,0:51:46.860
-et ils avaient des réunions avec les responsables de TEPCO
+et ils avaient des réunions entre les responsables de TEPCO
 et les ingénieurs et ils hochaient tous leurs têtes
 
 0:51:46.860,0:51:50.750
@@ -2836,8 +2823,8 @@ sur toute la longueur du crayon. C'est vraiment,
 vraiment cher de fabiquer du combustible solide.
 
 0:53:15.930,0:53:21.180
-A l'époque, le "business model" pour un réacteur nucléaire
-était parfois
+A l'époque, le "business model" pour
+un réacteur nucléaire était parfois
 
 0:53:21.180,0:53:26.540
 considéré comme un "business model lames de rasoir",
@@ -2932,7 +2919,7 @@ Wigner n'aimait pas le combustible solide. Il était ingénieur
 chimiste de formation et il a pensé:
 
 0:54:55.440,0:55:00.200
-"Quel type de processus industriels a-t-on qui est 
+"Quel type de processus industriel a-t-on qui est 
 basé chimiquement sur des solides? Rien!
 
 0:55:00.200,0:55:04.740
@@ -3022,7 +3009,7 @@ et attacher un système de conversion de puissance,
 
 0:56:27.640,0:56:32.120
 et produire de l'électricité", pour eux c'était comme
-atterir sur la lune. La commission de l'énergie atomique,
+atterir sur la Lune. La commission de l'énergie atomique,
 
 0:56:32.120,0:56:34.110
 malheureusement, ne partagait pas leur zèle.
@@ -3255,10 +3242,8 @@ sur leur objectif est, qu'ils ne veulent jamais
 avoir à recycler ou à remplacer le combustible.
 
 1:01:04.000,1:01:07.430
-A la fin de vie leur concept est
- juste
-de l'
-enterrer et de le laisser.
+A la fin de vie leur concept est juste
+de l'enterrer et de le laisser.
 
 1:01:07.430,1:01:12.850
 Moi je pense: "On ne laisse pas un tas
@@ -3269,9 +3254,7 @@ sous la terre pour une période de temps prolongée,
 c'est une mauvaise option de traitement."
 
 1:01:17.270,1:01:21.400
-Ils ont attiré Bill Gates, bien entendu
-,
-
+Ils ont attiré Bill Gates, bien entendu,
 qui est un homme extrêmement riche. Si Bill Gates
 
 1:01:21.400,1:01:24.810
@@ -3287,7 +3270,7 @@ Ne vous sentez pas mal.
 
 1:01:29.780,1:01:35.350
 J'étais vraiment intéressé par la fusion, 
-surtout la fusion hélium-3, des mines sur la lune...
+surtout la fusion hélium-3, des mines sur la Lune...
 
 1:01:35.350,1:01:37.360
 J'ai lu tellement de livres là dessus.
@@ -3359,8 +3342,7 @@ parce qu'on ne peut pas les diriger au parc de mini-golf",
 volent dans tous les sens, il faut
 
 1:02:37.760,1:02:40.810
-s'assurer qu'il ya une clôture autour du mini
--golf
+s'assurer qu'il ya une clôture autour du mini-golf
 
 de sorte qu'elles n'échappent pas." Ca, c'est le confinement.
 
@@ -3453,8 +3435,7 @@ Eh bien, si on a un réacteur de ce genre,
 a-t-on besoin des sables bitumineux?
 
 1:04:21.630,1:04:28.630
-C'est la façon dont je vois les choses, je ne
- connais
+C'est la façon dont je vois les choses, je ne connais
 pas beaucoup sur les sables bitumineux, mais je sais que
 
 1:04:28.810,1:04:33.160
@@ -3493,7 +3474,305 @@ Un dollar ... Un dollar et dix?
 1:05:04.620,1:05:07.630
 L'essence coûte un dollar et dix?
 
-1:05:10.000,1:05:40.000
+1:05:07.630,1:05:13.210
+Ouais, c'est cher, car on a plus de taxe sur l'essence,
+ce que je pense est une bonne idée.
+
+1:05:13.210,1:05:14.790
+Qu'est-ce que vous payez pour l'essence?
+
+1:05:14.790,1:05:16.390
+Je paie vers $3,50 pour l'essence.
+
+1:05:16.390,1:05:17.130
+Vraiment?
+
+1:05:17.130,1:05:18.550
+Je pensais que l'essence était moins cher aux Etats-Unis!
+
+1:05:18.550,1:05:21.020
+Le dollar canadien est presque à parité, non?
+
+1:05:21.020,1:05:21.330
+Ouais.
+
+1:05:21.330,1:05:24.660
+Oh, attends ... vous la vendez en litres!
+
+1:05:24.660,1:05:29.970
+Est-ce qu'on vous rempli la voiture d'essence pour dire:
+"Je viens de pomper 45 litres d'essence dans ma voiture.
+
+1:05:29.970,1:05:34.040
+Savez-vous combien de napalm ça ferait?
+Si je bombardais un village avec ça, je tuerais
+
+1:05:34.040,1:05:38.440
+5000 petits enfants!" 
+Non! Bien sûr que non! je vais monter
+
+1:05:38.440,1:05:42.280
+dans ma voiture pour conduire 500km! Je
+veux dire, tout dépend de ce qu'on en fait,
+
+1:05:42.280,1:05:46.970
+ce truc n'est pas intrinsèquement bon ou mauvais,
+ça dépend de 
+ce qu'on décide d'en faire avec.
+
+1:05:46.970,1:05:50.830
+Une des choses qui ne me fait pas
+ beaucoup d'amis,
+c'est quand on dit:
+
+1:05:50.830,1:05:56.120
+"Celui là n'a pas le droit d'enrichir l'uranium", et moi je dis:
+"Sans vouloir vous offenser, mais qui sommes-nous
+
+1:05:56.120,1:06:02.520
+de dire ce qu'ils peuvent faire?" L'uranium, c'est
+l'uranium, on n'en a pas le monopole.
+
+1:06:02.520,1:06:05.630
+C'est la même chose pour le plutonium.
+Le plutonium est ... Je ne suis pas le plus grand fan
+
+1:06:05.630,1:06:10.100
+du plutonium parce que je n'aime pas trop le réacteur
+surgénérateur à neutrons rapides au plutonium, mais il n'y a
+
+1:06:10.100,1:06:15.420
+rien de bon ou de mauvais avec le plutonium. Le plutonium
+existe. C'est ce qu'on décide d'en faire qui compte.
+
+1:06:15.420,1:06:18.700
+Alors, on a fait beaucoup de plutonium dans nos
+réacteurs. Qu'allons-nous faire avec?
+
+1:06:18.700,1:06:21.790
+On le laisse tomber dans un trou dans le sol,
+ou on l'utilise pour alimenter un réacteur comme
+
+1:06:21.790,1:06:25.690
+LFTR pour en faire de l'énergie? Je pense que c'est
+beaucoup plus intelligent.
+
+1:06:25.690,1:06:29.130
+L'autre jour je discutais avec des anti-nucléaires,
+et ils s'accrochaient à LFTR en disant:
+
+1:06:29.130,1:06:33.820
+"Oh, ça va utiliser de l'uranium des armes nucléaires!"
+Et j'ai dit:
+
+1:06:33.820,1:06:38.700
+"Je pense que ça vous plaira! On prend des armes nucléaires,
+on les démonte, on enlève l'uranium,
+
+1:06:38.700,1:06:42.470
+on le brûle, et on fabrique de l'électricité! Vous voulez
+le laisser dans la bombe? Que voulez vous en faire?"
+
+
+1:06:42.470,1:06:47.470
+La Marine a autant de réacteurs que dans
+le monde civil. Pensez à la stratégie
+
+1:06:47.470,1:06:52.630
+de sécurité qu'aurait les États-Unis si on n'avait pas
+cette capacité nucléaire. Les sous-marins peuvent
+
+1:06:52.630,1:06:57.250
+rester sous l'eau et passer sous la glace polaire.
+Si on regarde les forces terrestres d'aujourd'hui,
+
+1:06:57.250,1:07:01.750
+il semble qu'on utilise beaucoup d'énergie, les gens
+se demandent si on pourrait le réduire. L'énergie
+
+1:07:01.750,1:07:03.710
+est utilisée à bon escient.
+
+1:07:03.710,1:07:09.370
+Donc, on peut se battre la nuit,
+éliminer des ennemis sans perdre nos propres soldats,
+
+1:07:09.370,1:07:15.120
+parce qu'on a des capacités alimentées par l'énergie.
+On a des capteurs, radios, toutes sortes de choses
+
+1:07:15.120,1:07:18.330
+qui nous donnent l'avantage, et elles sont toutes
+basées sur l'énergie. Notre manière de soutenir
+
+1:07:18.330,1:07:21.910
+la force est de transporter des liquides par camion.
+
+1:07:21.910,1:07:26.260
+Quand j'attendais d'entrer en Irak à l'invasion de 2003,
+certains généraux n'arrivaient pas à envoyer
+
+1:07:26.260,1:07:31.030
+des pièces de rechange ou des fournitures vers l'avant, car
+les convois étaient occupés à transporter du carburant et de l'eau.
+
+1:07:31.030,1:07:36.040
+De plus, le coût en vies humaines, la moitié de nos pertes
+en Irak sont associées à la chaîne d'approvisionnement.
+
+1:07:36.040,1:07:39.480
+Si on n'avait pas besoin de transporter tout ce liquide
+- 80% de la chaîne d'approvisionnement - on pourrait
+
+1:07:39.480,1:07:43.750
+trouver un autre moyen, appelé "brigade adaptive".
+Cette force pourrait fournir
+
+1:07:43.750,1:07:48.090
+sa propre énergie et eau, sans vraiment avoir besoin
+de réapprovisionnement pendant un mois à la fois.
+
+1:07:48.090,1:07:52.280
+Si on a besoin d'énergie pendant la journée,
+on peut déployer environ 40 hectares de panneaux solaires.
+
+1:07:52.280,1:07:54.940
+Mais si on a une menace là-bas, ça ne fonctionne
+pas trop bien parce qu'il faut sécuriser
+
+1:07:54.940,1:08:00.210
+tout le périmètre et donc tous les soldats passent
+leur temps à patrouiller la ferme solaire de 40 hectares.
+
+1:08:00.210,1:08:06.920
+Et si on avait un réacteur qui était si sûr
+,
+
+simple et économique qu'on pourr(i)ez l'amener
+
+1:08:06.920,1:08:13.910
+vers le champ de bataille, l'utiliser, puis quand on part,
+le laissez pour exploitation par la nation hôte.
+
+1:08:13.910,1:08:18.349
+La prospérité est liée à l'énergie. Si nous pouvons
+amener les gens à environ 2.000 kilowattheures par an
+
+1:08:18.349,1:08:24.150
+d'énergie électrique, ils ont l'opportunité
+d'atteindre la prospérité. Bien sûr,
+
+1:08:24.150,1:08:29.329
+la prospérité dépend de la primauté du droit, le bon
+gouvernement, les droits de propriété, l'éducation, mais
+
+1:08:29.329,1:08:36.329
+l'énergie électrique pour le chauffage, la lumière,
+le transport, la sécurité etc. est un élément essentiel
+
+1:08:37.499,1:08:38.579
+de la prospérité d'aujourd'hui.
+
+1:08:38.579,1:08:43.449
+Les pays en développement le savent. L'utilisation du charbon
+est en croissance rapide dans tous les pays en développement.
+
+1:08:43.449,1:08:49.130
+Ils veulent atteindre ce niveau de prospérité
+et ils sont soutenus par le charbon de Peabody.
+
+1:08:49.130,1:08:54.679
+La National Academy of Sciences a déclaré que
+chaque poissons d'eau douce aux États-Unis
+
+1:08:54.679,1:09:00.019
+d'Amérique a maintenant des niveaux dangereux de mercure
+dans sa chair. Et ce mercure est en provenance
+
+1:09:00.019,1:09:01.670
+des centrales électriques à charbon.
+
+1:09:01.670,1:09:06.739
+Mon taux de mercure est 10 fois la
+quantité considérée comme sûre par l'EPA.
+
+1:09:06.739,1:09:11.819
+Le Dr David Carpenter, qui est l'autorité national
+sur les toxines du mercure, m'a dit qu'une femme
+
+1:09:11.819,1:09:15.819
+avec mes niveaux de mercure dans son sang
+ aurait 
+
+des enfants avec des troubles cognitifs, avec des
+
+1:09:15.819,1:09:16.999
+dommages permanents au cerveau.
+
+1:09:16.999,1:09:21.119
+J'ai dit: "Voulez-vous dire qu'elle pourrait avoir?" Et
+il a dit: "Non, non, non. La science est très claire."
+
+1:09:21.119,1:09:26.539
+Ses enfants auraient un certain niveau
+d'atteinte neurologique permanente,
+
+1:09:26.539,1:09:30.650
+probablement une perte de QI permanente dans ces gosses
+de cinq à sept points.
+
+1:09:30.650,1:09:36.559
+Il y a maintenant 640.000 enfants nés dans ce
+pays chaque année qui ont été exposés à des
+
+1:09:36.559,1:09:41.409
+niveaux dangereux de mercure dans les ventres de
+ leurs mères.
+L'ozone et les particules provenant des centrales à charbon
+
+1:09:41.409,1:09:51.230
+tuent 60.000 Américains par an. Un million de crises d'asthme,
+un million de journées de travail perdues chaque année.
+
+1:09:51.230,1:09:55.079
+C'est une partie du coût du charbon dont
+ils ne parlent pas quand ils disent: 
+
+1:09:55.079,1:09:57.679
+"Oh, c'est seulement 10 cents par kilowattheure."
+
+1:09:57.679,1:10:04.090
+Les réacteurs à eau légère et les CANDU n'utilisent
+pas beaucoup de l'énergie dans le combustible
+
+1:10:04.090,1:10:08.320
+et ils laissent derrière eux deux classes de matériaux.
+L'une est les produits de fission -
+
+1:10:08.320,1:10:12.239
+ce qui arrive quand on fissionne la matière. Puis
+il y a ce qu'on appelle les transuraniens.
+
+1:10:12.239,1:10:15.880
+C'est ce qui arrive lorsque l'uranium absorbe le
+neutron et ne fissionne pas, et se transforme en
+
+1:10:15.880,1:10:19.190
+plutonium, américium et curium et quelques autres,
+la majeure partie est du plutonium.
+
+1:10:19.190,1:10:23.280
+L'écrasante majorité des transuraniens
+sont du plutonium. Alors quand on parle aux gens
+
+1:10:23.280,1:10:28.530
+de l'élimination des déchets, ils disent: "Quel est
+le problème?" Eh bien, la plupart de la matière dans
+
+1:10:28.530,1:10:35.130
+le carburant est de l'uranium. Ce n'est pas plus radioactif
+que lorsqu'il a été ajouté, et ce n'est pas vraiment un problème.
+
+1:10:45.000,1:11:15.000
 Les sous-titres français restants sont en cours de
 traduction. Ils seront mis à disposition dès que possible.
-
