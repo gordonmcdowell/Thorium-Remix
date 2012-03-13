@@ -2893,468 +2893,466 @@ de profesión y pensó:
 productos en estado sólido? Y continúa: "No lo hacemos
 
 0:55:00.200,0:55:04.740
-todo lo que usamos son líquidos y gases, ya que
+siempre utilizamos líquidos y gases, ya que
 podemos mezclarlos completamente." Si tomamos
 
 0:55:04.740,0:55:08.560
 un líquido, se puede mezclar completamente. Si tomamos
-un gas, se puede mezclar completamente. No se puede tomar
+un gas, se puede mezclar completamente. Sin embargo,
 
 0:55:08.560,0:55:12.490
-un sólido y mezclarlo completamente, salvo que
-lo convirtamos en un líquido o un gas.
+no podemos tener algo sólido y mezclarlo completamente,
+salvo que lo convirtamos en un líquido o un gas.
 
 0:55:12.490,0:55:17.110
-Para que te hagas una idea, esto es lo que hacemos hoy.
-Hacemos este combustible de óxido de uranio sólido y
+Para que os hagáis una idea, esto es lo que hacemos hoy.
+Fabricamos este combustible sólido de óxido de uranio y
 
 0:55:17.110,0:55:21.600
-hay una sola pastilla, y luego los ponemos
-en estos elementos combustibles del reactor grande, de zirconio
+colocamos cada pastilla, en estos elementos combustibles
+fabricados de zirconio
 
 0:55:21.600,0:55:24.760
-tubos que son como 12 pies de largo y alrededor de
-así de grande en todo. A continuación, pegarlos en la
+estos tubos tienen 3,5 metros de largo y alrededor de
+éste diámetro. A continuación, los juntamos
 
 0:55:24.760,0:55:29.660
-reactor e irradiar a un par de
-años. Sólo quemar una pequeña cantidad de la
+en el reactor y los irradiamos durante un par de
+años. Sólo quemamos una pequeña cantidad del
 
 0:55:29.660,0:55:32.910
-uranio que está ahí, lo sacamos y
-que se pegue en una piscina de combustible gastado. No es
+uranio que está ahí, luego los sacamos y
+los introducimos en una piscina de combustible gastado.
 
 0:55:32.910,0:55:34.010
-muy eficiente.
+Esto no es muy eficiente.
 
 0:55:34.010,0:55:38.740
-El reactor de agua pesada se utiliza alrededor de 0,7
-por ciento el valor de la energía y el agua la luz ...
+En un reactor de agua pesada se utiliza alrededor del 0,7%
+de la energía...
 
 0:55:38.740,0:55:44.120
-Reactores en los Estados Unidos, estamos extrayendo
-aproximadamente la mitad de 1 por ciento de la energía que
+y en los reactores en los Estados Unidos, estamos extrayendo
+aproximadamente un 0,5% de la energía del uranio
 
 0:55:44.120,0:55:47.750
-en el uranio. Usted puede imaginar ir a su
-jefe diciendo "he desarrollado un nuevo sistema", "Bueno,
+Os podéis imaginar que a vuestro jefe diciendo: 
+"he desarrollado un nuevo sistema",
 
 0:55:47.750,0:55:53.450
-qué tan eficiente es? "," Es menos del 1 por ciento ",
-"Disculpe, ¿qué construir? Que usted piensa
+“¿cómo es de eficiente? ","Es menos del 1 por ciento",
+"Disculpe, ¿qué ha fabricado? Creo que usted debería
 
 0:55:53.450,0:55:56.460
-necesidad de ir a trabajar a eso de nuevo ", ya sabes.
-Que simplemente no lo aceptaría.
+trabajar en eso de nuevo ", ya sabes.
+Simplemente no lo aceptaría.
 
 0:55:56.460,0:56:00.640
-Yo soy un ingeniero. Si estás tan lejos 100
-por ciento, el hombre que quiero conseguir mucho más cerca
+Yo soy un ingeniero. Si estás tan lejos del 100%...
+yo desearía estar mucho más cerca.
 
 0:56:00.640,0:56:05.290
-Weinberg y también lo hizo. Querían llegar a
+Y a Weinberg le pasaba lo mismo. Querían llegar a
 casi el 100 por ciento de la utilización de la energía.
 
 0:56:05.290,0:56:08.710
-El experimento de la sal fundida del reactor fue el
-núcleo parte de ella. Ellos no tenían una manta
+El reactor experimental de sales fundidas era el
+núcleo de ello. Ellos no disponían de ninguna cobertura
 
 0:56:08.710,0:56:12.480
-alrededor de ella, que sólo quería ver si
-podría conseguir el primer paso para el trabajo, y
+alrededor de él, sólo deseaban comprobar
+si podrían conseguir el primer paso del trabajo,
 
 0:56:12.480,0:56:13.610
-tuvieron éxito.
+y tuvieron éxito.
 
 0:56:13.610,0:56:17.970
-Después de haber completado el reactor de sales fundidas
-experimento, se dirigieron a la Energía Atómica
+Después de haber completado el reactor experimental
+de sales fundidas se dirigieron a la Comisión de Energía Atómica
 
 0:56:17.970,0:56:21.920
-Comisión que dijo: "Hey, G, podemos tener
-un poco más de dinero? Nos gustaría ir ahora y construir
+y les dijeron: "¿podríamos disponer de más financiación?
+Nos gustaría construir un prototipo real.
 
 0:56:21.920,0:56:27.640
-la cosa real. Nos gustaría construir la manta
-y el gancho de un sistema de conversión de energía y el
+Queremos construir la cobertura y acoplar
+un sistema de conversión de energía para hacer electricidad.
 
 0:56:27.640,0:56:32.120
-producir electricidad, "sentía que como si hubieran disparado
-la luna. La Comisión de Energía Atómica, lamentablemente
+Estaban eufóricos.
+Lamentablemente, la Comisión de Energía Atómica,
 
 0:56:32.120,0:56:34.110
 no compartía su entusiasmo.
 
 0:56:34.110,0:56:39.160
-Que había invertido muy fuertemente en una alternativa
-tecnología, el plutonio reactor reproductor rápido
+Habían invertido muy fuertemente en una tecnología
+alternativa, el reactor reproductor rápido de plutonio
 
 0:56:39.160,0:56:46.160
-basado en los combustibles sólidos y convertir abundante
-uranio-238 en plutonio-239 y luego la quema
+basado en los combustibles sólidos para convertir el
+abundante uranio-238 en plutonio-239 que luego se quemaba
 
 0:56:46.280,0:56:50.800
-en el reactor. Se trataba de un conjunto diferente
-conjunto de tecnologías que eran mucho más en
+en el reactor. Se trataba de una tecnología
+muy diferente, que se complementaba
 
 0:56:50.800,0:56:56.770
-de acuerdo con los reactores de agua ligera. Es gracioso,
+con los reactores de agua ligera. Es curioso,
 incluso en esa época, hace 50 años, nadie pensaba
 
 0:56:56.770,0:57:00.850
-el reactor de agua ligera, el reactor de agua pesada
-sería de alrededor de muy largo plazo. No eran más que
+que el reactor de agua ligera, o el reactor de agua pesada
+fueran a estar en vanguardia en el largo plazo.
 
 0:57:00.850,0:57:04.740
-simplemente demasiado ineficientes en el uso de la energía nuclear
-de combustible.
+Eran simplemente demasiado ineficientes en el uso del
+combustible nuclear.
 
 0:57:04.740,0:57:08.000
-Como decía, la Comisión de Energía Atómica
-dijo: "Hey, ¿adivinen qué, estamos poniendo todo esto
-
+La Comisión de Energía Atómica les dijo: "Hey, ¿saben qué?
+Estamos dedicando una gran cantidad de dinero
 0:57:08.000,0:57:12.080
-dinero en los reactores reproductores rápidos. Tenemos todos estos
-las compañías se alinearon para hacer la reproducción rápida.
+en los reactores reproductores rápidos. Tenemos todas estas
+compañías haciendo cola para fabricar el reactor reproductor rápido.
 
 0:57:12.080,0:57:17.720
-Incluso llegó a construir una en Monroe, Michigan.
-Que había tenido una crisis. Fueron sin inmutarse,
+Incluso se llegó a construir uno en Monroe, Michigan.
+Que sufrió una fusión del núcleo; siguieron sin inmutarse,
 
 0:57:17.720,0:57:22.140
-que se movían hacia adelante y lo que dijo
-Weinberg para tomar una caminata.
+se movían en esa dirección y dijeron a
+Weinberg que se tomara unas vacaciones.
 
 0:57:22.140,0:57:26.330
-La historia se vuelve un poco más complicado demasiado
-porque además de ser un gurú de torio,
+La historia se vuelve un poco más complicada
+porque, además de ser un gurú del torio,
 
 0:57:26.330,0:57:30.860
-Weinberg fue también el inventor original de las
-el reactor de agua presurizada. Había inventado
+Weinberg fue el inventor original del reactor de
+agua presurizada. Él lo había inventado
 
 0:57:30.860,0:57:37.680
-él y obtenido su patente en 1947, por lo que
-era un poco de una cosa difícil de tener
+y lo había patentado en 1947, por lo que
+era una situación muy incómoda tener
 
 0:57:37.680,0:57:44.250
-el inventor del reactor de agua ligera defensa
+al inventor del reactor de agua ligera defendiendo
 algo muy, muy, muy diferente.
 
 0:57:44.250,0:57:48.410
-Y se puso un poco peor que eso también, porque
-Weinberg nunca fue realmente una locura de la
+Y lo que empeoró las cosas fue que
+Weinberg nunca había sido un entusiasta del reactor
 
 0:57:48.410,0:57:51.430
-reactor de agua ligera. No le gustaba el hecho de
-que tuvo que correr a la presión muy alta.
+de agua ligera. No le gustaba el hecho de
+que tuviera que funcionar con presiones muy elevadas.
 
 0:57:51.430,0:57:57.330
-No sería un accidente en el que algún día
-no fueron capaces de mantener la presión o
+Algún día podría ocurrir un accidente si
+no se fuera capaz de mantener la presión o
 
 0:57:57.330,0:58:02.800
-mantener la refrigeración. Podría haber una crisis,
-podría haber una liberación de radiactividad.
+la refrigeración. Podría haber una fusión del núcleo,
+o bien un escape de radiactividad.
 
 0:58:02.800,0:58:08.480
-¿Algo de esto le suena familiar? Y se le
-haciendo lo suficiente de un escándalo por esto que hay
+¿A alguien le suena esto familiar?
+y entonces montó tal escándalo que un
 
 0:58:08.480,0:58:10.530
-era un líder del Congreso llamado Chet Holifield ...
+líder del Congreso, llamado Chet Holifield ...
 
 0:58:10.530,0:58:13.720
-Un miembro del Congreso Atómica conjunta
-Comisión de Energía ...
+miembro del Comité de Energía Atómica del Congreso
+le dijo...
 
 0:58:13.720,0:58:18.520
-¿Quién le dijo Alvin Weinberg, dijo, "Si usted está
-tan preocupado por la seguridad de la energía nuclear,
+"Si usted está tan preocupado por la seguridad de la energía
+nuclear, podría haber llegado el momento 
 
 0:58:18.520,0:58:23.090
-podría ser el momento para que usted pueda salir de la nuclear
-de negocios. "Él no estaba cuestionando el valor
+en el que usted salga del sector.
+Él no estaba cuestionando el valor
 
-0:58:23.090,0:58:28.550
+0:58:23.090,0:58:29.890
 o la importancia de la energía nuclear, en todo caso
-él era mucho más convencido de que de
+él estaba más convencido de ella que ninguna otra persona.
 
-0:58:28.550,0:58:29.890
-cualquier otra persona.
+
+
 
 0:58:29.890,0:58:34.800
-Lo que él cuestionaba era si el derecho
-camino han tomado en el desarrollo de la energía nuclear
+Lo que él cuestionaba era el camino tomado en el
+desarrollo de la energía nuclear
 
 0:58:34.800,0:58:39.710
-reactores. Estaba particularmente bien adaptado
-para hacer esa pregunta porque su papel como
+El estaba particularmente bien capacitado
+para cuestionar esta política, ya que había sido el
 
 0:58:39.710,0:58:45.140
-inventor de la tecnología predominante por lo que fue
-silencio mostrado por la puerta.
+inventor de la tecnología predominante y, aún así,
+le estaban mostrando la puerta de salida.
 
 0:58:45.140,0:58:50.480
-Después de haber dejado de Oak Ridge se puede imaginar
-las cosas no van bien para el equipo de investigación
+Después de abandonar Oak Ridge se os podéis imaginar
+que las cosas no fueron bien para el equipo de investigación.
 
-0:58:50.480,0:58:54.750
-la Comisión de Energía Atómica, encargada
-LAVADO un informe de 1222 que me gusta llamar de blanco
+0:58:50.480,0:58:56.420
+la Comisión de Energía Atómica, encargó un informe
+llamado WASH 1222, que me gusta llamarlo lavado blanco 1222
 
-0:58:54.750,0:58:56.420
-lavado de 1222.
+
+
+
+
 
 0:58:56.420,0:59:01.810
-Porque realmente nitpicked en tres muy,
-temas muy pequeño sobre el reactor y dijo
+Porque realmente rebuscó en tres asuntos
+de muy pequeña relevancia sobre el reactor y dijo:
 
 0:59:01.810,0:59:06.990
-buscar grandes problemas aquí. Yo no creo que podamos
-seguir adelante hasta que estos sean resueltos. Cuando
+mirad existen estos grandes problemas. No creemos que podamos
+seguir adelante hasta que no sean solucionados.
 
 0:59:06.990,0:59:11.940
-llegó el momento de hablar de la seguridad y la
-el funcionamiento del reactor no puede ser
+Cuando llegaron a los aspectos de la seguridad,
+y el rendimiento del reactor dijeron que
 
 0:59:11.940,0:59:18.940
-algunas de las ventajas de seguridad que no han sido cuantificados
-sin embargo, con respecto a este enfoque, pero que sabemos
+podía tener algunas ventajas de seguridad,
+pero que no habían sido valoradas aún,
 
 0:59:19.510,0:59:23.080
-sólo realmente no puede estar seguro de eso.
+ya que realmente no estaban seguros de ello.
 
-0:59:23.080,0:59:26.570
-Sólo me quema, porque creo que muy, muy grande,
-gran error de Estados Unidos hizo caminar
+0:59:23.080,0:59:27.900
+Esto me indigna, porque creo que Estados Unidos
+cometió un gran error al apartarse de este camino
 
-0:59:26.570,0:59:27.900
-lejos de esto.
+
+
 
 0:59:27.900,0:59:31.660
-Por lo que puso todas sus fichas reactor reproductor rápido
-y que no funcionó demasiado bien para ellos.
+Por lo que pusieron todos sus recursos en el reactor 
+reproductor rápido que no funcionó demasiado bien.
 
 0:59:31.660,0:59:35.540
-Que empezar a construir una en Tennessee. La
-programa terminó en conseguir cancelado por Carter
+Comenzaron a construir uno en Tennessee. El
+programa terminó siendo cancelado por Carter en 1979
 
 0:59:35.540,0:59:40.410
-en 1979 y fue resucitado brevemente por Reagan
-en 1981 y luego cancelado de nuevo. Así que eso es
+y brevemente recuperado por Reagan en 1981
+y luego cancelado de nuevo. Así que eso es
 
-0:59:40.410,0:59:43.760
-lo que sucedió con la raza reactor rápido en la
-Estados Unidos, un par de países mantienen
+0:59:40.410,0:59:44.280
+lo que sucedió con el reactor reproductor rápido en los
+Estados Unidos. Un par de países mantuvieron su esperanza en él.
 
-0:59:43.760,0:59:44.280
-va con él.
+
+
 
 0:59:44.280,0:59:48.720
-Los franceses se fueron con él en los años ochenta se construyó
-Phénix y Superphénix y luego se terminó
+Los franceses lo intentaron en los años ochenta y construyeron
+el Phénix y el Superphénix y luego terminaron
 
 0:59:48.720,0:59:52.470
-hasta el cierre se criador muy rápido y
-los japoneses lo intentaron, pero tenían varios
+cancelando el programa del reactor reproductor rápido también;
+los japoneses lo intentaron, también
 
 0:59:52.470,0:59:55.720
-pero una llamada Monju y se había cerrado
-hacia abajo desde mediados de los 90.
+con una planta llamada Monju que ha estado
+cerrada desde mediados de los años 90.
 
 0:59:55.720,0:59:59.490
-A continuación, hace unos meses que se volvió
-en y después alguien dejó caer una grúa en el líquido
+Hace unos cuantos meses volvieron a encenderla
+y entonces alguien dejó caer una grúa en el sodio líquido
 
 0:59:59.490,1:00:03.840
-de sodio y luego se apagará de nuevo, por lo que
-usted sabe todo el mundo ha probado el reproductor rápido
+y tuvieron que apagarla de nuevo. Todo el mundo
+lo ha intentado con el reactor reproductor rápido
 
 1:00:03.840,1:00:05.620
-reactor. Creo que los rusos están tratando de
-que.
+Creo que los rusos también lo están intentando.
+
 
 1:00:05.620,1:00:09.690
 Tengo algunos buenos amigos en la industria nuclear.
 Son muy grandes defensores de los reactores reproductores rápidos
 
 1:00:09.690,1:00:15.050
-reactor. El nombre común por ahora es la integral
-reactores rápidos. Yo no soy el mayor fan de un reactor
+Ahora lo llaman “Integral Fast Reactor”.
+Yo no soy el mayor defensor de un reactor
 
 1:00:15.050,1:00:19.220
-que está lleno de sodio líquido. Si alguno de ustedes
-son los químicos de aquí es probable que recuerdo de sodio
+que está lleno de sodio líquido. Si alguno de vosotros
+es químico estará probablemente de acuerdo en que
 
 1:00:19.220,1:00:26.220
-tiene un infinito ideal para casi todo.
+el sodio tiene una gran afinidad por
+prácticamente cualquier cosa.
 
 1:00:27.740,1:00:29.740
-¿Cuáles son sus pensamientos en la onda
-reactor?
+¿Qué opinas del “Traveling Wave Reactor”?
 
 1:00:29.740,1:00:34.120
-El reactor de onda es otra forma
-de un reactor reproductor rápido de metal líquido. Lo
+El “Traveling Wave Reactor” es otro tipo
+de reactor reproductor rápido de metal líquido.
 
 1:00:34.120,1:00:38.290
-es una aplicación especialmente difícil
-de ese reactor. Que el reactor ya es difícil
+Se trata de una implementación especialmente difícil
+de ese reactor. Si ya de por sí es un reactor difícil 
 
 1:00:38.290,1:00:42.590
-para construir en primer lugar, con el viaje
-ola que lo hacen aún más complicado por
+de construir, con el Traveling Wave Reactor
+se hace aún más complicado, ya que
 
 1:00:42.590,1:00:47.370
-diciendo que vamos a dejar el combustible en el
-reactor de la vida útil del reactor.
+se dice que se va a dejar el combustible en el
+reactor durante la vida útil del mismo.
 
 1:00:47.370,1:00:52.880
-Físicamente propagar esta ola de deflagración,
-una conversión nuclear y la quema de las olas. ¿Por qué
+Consiste en propagar físicamente una onda de deflagración,
+algo así como una ola de conversión nuclear y de quemado.
 
 1:00:52.880,1:00:56.880
-en la Tierra le toma como un reactor duro
-y lo hacen aún más difícil con qué fin? ¿Qué
+¿Qué motivo puede haber para construir un reactor tan difícil
+y hacerlo aún más difícil de lo que ya es?
 
 1:00:56.880,1:01:01.120
-es su objetivo? Y todo lo que he podido leer
-por lo que su objetivo es que ellos quieren
+¿Cuál es el objetivo? Todo lo que he podido leer
+sobre su objetivo es que quieren
 
 1:01:01.120,1:01:04.000
-nunca han de reciclar o reemplazar el combustible.
+no tener que reciclar ni reemplazar el combustible.
 
 1:01:04.000,1:01:07.430
-Al final de su vida es su concepto
-para enterrar a la cosa en el suelo y dejar
+Al final de su vida, este diseño supone
+enterrarlo en el suelo y dejarlo allí.
 
 1:01:07.430,1:01:12.850
-allí. Estoy pensando, "No dejes que una
-grupo de plutonio en un charco de sodio líquido
+allí. Y se me ocurre pensar: "Yo nunca dejaría
+nada de plutonio dentro de una piscina de sodio líquido
 
 1:01:12.850,1:01:17.270
-subterránea durante un período prolongado de tiempo
-que es una opción de eliminación de malas. "
+bajo tierra durante un período prolongado de tiempo.”
+Creo que es una las peores políticas de eliminación posibles.
 
 1:01:17.270,1:01:21.400
-Han atraído la Puerta Bill que, por supuesto,
-es un hombre muy rico. Si Bill Gates
+Han atraído a Bill Gates que, por supuesto,
+es un hombre extremadamente rico. Si Bill Gates
 
 1:01:21.400,1:01:24.810
-quiere salvar a una gran cantidad de dinero que puede obtener en
-contacto conmigo y creo que puede disuadirlo
+quiere ahorrar una gran cantidad de dinero puede ponerse en
+contacto conmigo y creo que puedo disuadirlo de no hacer
 
 1:01:24.810,1:01:25.820
-de onda viajera.
+el “Traveling Wave”.
 
 1:01:25.820,1:01:29.780
-Él no me devuelve las llamadas. No se sienta mal.
+Él no me devuelve las llamadas. Tampoco me sienta mal.
 
 1:01:29.780,1:01:35.350
-Yo solía ser así en la fusión, especialmente el helio-3
-fusión, la minería en el estado de ánimo. Oh, Dios mío! He
+Yo estudié la fusión, especialmente con el helio-3
+pero acabó con mi paciencia. ¡Oh, Dios mío!
 
 1:01:35.350,1:01:37.360
-leer tantos libros sobre eso.
+He leído tantos libros sobre eso.
 
 1:01:37.360,1:01:39.850
-La fusión es mágico. Si hacemos que suceda
-sería mágico.
+La fusión es mágica. Si logramos hacerla
+sería mágia.
 
 1:01:39.850,1:01:43.780
-Tomé esta clase de fusión, cuando yo estaba en Georgia
-Tecnología y yo nunca lo olvidaré. Comenzamos
+Asistí a clases de fusión, cuando estaba
+en Georgia Tech y nunca lo olvidaré.
 
 1:01:43.780,1:01:46.230
-estudiar y me voy ", hombre, esto es muy duro".
+Comenzamos a estudiar y pensé: "hombre, esto es muy difícil".
 
 1:01:46.230,1:01:50.930
-Las partículas cargadas no quiere acercarse a cada uno
-otros. Núcleos desnudos son a la vez cargada, positiva
+Las partículas cargadas no quieren acercarse entre sí.
+Los núcleos atómicos están cargados positivamente
 
 1:01:50.930,1:01:52.240
-acusado, que quieren evitar unos a otros.
+y quieren evitarse unos a otros.
 
 1:01:52.240,1:01:55.490
-Y mi profesor había una manera realmente grande de
-decirlo. "Es como ir al mini-golf."
+Y mi profesor lo expuso de una manera realmente brillante:
+"Es como ir al mini-golf."
 
 1:01:55.490,1:01:59.050
-Él dice: "Usted sabe cómo en mini golf que ha
-tiene el volcán, y el volcán tiene la
+Él dijo: "Han ido al volcán en el mini golf,
+aquel que tiene 
 
 1:01:59.050,1:02:02.870
-agujero en la parte superior, y tienes que putt
-la bola de una manera que va todo el camino
+un agujero en la parte superior, y cuando se golpea
+la bola, ésta debe irse directamente al centro
 
 1:02:02.870,1:02:07.990
-por el lado del volcán, y 'phwep! cae
-en el hoyo. "Él dice:" Aceptar. Eso es como la fusión.
+y caér dentro del volcán, en el hoyo.
+"Él dijo: Así es la fusión.
 
 1:02:07.990,1:02:12.570
 La pelota es como un núcleo, y el volcán
 es el efecto de dispersión.
 
 1:02:12.570,1:02:16.570
-Así que cada vez que quiera tener un núcleo de ir
-a otro núcleo, se dispersa, sino que los rollos
+Así que cada vez que quiera unir un núcleo con
+otro núcleo, se dispersa; la bola rueda hacia
 
 1:02:16.570,1:02:19.830
-a la montaña y que rueda por la ladera,
-se da la vuelta aquí, por allá ... y sólo
+la montaña y habitualmente rueda ladera abajo,
+así ocurre, una y otra vez ... y sólo
 
 1:02:19.830,1:02:23.770
-cuando usted acaba de conseguir la perfección a la derecha
-ángulo va a parar en el volcán. "Ahora, el
+cuando usted acaba de conseguir el ángulo perfecto
+la bola acaba entrando en el volcán." 
+
 
 1:02:23.770,1:02:27.030
-problema con la fusión, que dice: "Usted no puede dirigir
-la bola, tienes que tener la temperatura suficiente
+Ahora, el problema con la fusión, es que: "Usted no puede dirigir
+la bola, tiene que tener la temperatura suficiente
 
 1:02:27.030,1:02:30.600
-para que pueda hacer todo el camino hasta la
-ladera del volcán y la caída y, a continuación
+para que pueda hacer todo el camino sola hasta la
+ladera del volcán y caer dentro, y además
 
 1:02:30.600,1:02:34.030
 hay que tener pelotas suficientes, ya que
-no puede dirigir allí en el parque de mini-golf ",
+no puede dirigirlas allí en el parque de mini-golf",
 
 1:02:34.030,1:02:37.760
-que la densidad ", y luego porque son
-volando por todo el lugar, usted tiene que hacer
+eso es la densidad, "y luego dado que están
+volando por todas partes, usted tiene que asegurarse
 
-1:02:37.760,1:02:40.500
-seguro de que hay una cerca alrededor de la mini
-Golf Park para que no se salgan. "Eso es
+1:02:37.760,1:02:40.810
+de que hay una valla alrededor del mini Golf
+para que no se salgan." Eso es el confinamiento.
 
-1:02:40.500,1:02:40.810
-confinamiento.
+
 
 1:02:40.810,1:02:45.240
-Él dijo: "Esas son las tres cosas, la densidad,
-temperatura, y el confinamiento, para hacer la fusión
+Él dijo: "Esas son las tres cosas que necesitan para hacer
+la fusión: densidad, temperatura y confinamiento.
 
-1:02:45.240,1:02:45.490
-suceder ".
+
 
 1:02:45.440,1:02:49.350
-Le dije: "Tío, eso es muy difícil!" Por lo tanto, yo
-se le ocurrió otra analogía: "Así que, supongo
+Le dije: "¡Tío, eso es muy difícil!" Por lo tanto, a mi
+se me ocurrió otra analogía: "Supongo que
 
 1:02:49.350,1:02:54.500
-fisión sería como el parque de mini golf, excepto
-Ahora el volcán de color, el agujero estaba a punto de
+la fisión sería como el parque de mini golf, excepto
+que ahora el agujero del volcán sería de este tamaño 
 
-1:02:54.500,1:02:58.580
-así de grande en todo, las bolas van lento,
-y cada vez que la pelota va en el agujero,
+1:02:54.500,1:02:59.860
+las bolas van lentas, y cada vez que la pelota entra en
+el agujero, salen dos bolas más
 
-1:02:58.580,1:02:59.860
-dos bolas más salir. "
 
 1:02:59.860,1:03:02.800
-Él dice: "Sí, eso es bastante bueno."
+Él dice: "Sí, eso sería bastante parecido."
 
 1:03:02.800,1:03:07.870
 He mirado en la fusión de enfoque, que he mirado
