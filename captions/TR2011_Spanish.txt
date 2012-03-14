@@ -256,7 +256,7 @@ Debido a que es muy abundante, nunca vamos a tener escasez de este elemento.
 0:04:59.270,0:05:06.270
 Simplemente, es demasiado común.
 
-0:05:12.910,0:05:19.910
+0:06:04.000,0:06:10.259
 En nuestra página de Facebook, el 87% de los usuarios son hombres y 
 aproximadamente un 13% mujeres.
 
