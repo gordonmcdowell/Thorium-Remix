@@ -35,7 +35,7 @@
 </div>
 
 <div class="text">
-<strong>THORIUM REMIX 2011 - How LFTR, the Liquid Fluoride Thorium Reactor, will unlock abundant clean energy stored in Earth's plentiful thorium.</strong> (I'm <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">working on a 2012 follow-up</a>, please consider helping <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">fund my KickStarter campaign</a>. Any size pledge grants you immediate access to DRM-free downloads of THORIUM REMIX 2011!)
+<strong>THORIUM REMIX 2011 - How LFTR, the Liquid Fluoride Thorium Reactor, will unlock abundant clean energy stored in Earth's plentiful thorium.</strong> 
 </div>
 
 <div class="space">&nbsp;</div>
@@ -44,6 +44,15 @@
 <iframe width="640" height="390" src="http://www.youtube.com/embed/P9M__yYbsZ4" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="space">&nbsp;</div>
+
+<div class="text">
+<a href="http://wh.gov/5OX">THORIUM PETITION needs 25,000 signatures</a> to <strong>bring thorium to the attention of President Obama!</strong></div>
+
+<div class="space">&nbsp;</div>
+
+<div class="text">I'm <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">working on a 2012 follow-up</a>, please consider helping <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">fund my KickStarter campaign</a>. Any size pledge grants you immediate access to DRM-free downloads of THORIUM REMIX 2011.
+</div>
 <div class="space">&nbsp;</div>
 
 <div class="text">
