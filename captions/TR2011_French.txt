@@ -3770,9 +3770,1067 @@ de l'élimination des déchets, ils disent: "Quel est
 le problème?" Eh bien, la plupart de la matière dans
 
 1:10:28.530,1:10:35.130
-le carburant est de l'uranium. Ce n'est pas plus radioactif
+le combustible est de l'uranium. Ce n'est pas plus radioactif
 que lorsqu'il a été ajouté, et ce n'est pas vraiment un problème.
 
-1:10:45.000,1:11:15.000
+1:10:35.130,1:10:40.630
+Et les produits de fission, ils sont très radioactifs
+quand ils sont créés, mais ils se désintègrent rapidement.
+
+1:10:40.630,1:10:46.199
+Ils n'ont pas vraiment de la radioactivité à long terme,
+ils se désintègrent trop rapidement.
+
+1:10:46.199,1:10:49.679
+Il y en a quelques uns qui ont des demi-vies très longues,
+mais cela signifie que
+
+1:10:49.679,1:10:53.110
+leurs niveaux de radioactivité sont extrêmement faibles
+et ils ne représentent pas vraiment un danger.
+
+1:10:53.110,1:10:59.159
+Le vrai défi avec la gestion du combustible usé
+est la présence de ces transuraniens - plutonium,
+
+1:10:59.159,1:11:03.679
+américium, curium - parce qu'ils ont des demi-vies
+modérées et des chaînes de désintégration compliquées.
+
+1:11:03.679,1:11:07.219
+Quand on regarde à faire un Yucca Mountain ou un site
+de traitement on se dit: "Que fait-on avec ça?"
+
+
+1:11:07.219,1:11:13.059
+L'avantage d'un LFTR par rapport à cette approche
+est que ces transuraniens ne sont pas produits.
+
+1:11:13.059,1:11:20.059
+La quasi-totalité du combustible est consommée
+dans ce processus, parce qu'il n'est pas retiré du réacteur
+
+1:11:20.119,1:11:22.999
+avant d'être transformé en produit de fission.
+
+1:11:22.999,1:11:27.019
+L'idée, c'est qu'on ne veut pas finir avec l'uranium,
+le thorium etc. dans notre flux de déchets
+
+1:11:27.019,1:11:31.380
+et c'est une proposition assez simple dans ce réacteur
+à combustible fluide. Donc pour les déchets
+
+1:11:31.380,1:11:37.650
+c'est très différent. On peut également
+prendre une partie des déchets
+
+1:11:37.650,1:11:42.840
+qui a déjà été créée dans nos réacteurs alimentés
+par l'uranium, et potentiellement détruire
+
+1:11:42.840,1:11:44.780
+les transuraniens à longue vie par fission.
+
+1:11:44.780,1:11:49.570
+Attendre la désintégration est un processus très lent.
+Le plutonium 239, par exemple, a une demi-vie
+
+1:11:49.570,1:11:52.820
+de 24.000 ans. On va l'attendre longtemps 
+pour qu'il se désintègre.
+
+1:11:52.820,1:11:56.530
+Sinon, on peut le fissionner, puis les produits
+de fission vont se désintégrer très rapidement
+
+1:11:56.530,1:12:00.230
+avec également une libération d'énergie et d'un neutron,
+qui sont bons tous les deux.
+
+1:12:00.230,1:12:04.190
+On a environ 1000 kilogrammes d'U-233. 90% sera fissionné.
+
+1:12:04.190,1:12:09.760
+On peut faire environ 500 à 600 millions de dollars en électricité
+et encore 50 ou 60 millions de dollars sur la fission
+
+1:12:09.760,1:12:15.510
+de l'uranium-235. Presque la totalité
+finira par se fissionner. Sur environ
+
+1:12:15.510,1:12:20.849
+1000 kilogrammes, environ 15 kilogrammes de
+plutonium-238 sera laissé. Alors ça, c'est du bon!
+
+1:12:20.849,1:12:27.760
+La NASA a un grand besoin de cette matière.
+Le Plutonium-238 est différent du plutonium-239, 
+
+1:12:27.760,1:12:30.739
+la substanceque nous utilisons dans les bombes.
+En fait ça ne vaut rien pour les bombes.
+
+1:12:30.739,1:12:35.219
+Ces générateurs thermoélectriques radio-isotopiques
+sont basés sur le plutonium-238 et c'est
+
+1:12:35.219,1:12:39.650
+la seule façon que nous avons été en mesure d'explorer
+le système solaire externe. Les Etats-Unis sont uniques.
+
+1:12:39.650,1:12:44.710
+C'est le seul pays au monde qui a envoyé
+des sondes spatiales au-delà de la ceinture d'astéroïdes
+
+1:12:44.710,1:12:49.210
+et tout se repose sur cette technologie.
+En court, on n'en a plus.
+
+1:12:49.210,1:12:55.139
+C'est parti. On a tout utilisé. Les Russes nous en vendaient.
+Ils ont vendu tout leur inventaire. C'est parti.
+
+1:12:55.139,1:12:59.340
+La NASA a des milliards de dollars de missions dans l'espace
+lointain qui s'articulent sur le fait d'avoir assez de cette
+
+1:12:59.340,1:13:04.480
+matière pour faire marcher les batteries pour le permettre
+d'appeler à la maison. Nous serons capables de la fabriquer
+
+1:13:04.480,1:13:08.369
+avec LFTR. Vous nous avez entendu parfois dire:
+"On brûle 99% du carburant
+
+1:13:08.369,1:13:15.670
+et il en reste 1%", l'1% qui reste est cette matière
+et ça vaut presque autant que la matière qu'on brûle.
+
+1:13:15.670,1:13:18.179
+En plus, il fabriquerait du molybdène-99 médical.
+
+1:13:18.179,1:13:23.360
+Nous sommes sur le point de fermer le seul réacteur
+au Canada qui fabrique le molybdène-99 pour
+
+1:13:23.360,1:13:28.469
+des fins médicales en 2015. Il y a des centaines
+de milliers de patients qui ne seront plus
+
+1:13:28.469,1:13:35.010
+en mesure d'obtenir leur molybdène-99 pour
+des procédures de diagnostic lorsque cela arrive.
+
+1:13:35.010,1:13:40.179
+Nous pouvons fabriquer du molybdène-99 au cours du fonctionnement
+normal et nous pouvons l'enlever très facilement.
+
+1:13:40.179,1:13:46.320
+Il y a 4 chaînes de désintégration naturelles des
+radio-isotopes alpha-émetteurs. D'abord l'U-238, U-235,
+
+1:13:46.320,1:13:53.099
+thorium-232, et puis il y en a un qui a disparu
+parce qu'il n'a pas de précurseurs de longue durée.
+
+1:13:53.099,1:13:57.550
+Il était là dans le supernova il y a des milliards d'années.
+C'est parti maintenant. C'est sur la chaîne de désintégration
+
+1:13:57.550,1:14:03.079
+de l'U-233. Il y a un produit spécial là dessus,
+le bismuth-213, qui pourrait être
+
+1:14:03.079,1:14:07.849
+une bombe intelligente contre le cancer.
+Ils attachent le bismuth-213 à un anticorps.
+
+1:14:07.849,1:14:12.780
+Ce bismuth a une demi-vie de seulement 45 minutes
+donc il est très radioactif et il s'en va rapidement.
+
+1:14:12.780,1:14:17.980
+Mais en ce temps, cet anticorps peut aller chercher
+une cellule cancéreuse. Le bismuth se désintègre,
+
+1:14:17.980,1:14:22.469
+une particule alpha traverse la cellule,
+et elle tue la cellule cancéreuse. Les techniques d'irradiation
+
+1:14:22.469,1:14:27.900
+qu'on utilise dans le traitement du cancer aujourd'hui se reposent
+toutes sur des isotopes bêta-émetteurs, non pas sur des isotopes
+
+1:14:27.900,1:14:34.429
+alpha-émetteurs. Ils ont un gros rayon d'action
+- pas très orientables. Ca va, mais ce n'est pas vraiment
+
+1:14:34.429,1:14:35.789
+une bombe intelligente.
+
+1:14:35.789,1:14:39.920
+Les isotopes alpha-émetteurs sont vraiment rares.
+C'est dur de les obtenir. Dur d'obtenir le
+
+1:14:39.920,1:14:44.059
+bon type, que chimiquement s'attachera
+à la bonne chose, qui est suffisamment proche
+
+1:14:44.059,1:14:48.249
+d'être stable que, même après qu'il se désintègre,
+ne va pas le faire dix fois plus dans le corps.
+
+1:14:48.249,1:14:51.780
+Le bismuth-213 est à une désintégration d'être
+ fini.
+
+1:14:51.780,1:14:57.949
+Et il est particulièrement bien contre les 
+cancers dispersés, comme la leucémie, le cancer du sang.
+
+1:14:57.949,1:15:01.949
+Pas les cancers tumorales, où il ya une grand
+e
+
+bosse dure qu'on peut aller découper en chirurguie,
+
+1:15:01.949,1:15:06.639
+mais des choses qui sont difficiles à atteindre.
+Le cancer du pancréas - si vous avez ça,
+
+1:15:06.639,1:15:10.260
+vous regardez probablement la mort en face,
+Voilà comment il est mauvais.
+
+1:15:10.260,1:15:17.260
+Voici le problème, le bismuth-213 est unique
+en cette capacité et le bismuth-213 ne peut
+
+1:15:17.730,1:15:19.780
+être généré qu'à partir de la désintégration
+de l'uranium-233.
+
+1:15:19.780,1:15:26.780
+Il m'arrive, allongé dans mon lit, de penser, si mon
+gosse avait la leucémie, comment je travaillerais dur
+
+1:15:27.239,1:15:32.510
+sur la préparation de cette thérapie pour qu'ils
+sauvent des vies? Et si c'est si important,
+
+1:15:32.510,1:15:34.679
+pourquoi je ne travaille pas
+à fond là dessus tout de suite?
+
+1:15:34.679,1:15:40.969
+Combien ça coûte de construire? Quel chiffre à peu près?
+On peut bricoler ça chez soi?, ou ...
+
+1:15:40.969,1:15:47.969
+Non, non. Je pense qu'une première unité,
+probablement de l'ordre de 20/30 mégawatts
+
+1:15:48.949,1:15:52.900
+électrique est - disons plusieurs centaines
+de millions de dollars pour la développer,
+
+1:15:52.900,1:15:59.369
+mais le prochain pas vers un réacteur à l'échelle d'une centrale,
+sans doute encore plusieurs centaines de millions de dollars.
+
+1:15:59.369,1:16:03.440
+Probablement, ça reviendrait à un milliard de dollars
+pour l'amener à l'échelle d'une centrale, mais quand
+
+1:16:03.440,1:16:08.550
+on considère ce qu'il va faire, ce n'est
+vraiment pas beaucoup d'argent. Il y a beaucoup
+
+1:16:08.550,1:16:12.719
+à faire dans l'ingénierie et puis l'homologation
+est un énorme point d'interrogation.
+
+1:16:12.719,1:16:15.619
+En fait ce n'est pas beaucoup d'argent, dans un sens.
+
+1:16:15.619,1:16:20.710
+J'ai appris qu'il ne s'agit pas du chiffre,
+C'est l'incertitude sur le chiffre. Vous pouvez
+
+1:16:20.710,1:16:24.460
+aller voir une banque d'investissement tout de suite
+et dire: "je veux construire une plateforme de forage
+
+1:16:24.460,1:16:29.449
+pétrolier et elle va coûter 12 milliards de
+dollars", et ils vont feront le chèque
+
+1:16:29.449,1:16:33.730
+parce que vous pouvez dire: "J'ai déja construit
+50 de ces plates-formes, voici
+
+1:16:33.730,1:16:37.039
+comment le prix est sorti. Il ira dans cette zone,
+qui produit actuellement
+
+1:16:37.039,1:16:39.949
+tant de pétrole. Ça va prendre tant de temps
+pour récupérer cette quantité de pétrole,
+
+1:16:39.949,1:16:46.550
+sur la base de comment on la déjà fait 50 fois."
+Il n'y a pas beaucoup d'incertitude à faire cela.
+
+1:16:46.550,1:16:49.599
+Vous commencez par ne pas faire un LFTR intégral ...
+Oui.
+
+1:16:49.599,1:16:53.360
+... mais en faisant un petit morceau. Prenez un peu 
+ces produits dérivés et vous utilisez cet argent
+
+1:16:53.360,1:16:55.920
+pour faire la première petite étape qui commence
+à faire de l'argent ...
+
+1:16:55.920,1:16:59.960
+On n'est pas connecté par ethernet là?
+On fait du sans fil là.
+
+1:16:59.960,1:17:01.909
+Pourriez-vous répéter la question?
+Non.
+
+1:17:01.909,1:17:08.909
+Désolé, cette question n'est pas couverte
+par un accord de confidentialité.
+
+1:17:10.900,1:17:12.269
+On a des gens intelligents dans cette salle.
+
+1:17:12.269,1:17:17.420
+Dans l'ingénierie aérospatiale, on apprend à mettre
+les frais de développement et les coûts unitaires dans des
+
+1:17:17.420,1:17:20.650
+catégories distinctes. Quand on fabrique un avion de chasse,
+
+on dépense des milliards de dollars pour la conception,
+
+1:17:20.650,1:17:26.980
+mais après on fait chaque exemplaire pour 20 millions
+.
+
+C'est comme ça qu'ils construisent les 737 ou d'autres avions.
+
+1:17:26.980,1:17:30.199
+Si on demande: "Quel sera le coût unitaire?"
+il y a des raisons de penser que cela sera
+
+1:17:30.199,1:17:35.989
+beaucoup moins cher que ce que nous avons aujourd'hui,
+si on met le développement dans une autre colonne.
+
+1:17:35.800,1:17:39.329
+Pourquoi? Numéro un, le fonctionnement à basse pression.
+C'est le plus grand. On n'a pas besoin de 96
+
+1:17:39.329,1:17:45.099
+récipients sous pression en acier, et des confinements
+en béton énormes. Numéro deux, pas de fabrication
+
+1:17:45.099,1:17:48.999
+du combustible. Pas besoin de l'enrichir,
+de le fabriquer et on n'a pas la même approche
+
+1:17:48.999,1:17:52.269
+du traitement que nous avons aujourd'hui.
+
+1:17:52.269,1:17:57.869
+Ces deux sont tout de suite une grosse affaire.
+Numéro trois, les systèmes de sécurité. Les réacteurs
+
+1:17:57.869,1:18:00.889
+à haute pression, refroidis à l'eau ont plein de
+systèmes de sécurité.
+
+1:18:00.889,1:18:03.659
+Donc, si un système a 99% de fiabilité,
+eh bien, il faut
+
+1:18:03.659,1:18:08.130
+un autre qui l'a aussi, de sorte à
+obtenir 99,99. Les statisticiens vont peut-être
+
+1:18:08.130,1:18:09.800
+se fâcher avec moi, j'ai peût être tout faux.
+
+1:18:09.800,1:18:14.369
+Une des choses qui rend les réacteurs
+ conventionnels
+
+si chers est la cuve de confinement
+
+1:18:14.369,1:18:18.969
+et vous avez abordé cette question. L'autre est tout
+l'appareil de sécurité autour du maintien
+
+1:18:18.969,1:18:22.929
+de la matière fissile afin qu'elle ne
+soit pas détournée à des fins militaires.
+
+1:18:22.929,1:18:27.300
+Je me suis bien gratté la tête à ce sujet avec les
+réacteurs existants, car nos réacteurs, au moins
+
+1:18:27.300,1:18:29.349
+aux Etats-Unis, ne utilisent pas
+l'uranium hautement enrichi.
+
+1:18:29.349,1:18:34.599
+Eh bien, c'est l'une des craintes et c'est une
+des raisons pour la sécurité. Que ce soit réel ou non -
+
+1:18:34.599,1:18:36.989
+Ouais, je crois que je contesterais si c'est réel ou non.
+
+1:18:36.989,1:18:40.929
+Ca ne fait pas si longtemps qu'on avait le droit
+de montrer le site à des parties de visiteurs
+
+1:18:40.929,1:18:45.929
+et leur montrer le bon état du site et à quel
+niveau il est sûr. C'est seulement
+
+1:18:45.929,1:18:51.639
+depuis 9/11 que nous avons dû arrêter d'inviter des visiteurs.
+Nous avons toujours eu une politique très ouverte;
+
+1:18:51.639,1:18:55.690
+très désireux de montrer aux gens comment nous travaillons
+bien et comment la centrale est sûre.
+
+1:18:55.690,1:19:00.519
+C'est très difficile de se convaincre que les choses
+sont sûres car on ne voit pas ce qui se passe.
+
+1:19:00.519,1:19:04.420
+Même, le combustible s'appelle du plutonium
+de qualité réacteur, ce qui n'est pas approprié.
+
+1:19:04.420,1:19:08.289
+Essayez d'aller à toute installation en Amérique du Nord
+maintenant, ils ont des équipes d'intervention et -
+
+1:19:08.289,1:19:12.269
+J'ai visité une centrale nucléaire. On a vraiment
+été fouillé avant de rentrer là-dedans. Je ne suis pas
+
+1:19:12.269,1:19:15.869
+exactement sur de la justification de cela,
+s'ils étaient inquiets d'un vol de matière
+
+
+1:19:15.869,1:19:19.920
+fissile
+ - ce serait assez difficile.
+Il faudrait dépressuriser le coeur, enlever
+
+1:19:19.920,1:19:24.599
+le couvercle, accéder au combustible usé, trouver 
+un moyen de le retirer du basin de combustible usé
+
+1:19:24.599,1:19:29.429
+dans une sorte de tonneau de transport,
+l'emmener à une installation de retraitement
+
+1:19:29.429,1:19:33.019
+qui n'existe pas et - je veux dire, je me dis "Il doit 
+y avoir une autre raison pour toute cette sécurité".
+
+1:19:32.769,1:19:34.010
+Regardez les nouvelles à la télévision.
+
+1:19:34.010,1:19:37.499
+Eh bien, il me semble que,
+quand il y a un sujet que je connais un peu
+
+1:19:37.499,1:19:40.489
+et je regarde comment les nouvelles le couvre,
+ça me frustre très rapidement.
+
+1:19:40.489,1:19:45.489
+Je pense que presque tous les médias que j'ai
+vu suscitent la peur. Du New York Times,
+
+1:19:45.489,1:19:47.749
+au Huffington Post, ou le Fox News.
+
+1:19:47.749,1:19:51.079
+Il y a eu une récente flambée de mortalité infantile
+à Philadelphie et il y a un expert
+
+1:19:51.079,1:19:55.510
+qui dit: "C'est des niveaux de radioactivité
+dans notre eau qui en est la cause."
+
+1:19:55.510,1:19:59.510
+Cela a été une approche très bipartisan
+pour effrayer le public.
+
+1:19:59.510,1:20:05.670
+La radiation traverse l'océan. Elle est dissipée
+par le vent et le brouillard salin, mais elle
+
+1:20:05.670,1:20:08.269
+atteint la rive de la Californie.
+
+1:20:08.269,1:20:14.349
+Il y a de la radiation partout, tous les jours,
+mais vous parlez de la radiation nuisible.
+
+1:20:14.349,1:20:18.900
+C'est la chose qui nous concerne le plus,
+et même à Tchernobyl, elle n'est pas arrivée
+
+1:20:18.900,1:20:21.920
+aux États-Unis dans des quantités nuisibles.
+Comment fera-t-elle cela?
+
+1:20:21.920,1:20:24.570
+OK, vous savez quoi Bernie? De votre bouche,
+aux oreilles de Dieu.
+
+1:20:24.570,1:20:29.269
+Nos médias ne sont pas construits pour une diffusion
+efficace et précise de l'information
+
+1:20:29.269,1:20:32.610
+au public. Nos médias sont construits pour ...
+
+1:20:32.610,1:20:39.300
+Merci. Nos médias sont construits pour mettre
+vos yeux sur leur pages ou sur leur site web
+
+1:20:39.300,1:20:44.929
+et pour les y maintenir. La meilleure façon
+de les y maintenir est de vous effrayer à mort.
+
+1:20:44.929,1:20:51.929
+24 heures seulement après la catastrophe naturelle
+la plus horrible, tragique, gargantuesques, d'un séisme
+
+1:20:52.190,1:20:57.249
+suivi par le tsunami,
+la seule nouvelle à la une était Fukushima.
+
+1:20:57.249,1:21:02.099
+En tant qu'ingénieur, on nous apprend que notre
+responsabilité est de communiquer et diffuser 
+
+1:21:02.099,1:21:06.289
+l'information bien et efficacement à la fois
+aux autres ingénieurs et au grand public.
+
+1:21:06.289,1:21:09.670
+Donc un ingénieur est à la télé et ils disent: "Que
+se passera-t-il, Dr. Machin?", et il dit:
+
+1:21:09.670,1:21:13.329
+"Eh bien, il y a plusieurs choses possibles.
+Un événement de très faible probabilité serait
+
+1:21:13.329,1:21:15.960
+que ceci pourrait arriver, mais il est beaucoup
+plus probable que -" "Oh, attendez. Revenons
+
+1:21:15.960,1:21:20.010
+à cet événement de faible probabilité. Pour cet événement
+de faible probabilité, que pourrait-il arriver?"
+
+1:21:20.010,1:21:23.389
+"Vous savez, je suppose qu'il est possible que
+- mais c'est vraiment peu probable, et le vent
+
+1:21:23.389,1:21:27.570
+devra souffler dans cette direction, et -" "Eh bien,
+poursuivons." Le pauvre ingénieur, il se dit
+
+1:21:27.570,1:21:30.369
+on est a 10 puissance -12 là...
+
+1:21:30.369,1:21:36.249
+Et ils disent: "Godzilla se formera?"
+"Eh bien, vous le savez, une cassure des deux brins d'ADN,
+
+1:21:36.249,1:21:42.030
+dans le bon gène, pourrait effectivement déclencher
+un taux de croissance accrue d'hormone,
+
+1:21:42.030,1:21:43.969
+ce qui pourrait effectivement conduire
+à un gigantisme doux."
+
+1:21:43.969,1:21:48.280
+Ils voulaient seulement connaître les risques
+de l'accident nucléaire. Et ce qu'ils voulaient
+
+1:21:48.280,1:21:52.719
+vraiment savoir, et ont demandé plusieurs fois,
+c'était quel est le pire des cas.
+
+1:21:52.719,1:21:58.760
+"Godzilla arrive demain!" Oh la la...
+On est vers 10 puissance -32 maintenant.
+
+1:21:58.760,1:22:02.110
+Le protons va se désintégrer avant que cela arrive.
+
+1:22:02.110,1:22:06.989
+Il y avait déjà une nouvelle alarmiste terrible.
+Ce n'était pas comme si on leur demandait de couvrir
+
+1:22:06.989,1:22:10.550
+les bonnes nouvelles, pas les mauvaises.
+Il y avait plein de mauvaises nouvelles.
+
+1:22:10.550,1:22:14.749
+Une de mes amies, elle et son mari sont
+des diplomates en Chine et elle m'a écrit,
+
+1:22:14.749,1:22:19.210
+toute essouflée, dans un email et elle
+dit, "Kirk, on va être OK? Je suis en
+
+1:22:19.210,1:22:22.199
+Chine, tout ira bien?" J'ai dit:
+"Ne vous inquiétez pas. L'iode-131 aurait à
+
+1:22:22.199,1:22:26.570
+souffler tout autour du monde et puis
+revenir vers vous en Chine, et
+
+1:22:26.570,1:22:29.039
+il n'y en aurait pas assez, il a une demie-vie
+de 8,5 jours, alors qu'il aurait désintégré
+
+1:22:29.039,1:22:30.789
+à rien vers ici. Blah, blah, blah."
+
+1:22:30.789,1:22:33.670
+Mais, elle était morte de peur et c'est une
+fille intelligente.
+
+1:22:33.670,1:22:38.719
+Le travail du Science Media Center était de trouver
+des gens qui connaissent la radiation, qui connaissent
+
+1:22:38.719,1:22:43.889
+ses effets sur les humains et sans exception,
+ils ont dit dès le début: "C'est un incident
+
+1:22:43.889,1:22:49.519
+très,très grave", mais en termes de menace,
+même à des gens à Tokyo,
+
+1:22:49.519,1:22:55.670
+sans parler des gens à Glasgow, ils ont exprimé,
+chaque fois, en dehors de la population de
+
+1:22:55.670,1:23:01.090
+la zone d'exclusion, que cette menace était
+très, très, très, très petite. Et en effet, ils
+
+1:23:01.090,1:23:03.469
+sont toujours d'avis qu'elle est très petite.
+
+1:23:03.469,1:23:07.130
+Les experts nucléaires ont tout intérêt à
+minimiser les incidents nucléaires.
+
+1:23:07.130,1:23:12.920
+On avait des journalistes qui venaient nous dire:
+"Mon rédacteur en chef m'a dit, que disent les apologistes
+
+1:23:12.920,1:23:18.050
+aujourd'hui?" car on faisait des conférences de presse
+presque quotidiennes, avec différents experts.
+
+1:23:18.050,1:23:22.739
+Aucun d'entre eux travaillait pour l'industrie
+en effet, mais oui, il y avait cette idée que,
+
+1:23:22.739,1:23:29.739
+bien sur qu'ils diraient ça. Ces scientifiques éminents,
+qui publient et qui font de la révision par collègues
+
+1:23:29.869,1:23:36.670
+de revues, qui travaillent pour des institutions
+scientifiques
+ très respectées, minimisent un incident
+
+1:23:36.670,1:23:40.409
+parce qu'ils soutiennent l'industrie nucléaire.
+C'est une accusation forte.
+
+1:23:40.409,1:23:47.110
+Je lisais un article ce matin disant
+qu'ils ont détecté de la radioactivité dans le lait
+
+1:23:47.110,1:23:51.210
+et j'ai pensé: bien sûr ils ont détecté de la
+radioactivité dans le lait. Tout le lait est radioactif.
+
+1:23:51.210,1:23:57.749
+Deux d'entre eux ont dit: "Fiona, nos rédacteurs en chef
+pensent qu'il y a dans la radiation quelque chose
+
+1:23:57.749,1:24:04.019
+d'uniquement terrifiant. Il y a quelque chose d'unique
+avec ce mot qui a la capacité de vraiment terrifier
+
+1:24:04.019,1:24:10.670
+les gens". C'est un ensemble de valeurs étranges 
+quand la quantité de reportage est justifiée par
+
+1:24:10.670,1:24:13.289
+ce que les rédacteurs en chef pensent
+va terrifier les gens.
+
+1:24:13.289,1:24:17.479
+Ce qu'ils voulaient dire, c'est qu'il y avait
+une radio-isotope particulière qu'ils ont trouvé
+
+1:24:17.479,1:24:22.559
+dans le lait qui provennait de l'usine nucléaire
+japonaise. L'article, bien sûr, ne mentionnait pas cela,
+
+1:24:22.559,1:24:27.190
+ce qui faisiat penser aux gens: "Uh-oh, mon lait
+est passée de zéro radioactivité à un certain niveau de 
+
+1:24:27.190,1:24:30.099
+radioactivité ce qui doit être mauvais et je dois
+être en réelle difficulté maintenant."
+
+1:24:30.099,1:24:35.260
+La façon de faire ce reportage était mauvaise.
+Je me sens confiante à dire cela vu le nombre de
+
+1:24:35.260,1:24:41.070
+journalistes qui se sentaient mal à l'aise à ce sujet. Je
+connais des journalistes qui ont été retirés de ce
+
+1:24:41.070,1:24:45.979
+reportage parce que ce qu'ils écrivaient était trop
+mesuré, et c'est dans une rédaction majeure,
+
+1:24:45.979,1:24:47.510
+très significative, dans ce pays.
+
+1:24:47.510,1:24:51.630
+En termes de perception par le public du risque,
+des choses qui pourraient être vraies parce que je les lis
+
+1:24:51.630,1:24:56.519
+sur Internet, Neil deGrasse Tyson a tweeté
+aujourd'hui: "les causes de décès dans le monde
+
+1:24:56.519,1:24:59.210
+en Mars 2011: la famine, 3 millions."
+
+1:24:59.210,1:25:03.479
+Neil deGrasse Tyson, je suis un grand fan de lui.
+On a eu besoin de quelqu'un comme Neil deGrasse Tyson
+
+1:25:03.479,1:25:08.059
+depuis que Carl Sagan est décédé. Mais ouais,
+quelle est la première sur sa liste, la famine?
+
+1:25:08.059,1:25:13.360
+"Famine, 3.000.000; Paludisme, 250.000; accidents
+de voiture, 100.000; séismes et tsunamis, 28.000".
+
+1:25:13.360,1:25:17.369
+Le nombre de morts pour l'énergie nucléaire, c'est quoi?
+Faible?
+
+1:25:17.369,1:25:21.420
+Le nucléaire civil aux Etats-Unis n'a tué personne.
+Le nombre de morts serait zéro.
+
+1:25:21.420,1:25:26.639
+Alors, quand Three Mile Island fait une émission de
+radioactivité, il faudrait intégrer dans le chiffre
+
+1:25:26.639,1:25:29.030
+la probabilité statistique que quelqu'un
+développe un cancer de la thyroïde.
+
+1:25:29.030,1:25:33.150
+Non, parce que même la probabilité statistique
+est une théorie qui n'est pas basée sur des faits.
+
+1:25:33.150,1:25:38.159
+Ca s'appele l'hypothèse linéaire sans seuil
+et ce n'est pas basée sur des données épidémiologiques.
+
+1:25:38.159,1:25:44.289
+C'est basé sur l'hypothèse que la radiation
+vous fera mal à tout degré d'exposition.
+
+1:25:44.289,1:25:46.699
+Je pensais que ça a été établi en réalité.
+Je pensais que ...
+
+1:25:46.699,1:25:48.309
+Non, c'est établi...
+
+1:25:47.320,
+J'ai entendu dire qu'il n'y a ...
+
+1:25:48.309,1:25:51.940
+C'est une politique établie. C'est de là que vient
+'la radiation sûre n'existe pas' - ça vient
+
+1:25:51.940,1:25:56.400
+de l'hypothèse linéaire sans seuil. Elle
+est établie dans le règlement mais, il n'y a pas
+
+1:25:56.400,1:26:01.420
+de données épidémiologiques pour l'appuyer. Il n'existe
+aucune étude qui dit qu'on a pris un nombre important
+
+1:26:01.420,1:26:05.269
+de personnes et qu'on les a exposées à 1% de plus
+de rayonnement que ce qu'ils auraient normalement
+
+1:26:05.269,1:26:06.920
+et qu'on a vu 1% de cancer en plus.
+
+1:26:06.920,1:26:11.269
+En fait, il y a beaucoup d'endroits dans le monde
+où les niveaux de rayonnement de fond sont sensiblement
+
+1:26:11.269,1:26:17.239
+plus élevés. Si l'hypothèse linéaire sans seuil
+était vrai, ou même proche de la vérité,
+
+1:26:17.239,1:26:21.719
+on verrait des niveaux de cancer statistiquement
+significativement plus élevés dans ces populations.
+
+1:26:21.719,1:26:26.840
+Mais que se passe-t-il? Non seulement
+il n'y a pas de niveaux de cancer plus élevés,
+
+1:26:26.840,1:26:29.550
+il y a même des niveaux de cancer réduits.
+
+1:26:29.550,1:26:34.479
+Ce qui nous amène à une théorie qui a bien une justification
+dans les données et que l'on appelle hormèse. L'hormèse
+
+1:26:34.479,1:26:38.260
+dit simplement qu'un petit peu est bon pour vous
+et le rayonnement semble être une de ces choses
+
+1:26:38.260,1:26:42.999
+où un petit peu plus est même bon pour
+vous et réduit le développement de cancer.
+
+1:26:42.999,1:26:45.969
+Et je me dis, eh bien pourquoi un petit peu de
+rayonnement serait bon pour moi? Quand on fait de
+
+1:26:45.969,1:26:49.369
+l'exercice, on abîme les muscles, mais le corps
+les reconstruit et les reconstruit plus fort
+
+1:26:49.369,1:26:53.809
+qu'ils ne l'étaient avant. Le rayonnement stimule
+les dommages cellulaires, mais il stimule également les
+
+1:26:53.809,1:26:55.289
+mécanismes de réparation du corps.
+
+1:26:55.289,1:26:59.420
+Si l'hormèse devenait la norme au lieu de linéaire
+sans seuil, on aurait une approche
+
+1:26:59.420,1:27:03.989
+radicalement différente envers la radiation.
+En fait, à certains égards, on accepte l'hormèse
+
+1:27:03.989,1:27:07.469
+quand il s'agit de rayonnements naturels, mais on
+ne l'accepte pas quand il s'agit de rayonnements
+
+1:27:07.469,1:27:09.999
+artificiels. En réalité,
+il n'y a aucune différence entre les deux.
+
+1:27:09.999,1:27:14.800
+Nous avons un processus d'évaluation environnementale
+de trois ans au Canada pour construire un réacteur nucléaire
+
+1:27:14.800,1:27:16.300
+et nous avons un week-end pour produire une centrale à charbon.
+
+1:27:16.300,1:27:20.739
+Les centrales à charbon et au gaz peuvent émettre
+des matières dans l'environnement dans des quantités
+
+1:27:20.739,1:27:25.559
+beaucoup plus élevées que le niveau jamais admis
+pour une centrale nucléaire parce qu'elles sont considérées
+
+1:27:25.559,1:27:29.489
+comme étant ce qu'on appelle NORM, Matériaux Naturellement
+Radioactifs. Par exemple, quand on fait la fracturation
+
+1:27:29.489,1:27:34.179
+hydraulique d'une schiste et on retire du gaz,
+beaucoup de radon sort aussi.
+
+1:27:34.179,1:27:39.749
+Quand on brûle le gaz, le radon est libéré.
+Personne ne compte ce radon contre le gaz.
+
+1:27:39.749,1:27:44.539
+S'ils le faisaient, la commission de réglementation 
+fermerait la centrale au gaz, même chose pour le charbon.
+
+1:27:44.539,1:27:47.769
+Le charbon contient de petites quantités d'uranium et de
+thorium. Elles s'envolent en fumée, elles sont dispersées.
+
+1:27:47.769,1:27:50.369
+C'est pourquoi ils ne peuvent pas vous dire
+combien de déchets ils produisent.
+
+1:27:50.369,1:27:55.130
+Ouais, et ils dépensent beaucoup d'argent pour s'assurer
+que les organismes de réglementation n'imposent pas
+
+1:27:55.130,1:28:00.900
+NORM pour une centrale à charbon ou au gaz de la manière
+dont ils réglementent les émissions radioactives d'une
+
+1:28:00.900,1:28:06.070
+centrale nucléaire. S'ils le faisaient, on fermerait
+toutes nos centrales à charbon et au gaz basée sur
+
+1:28:06.070,1:28:07.479
+la radioactivité seule.
+
+1:28:07.479,1:28:10.670
+Même si linéaire sans seuil était vrai
+- disons pour une minute qu'il était vrai, et que
+
+1:28:10.670,1:28:15.249
+ce fut la réalité du monde. On serait
+toujours beaucoup mieux à établir un monde
+
+1:28:15.249,1:28:18.739
+fonctionnant entièrement à l'énergie nucléaire,
+à cause des émissions radioactives
+
+1:28:18.739,1:28:22.440
+du charbon. Il faudrait arrêter le charbon
+pour faire du nucléaire, parce que le charbon émet
+
+1:28:22.440,1:28:25.679
+plus de rayonnement que le nucléaire
+par plusieurs ordres de grandeur.
+
+1:28:25.679,1:28:32.130
+La notion selon laquelle il n'y a pas de quantité de
+rayonnement sûre n'est pas étayée ou même une
+
+1:28:32.130,1:28:38.469
+déclaration exacte. Elle est probablement
+tout à fait inexacte. Mais, elle est communément trouvée
+
+1:28:38.469,1:28:41.639
+comme base de la politique publique dans le monde.
+
+1:28:41.639,1:28:46.800
+C'était ma compréhension jusqu'à ce moment,
+qu'il n'y avait pas de niveau de rayonnement sûr.
+
+1:28:46.800,1:28:50.510
+Deux bons livres là dessus- "Energie Terrestre"
+par Bill Tucker, et "Le Pouvoir de Sauver le
+
+1:28:50.510,1:28:57.070
+Monde" par Gwen Cravens- explorent ce sujet en profondeur.
+En attendant que cette notion de niveaux d'exposition
+
+1:28:57.070,1:29:03.670
+faibles au rayonnement est adressée,
+elle gênera toujours l'industrie nucléaire.
+
+1:29:03.670,1:29:07.760
+Un coup de soleil est une brûlure de radiation.
+On ne l'appelle pas comme ça, mais c'est ce que c'est.
+
+1:29:07.760,1:29:13.499
+Le corps réagit, en essayant d'empêcher
+plus de dégâts d'irradiation, le rayonnement
+
+1:29:13.499,1:29:16.780
+ionisant, de votre peau et vos cellules, et
+il génère de la mélanine, qui est un mécanisme
+
+1:29:16.780,1:29:18.519
+de protection naturelle.
+
+1:29:18.519,1:29:22.229
+On veut que personne puisse avoir une dose de rayonnement
+trop importante à un moment donné, et la radioactivité
+
+1:29:22.229,1:29:26.760
+obtenue à partir des réacteurs nucléaires est
+extrêmement faible par rapport à la radioactivité
+
+1:29:26.760,1:29:30.659
+obtenue d'autres sources, La plus grande
+étant le radon. Il y a un gaz radioactif qui
+
+1:29:30.659,1:29:34.760
+sort de la terre tout le temps. Vous le
+respirez en ce moment. Il est responsable
+
+1:29:34.760,1:29:40.479
+de loin pour la majorité de la radioactivité
+que votre corps reçoit. C'est juste la planète
+
+1:29:40.479,1:29:41.829
+que nous habitons.
+
+1:29:41.829,1:29:45.159
+A l'intérieur de la Terre, le thorium et l'uranium sont
+en désintégration, et ils se désintègrent très lentement,
+
+1:29:45.159,1:29:50.070
+mais il y en a beaucoup, et la terre est grande.
+Ils produisent la plupart de la chaleur à l'origine
+
+1:29:50.070,1:29:54.030
+des processus internes de la Terre. Ils produisent
+la chaleur qui anime la tectonique des plaques,
+
+1:29:54.030,1:29:58.510
+et ils produisent la chaleur qui génère
+le champ magnétique. Si on n'avait pas
+
+1:29:58.510,1:30:02.340
+l'énergie du thorium, on n'aurait pas
+le recyclage du carbone dans la croûte.
+
+1:30:10.000,1:10:40.000
 Les sous-titres français restants sont en cours de
 traduction. Ils seront mis à disposition dès que possible.
+
