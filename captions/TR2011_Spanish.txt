@@ -256,7 +256,7 @@ Debido a que es muy abundante, nunca vamos a tener escasez de este elemento.
 0:04:59.270,0:05:06.270
 Simplemente, es demasiado común.
 
-0:05:12.910,0:05:19.910
+0:06:04.000,0:06:10.259
 En nuestra página de Facebook, el 87% de los usuarios son hombres y 
 aproximadamente un 13% mujeres.
 
@@ -3012,6 +3012,7 @@ combustible nuclear.
 0:57:04.740,0:57:08.000
 La Comisión de Energía Atómica les dijo: "Hey, ¿saben qué?
 Estamos dedicando una gran cantidad de dinero
+
 0:57:08.000,0:57:12.080
 en los reactores reproductores rápidos. Tenemos todas estas
 compañías haciendo cola para fabricar el reactor reproductor rápido.
@@ -3355,430 +3356,430 @@ el agujero, salen dos bolas más
 Él dice: "Sí, eso sería bastante parecido."
 
 1:03:02.800,1:03:07.870
-He mirado en la fusión de enfoque, que he mirado
-de vapor de pistón de fusión, he mirado en D-helio-3
+He estudiado a la fusión de foco,
+de pistón de vapor, de D-helio-3
 
-1:03:07.870,1:03:11.590
-y P-boro, y todas estas cosas de otro tipo
-y sigo adelante ", no estoy comprando
+1:03:07.870,1:03:12.110
+y de P-boro, y todas estas cosas
+y continúo pensando: "no creo mucho en ello todavía”
 
-1:03:11.590,1:03:12.110
-ella todavía. "
+
+
+
+
 
 1:03:12.110,1:03:14.740
-¿Estás diciendo que el caso de negocio no está allí.
+¿Estás diciendo que no merece la pena?.
 Eso es lo que estás diciendo.
 
 1:03:14.740,1:03:20.280
-Es tan maldito duro! Es decir, un reactor de fusión
-es un tubo de vacío grande en 10 keV, que es como
+¡Es tan increiblemente difícil! Es decir, un reactor de fusión
+es un tubo de vacío grande de 10 keV, a
 
 1:03:20.280,1:03:26.510
-15 grados patrillion, y luego dentro de esta
-son los imanes superconductores que se llevan a cabo
+15 trillones de grados, y además dentro de esto
+hay imanes superconductores que sostienen
 
 1:03:26.510,1:03:31.610
-en el helio líquido, y todo esto es con camisa
-en una manta de litio que se reproducen megacuries
+el helio en estado líquido, y todo esto está recubierto
+de una capa de litio en la que se reproducen megacurios
 
 1:03:31.610,1:03:37.650
-de tritio, que luego se inyecta en
-este reactor, que es impulsada por los gigantes
+de tritio, que luego se inyectan dentro de
+este reactor, que es impulsada por esos gigantescos
 
 1:03:37.650,1:03:38.120
-neutral haces de iones.
+haces de iones.
 
 1:03:38.120,1:03:42.530
-Quiero decir, es como, "Oh, Dios mío! ¿Podemos hacer
-esto más complicado de lo que es? "
+Quiero decir, es "¡Oh, Dios mío! ¿Podemos hacerlo
+aún más complicado de lo que ya es?"
 
 1:03:42.530,1:03:46.840
-Y aun así no se puede mantener el confinamiento
-por más de unos pocos microsegundos en el Tokamak
+Y aun así, sólo se puede mantener el confinamiento
+durante unos pocos microsegundos en el Tokamak
 
 1:03:46.840,1:03:49.650
-configuración, que es la más favorecida y
-deseado.
+que es la configuración que parece funciona mejor.
+
 
 1:03:49.650,1:03:54.420
-Torio en realidad es un poco más abajo
-a la tierra. Si usted va a la forma líquida, la fuerza
+El torio, en realidad, es mucho más asequible.
+Si consideramos la variante en forma líquida, podemos
 
-1:03:54.420,1:03:59.340
-a ti mismo para hacer que el compromiso de la tecnología,
-De 50 años, la gente irá, "Por supuesto que
+1:03:54.420,1:04:00.530
+hacer un esfuerzo por conseguir esa tecnología,
+y dentro de 50 años, la gente dirá: "Por supuesto que era la respuesta”
 
-1:03:59.340,1:04:00.530
-esa es la respuesta! "
+
+
 
 1:04:00.530,1:04:04.190
-La fusión es muy difícil que podamos construir una fusión
-reactor, y podemos tener 100 doctores de trabajo
+Es tan difícil de construir un reactor de fusión,
+incluso aunque tengamos 100 doctores trabajando en ella.
 
 1:04:04.190,1:04:07.680
-en él. La fisión es tan fácil que puede tomar
-un par de niños de la escuela secundaria, el tren
+Sin embargo, la fisión es tan fácil que podemos contratar a
+un par de niños de una escuela de secundaria, y
 
 1:04:07.680,1:04:09.910
-ellos durante unos meses, y se puede ejecutar
+entrenarlos durante unos meses, y podrán hacer funcionar
 un submarino nuclear.
 
 1:04:09.910,1:04:16.130
-¿Quieres construir un reactor para llevar la energía de
-las arenas petrolíferas. Esta sería la oportunidad perfecta.
+¿Quieres construir un reactor para llevar energía a
+las arenas bituminosas. Esta sería una oportunidad perfecta.
 
 1:04:16.130,1:04:21.630
-Bueno, si tenemos un reactor de este tipo, lo que hacemos
-necesidad de las arenas petrolíferas?
+Bueno, si tenemos un reactor de este tipo
+¿para qué queremos las arenas bituminosas?
 
 1:04:21.630,1:04:28.630
-Quiero decir, esa es la manera en que veo que, no me
-saber mucho acerca de las arenas petrolíferas, pero sé que
+Esa es mi opinión; no sé mucho acerca
+de arenas bituminosas, pero sé que
 
 1:04:28.810,1:04:33.160
-es una forma particularmente difícil de obtener petróleo. Personas
-en el Medio Oriente puede obtener una gran cantidad de aceite
+es una forma particularmente difícil de obtener petróleo.
+En Medio Oriente se puede obtener una gran cantidad de petróleo
 
 1:04:33.160,1:04:37.570
-más barato de su lugar entonces la gente puede obtener
-lo de las arenas bituminosas. Si puedo vencer
+más barato que a través de las arenas bituminosas.
+
 
 1:04:37.570,1:04:41.050
-por un millón a uno, a lo mejor tenemos que hacer
-que.
+Si podemos obtener una ventaja de un millón a uno,
+deberíamos intentar hacerlo.
 
 1:04:41.050,1:04:46.220
-Si se va a hacer las arenas petrolíferas de un poco
-limpiador poquito, entonces ellos animarse
+Si se pudiera obtener petróleo de arenas bituminosas
+haciendo el proceso un poco más limpio
 
-1:04:46.220,1:04:50.450
-sus oídos, a diferencia de energía limpia en
-y por sí mismo, ya que se refiere a algo
+1:04:46.220,1:04:50.930
+nos escucharían con atención, aunque no fuera
+energía totalmente limpia, ya que se refiere a algo que conocen
 
-1:04:50.450,1:04:50.930
-que saben.
+
+
 
 1:04:50.930,1:04:54.920
-Me senté en el avión junto a un hombre que estaba en
-el negocio del petróleo, y él me estaba diciendo a todos
+Me senté en el avión junto a un empresario del
+negocio petrolero, y me explicó muchas cosas
 
 1:04:54.920,1:04:58.020
-sobre las arenas de petróleo, y cuánto dinero están
-decisiones y así sucesivamente. Yo era sólo una especie de sentada
+sobre las arenas bituminosas, y cuánto dinero están
+haciendo y todo eso. Yo estaba ahí sentado
 
 1:04:58.020,1:04:59.770
-allí, tomando, escuchando ...
+escuchando ...
 
 1:04:59.770,1:05:02.210
-Gas ... ¿Cuál es el costo del gas aquí?
+Gasolina ... ¿Cuánto cuesta la gasolina aquí?
 
 1:05:02.210,1:05:04.620
-Un dólar ... A diez dólares?
+¿Un dólar ... con diez centavos?
 
 1:05:04.620,1:05:07.630
-Gas cuesta diez dólares?
+¿La gasolina cuesta 1,10 dólares?
 
 1:05:07.630,1:05:13.210
-Sí, es caro, porque tenemos más
-impuesto sobre la gasolina, que creo que es una buena idea.
+Sí, es caro, porque tenemos más impuestos sobre la
+gasolina, que creo que es una buena idea.
 
 1:05:13.210,1:05:14.790
-¿Qué es lo que usted paga por el gas?
+¿Cuánto están pagando allí por la gasolina?
 
 1:05:14.790,1:05:16.390
-Estoy pagando como, $ 3.50 para el gas.
+Cuesta alrededor de 3,50 dólares.
 
 1:05:16.390,1:05:17.130
-¿En serio?
+¿De verdad?
 
 1:05:17.130,1:05:18.550
-Pensé que el gas era más barato en los Estados Unidos!
+¡Creía que la gasolina era más barata en los Estados Unidos!
 
 1:05:18.550,1:05:21.020
-El dólar canadiense está casi a la par, no es
-que?
+¿El dólar canadiense está casi a la par, no es así?
+
 
 1:05:21.020,1:05:21.330
 Sí.
 
 1:05:21.330,1:05:24.660
-Oh, espera ... que todos lo hacemos en litros!
+¡Oh, un momento… lo estáis calculando en litros!
 
 1:05:24.660,1:05:29.970
-¿Acaso la bomba de su carro con gasolina y se van, "yo
-bombeado doce galones de gasolina en mi coche.
+Cuando reposto gasolina sólo cargo doce galones
+de gasolina en el depósito de mi coche.
 
 1:05:29.970,1:05:34.040
-¿Sabe usted cómo napalm mucho que hacer?
-Si se me cayó que en un pueblo, me mataría
+¿Sabes cuánto napalm se podría hacer con esa cantidad?
+Si se arrojara en un pueblo, mataría a
 
 1:05:34.040,1:05:38.440
-5.000 niños! "Usted sabe, y es que
-como, "¡No! Por supuesto que no voy a llegar
+5.000 niños! Y sin embargo todos diríamos:
+"¡No! Por supuesto que voy a utilizarlo para
 
 1:05:38.440,1:05:42.280
-en mi coche y conducir 300 millas en él! "I
-Es decir, es todo lo que haces, ninguna de las
+mi coche y poder hacer 500 kilómetros en él"
+Es decir, todo depende de lo que hagas con las cosas
 
 1:05:42.280,1:05:46.970
-esto es intrínsecamente bueno o malo, es
-lo que decida hacer con él.
+nada es intrínsecamente bueno o malo, sino que
+dependerá de lo que se decida hacer con las cosas.
 
 1:05:46.970,1:05:50.830
-Ya sabes, una de las cosas que no gana
-me un montón de amigos es la idea cuando
+Ya sabes, una de las cosas que
+me dificulta la tarea de hacer amigos es cuando digo:
 
 1:05:50.830,1:05:56.120
-hablar: "Oh, tal y lo que no puede enriquecer uranio",
-Me voy, "No te ofendas, pero ¿quiénes somos nosotros para decir
+"Oh, tal y tal… no puede enriquecer uranio",
+y pienso, "No te ofendas, pero ¿quiénes somos nosotros para decir
 
-1:05:56.120,1:06:01.030
-a nadie lo que puede hacer? "Quiero decir, uranio
-uranio, y no es exactamente como el que tenemos
+1:05:56.120,1:06:02.520
+a nadie lo que puede hacer? "Quiero decir, el uranio
+es el uranio, y no podemos tener el monopolio de ello
 
-1:06:01.030,1:06:02.520
-el monopolio de las cosas.
+
+
 
 1:06:02.520,1:06:05.630
-Lo mismo vale para cosas como el plutonio.
-El plutonio es ... Yo no soy el mayor fan de
+Lo mismo valdría para cosas tales como el plutonio.
+El plutonio es ... Yo no soy el mayor defensor del
 
 1:06:05.630,1:06:10.100
-plutonio, porque yo no estoy loco por la
-plutonio reactor reproductor rápido, pero hay
+plutonio, porque a mi no me entusiasma el
+reactor reproductor rápido de plutonio, pero 
 
 1:06:10.100,1:06:15.420
-nada bueno o malo acerca de plutonio. Plutonio
-simplemente es así. Es lo que decida hacer con él.
+el plutonio en sí no es ni bueno ni malo. Es simplemente
+Plutonio. Lo relevante es lo que se haga con él.
 
 1:06:15.420,1:06:18.700
-Ahora, hemos hecho una gran cantidad de plutonio en nuestra
+Ahora, hemos producido una gran cantidad de plutonio en nuestros
 reactores. ¿Qué vamos a hacer con él?
 
 1:06:18.700,1:06:21.790
-¿Vamos a caer en un agujero en el suelo,
-o vamos a darle de comer a un reactor como
+¿Vamos a enterrarlo en un agujero en el suelo,
+o vamos a utilizarlo en un reactor LFTR
 
 1:06:21.790,1:06:25.690
-LFTR y hacer que la energía fuera de él? Creo que eso es
-mucho más inteligente que puedes hacer.
+y hacer electricidad a partir de él? Creo que esto
+último es mucho más inteligente.
 
 1:06:25.690,1:06:29.130
-El otro día estaba debatiendo algunas bombas nucleares anti-
-y que estaban recibiendo en LFTR porque
+El otro día estaba debatiendo con activistas anti-nucleares
+y se estaban metiendo con el LFTR porque decían:
 
 1:06:29.130,1:06:33.820
-dijo: "Oh, esto va a utilizar el uranio. Usted
-saber, de las armas nucleares! "Y yo dije:" Yo
+"Oh, eso va a utilizar uranio. Ya sabe
+lo mismo que las armas nucleares!" Y yo les dije:
 
 1:06:33.820,1:06:38.700
-creo que ustedes se todo eso! Tomar
-armas nucleares, tomar aparte, tomar la
+yo creo que deberían hacer lo siguiente! 
+Desmantelar las armas nucleares, sacar el uranio
 
 1:06:38.700,1:06:41.640
-de uranio, que se queman, producen electricidad!
-Desea dejar en la bomba? ¿Qué es lo
+y utilizarlo para producir electricidad!
+¿Queréis que se quede en la bomba? 
 
 1:06:41.640,1:06:42.470
-que quieres hacer con ella? "
+¿Qué es lo que queréis hacer con ella? "
 
 1:06:42.470,1:06:47.470
-La Armada tiene como reactores de muchos que tenemos en
-el mundo civil. Piense en la seguridad
+La Armada tiene tantos reactores como nosotros en
+el mundo civil. Piensen en la seguridad
 
 1:06:47.470,1:06:52.630
-la postura de que los EE.UU. tienen si no
-tienen esta capacidad nuclear. Los submarinos pueden
+la posición de los EE.UU. si no tuviéramos
+esta capacidad nuclear. Gracias a ella los submarinos pueden
 
 1:06:52.630,1:06:57.250
-permanecer bajo el agua y pasar por debajo de los hielos polares
-cap. Si usted mira las fuerzas de tierra de hoy,
+permanecer bajo el agua y pasar por debajo de los hielos polares.
+Si ustedes estudian al ejército de tierra de hoy,
 
 1:06:57.250,1:07:01.750
-parece que estamos utilizando una gran cantidad de energía, la gente
-pregunto si podríamos corte que hacia abajo. La energía
+estamos utilizando una gran cantidad de energía y la gente
+se pregunta si podríamos reducir ese consumo. La energía
 
 1:07:01.750,1:07:03.710
-se utiliza para buenos propósitos.
+se utiliza para buenos fines.
 
 1:07:03.710,1:07:09.370
-Por lo tanto, la razón por la que podemos luchar en la noche,
+Por lo tanto, la razón por la que podemos luchar durante la noche,
 eliminar a los enemigos sin perder a nuestros propios soldados
 
 1:07:09.370,1:07:15.120
-es porque tenemos la capacidad de energía alimentado.
+es porque tenemos la posibilidad de utilizar energía.
 Tenemos sensores, radios, todo tipo de cosas
 
 1:07:15.120,1:07:18.330
-que nos dan la ventaja, y todos ellos son
-basado en la energía. La forma en que estamos sosteniendo
+que nos dan una ventaja, y todas ellos se
+basan en la energía. La forma en que estamos sosteniendo
 
 1:07:18.330,1:07:21.910
-la fuerza es que estamos en el transporte de líquidos
-del suelo.
+nuestras fuerzas es mediante el transporte de líquidos
+en superficie.
 
 1:07:21.910,1:07:26.260
-Cuando estaba a la espera de entrar en Irak desde que
-comenzó la invasión en 2003 algunos de los generales no podían
+Cuando estaba a la espera de entrar en Irak, cuando
+comenzó la invasión en 2003, algunos de los generales no podían
 
 1:07:26.260,1:07:31.030
-conseguir piezas de repuesto o suministros fuera hacia adelante, porque
+mandar piezas de repuesto o suministros hacia el frente, porque
 los convoyes estaban ocupados en llevar agua y combustible.
 
-1:07:31.030,1:07:35.270
-Más significativamente, el costo en vidas, la mitad de
-nuestras pérdidas en Irak están asociados con el
+1:07:31.030,1:07:36.040
+Más concretamente, el costo en vidas; la mitad de
+nuestras pérdidas en Irak están asociadas con la cadena de suministro
 
-1:07:35.270,1:07:36.040
-la cadena de suministro.
+
+
 
 1:07:36.040,1:07:39.480
 Si no tuviéramos que cargar con todo ese líquido
-- 80 por ciento de la cadena de suministro - que podría
+- el 80 por ciento de la cadena de suministro – si hubiera
 
 1:07:39.480,1:07:43.750
-ser capaz de encontrar de otra manera, algo que se llama
-una brigada de adaptación. Esta fuerza podría proporcionar
+alguna otra manera de, algo así como una
+brigada de adaptación. Esta fuerza podría proporcionar
 
 1:07:43.750,1:07:48.090
-su propia energía y agua, y en realidad no han
-ser reabastecidos por decir un mes a la vez.
+su propia energía y agua, y no tener que depender
+de ser reabastecidos por ejemplo, una vez al mes.
 
 1:07:48.090,1:07:52.280
-Si usted necesita energía durante el día, poner sobre la
-cien hectáreas de paneles solares.
+Si necesitamos energía durante el día, podríamos 
+poner cien hectáreas de paneles solares.
 
 1:07:52.280,1:07:54.940
-Si usted tiene una amenaza por ahí, que podría
-No funciona muy bien porque hay que asegurar
+Si existiera una amenaza por ahí, esto no funcionaría
+muy bien ya que habría que asegurar
 
 1:07:54.940,1:07:59.240
-todo el perímetro y por lo que ahora todos sus soldados
-pasan su tiempo patrullando las cien hectáreas
+todo el perímetro y por lo tanto todos nuestros soldados
+se pasarían todo el tiempo patrullando las cien hectáreas
 
 1:07:59.240,1:08:00.210
-parque solar.
+del parque solar.
 
 1:08:00.210,1:08:06.920
-¿Qué pasaría si hubiera un reactor que estaba tan seguro
-y simple y económico que podría tener
+¿Qué pasaría si dispusiéramos de un reactor tan seguro,
+simple y económico que pudiéramos llevar
 
-1:08:06.920,1:08:12.060
-que al campo de batalla y lo utilizan, y
-entonces cuando te vas, lo dejamos para el anfitrión
+1:08:06.920,1:08:13.910
+al campo de batalla y utilizarlo, y cuando nos vayamos,
+podamos dejarlo en el país para que les proporcione energía.
 
-1:08:12.060,1:08:13.910
-nación y lo ejecutan.
+
 
 1:08:13.910,1:08:18.349
 La prosperidad está relacionada con la energía. Si somos capaces de
 llevar a la gente a cerca de 2.000 kilovatios-hora
 
 1:08:18.349,1:08:24.150
-por año de energía eléctrica, tienen una
-oportunidad de lograr la prosperidad. Ahora, por supuesto,
+por año de energía eléctrica, dispondrán de una
+oportunidad de lograr la prosperidad. Por supuesto,
 
 1:08:24.150,1:08:29.329
-la prosperidad depende del estado de derecho, la buena
-gobierno, los derechos de propiedad, la educación, pero
+la prosperidad dependerá del estado de derecho, del buen
+gobierno, de los derechos de propiedad, de la educación, pero también
 
 1:08:29.329,1:08:36.329
-de energía eléctrica para producir calor, luz, transporte,
-de seguridad y demás, es un elemento crítico de
+de la energía eléctrica para producir calor, luz, transporte,
+seguridad y demás. Es un elemento crítico de
 
 1:08:37.499,1:08:38.579
 la prosperidad actual.
 
 1:08:38.579,1:08:43.449
-Los países en desarrollo lo saben. De energía en
-el uso del carbón está creciendo rápidamente en todo el mundo en desarrollo
+Los países en desarrollo lo saben. La energía procedente 
+del carbón está creciendo rápidamente en todo el mundo en desarrollo
 
-1:08:43.449,1:08:47.679
-los países. Ellos quieren alcanzar ese nivel
-de prosperidad y que están siendo apoyados
+1:08:43.449,1:08:49.130
+Ellos quieren alcanzar ese nivel
+de prosperidad y este desarrollo está basado en el carbón
 
-1:08:47.679,1:08:49.130
-por Peabody Coal.
+
+
 
 1:08:49.130,1:08:54.679
 La Academia Nacional de Ciencias, dijo que
 todos los peces de agua dulce en los Estados Unidos
 
 1:08:54.679,1:09:00.019
-de Estados Unidos ahora tiene niveles peligrosos de mercurio
+tienen niveles peligrosos de mercurio
 en su carne. Y que el mercurio proviene de
 
 1:09:00.019,1:09:01.670
-la quema de carbón las plantas de energía.
+la quema de carbón en centrales eléctricas.
 
 1:09:01.670,1:09:06.739
-Mis niveles de mercurio volvió 10 veces
-cantidad de lo que la EPA considera segura. Yo estaba
+Mis niveles de mercurio estaban situados 10 veces
+por encima de lo que la EPA considera seguro.
 
 1:09:06.739,1:09:11.819
-dijo el Dr. David Carpenter, que es el nacional
-autoridad sobre las toxinas de mercurio, que una mujer
+El Dr. David Carpenter, que es la autoridad nacional
+sobre las toxinas del mercurio, dijo que una mujer
 
 1:09:11.819,1:09:15.819
-con mis niveles de mercurio en su sangre se
-tienen niños con deterioro cognitivo con
+con mis niveles de mercurio en su sangre
+tendría niños con deterioro cognitivo y con
 
 1:09:15.819,1:09:16.999
 daño cerebral permanente.
 
 1:09:16.999,1:09:21.119
 Le dije: "¿Quiere decir que podría haber?" Y
-él dijo: "No, no, no. La ciencia es muy
+él dijo: "La ciencia es muy evidente sobre ello
 
 1:09:21.119,1:09:26.539
-claro ahora mismo. "Sus hijos se han
-algún nivel de deterioro neurológico permanente,
+Sus hijos tendrían algún tipo deterioro neurológico permanente,
 
 1:09:26.539,1:09:30.650
-probablemente como una pérdida de coeficiente intelectual permanente en los niños
-de cinco a siete puntos.
+probablemente una pérdida de cociente intelectual permanente
+comprendida entre cinco y siete puntos.
 
 1:09:30.650,1:09:36.559
-En la actualidad hay 640.000 niños nacidos en este
+En la actualidad nacen 640.000 niños en este
 país todos los años que han estado expuestos a
 
 1:09:36.559,1:09:41.409
-niveles peligrosos de mercurio en la de su madre
-vientres. Ozono y las partículas de la combustión de carbón
+niveles peligrosos de mercurio en los vientres de su madre
+El ozono así como las partículas de la combustión de carbón
 
 1:09:41.409,1:09:48.409
-matar a las plantas de energía 60.000 estadounidenses al año.
+en las centrales de carbón matan 60.000 estadounidenses al año.
 Un millón de ataques de asma, un millón de días de trabajo perdidos
 
 1:09:49.639,1:09:51.230
 cada año.
 
 1:09:51.230,1:09:55.079
-Eso es parte del costo del carbón que
-no te dicen cuando dicen "Oh, es
+Eso es parte del coste del carbón que
+no incluyen cuando te dicen:
 
 1:09:55.079,1:09:57.679
-sólo, ya sabes, diez centavos de dólar por kilovatio-hora. "
+“Oh es sólo diez centavos de dólar por kilovatio-hora."
 
 1:09:57.679,1:10:04.090
-Ambos reactores de agua ligera y no CANDU
-uso mucho de la energía en el combustible y
+Tanto los reactores de agua ligera como los CANDU
+no utilizan mucha de la energía contenida en el combustible y
 
 1:10:04.090,1:10:08.320
-dejan tras de sí dos clases de materiales.
-Uno de ellos es los productos de fisión actual - que es
+generan dos clases de materiales.
+Uno de ellos: los productos de fisión reales - que es
 
 1:10:08.320,1:10:12.239
-lo que sucede cuando la materia de fisión. Entonces
-existe lo que se llama transuránicos. Eso es
+lo que se produce cuando la materia se fisiona. Y por otro lado
+lo que llamamos transuránidos. Eso es
 
 1:10:12.239,1:10:15.880
-lo que sucede cuando el uranio absorbe el
-neutrones de fisión y no, y se convierte en
+lo que se produce cuando el uranio absorbe los
+neutrones y no se fisiona, y se convierte en
 
 1:10:15.880,1:10:19.190
-plutonio, americio y el curio y algunas otras,
-la mayor parte de ella es el plutonio.
+plutonio, americio, curio y algunas otras.
+La mayor parte de estas es plutonio.
 
 1:10:19.190,1:10:23.280
 La inmensa mayoría de los transuránicos
