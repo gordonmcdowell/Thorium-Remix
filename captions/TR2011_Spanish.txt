@@ -3761,281 +3761,283 @@ no incluyen cuando te dicen:
 1:09:55.079,1:09:57.679
 “Oh es sólo diez centavos de dólar por kilovatio-hora."
 
+
 1:09:57.679,1:10:04.090
 Tanto los reactores de agua ligera como los CANDU
-no utilizan mucha de la energía contenida en el combustible y
+no utilizan gran parte de la energía contenida en el combustible
 
 1:10:04.090,1:10:08.320
-generan dos clases de materiales.
-Uno de ellos: los productos de fisión reales - que es
+y generan dos clases de elementos.
+Uno de ellos: los productos de fisión reales
 
 1:10:08.320,1:10:12.239
-lo que se produce cuando la materia se fisiona. Y por otro lado
-lo que llamamos transuránidos. Eso es
+que son los que se producen cuando la materia se fisiona.
+Y por otro lado lo que llamamos transuránidos. 
 
 1:10:12.239,1:10:15.880
-lo que se produce cuando el uranio absorbe los
+Es decir, lo que se produce cuando el uranio absorbe los
 neutrones y no se fisiona, y se convierte en
 
 1:10:15.880,1:10:19.190
-plutonio, americio, curio y algunas otras.
-La mayor parte de estas es plutonio.
+plutonio, americio, curio y algunos otros elementos.
+La mayor parte es plutonio.
 
 1:10:19.190,1:10:23.280
-La inmensa mayoría de los transuránicos
-son el plutonio. Por eso, cuando hablas con la gente
+La inmensa mayoría de los transuránidos
+son plutonio. Por eso, cuando hablas con la gente
 
 1:10:23.280,1:10:28.530
-sobre la eliminación de residuos, dicen, "¿Cuál es la
-preocupación? "Bueno, la mayoría de las cosas que están en
+sobre la eliminación de residuos, preguntan: "¿Cuál es la
+mayor preocupación? "Bueno, la mayoría de lo que queda en
 
 1:10:28.530,1:10:32.900
 el combustible es uranio. No es más radiactivo
-de lo que era cuando se lo metió en, y es que
+de lo que era cuando se introdujo en el reactor,
 
 1:10:32.900,1:10:35.130
-No es realmente una preocupación.
+Esto no nos preocupa demasiado.
 
 1:10:35.130,1:10:40.630
-Y los productos de fisión, que son muy radiactivos
-cuando se crean, sino que más bien la decadencia
+Luego están los productos de fisión, que son muy radiactivos
+cuando se crean, pero decaen bastante rápido
 
 1:10:40.630,1:10:46.199
-rápidamente. Ellos realmente no tienen a largo plazo
-radioactividad. Sólo deterioro demasiado rápido,
+En el largo plazo no son apenas radioactivos
+ya que decaen demasiado rápido,
 
 1:10:46.199,1:10:49.679
-es el acuerdo. Hay unos cuantos de los que
-tienen muy larga vida media, sino que significa que sus
+Eso compensa su peligrosidad. También hay otros que
+tienen muy vida media muy larga, lo que significa que sus
 
 1:10:49.679,1:10:53.110
-los niveles de radiactividad son muy bajos y
-sólo que no en realidad representan un peligro.
+niveles de radiactividad son muy bajos y,
+en realidad, no representan un peligro.
 
 1:10:53.110,1:10:59.159
 El verdadero desafío de gestión del combustible gastado
-es la presencia de los transuránicos - plutonio,
+se encuentra en la presencia de los transuránidos:
 
 1:10:59.159,1:11:03.679
-americio, curio - porque se han moderado
-la vida media y tienen la decadencia complicada
+- plutonio, americio, curio - porque tienen una vida
+media y, además, tienen una secuencia de desintegración complicada.
 
-1:11:03.679,1:11:06.690
-cadenas. Cuando usted está buscando en una montaña de Yucca
-o un sitio de disposición de ustedes dicen: "¿Qué vamos
+1:11:03.679,1:11:07.219
+Cuando pensamos en Yucca Mountain o en un sitio para el
+depósito de residuos piensan: "¿Qué vamos a hacer con eso?
 
-1:11:06.690,1:11:07.219
-que ver con eso? "
+
+
+
 
 1:11:07.219,1:11:13.059
-La principal ventaja de este enfoque sobre LFTR
-es que no se forman los transuránicos. Quemamos
+La principal ventaja de este enfoque del LFTR
+es que no se producen los transuránidos.
 
 1:11:13.059,1:11:20.059
-hasta prácticamente la totalidad de los combustibles en este proceso
-porque no extraiga el combustible del reactor
+Quemamos prácticamente todo el combustibles en este proceso
+ya que no extraemos el combustible del reactor
 
 1:11:20.119,1:11:22.999
-hasta que es un producto de fisión.
+hasta que se ha convertido en un producto de fisión.
 
 1:11:22.999,1:11:27.019
-Idea general es que usted no quiere el uranio, el torio,
-o cualquier otra cosa para terminar en el flujo de residuos
+La idea general es que no queremos que el uranio, el torio,
+o cosas por el estilo terminen en un almacén de residuos
 
 1:11:27.019,1:11:31.380
-y eso es un asunto bastante sencillo
-en este reactor líquido como combustible. Así que nuestros residuos
+y eso es bastante sencillo de lograr
+en este reactor de combustible líquido. 
 
 1:11:31.380,1:11:37.650
-la historia es muy diferente. También puede entonces
-dar la vuelta y volver atrás y tomar algunas de las
+Así que la historia de los residuos es muy diferente.
+Pero también podemos dar la vuelta al razonamiento
 
 1:11:37.650,1:11:42.840
-de residuos que ya se ha creado en nuestro uranio como combustible
-reactores y potencialmente destruir a los largo
+y utilizar los residuos de larga vida que ya se han creado
+en nuestros reactores convencionales de uranio 
 
 1:11:42.840,1:11:44.780
-vivió transuránicos través de la fisión.
+y destruirlos mediante su fisión.
 
 1:11:44.780,1:11:49.570
-Esperando fuera de la corrupción es un proceso muy lento.
-El plutonio 239, por ejemplo, tiene un 24.000
+Esperar a que se desintegren por sí solos es un proceso
+extremadamente lento. El plutonio 239, por ejemplo, 
 
 1:11:49.570,1:11:52.820
-años de vida media. Eso es mucho tiempo que está
-va a estar esperando para que a la caries. En
+Tiene una vida media de 24.000 años. Esto supone esperar
+durante demasiado tiempo.
 
 1:11:52.820,1:11:56.530
-Por otro lado, puede que la fisión y
-los productos de fisión se desintegran muy rápidamente
+La alternativa es someterlo a fisión y, entonces,
+los productos de fisión se desintegrarán muy rápidamente
 
 1:11:56.530,1:12:00.230
-y usted también consigue una liberación de energía y un neutrón
-liberación, los cuales son buenos.
+y además conseguiremos generar energía y liberar 
+un neutrón, todo lo cual es muy bueno.
 
 1:12:00.230,1:12:04.190
-A miles de kilogramos de U-233 es más o menos lo que
-lo que tenemos. El noventa por ciento de los que va a la fisión.
+Todo lo que necesitamos es mil kilogramos de U-233, más o menos.
+El noventa por ciento del cual se fisionará.
 
 1:12:04.190,1:12:09.760
-Podemos hacer alrededor de 500 a $ 600 millones en electricidad
-y otros 50 o $ 60 millones en la fisión
+Podemos producir alrededor de 500 a 600 millones de dólares
+en electricidad, y otros 50 o 60 millones en la fisión del U-235
 
 1:12:09.760,1:12:15.510
-del uranio-235. Casi todos los que se
-finalmente terminan fisión. De los cerca de
+del cual, casi todo se terminará fisionando
+De los cerca de 1.000 Kg,
 
 1:12:15.510,1:12:20.849
-mil kilogramos, unos 15 kilogramos de
-plutonio-238 se queda. Esto es bueno
+quedarán al final unos 15 kilogramos de
+plutonio-238. Y este es realmente bueno.
 
 1:12:20.849,1:12:27.760
-cosas. La NASA está desesperada por estas cosas. El plutonio-238
-es diferente que el plutonio-239, el material
+La NASA está desesperada por conseguir este isótopo.
+El plutonio-238 es diferente del plutonio-239,
 
 1:12:27.760,1:12:30.739
-que su uso en bombas. De hecho, es inútil para
-bombas.
+que se usa en bombas. Este, sin embargo.
+no sirve para bombas.
 
 1:12:30.739,1:12:35.219
 Estos generadores termoeléctricos de radioisótopos
-están basadas en plutonio-238 y esta es la
+están basados en el plutonio-238 y esta es la
 
 1:12:35.219,1:12:39.650
 la única forma que hemos sido capaces de explorar el
-sistema solar exterior. Los Estados Unidos es único.
+sistema solar exterior.
 
 1:12:39.650,1:12:44.710
-Es el único país del mundo que ha
+EEUU, es el único país del mundo que ha
 enviado sondas espaciales más allá del Cinturón de Asteroides
 
 1:12:44.710,1:12:49.210
-y todo se ha basado en tener esta tecnología.
-Respuesta breve, estamos fuera de esto. Lo
+y todo se ha basado en utilizar esta tecnología.
+El problema que tenemos es que hemos agotado las existencias.
 
 1:12:49.210,1:12:53.900
-'S ha ido. Que lo hemos utilizado todo. Los rusos
-utiliza para vendernos algo. Han vendido todos nosotros
+Hemos utilizado todo lo que teníamos. Los rusos
+nos vendieron algo. Pero nos han vendido ya
 
 1:12:53.900,1:12:55.139
-su inventario. Se ha ido.
+todas sus existencias. Se han acabado.
 
 1:12:55.139,1:12:59.340
-Miles de millones tiene la NASA de dólares en el espacio profundo
-misiones de articulación de tener suficiente cantidad de este
+La NASA invierte miles de millones de dólares en
+misiones en el espacio profundo que dependen de esta 
 
 1:12:59.340,1:13:04.480
-material para ejecutar las baterías para que la cosa
-llamar a casa. Vamos a ser capaces de hacer esto en
+sustancia para que funcionen las baterías que permiten
+comunicarse con nosotros. Con un LFTR seríamos capaces de producirlo.
 
 1:13:04.480,1:13:08.369
-LFTR. Si has oído hablar a veces de nosotros diciendo
-"Quemamos el 99 por ciento del combustible y de allí
+Alguna vez nos habéis oído hablar de que somos capaces de
+"Quemar el 99 por ciento del combustible”
 
-1:13:08.369,1:13:14.599
-uno por ciento de izquierda ", el porcentaje de la izquierda es
-esas cosas y vale la pena casi tanto como
+1:13:08.369,1:13:15.670
+Pero queda un uno por ciento restante que vale la pena
+por sí mismo, casi tanto como lo que quemamos
 
-1:13:14.599,1:13:15.670
-las cosas que se queman.
+
 
 1:13:15.670,1:13:18.179
-Además, sería médico molibdeno-99.
+Además, seríamos capaces de producir molibdeno-99
+para usos médicos.
 
 1:13:18.179,1:13:23.360
-Estamos a punto de cerrar el reactor de un
-en Canadá que está haciendo el molibdeno-99 para
+En 2005 se va a cerrar un reactor en
+Canadá que produce el molibdeno-99 para
 
 1:13:23.360,1:13:28.469
-con fines médicos en 2015. Hay cientos
-de miles de pacientes que no se
+fines médicos. Si esto sucede, habrá cientos
+de miles de pacientes que no van a poder
 
 1:13:28.469,1:13:35.010
-capaces de obtener sus molibdeno-99 que
-necesidad de que los procedimientos de diagnóstico cuando esto sucede.
+disponer de molibdeno-99, que resulta necesario en
+procedimientos de diagnóstico.
 
 1:13:35.010,1:13:40.179
-Podemos hacer que el molibdeno-99 sólo en el curso normal de
-de operación y que puede quitar muy fácilmente.
+Podemos producir molibdeno-99 a través de su funcionamiento
+normal y lo podemos extraer muy fácilmente.
 
 1:13:40.179,1:13:46.320
-Hay cuatro cadenas de desintegración natural de la alfa-emisor
-radioisótopos. Uno empieza con U-238, U-235,
+Hay cuatro cadenas de desintegración natural para la producción
+de radioisótopos emisores-alfa. Uno empieza con U-238, U-235,
 
 1:13:46.320,1:13:53.099
-torio-232, y luego hay uno que es extinguido
-porque no tiene precursores de larga vida en
+torio-232, y luego hay uno se ha extinguido
+porque no tiene precursores de larga vida
 
 1:13:53.099,1:13:57.550
-que. Fue ahí, en los miles de millones de supernovas
-de años atrás. Se ha ido. Está en el U-233
+Fue entonces, hace miles de millones de años, en una supernova.
+Pero ya ha desaparecido. Se trata de la secuencia de desintegración
 
 1:13:57.550,1:14:03.079
-cadena de desintegración. Hay un producto especial en
-allí, bismuto-213, que podría ser una inteligente
+del Uranio-233. Hay un producto especial en ella,
+el bismuto-213, que podría llegar a ser una 
 
 1:14:03.079,1:14:07.849
-bomba contra el cáncer. Que atribuyen el bismuto-213
-a un anticuerpo.
+“bomba inteligente” contra el cáncer. Consiste en adherir
+el bismuto-213 a un anticuerpo.
 
 1:14:07.849,1:14:12.780
-Que el bismuto sólo tiene una vida media de 45 minutos
-así que es muy radiactivo y que va a desaparecer
+Ese bismuto tiene una vida media de sólo 45 minutos
+así que es muy radiactivo y va a desaparecer
 
 1:14:12.780,1:14:17.980
-rápidamente. Pero en ese tiempo, que los anticuerpos pueden
-ir a buscar a una célula cancerosa. La desintegración de bismuto
+rápidamente. Pero en ese tiempo, los anticuerpos pueden
+acoplarse a una célula cancerosa. La desintegración de bismuto
 
 1:14:17.980,1:14:22.469
-y partículas alfa pasa a través de la célula,
-y se elimina el cáncer. La técnica de radiación
+genera partículas alfa que colisionan con la célula,
+lo que consigue eliminar el cáncer. La técnica de radiación
 
 1:14:22.469,1:14:27.900
-que utilizamos en el tratamiento del cáncer hoy en día, todos son
-sobre la base de beta-emisor de los isótopos, no en el emisor alfa
+que utilizamos en el tratamiento contra el cáncer hoy en día, 
+se basa en isótopos emisores-beta, no en el emisores-alfa.
 
 1:14:27.900,1:14:34.429
-isótopos. Tienen un radio de matar grandes. Son
-no muy orientable. Está bien, pero en realidad es
+Tienen un radio de acción demasiado grande. No son
+tan orientables. No están muy mal pero, en realidad,
 
 1:14:34.429,1:14:35.789
-no una bomba inteligente.
+no son “bombas inteligentes”.
 
 1:14:35.789,1:14:39.920
-Alfa-admitiendo isótopos son realmente raros.
+Los isótopos emisores-alfa son realmente raros.
 Es difícil conseguirlos. Es difícil obtener el
 
 1:14:39.920,1:14:44.059
-tipo de derecho, el derecho de un producto químico que se
-bloqueo en lo correcto que es lo suficientemente cerca
+tipo adecuado, el producto químico específico que
+actúe sobre lo que necesitamos y, además, que esté
 
 1:14:44.059,1:14:48.249
-de ser estable incluso después de que se desintegra,
-no sólo la decadencia diez veces más en el
+suficientemente cerca de ser estable, es decir, que una
+vez se desintegre, no lo haga diez veces más, dentro del cuerpo.
 
 1:14:48.249,1:14:51.780
-cuerpo. Bismuto-213 es una descomposición de distancia de ser
-hacer.
+El Bismuto-213 sólo se descompondrá una vez
+antes de ser estable.
 
 1:14:51.780,1:14:57.949
-Y es especialmente bueno contra la dispersión
-cánceres, como leucemia, cáncer de la sangre.
+Y es especialmente bueno contra los cánceres
+dispersos, como leucemia, el cáncer de la sangre.
 
 1:14:57.949,1:15:01.949
-Cánceres no tumorales, donde hay una gran
-bulto duro que se puede entrar y cortar con
+Cánceres no tumorales, donde no existe una gran
+bulto duro que se pueda extirpar con cirugía,
 
 1:15:01.949,1:15:06.639
-la cirugía, pero cosas que son difíciles de conseguir.
-El cáncer de páncreas - se obtiene el cáncer de páncreas,
+sino otros que son difíciles de tratar.
+Por ejemplo, el cáncer de páncreas -si padecemos cáncer de páncreas,
 
 1:15:06.639,1:15:10.260
-probablemente esté buscando a una sentencia de muerte,
-eso es lo malo que es.
+probablemente sea lo más parecido a una sentencia de muerte,
+suele ser realmente maligno.
 
 1:15:10.260,1:15:17.260
-Aquí está el problema, bismuto-213 es único
-en esta capacidad y el bismuto-213 sólo puede
+El problema es que el bismuto-213 es el único
+con esta peculiaridad y sólo puede
 
 1:15:17.730,1:15:19.780
 generarse a partir de la desintegración del uranio-233.
