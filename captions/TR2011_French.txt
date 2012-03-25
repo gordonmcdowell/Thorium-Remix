@@ -4830,7 +4830,759 @@ le champ magnétique. Si on n'avait pas
 l'énergie du thorium, on n'aurait pas
 le recyclage du carbone dans la croûte.
 
-1:30:10.000,1:10:40.000
+1:30:02.340,1:30:07.010
+Le champ magnétique est une plus grosse aiffaire,
+parce que le champ magnétique dévie le vent solaire
+
+1:30:07.010,1:30:11.900
+Si vous n'avez pas un champ magnétique pour dévier
+le vent solaire, après des milliards d'années, votre
+
+1:30:11.900,1:30:17.489
+planète se termine comme Mars. Parce que le vent
+solaire va dénuder l'atmosphère d'une planète
+
+1:30:17.489,1:30:22.909
+sans la protection du champ magnétique.
+Donc, si nous n'avions pas l'énergie
+
+1:30:22.909,1:30:26.340
+du thorium à l'intérieur de la Terre,
+nous serions sur une planète morte.
+
+1:30:26.340,1:30:28.309
+Un truc amusant, je dis aux gens:
+"C'est quoi,l'énergie verte?"
+Ils disent: "La géothermie est de l'énergie verte."
+
+1:30:28.309,1:30:33.340
+"Savez-vous d'où vient l'énergie géothermique?"
+"Non"
+"De la désintégration du thorium à l'intérieur de la Terre."
+
+1:30:33.340,1:30:37.780
+
+"L'énergie géothermique est-elle renouvelable?"
+"Oui!"
+"OK, alors le thorium est renouvelable."
+
+1:30:37.780,1:30:40.550
+"Non, vous le consommez!"
+"Eh bien, on consomme le thorium quand il se désintègre
+à l'intérieur de la Terre aussi.
+"
+
+1:30:40.550,1:30:45.929
+Donc, tout argument pour l'énergie géothermique,
+rigoureusement poursuivi, est un argument pour
+
+1:30:45.929,1:30:49.739
+le thorium en tant que ressource énergétique.
+Et j'adore avoir ce débat. En générale ils changent
+
+1:30:49.739,1:30:51.280
+les règles au fur et à mesure que j'avance.
+
+1:30:51.280,1:30:56.369
+Mais c'est un bon plan si vos amis commencent
+à vous tacquiner quand vous venez
+
+1:30:56.369,1:31:00.829
+sur protospace pour parler de thorium, vous dites:
+"Mec, c'est de l'énergie verte."
+"Quoi?"
+
+1:31:00.829,1:31:05.139
+Si vous êtes concernés par l'environnement,
+il faut être conscient de la densité de puissance
+
+1:31:05.139,1:31:11.139
+de toute source. Quiconque essaie
+de vous vendre des biocarburants, ou ce genre de chose,
+
+1:31:11.139,1:31:16.260
+qu'est-ce qu'on fait de l'inefficacité thermodynamiques
+des moteurs à combustion? Les carburants
+
+1:31:16.260,1:31:22.289
+sont en bas ici. Chaque fois qu'on brûle quelque chose,
+on utilise un processus très inefficace. La thermodynamique
+
+1:31:22.289,1:31:26.710
+nous donne typiquement environ 30%
+de l'énergie quand on brûle du carburant.
+
+1:31:26.710,1:31:31.369
+Donc, chaque fois que vous mettez un dollar d'essence
+dans votre voiture, dites au revoir à 60 cents,
+
+
+1:31:31.369,1:31:35.639
+parce qu'il va sortir du tuyau d'échappement en tant que
+chaleur. Et nous gaspillons 10% de ce qui est généré
+
+1:31:35.639,1:31:39.699
+dans les lignes à haute tension. Donc, quand ils parlent
+de ces fermes solaires isolées, ou fermes éoliennes
+
+1:31:39.699,1:31:43.210
+isolées, il y a une dette de 10% qu'on paye,
+dès maintenant,
+
+1:31:43.210,1:31:45.820
+pour toujours. On ne va jamais récupérer cette énergie.
+
+1:31:45.820,1:31:51.820
+Une éolienne Siemens haut de gamme de 5MW
+occupe 4 hectares. Et 5MW pour
+
+1:31:51.820,1:31:56.389
+4 hectares, c'est 1,25MW par hectare.
+Si on passe à la fission, on a des centaines
+
+1:31:56.389,1:32:02.229
+de milliers de watts en plus par m², par
+hectare, par livre. Peu importe. Et si on passe
+
+1:32:02.229,1:32:08.519
+à la fusion, on a encore 10.000 fois ça.
+On n'a pas besoin d'attendre la fusion, parce que
+
+1:32:08.519,1:32:12.010
+la fission est déjà suffisante, en particulier
+avec le cycle du thorium.
+
+
+
+
+
+1:32:12.010,1:32:16.409
+Un article nucléaire est écrit. L'auteur
+ira vers moi, ou Rod Adams,
+
+1:32:16.409,1:32:20.949
+ou John Wheeler - quelqu'un qui est connu
+comme un défenseur du nucléaire. Et puis
+
+1:32:20.949,1:32:25.389
+pour l'autre côté, Ed Lyman, ou Jim Riccio
+de Greenpeace, ou l'un de ces autres gars.
+
+1:32:25.389,1:32:29.110
+En contraste, pour un article sur le solaire
+ou l'éolienne (et je cherche cela tout le temps);
+
+1:32:29.110,1:32:33.389
+J'essaie toujours de voir, y a t-il un autre
+côté dans ces articles? Il n'y a jamais un autre
+
+1:32:33.389,1:32:36.979
+côté. "Telle et telle entreprise a annoncé
+qu'ils vont mettre 50MW d'éoliennes
+
+1:32:36.979,1:32:39.659
+sur ce site." Le monde se réjouit!
+
+1:32:39.659,1:32:42.159
+Et ils ont mâché la moitié de la montagne
+pour y installer les éoliennes.
+
+1:32:42.159,1:32:46.389
+Ils obtiennent plus de subventions par mégawattheure
+que toute autre forme d'énergie par un ou deux
+
+1:32:46.389,1:32:51.949
+ordres de grandeur. C'est énorme! On propose
+de racheter de l'énergie solaire aux gens
+
+1:32:51.949,1:32:57.400
+qui la produisent pour 35 à 50 cents par
+kilowattheure. C'est obscène!
+
+1:32:57.400,1:33:00.960
+Si vous produisez de l'énergie chez vous,
+vous devriez la revendre au réseau au prix
+
+1:33:00.960,1:33:05.260
+du marché à ce moment-là. Le réseau ne devraient
+pas être obligé de vous l'acheter
+
+1:33:05.260,1:33:06.989
+à un prix massivement augmenté.
+
+1:33:06.989,1:33:09.400
+Mais ils subventionnent la technologie
+jusqu'à ce qu'elle devienne plus efficace.
+
+1:33:09.400,1:33:12.409
+Lorsque tous ces tarifs sont réduits,
+ceux qui sont censés encourager,
+
+1:33:12.409,1:33:17.179
+et lancer une industrie, l'industrie s'écroule.
+L'industrie solaire en Allemagne et en Espagne est
+
+1:33:17.179,1:33:21.739
+en effondrement total en raison de
+la suppression projetée des subventions,
+
+1:33:21.739,1:33:26.300
+car ce ne sont pas des sources d'énergie économiques.
+La subvention est peut être bien intentionnée pour essayer
+
+1:33:26.300,1:33:30.260
+de faire démarrer l'industrie toute seule, mais
+ce n'est pas comme ça que les choses fonctionnent.
+
+1:33:30.260,1:33:34.539
+Chaque source d'énergie est subventionnée, non?
+Si le pétrole est subventionné parce que nous envoyons
+
+1:33:34.539,1:33:35.869
+les gens à la guerre ...
+
+1:33:35.869,1:33:41.059
+Les niveaux des subventions sont sensiblement
+inférieurs pour les industries établies que pour
+
+1:33:41.059,1:33:42.909
+des choses comme le solaire et l'éolienne.
+
+1:33:42.909,1:33:46.769
+George Monbiot, qui écrit dans The Guardian,
+a récemment déclaré très fortement
+
+1:33:46.769,1:33:50.280
+son soutien pour l'énergie nucléaire à cause de
+ce qui s'est passé à Fukushima Daiichi, il a survécu au
+
+1:33:50.280,1:33:55.559
+tremblement de terre et l'effet global a été
+rien comparé aux pertes de vie du tsunami.
+
+1:33:55.559,1:33:59.199
+Eh bien, dans un article qu'il a écrit
+hier il mentionne qu'il a parlé à Caroline Lucas,
+
+1:33:59.199,1:34:04.300
+le chef du Parti des verts au UK. Et il lui demande
+pourquoi elle soutient les subventions pour
+
+1:34:04.300,1:34:07.579
+le solaire et l'éolienne. Elle dit: "je m'oppose aux subventions
+pour le nucléaire, mais je soutien ceux de l'énergie solaire et
+
+1:34:07.579,1:34:11.340
+éolienne parce que le nucléaire est une industrie bien établie
+et l'énergie solaire et éolienne sont en développement,
+
+1:34:11.340,1:34:15.960
+elles ont besoin d'un soutien public afin de prospérer."
+Et George, un gars très intelligent, demande:
+
+1:34:15.960,1:34:20.889
+"Soutenez-vous la recherche sur les réacteurs à thorium,
+qui pourraient fournir un moyen beaucoup plus sûr
+
+1:34:20.889,1:34:23.670
+et moins cher de produire de l'énergie nucléaire?"
+
+1:34:23.670,1:34:28.460
+"Non, parce que les réacteurs à thorium ne sont pas
+une technologie éprouvée."
+
+1:34:28.460,1:34:32.749
+Sur le plan individuel, on voit beaucoup
+de personnes qui changent d'avis. Mais au niveau de
+
+1:34:32.749,1:34:38.280
+l'organisation on ne voit aucun changement: Les gens
+qui dirigent les organisations, et c'est dommage.
+
+1:34:38.130,1:34:43.209
+Vous êtes-il arrivé d'avoir une face à face
+avec quelqu'un, et ils comprennent?
+
+1:34:43.209,1:34:47.300
+C'est dur pour les gens qui occupent des positions
+hiérarchiques dans ces organisations
+
+1:34:47.300,1:34:51.959
+de faire des déclarations de politique en publique.
+Les gens comprennent en face à face, mais ils ont peur
+
+1:34:51.959,1:34:56.920
+d'être le premier à se lever et dire: "Ra-ra-ra,
+allons le faire." C'est beaucoup plus facile quand
+
+1:34:56.920,1:34:58.789
+vous sentez que tout le monde est derrière vous.
+
+1:34:58.789,1:35:04.249
+Pourquoi les appels aux progrès technologiques
+sont-ils toujours faits pour le solaire et l'éolienne?
+
+1:35:04.249,1:35:07.159
+Ça va s'améliorer, ça va être moins cher,
+ça va devenir plus efficace.
+
+1:35:07.159,1:35:10.719
+Ne vous inquiétez pas de ce que nous avons maintenant,
+ça va être mieux l'année prochaine.
+
+
+1:35:10.719,1:35:14.869
+Mais on attribue au nucléaire cette position des années 50
+où il ne peut jamais faire des progrès,
+
+1:35:14.869,1:35:19.289
+il ne peut jamais intégrer une nouvelle technologie,
+il ne peut jamais s'améliorer, et on n'arrive même pas
+
+1:35:19.289,1:35:20.840
+à espérer qu'il peut faire des progrès.
+
+1:35:20.840,1:35:25.719
+Le nucléaire aujourd'hui, c'est le réacteur refroidi à l'eau,
+le combustible solide à oxyde d'uranium, un rendement faible
+
+1:35:25.719,1:35:31.510
+et le turbine à vapeur. C'est ça l'énergie nucléaire
+d'aujourd'hui. Donc les gens regardent Fukushima
+
+1:35:31.510,1:35:37.789
+Daiichi et ils disent: "Est-ce la fin de l'énergie
+nucléaire?" et je dis: "Non, ce n'est pas la fin de
+
+1:35:37.789,1:35:39.300
+l'énergie nucléaire, il y a une zillion d'autres façons
+de faire le nucléaire."
+
+1:35:39.300,1:35:44.190
+Nous avons travaillé sur un réacteur refroidi par
+un sel liquide, un combustible nucléaire sous la forme
+
+1:35:44.190,1:35:45.429
+de cailloux solide.
+
+1:35:45.429,1:35:50.739
+Ils sont refroidis par des sels de fluorure, mais le
+combustible n'est pas dissoute dans le sel,
+
+1:35:50.739,1:35:51.809
+c'est dans une forme solide.
+
+1:35:51.809,1:35:56.690
+On m'a invité dans le bureau du directeur.
+Le physicien là me dit: "Vous avez inventé
+
+1:35:56.690,1:36:02.969
+un nouveau surgénérateur thorium uranium-233."
+Vous connaissez EXYDER, bien sûr que non.
+
+1:36:02.969,1:36:07.659
+Imaginez un réacteur à eau légère où le système
+d'approvisionnement de vapeur nucléaire
+
+1:36:07.659,1:36:14.449
+est dans un seul récipient, sans tuyaux
+supérieurs à environ 7,5cm
+
+1:36:14.449,1:36:17.570
+de diamètre. Je travaille sur ce type de réacteur.
+
+1:36:17.570,1:36:22.829
+La réaction des gens à Fukushima était une
+indication qu'ils ne comprenaient pas
+
+1:36:22.829,1:36:29.780
+les options autour du nucléaire. La mise à jour de l'ancienne
+infrastructure va significativement améliorer la sécurité.
+
+1:36:29.780,1:36:36.159
+Les génération 2 et 3 sont toujours opérationnels,
+la génération 3.5 est en construction
+
+1:36:36.159,1:36:40.869
+aujourd'hui et la génération 4 a des normes de sécurité
+plus élevées, plus facile donc moins cher à construire,
+
+1:36:40.869,1:36:46.150
+un meilleur rendement, de l'énergie radicalement moins chère,
+des réacteurs encore plus sûrs.
+
+1:36:46.150,1:36:50.570
+Peut-être qu'il y a une meilleure façon,
+si vous trouvez comment faire mieux, je serai heureux
+
+1:36:50.570,1:36:55.499
+d'arrêter LFTR pour aller faire tout ce qui est mieux.
+C'est la meilleure façon que j'ai trouvé à ce jour.
+
+1:36:55.499,1:36:57.449
+Pouvez-vous faire un récapitulatif
+sur ce que l'étude a dit?
+
+1:36:57.449,1:37:01.190
+Le titre de l'étude était: "Le thorium n'était pas
+la panacée pour l'énergie nucléaire." Ils essayaient
+
+1:37:01.190,1:37:03.190
+de souligner les lacunes du thorium.
+
+1:37:03.190,1:37:09.829
+Je ne pensais pas qu'ils applicaient une logique
+très juste car ils disaient: "le thorium
+
+1:37:09.829,1:37:14.320
+dans un réacteur à combustible solide ferait bla bla bla.
+Voyez? Ce n'est pas très bon, donc le thorium est stupide."
+
+1:37:14.119,1:37:17.820
+Eh bien non, le thorium est stupide dans un réacteur
+à combustible solide. Non pas "le thorium est stupide."
+
+1:37:17.820,1:37:23.579
+Si vous remettez quelque chose
+au public en disant "je vais refuter
+
+1:37:23.579,1:37:28.440
+l'utilisation du thorium comme source d'énergie",
+alors il vous incombe de faire vos devoirs.
+
+1:37:28.440,1:37:30.880
+Si c'est aussi sûr que cela, qu'est-ce qui empêche
+les gouvernements nord-américains de créer
+
+1:37:30.880,1:37:37.880
+le réacteur? Quelle est la chose effrayante
+?
+
+1:37:38.579,1:37:43.050
+Ah, vous pensez comme moi il y a 10 ans,
+vous cherchez une raison pour ne pas faire,
+
+1:37:43.050,1:37:47.590
+
+je ne pense pas qu'il y a une raison pour ne pas faire.
+Il y a peut être une raison qu'ils ne soient pas enthousiastes,
+
+1:37:47.590,1:37:49.360
+mais il n'y a aucune raison qu'ils ne peuvent pas le faire.
+
+1:37:49.360,1:37:55.659
+Si je suis une entreprise qui fabrique des CANDU ou des
+réacteurs à eau légère, quel est l'avantage concurrentiel
+
+1:37:55.659,1:37:59.900
+de poursuivre cette autre direction?
+Probablement il n'y en a pas.
+
+1:37:59.900,1:38:03.570
+Il y a une telle chose que le piratage nucléaire, c'est
+ce que tout cela concerne, parce qu'on
+
+1:38:03.570,1:38:09.429
+ne parle pas d'une technologie nucléaire de la manière
+que c'est fait maintenant, on parle d'une approche
+
+1:38:09.429,1:38:11.690
+complètement différente à l'énergie nucléaire.
+
+1:38:11.690,1:38:15.940
+Alors peut-être qu'à l'avenir on regardera en arrière
+et c'est des réunions comme celle-ci qu'on dira:
+
+1:38:15.940,1:38:19.449
+"C'est là que ça a commencé. Ca n'a 
+pas démarré à Westinghouse ou Atomic
+
+1:38:19.449,1:38:24.909
+Energy of Canada, ou GE." Il y a une tonne de choses qu'on
+pourrait faire dans ce réacteur qui n'impliquent même pas
+
+1:38:24.909,1:38:29.400
+les matériaux radioactifs. Tous les trucs comme
+le système de conversion de puissance, toute la chimie,
+
+1:38:29.400,1:38:31.309
+qui pourraient toutes être non nucléaires.
+
+1:38:31.309,1:38:37.249
+Je n'ai pas beaucoup de confiance que l'industrie va
+l'adopter, pour être honnête, on attend
+
+
+1:38:37.249,1:38:43.039
+quoi exactement d'eux? Toute leur technologie est basée
+sur des choses qui n'iront pas dans cette machine.
+
+1:38:43.039,1:38:47.739
+Nous voulons le fait qu'ils ont l'oreille
+des gouvernements et de très grandes banques.
+
+1:38:47.739,1:38:51.829
+OK, on ne construit pas beaucoup de réacteurs
+nucléaires actuellement. Tout leur argent vient
+
+1:38:51.829,1:38:56.690
+de contrats d'approvisionnement de combustible. C'est
+comment GE et Westinghouse font de l'argent avec l'énergie
+
+1:38:56.690,1:39:01.329
+nucléaire aujourd'hui, ils ne construisent pas des réacteurs,
+ils vendent du combustible. Il y a 30 ans ils construisaient
+
+1:39:01.329,1:39:04.889
+des réacteurs, mais ce n'est pas
+ce qui se passe aujourd'hui.
+
+1:39:04.889,1:39:10.030
+Ainsi, leur modèle d'affaires est très largement
+dominé par la fabrication de combustible. Vous dites:
+
+1:39:10.030,1:39:15.260
+"Hé, j'ai un réacteur, il n'a pas le coté fabrication
+de combustible." Vous avez bouleversé leur modèle d'affaires.
+
+1:39:15.260,1:39:19.489
+Aux États-Unis, nous construisons actuellement deux réacteurs.
+Nous allons fermer plus de réacteurs
+
+1:39:19.489,1:39:24.590
+que ça dans quelques années. On ne prend pas
+de l'avance, on aura de la chance si on tient
+
+1:39:24.590,1:39:27.329
+notre position. Je ne pense même pas
+qu'on sera en mesure de faire cela.
+
+1:39:27.329,1:39:29.880
+Qu'en est-il des pays en développement
+comme la Chine et l'Inde?
+
+1:39:29.880,1:39:33.690
+La Chine déchire, elle construit
+environ 50 réacteurs actuellement.
+
+1:39:33.690,1:39:39.170
+Mais même la Chine a réalisé, "On ne peut pas construire
+des réacteurs autour du refroidissement à l'eau
+
+1:39:39.170,1:39:43.889
+et le combustible à oxyde d'uranium, il ne va pas durer."
+La Chine fait du LFTR, en ce moment même.
+
+1:39:43.889,1:39:45.709
+J'ai appris ça il y a quelques mois.
+
+1:39:45.709,1:39:48.579
+Où ont-ils trouvé les plans?
+Ou ils les développent?
+
+1:39:48.579,1:39:55.300
+Eh bien, ils ont probablement eu tout un tas
+de trucs à partir des fichiers PDF sur mon site.
+
+1:39:55.300,1:40:01.699
+Ca a été dans le domaine public depuis longtemps.
+Je l'ai juste rendu un peu plus facile à obtenir.
+
+1:40:01.699,1:40:05.670
+C'était il y a 10 ans. J'habitais dans l'Alabama
+et j'ai pu remonter en voiture
+
+1:40:05.670,1:40:08.909
+à Oak Ridge, puis parler avec quelques-uns des
+gens là-bas. Et j'ai dit: "Hé, j'ai entendu
+
+1:40:08.909,1:40:13.909
+qu'il y a longtemps vous avez fait ce truc vraiment
+cool. Qu'est-ce qui se passe?" Et ils disent:
+
+1:40:13.909,1:40:17.360
+"Ouais, il y a longtemps on a fait un truc vraiment
+cool et tout le monde qui l'a fait est maintenant
+
+1:40:17.360,1:40:18.320
+soit retraité, soit mort."
+
+1:40:18.320,1:40:22.199
+Et je dis: "Oh, ce n'est pas bien. Qu'est ce qu'on
+peut faire?" et ils disent: "Eh bien, ils ont écrit
+
+1:40:22.199,1:40:27.119
+beaucoup de papiers et plein de rapports."
+J'ai dit: "Oh, OK. Je peux les obtenir?" "Oh Oui"
+
+1:40:27.119,1:40:31.729
+Ils m'ont emmenée à ce classeur et il était
+plein de trucs. Et j'ai copié sur PDF - pas tout,
+
+1:40:31.729,1:40:33.889
+mais la plus grande partie, environ les deux tiers.
+
+1:40:33.889,1:40:40.030
+Alors, j'avais ce tas de CDs et je pensais
+"Oh!" Envoyer une copie au secrétaire de l'Énergie,
+
+1:40:40.030,1:40:44.530
+envoyer une copie au directeur des National Labs,
+envoyez-le à ces différents endroits,
+
+1:40:44.530,1:40:50.409
+sûr qu'ils allaient recevoir des CD d'une personne
+aléatoire et les mettre dans leur ordinateur
+
+1:40:50.409,1:40:55.179
+et les étudier longuement - tous les cinq gigaoctets - 
+et arriver à la même conclusion
+
+1:40:55.179,1:41:00.650
+que moi, puis changer la politique nationale.
+Bien sûr, non? Si nous n'arrivons pas à transmettre
+
+1:41:00.650,1:41:04.869
+ce message à tout le monde,
+alors rien ne va changer.
+
+1:41:04.869,1:41:10.039
+Au début de 2010 les blogueurs EFT ont remarqué
+plein de gars qui essayaient de s'inscrire
+
+1:41:10.039,1:41:13.769
+de Shanghai, Beijing et ils ont commencé à poser
+des questions sur ceci et cela.
+
+1:41:13.769,1:41:17.780
+Ils sont allés à Oak Ridge. Ils ont fait un tour
+et on leur a montré tout. Et c'est
+
+1:41:17.780,1:41:21.619
+rigolo à Oak Ridge, car ils parlent
+de l'info et du nano et du bio et
+
+1:41:21.619,1:41:25.139
+on a envie de demander: "Qu'en est-il du nucléaire?"
+Ils ne parlent jamais de cette partie.
+
+1:41:25.139,1:41:29.420
+Et ils arrivent à la fin du tour et le nom
+de l'officiel Chinois était le Dr Jiang Mianheng ...
+
+1:41:29.420,1:41:32.979
+Ce qui est intéressant avec le Dr Jiang Mianheng,
+son père était Jiang Zemin, qui était
+
+1:41:32.979,1:41:38.300
+président de la Chine. Donc, ce n'est pas un gars qui est
+mal placé dans la société chinoise.
+
+1:41:38.300,1:41:40.280
+Eduqué aux Etats-Unis, en Pennsylvanie.
+
+1:41:40.280,1:41:43.989
+Doctorat en génie électrique de l'Université de Drexel;
+un gars très, très intélligent.
+
+1:41:43.989,1:41:49.579
+Ils avaient un accord de confidentialité entre le RGOE
+et le gouvernement chinois. Les gens d'Oak Ridge disent:
+
+1:41:49.579,1:41:54.249
+"On a eu ce grand tour. Avez-vous appris ce que
+vous vouliez apprendre?" et ils disent: "En réalité,
+
+1:41:54.249,1:41:58.139
+nous sommes ici pour apprendre davantage sur le réacteur
+à sels fondus. Nous allons en construire un - nous avons
+
+1:41:58.139,1:42:01.070
+déjà choisi un site, nous allons
+le construire avant 2020, et nous sommes ici
+
+1:42:01.070,1:42:06.340
+pour apprendre tout ce que nous pouvons à ce sujet."
+Et les gens d'Oak Ridge - "Euh ..."
+
+1:42:06.340,1:42:09.559
+Quelqu'un avait des écouteurs dans les oreilles
+quand je parlais pour essayer de couvrir ma voix?
+
+1:42:09.559,1:42:14.639
+Les plus vieux comme moi se souviendront du jour
+où les écouteurs ne ressemblait pas à ça.
+
+1:42:14.639,1:42:19.459
+Le truc a été l'invention d'un petit aimant
+basée sur le néodyme, les aimants néodyme-fer-bore.
+
+1:42:19.459,1:42:23.590
+Des aimants extrêmement puissants, et ils
+utilisent un minerai de terres rares appelé néodyme.
+
+1:42:23.590,1:42:29.440
+Et comme les aimants néodyme-fer-bore sont si puissants,
+un des endroits où ils trouvent leur application
+
+1:42:29.440,1:42:32.909
+est dans les générateurs en haut des éoliennes.
+
+1:42:32.909,1:42:37.869
+La demande mondiale pour l'éolienne a vraiment
+augmenté le désir de trouver du néodyme.
+
+1:42:37.869,1:42:41.780
+Actuellement tout est exploité en Chine.
+Alors, pourquoi je parle du néodyme?
+
+1:42:41.780,1:42:46.309
+Eh bien, parce que le thorium est toujours trouvé avec
+les éléments terres rares lourds. Si vous vous souvenez
+
+1:42:46.309,1:42:50.539
+de votre tableau périodique, les lanthanides, la colonne
+au dessus des actinides, c'est toutes les terres rares.
+
+1:42:50.539,1:42:56.389
+La politique du Thorium de tous les pays occidentaux
+déstabilise le développement d'un marché domestique
+
+1:42:56.389,1:43:00.039
+de terres rares. Toutes les terres rares que
+la plupart des sociétés minières occidentales sont prêtes
+
+1:43:00.039,1:43:05.510
+à traiter sont ce qu'ils appellent bastnasites
+ou de carbonatites. Ils choisissent généralement ces
+
+1:43:05.510,1:43:10.989
+terres rares non pas pour leurs ratios élevés
+de terres rares, mais pour l'absence de thorium.
+
+1:43:10.989,1:43:16.599
+Donc par conséquent, la seule exploitation des terres rares,
+qui vient d'ouvrir cette année, selon
+
+1:43:16.599,1:43:22.599
+leurs propres dépôts à l'USGS, produit
+essentiellement la moitié la plus légère de l'échelle
+
+1:43:22.599,1:43:28.449
+des lanthanides et en fait, a quelques monazites,
+qui sont une minéralisation enrichie de terres rare de thorium,
+
+1:43:28.449,1:43:29.719
+dont ils disposent.
+
+1:43:29.719,1:43:35.329
+Donc ce qui arrive partout en Amérique, au Canada,
+et Amérique du Sud, il y a des beaux dépôts
+
+1:43:35.329,1:43:40.209
+de monazite qui ont de terres rares lourdes, qui pourraient
+être très commerciales, à l'exception du contenu en thorium.
+
+1:43:50.000,1:44:30.000
 Les sous-titres français restants sont en cours de
 traduction. Ils seront mis à disposition dès que possible.
-
