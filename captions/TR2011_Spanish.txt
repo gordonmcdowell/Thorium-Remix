@@ -4043,104 +4043,103 @@ con esta peculiaridad y sólo puede
 generarse a partir de la desintegración del uranio-233.
 
 1:15:19.780,1:15:26.780
-A veces incluso se encuentran en la cama pensando, si mi
-hijo tenía leucemia, lo difícil que voy a trabajar
+A veces incluso medito en la cama pensando: que pasaría si
+mi hijo tuviera leucemia; estaría dispuesto a trabajar
 
 1:15:27.239,1:15:32.510
-en conseguir esta terapia listo para su
-salvar vidas y si es tan importante por qué,
+muy duro para conseguir que esta terapia estuviera lista.
+¿Pero, entonces, si es tan importante para salvar vidas,
 
 1:15:32.510,1:15:34.679
-no se me va de paso total en la que en este momento?
+porqué no lo hacemos en este momento?
 
 1:15:34.679,1:15:36.280
-¿Cuánto cuesta construir?
+¿Cuánto costaría construirlo?
 
 1:15:36.280,1:15:40.969
-¿Cuál es su cifra aproximada? Es Página Principal
-Material de depósito, o ...
+¿Cuál es la cifra aproximada? ¿Sería posible fabricarlo con
+materiales de Home Depot, o ...?
 
 1:15:40.969,1:15:47.969
-No. No, creo que una primera unidad que es, probablemente,
-va a ser del orden de megavatios 20/30
+No. No, creo que una primera unidad que, probablemente,
+sea del orden de 20/30 MW eléctricos
 
 1:15:48.949,1:15:52.900
-eléctrica - que estamos buscando a varios cientos de
-millones de dólares para desarrollar, pero luego
+- estamos buscando varios cientos de
+millones de dólares para desarrollarlo, pero luego
 
 1:15:52.900,1:15:58.670
-dando un paso más allá de la utilidad de la clase
-reactor de escala, probablemente, otros varios cientos de
+el paso siguiente será construir un prototipo a escala
+comercial, probablemente, otros varios cientos de
 
 1:15:58.670,1:15:59.369
 millones de dólares.
 
 1:15:59.369,1:16:03.440
-Probablemente usted está buscando a un mil millones de dólares
-para traer para arriba a la utilidad de la clase, pero cuando
-
+Probablemente necesitaremos mil millones de dólares
+para fabricar un prototipo comercial, pero cuando
 1:16:03.440,1:16:08.550
-se tiene en cuenta lo que va a hacer, eso es
-Realmente no todos los que mucho dinero. Una gran parte de ella
+se tiene en cuenta todo lo que va a hacer, eso no es
+realmente tanto dinero. Una gran parte del coste
 
 1:16:08.550,1:16:12.719
-es la ingeniería y la regulación
-es un gran signo de interrogación.
+es ingeniería y, por otro lado tenemos la regulación,
+que es una gran incógnita.
 
 1:16:12.719,1:16:15.619
-En realidad no es mucho dinero, en un sentido.
+En realidad no es mucho dinero, en este sentido.
 
 1:16:15.619,1:16:20.710
-He aprendido que no es sobre el número, es
-por la incertidumbre sobre el número. Puede
+He aprendido que la dificultad no está en la cantidad, sino
+en la incertidumbre sobre dicha cantidad.
 
 1:16:20.710,1:16:24.460
-ir a un banco de inversión en este momento y que
-puede decir: "Quiero construir y la perforación petrolera
+Podríamos ir a un banco de inversión en este momento y
+decirles: "Quiero hacer una plataforma petrolífera
 
 1:16:24.460,1:16:29.449
-plataforma y que va a costar 12 mil millones
-dólares ", y le escribe un cheque
+que va a costar 12.000 millones de dólares"
+y entonces nos extenderían un cheque por esa cantidad.
 
 1:16:29.449,1:16:33.730
-por eso, porque se puede ir y decir: "He
-construido 50 de estas plataformas de antes, aquí está
+Eso es así, porque ya he construido otras
+50 plataformas antes, y por eso sabemos
 
 1:16:33.730,1:16:37.039
-sobre los que el precio de salir. Va
-para ir en esta zona, que ahora está produciendo
+lo que va a costar construirla. Se va
+a instalar en tal zona, que ahora está produciendo
 
 1:16:37.039,1:16:39.949
-esta cantidad de aceite, que va a estar aquí.
-Se va a tomar este tiempo para recuperar este
+esta cantidad de petróleo.
+Vamos a necesitar tanto tiempo para recuperar esa
 
 1:16:39.949,1:16:44.489
-cantidad de aceite en función de cómo lo hemos hecho los demás
-50 veces. "Y se van, no hay mucho
+cantidad de petróleo, en función de cómo lo hemos hecho,
+las anteriores 50 veces. No hay una gran
 
 1:16:44.489,1:16:46.550
-de incertidumbre en hacer esto.
+incertidumbre en hacer eso.
 
 1:16:46.550,1:16:49.260
-Se empieza por no hacer una LFTR completo ...
+Porqué en lugar de hacer un LFTR completo ... 
+fabrican algunos componentes 
 
 1:16:49.260,1:16:49.599
-Sí.
+¿Sí?
 
 1:16:49.599,1:16:53.360
-... Pero haciendo como una pequeña. Tome un poco
-de estos subproductos y usar ese dinero
+¿.... para vender algunos de estos subproductos
+y utilizar ese dinero
 
 1:16:53.360,1:16:55.920
-para conseguir este pequeño escenario primero que se inicia
-ganar dinero ...
+para fabricar un primer prototipo a escala comercial...?
 
 1:16:55.920,1:16:59.179
-¿Estás seguro de que no tenemos conectado ethernet
+¿Estás seguro de que no tenemos conectado  un cable ethernet
 en la parte posterior de su cabeza en alguna parte?
 
 1:16:59.179,1:16:59.960
-Que estamos haciendo aquí inalámbrica. No creo.
+¿Tenemos conexión inalámbrica? No lo creo.
 
 1:16:59.960,1:17:01.010
 ¿Podría repetir la pregunta?
@@ -4153,197 +4152,197 @@ No. Lo siento, esta pregunta no está cubierta
 por un acuerdo de confidencialidad.
 
 1:17:10.900,1:17:12.269
-Tenemos algunas personas inteligentes en este cuarto.
+Tenemos algunas personas realmente inteligentes
+en esta sala.
 
 1:17:12.269,1:17:17.420
-En la ingeniería aeroespacial, se nos enseñó a
-poner los costos de desarrollo y los costos unitarios en el
+En ingeniería aeroespacial, se nos enseñó a
+separar los costes de desarrollo y los costes unitarios en dos
 
 1:17:17.420,1:17:20.650
-categoría aparte. Es como si crear un caza
-y gastan miles de millones de dólares para el diseño
+categorías. Cuando creamos un cazabombardero
+gastamos miles de millones de dólares en el diseño,
 
 1:17:20.650,1:17:25.510
-, pero luego se ejecuta fuera de 20 millones de copias
-dólares cada uno. Así es como construir 737
+pero luego fabricamos las unidades a 20 millones de dólares
+cada una de ellas. Así es como se construye el B737
 
 1:17:25.510,1:17:26.980
-o de otros aviones.
+o cualquier otro avión.
 
 1:17:26.980,1:17:30.199
-Si usted quiere ir, "¿Cuál es el costo unitario va
-a ser? ", no hay razón para pensar que esto va
+Si me preguntan: "¿Cuál va a ser el coste unitario?”
+No hay ninguna razón para pensar que esto va
 
-1:17:30.199,1:17:35.739
-a ser mucho menos costoso que lo que tenemos
-hoy si nos fijamos en el desarrollo de otro
+1:17:30.199,1:17:35.989
+a ser mucho menos costoso que lo que hemos gastado
+hasta la fecha en desarrollar cualquier tecnología nuclear
 
-1:17:35.739,1:17:35.989
-columna.
+
+
 
 1:17:35.800,1:17:39.329
-La razón por la cual, en primer lugar, la operación de baja presión.
-Eso es el más grande. Cuando usted no tiene
+Sin embargo sí en cuanto a los costes unitarios, en primer lugar,
+porque los LFTR funcionan a baja presión.
+
 
 1:17:39.329,1:17:45.099
-tener 96 recipientes a presión de acero, hormigón enorme
-los elementos de contención. Número dos, usted no tiene que
+No hace falta una vasija de acero 96 a presión,
+ni elementos de contención enormes. En segundo lugar, 
 
 1:17:45.099,1:17:48.999
-fabricar combustible. Usted no tiene que enriquecerse.
-Usted no tiene que fabricar y no
+no hay que fabricar combustible sólido. Ni hay que enriquecerlo.
+Ni tampoco hay que destinar una fortuna
 
 1:17:48.999,1:17:52.269
-tiene que tener el enfoque de la eliminación, tal como se
-hoy en día.
+a la eliminación de los residuos, 
+tal como ocurre hoy en día.
 
 1:17:52.269,1:17:57.869
-Estas dos funciones de inmediato son muy importantes.
-El número tres es los sistemas de seguridad. Alta presión,
+Estas dos características ya, por sí mismas son muy importantes.
+Y, en tercer lugar: los sistemas de seguridad.
 
 1:17:57.869,1:18:00.889
-reactores de agua más frías tienen una abundancia de
+Los reactores de agua a alta presión tienen infinidad de
 sistemas de seguridad diseñados para mantener siempre el
 
 1:18:00.889,1:18:03.659
-núcleo cubierto con agua. Por lo tanto, si un sistema de
-tiene 99 por ciento de confiabilidad, así, es necesario
+núcleo cubierto con agua. Por lo tanto, si un sistema
+tiene una fiabilidad del 99%, es necesario
 
 1:18:03.659,1:18:08.130
-otro que también tiene que para que pueda
-obtener 99,9 y tal vez conseguir que los estadísticos
+otro adicional para alcanzar una probabilidad del
+99,9% (que no se enfaden los estadísticos
 
 1:18:08.130,1:18:09.800
-enojado conmigo, yo podría estar haciendo mal.
+conmigo, lo podría estar planteando mal)
 
 1:18:09.800,1:18:14.369
-Una de las cosas que hace que el convencional
-reactores tan caro la vasija de contención
+Una de las cosas que hacen que un reactor convencional
+sea tan caro es la vasija de contención
 
 1:18:14.369,1:18:18.969
-y ha tocado en eso. El otro es
-el aparato de seguridad de todo el mantenimiento de
+ya hemos hablado de ello. La otra son
+los sistemas de seguridad para mantener el
 
 1:18:18.969,1:18:22.929
-del material fisible para que no
-se desvíen hacia fines militares.
+material fisible a salvo para que no
+se pueda desviar hacia fines militares.
 
 1:18:22.929,1:18:27.300
-He rasqué la cabeza acerca de que con los actuales
-reactores porque nuestros reactores, al menos en
+Me he preguntado muchas veces esta cuestión
+en relación con nuestros reactores, al menos en
 
 1:18:27.300,1:18:29.349
-los Estados Unidos, no use altamente registrados
-de uranio.
+los Estados Unidos, ya que no usan uranio altamente
+enriquecido.
 
 1:18:29.349,1:18:33.650
-Bueno, eso es uno de los temores y esa es una
-de las razones de seguridad a su alrededor. Si
+Este es uno de los temores y ello explicaría
+las razones por las que existe tal grado de seguridad alrededor.
 
 1:18:33.650,1:18:34.599
-que es real o no -
+Ahora bien, si es real o no…
 
 1:18:34.599,1:18:36.989
-Sí, supongo que tendría que cuestionar si
-que es real o no.
+Sí, supongo que tendríamos que Preguntarnos si
+existe un riesgo real o no.
 
 1:18:36.989,1:18:40.929
-No es que hace muchos años que se
-capaz de mostrar partes de los visitantes de todo el
+No hace mucho tiempo enseñábamos a los visitantes
+toda nuestra central
 
 1:18:40.929,1:18:45.929
-sitio y realmente mostrar lo buen estado
-el sitio se encuentra y qué tan seguro es. Es sólo
+para demostrar el buen estado que que se encuentra
+y lo seguro que es.
 
 1:18:45.929,1:18:51.639
-desde el 9 / 11 que hemos tenido que dejar de invitar a
-visitantes. Siempre hemos tenido una política muy abierta;
+Pero, desde el 9/11 hemos tenido que dejar de invitar a
+visitantes. Siempre habíamos tenido una política muy abierta;
 
 1:18:51.639,1:18:55.690
 muchas ganas de mostrar a la gente lo buenos que somos en
-lo que hacemos y cómo la caja fuerte de la planta. Es
+lo que hacemos y cómo es de segura esta planta.
 
 1:18:55.690,1:18:59.940
-muy difícil convencerse de que las cosas
-son seguros porque no se puede ver lo que está pasando
+Es muy difícil convencerse de que las cosas
+son seguras porque no se ve lo que está ocurriendo en ella.
 
-1:18:59.940,1:19:00.519
-en.
+
 
 1:19:00.519,1:19:04.130
-Incluso el plutonio en el reactor es lo que se
-llamado reactor de plutonio, que no es
+Incluso el plutonio en el interior del reactor es del tipo
+de plutonio sólo apto para reactores, y no tiene otros usos.
 
-1:19:04.130,1:19:04.420
-adecuado.
+
 
 1:19:04.420,1:19:08.289
-Trate de ir a cualquier facilitar en América del Norte
-Ahora, ellos tienen equipos de SWAT y -
+Trate de ir a cualquier planta en América del Norte.
+Tienen incluso equipos de policía especial SWAT.
 
 1:19:08.289,1:19:12.269
-He visitado una planta de energía nuclear. Realmente hemos
-consiguió el trabajo cuando fuimos allí. Estoy
+He visitado una planta de energía nuclear. Incluso
+estaba funcionando cuando fuimos allí. 
 
 1:19:12.269,1:19:15.869
-No exactlysure cuál es la base de lo que fue,
-si estaban preocupados por el robo de fisión
+No estoy del todo seguro porqué era necesaria toda esa protección,
+quizá estaban preocupados por el robo de material de fisión
 
 1:19:15.869,1:19:19.920
-material - que sería muy difícil. Me
-tienen que ir a despresurizar el centro, tome
+- que sería extremadamente difícil de conseguir.
+Sería preciso despresurizar el núcleo, abrir la tapa,
 
 1:19:19.920,1:19:24.599
-la tapa, tener acceso a todo el combustible gastado,
-de alguna manera sacarlo de la piscina de combustible gastado
+o tener acceso al combustible gastado, y de
+alguna manera sacarlo de la piscina de combustible gastado.
 
 1:19:24.599,1:19:29.429
-en una especie de tonel de transporte, que tome
-fuera del sitio a una planta de reprocesamiento que
+y colocarlo en algún tipo de contenedor de transporte, para llevarlo
+a una planta de reprocesamiento que no existe
 
-1:19:29.429,1:19:32.769
-no existe y - quiero decir, sólo tiene que ir "No hay
-Tiene que haber otra razón por la que tiene todo lo que
+1:19:29.429,1:19:33.019
+- quiero decir, tiene que existir alguna otra razón -
+por la que tengan toda esa seguridad
 
-1:19:32.769,1:19:33.019
-de seguridad ".
+
+
 
 1:19:32.769,1:19:34.010
-Vea las noticias de televisión.
+No hay más que ver las noticias de la televisión.
 
 1:19:34.010,1:19:37.499
-Bueno, ya sabes. Apenas se parece a mí, cuando
-hay un tema que yo sé un poco
+Ya sabeís a lo que me estoy refiriendo. 
+Cuando tratan cualquier tema del que uno sabe un poco
 
 1:19:37.499,1:19:40.489
-alrededor y ver cómo las noticias que cubre, que
-se frustran muy rápido.
+y observa cómo se tratan las noticias que la cubren
+uno siente una rápida sensación de frustración.
 
 1:19:40.489,1:19:45.489
-Creo que casi todos los medio de comunicación que he
-visto es teclear el miedo. Desde Nueva York
+Creo que casi todos los medios de comunicación que he
+visto están avivando el miedo. Desde el New York Times
 
 1:19:45.489,1:19:47.749
-Veces para el Huffington Post a la Fox News.
+hasta el Huffington Post, pasando por Fox News.
 
 1:19:47.749,1:19:51.079
 Ha habido un reciente aumento de la mortalidad infantil
-en Filadelfia, y hay uno experto
+en Filadelfia, y hay un experto
 
 1:19:51.079,1:19:55.510
-Ahora que está diciendo, "Es niveles radiactivos
-en el agua que tiene la culpa de eso. "
+que dice: "es culpa de los niveles de radiactividad
+en el agua."
 
 1:19:55.510,1:19:59.510
-Este ha sido un enfoque muy bipartidista para
-asustar al público.
+Se han enfocado las noticias de una forma muy partidista
+con el fin de asustar al público.
 
-1:19:59.510,1:20:05.670
-La radiación proviene a través del océano. Se disipa
-por aspersión actual del viento y la sal, pero es
+1:19:59.510,1:20:08.269
+La radiación viene a través del océano. El viento la disipa
+como un spray, y está llegando a la costa de California.
 
-1:20:05.670,1:20:08.269
-llegar a la costa de California.
+
+
 
 1:20:08.269,1:20:14.349
 No hay radiación por todo el lugar, todos los
