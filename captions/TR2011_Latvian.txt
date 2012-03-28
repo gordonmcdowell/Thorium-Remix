@@ -1663,534 +1663,494 @@ mēs dedzinām urānu-235, kas ir tik rets elements,
 ka tik pat labi mēs varētu dedzināt platīnu.
 
 0:34:12.660,0:34:17.510
-didn't take either one of these paths ultimately.
-This was the great division in the beginning,
+Šādu izvēli mēs neizdarījām apzināti.
+Pašā sākumā pastāvēja iespēja izmantot
 
 0:34:17.510,0:34:19.960
-was it going to thorium or is it going to
-be plutonium.
+gan toriju, gan plutoniju.
 
 0:34:19.960,0:34:25.120
-Wigner was not successful in convincing the
-bulk of the nuclear community to take the
+Vīneram neizdevās pārliecināt pārējos kodolpētniekus
 
 0:34:25.120,0:34:30.470
-thorium approach. They by and large said,
-"We're going to go the plutonium route." One
+izmantot toriju. Un viņi vienojās izmantot
+plutoniju.
 
 0:34:30.470,0:34:35.590
-of the reasons why was they had developed
-a great deal of understanding about plutonium
+Viens no iemesliem bija tas, ka plutoniju 
+pārzināja labāk
 
 0:34:35.590,0:34:40.280
-from the weapons program. They had made the
-stuff. They had worked with its chemistry.
+no kodolieroču pētījumiem. Tas bija pieejams
+un tā ķīmiskās īpašības bija izpētītas.
 
 0:34:40.280,0:34:46.860
-They'd made fuel out of it. They go, "We get
-this. Thorium? We haven't really messed with
+Un no tā ieguva kodoldegvielu. "Mēs pārzinām plutoniju,
+bet neko nezinām par toriju.
 
 0:34:46.860,0:34:49.960
-thorium. It would be like starting over."
+Un tāpēc mums viss būtu jāsāk no jauna."
 
 0:34:49.960,0:34:55.000
-That propensity there was to go and do what
-you already knew how to do. The plutonium
+Šī iemesla dēļ izvēlējās plutoniju
 
 0:34:55.000,0:35:01.080
-was so much better developed than the thorium.
-So, Wigner was not terribly successful in
+un nevis toriju. Vīneram neizdevās pārliecināt
 
 0:35:01.080,0:35:06.990
-making converts in the nuclear community.
-He did make one convert - Alvin Weinberg.
+kodolpētnieku komūnu, tomēr viņš pārliecināja
+vienu sekotāju — Elvīnu Veinbergu (Alvin Weinberg).
 
 0:35:06.990,0:35:10.000
-He was his student during the Manhattan Project.
+Veinbergs Manhetenas projekta laikā bija viņa students.
 
 0:35:10.000,0:35:14.650
-Weinberg got it. He got the big picture. "We
-need thorium. We need thorium reactor. We
+Veinbergs aptvēra kopējo ainu: "Mums ir nepieciešams
+torijs un torija reaktors.
 
 0:35:14.650,0:35:19.500
-need liquid fuel. I see it. I see what we've
-got to do." Weinberg got a job offer to be
+Un mums vajag šķidru kodoldegvielu." 
 
 0:35:19.500,0:35:25.370
-the director of Oak Ridge National Labs in
-1955. He was 35 years old. He was a year younger
+Veinbergs 1955. gadā dabūja vietu Oukridžas nacionālajā laboratorijā,
+kad viņam bija 35 gadi.
 
 0:35:25.370,0:35:30.090
-than I am. I'm sitting there going, "Dude,
-when Weinberg was my age he was running Oak
+Viņš bija jaunāks par mani. Es sēžu un domāju:
+"Veinbergs manā vecumā vadīja Oukridžas laboratoriju.
 
 0:35:30.090,0:35:34.200
-Ridge National Lab. What am I doing? I'm in
-a basement somewhere."
+Ko daru es? Es esmu kaut kādā pagrabā.
 
 0:35:34.200,0:35:35.130
-[laughter]
+[smiekli]
 
 0:35:35.130,0:35:37.890
-I'm just teasing.
+Es tika jokoju.
 
 0:35:37.890,0:35:38.810
-[laughter]
+[smiekli]
 
 0:35:38.810,0:35:43.420
-It's not my mom's basement so I feel better.
+Labi vēl, ka tas nav manas mammas pagrabs.
 
 0:35:43.420,0:35:48.460
-So he goes to Oak Ridge and Wigner said, "Alvin,
-you've got to go there because you've got
+Kad viņš nonāca Oukridžā, viņš sev teica:
+"Elvīn, tu esi šeit,
 
 0:35:48.460,0:35:53.490
-to go see if you can make this thorium work.
-It's that important." Alvin got it.
+lai tiktu galā ar toriju.
+Tas ir svarīgi." 
 
 0:35:53.490,0:35:58.410
-Here was a quote from his book. He said, "Until
-then I had never quite appreciated the full
+Te ir citāts no viņa grāmatas. "Līdz tam
+brīdim es pilnībā neaptvēru brīdera nozīmi."
 
 0:35:58.410,0:36:02.330
-significance of the breeder." When he's talking
-about breeder he actually means the thorium
+Un, ar brīderi viņš patiesībā saprata torija reaktoru.
 
 0:36:02.330,0:36:08.750
-reactor. "But now I became obsessed with the
-idea that humanity's whole future depended
+"Toties tagad es esmu pārliecināts, ka visas cilvēces
+nākotne ir ir atkarīga no tā."
 
 0:36:08.750,0:36:14.710
-on the breeder." The idea that if you don't
-go and access the energies of thorium, we're
+Viņš saprata, ka mums nekas prātīgs nesanāks,
 
 0:36:14.710,0:36:18.180
-not going to make it. We can't make it on
-the uranium-235.
+ja izmantosim urānu-235.
 
 0:36:18.180,0:36:21.290
-One of the first things that happened when
-he got to Oak Ridge, the Atomic Energy Commission
+Kad viņš nonāca Oukridžā, Atomenerģijas komisija
 
 0:36:21.290,0:36:25.210
-called him up and said, "You're done in the
-reactor business. We're giving all the reactor
+viņam teica: "Jūsu reaktora bizness ir beidzies.
 
 0:36:25.210,0:36:30.830
-work to Argon National Labs in Chicago and
-you guys aren't part of the deal anymore."
+Ar to tagad strādā Argonas nacionālā laboratorija
+un jums ar to nav jānodarbojas."
 
 0:36:30.830,0:36:35.160
-Argon National Labs was fully going for the
-plutonium fast breeder. That was there whole
+Argonas nacionālā laboratorija strādāja pie plutonija
+ātro neitronu brīdera.
 
 0:36:35.160,0:36:37.080
-thing was to do the plutonium fast breeder.
+Un visi uzskatīja, ka tas ir īstais ceļš.
 
 0:36:37.080,0:36:42.290
-Right off the bat, Weinberg was like, "Oh
-my gosh! What are we going to do?" About that
+Bet Veinbergs bija izmisis: "Velns ar ārā!
+Ko mēs tagad darīsim?"
 
 0:36:42.290,0:36:47.750
-time, the Air Force said, "The navy has built
-their nuclear submarines and the Army has
+Par laimi, interese parādījās Gaisa spēkiem.
+"Tā kā Jūras spēkiem ir izstrādāts
 
 0:36:47.750,0:36:52.290
-come along and they have taken the same technology
-as the Navy, the water cooled reactor. They're
+ar ūdeni dzesējams reaktors, mēs vēlamies izpētīt,
 
 0:36:52.290,0:36:57.210
-doing their thing, but the Air Force wants
-to build a nuclear powered bomber." Does that
+vai ir iespējams izveidot reaktoru bumbvedējam."
 
 0:36:57.210,0:36:58.400
-just sound crazy?
+Tas izklausās neprātīgi?
 
 0:36:58.400,0:36:58.800
-[laughter]
+[smiekli]
 
 0:36:58.800,0:37:00.840
-It was just absolutely nuts.
+Tas bija galīgi traki.
 
 0:37:00.840,0:37:06.570
-Weinberg was a practical man and he said,
-"Hah, nuclear powered bomber? That is probably
+Bet Veinbergs bija praktiķis:
+"Bumbvedējs ar kodolreaktoru...
 
 0:37:06.570,0:37:09.150
-a really dumb idea."
+ir patiesi stulba ideja."
 
 0:37:09.150,0:37:11.530
-But the military has a lot of money, "It wasn't
-that I'd suddenly become converted to a belief
+Bet militāristiem bija nauda: "Nebija tā, ka es
+pēkšņi kļuvu par kodollidmašīnu atbalstītāju.
 
 0:37:11.530,0:37:11.800
-in nuclear airplanes. It was rather this was
-the only avenue open for ORNL for continuing
+Drīzāk tas bija vienīgais ceļš, kā turpināt torija 
+reaktora izstrādi. 
 
 0:37:11.800,0:37:16.640
-in reactor development. That the purpose was
-unattainable if not foolish was not so important."
+Tas, ka izstrādes iemesls bija idiotisks,
+nebija tik ļoti svarīgi."
 
 0:37:16.640,0:37:17.870
-[laughter]
+[smiekli]
 
 0:37:17.870,0:37:24.640
-"A high temperature reactor could be useful
-for other purposes even if it never propelled
+"Augstas temperatūras reaktors būtu ļoti noderīgs
+pat tad, ja tas nekad nepaceltu lidmašīnu."
 
 0:37:24.640,0:37:26.410
-an airplane." He knew that to make the nuclear
-airplane work, they couldn't use water cooled
+Viņš zināja, ka lidmašīnā nav iespējams izmantot
+ar ūdeni dzesējamu reaktoru.
 
 0:37:26.410,0:37:30.330
-reactors. They couldn't use high pressure
-reactors. They couldn't use complicated solid
+Tajā nevar izmantot arī augsta spiediena reaktoru,
+un arī sarežģītu cietās kodoldegvielas reaktoru.
 
 0:37:30.330,0:37:35.620
-fuel reactors. They had to have something
-that was so slick, that was so safe, that
+Viņiem bija nepieciešams kaut kas tik elegants,
+un tik vienkāršs un drošs,
 
 0:37:35.620,0:37:40.170
-was so simple, that operated at low pressure-high
-temperature, and had all the features you
+ka to varētu darbināt zemā spiedienā un augstā temperatūrā.
 
 0:37:40.170,0:37:41.950
-wanted in it. They didn't even know what it
-was.
+Un viņš pat vēl nezināja, kas tas īsti varētu būt.
 
 0:37:41.950,0:37:48.260
-If this nuclear airplane program had not been
-established, the molten salt reactor would
+Ja nebūtu apstiprināta kodollidmašīnu programma,
+kausēta sāls reaktors nebūtu izgudrots.
 
 0:37:48.260,0:37:54.880
-have never been invented, because it is simply
-too radical, too different, too completely
+Jo tas ir tik radikāli savādāks,
 
 0:37:54.880,0:38:00.380
-out of the ball field of everything else for
-it to be arrived at through an evolutionary
+tik ļoti prom no visiem citiem variantiem,
+ka to nevar iegūt evolucionārā izstrādē.
 
 0:38:00.380,0:38:06.720
-development. It had to be forced into existence
-by requirements that were so difficult to
+Tā īpašības noteica tik stingras prasības,
 
 0:38:06.720,0:38:09.160
-achieve, and then nuclear airplane was that.
+cik stingras ir nepieciešamas kodollidmašīnai.
 
 0:38:09.160,0:38:13.190
-So they began working on this high temperature
-reactor, and here was their notion. This reactor
+Tā nu viņi sāka darbu pie augstas temperatūras reaktora
+izstrādes. Tam bija jāiztur tik augsta temperatūra,
 
 0:38:13.190,0:38:13.440
-was going to produce this high temperature
-heat. It was going to be ducted into a turbo
+ka ar tā siltumu varētu griezt lidmašīnas turbīnu.
 
 0:38:13.420,0:38:13.800
-jet engine. The air was going to be sucked
-in, compressed. Then instead of a burner here
+Bija paredzēts, ka tas iesūc gaisu, un tad,
 
 0:38:13.800,0:38:14.050
-that would be injecting fuel, like a combustion
-system, you would have this heat exchanger
+tā vietā, lai tajā sadedzinātu degvielu, to uzkarsētu
+kodolreaktora siltummainī.
 
 0:38:13.980,0:38:14.230
-with a reactor. It would make the air hot,
-then the air would exhaust through the turbine
+Un tad karsto gaisu izsviestu turbīnas izvadā,
 
 0:38:13.980,0:38:14.230
-and make thrust.
+nodrošinot nepieciešamo vilkmi.
 
 0:38:13.980,0:38:14.230
-So it's the same idea as a jet engine, it's
-just the heat source was the reactor rather
+Tā pati ideja, kas standarta turbodzinējā,
+tikai siltuma avots nevis
 
 0:38:14.020,0:38:16.060
-than the combustion of fuel. Remember this
-was invented before we had ICBMs or anything
+naftas dedzināšana, bet gan kodolreaktors.
+Atcerieties, ka tas notika vēl pirms
 
 0:38:16.060,0:38:20.040
-like that. This was a doomsday weapon. If
-you're flying this thing to Russia, it's the
+ballistiskajām raķetēm. Tas bija pasaules gala
+ierocis.
 
 0:38:20.040,0:38:23.890
-end of the world. So they didn't even know
-what kind of reactor this would be, and they
+Tātad, viņi sāka strādāt pie reaktora prasībām,
+pat vēl nezinot, kā tās īsti realizēt.
 
 0:38:23.890,0:38:27.040
-began working and came up with the molten
-salt concept.
+Un viņi nonāca pie kausēta sāls reaktora idejas. 
 
 0:38:27.040,0:38:30.550
-They didn't know if it would work, so this
-built this proof of principle reactor, called
+Tā kā viņi nezināja, vai tas darbosies, viņi
+izgatavoja reaktora principiālo modeli, 
 
 0:38:30.550,0:38:35.720
-the Aircraft Reactor Experiment. They circulated
-the liquid fluoride salt in these tubes to
+ko nosauca par Lidaparāta reaktora eksperimentu.
+Viņi pumpēja pa caurulēm izkausētus fluorīdus
 
 0:38:35.720,0:38:38.230
-produce two and a half megawatts of thermal
-power.
+un ieguva aptuveni pusmegavatu termālās jaudas. 
 
 0:38:38.230,0:38:44.420
-Xenon is a gas. What happens to gases in a
-liquid. The gaseous fission product xenon
+Ksenons ir gāze. Kas notiek ar gāzi šķidrumā?
+Gāzveida kodoldalīšanās produkti
 
 0:38:44.420,0:38:45.470
-just came right out of the salt.
+vienkārši izdalās no šķidruma.
 
 0:38:45.470,0:38:50.690
-Can you imagine if what happened to poor Wigner
-in his Washington reactor happened to the
+Iedomājieties, kas notiktu, ja lidmašīna lidotu
+ar Vīnera Vašingtonas reaktoru
 
 0:38:50.690,0:38:54.930
-dude flying to Russia? He'd be like, "This
-is your captain speaking. We're going to have
+uz Krieviju? Tas būtu apmēram tā:
+"Šeit runā kapteinis. Mums ir nepieciešams 
 
 0:38:54.930,0:38:58.570
-to make an emergency landing over Siberia.
-Xenon level's just getting a little too high
+veikt avārijas nosēšanos Sibīrijā.
+Tā kā ksenona līmenis reaktorā ir pārāk augsts,
 
 0:38:58.570,0:39:02.330
-in the reactor back there, so we're just going
-to set down on the tundra here for nine hours
+mēs uz deviņām stundām nosēdīsimies tundrā,
 
 0:39:02.330,0:39:07.470
-while that old xenon's going to come on down.
-We'll be lighting up and taking off shortly."
+un, kad samazināsies ksenona līmenis,
+mēs atkal turpināsim lidojumu."
 
 0:39:07.470,0:39:08.390
-You know, I mean that's not going to work.
+Kā labi saprotat, tas nestrādātu.
 
 0:39:08.390,0:39:11.120
-And it ran for about 11 days in 1954.
+Testa reaktors 1954 gadā nostrādāja aptuveni 11 dienas.
 
 0:39:11.120,0:39:15.140
-It reached the highest temperatures that had
-ever been achieved by a nuclear reactor up
+Tajā sasniedza tādu darba temperatūru, kāda nebija sasniegta
+nevienā citā reaktorā
 
 0:39:15.140,0:39:16.370
-to that point.
+kas tajā laikā pastāvēja.
 
 0:39:16.370,0:39:21.440
-And proved to them that, essentially, their
-notion was correct - that you could sustain
+Un viņi pārliecinājās, ka ideja būtībā ir pareiza:
+kausēta sāls reaktorā ir iespējams
 
 0:39:21.440,0:39:26.250
-nuclear fission reactions inside a salt, that
-it would operate at high temperature and low
+nodrošināt kodolu dalīšanās reakciju augstā temperatūrā
+un zemā spiedienā,
 
 0:39:26.250,0:39:30.810
-pressure, that it was very stable. And the
-reason why it was so stable was, as the salt
+un ļoti stabili. Īpašās stabilitātes iemesls
 
 0:39:30.810,0:39:35.900
-would heat up, there would be less fissile
-material in the nuclear reactor core, and
+bija tas, ka, ja sāli uzkarsē, tas izplešas un aktīvajā zonā
+paliek mazāk materiāla,
 
 0:39:35.900,0:39:38.020
-so fission became less likely.
+un tāpēc reakcija palēlinās.
 
 0:39:38.020,0:39:42.500
-Conversely, as the salt cooled down, there
-was more material, because the salt was contracting,
+Un pretēji: ja sāls atdzisa un sarāvās, aktīvajā zonā ietilpa
+vairāk materiāla
 
 0:39:42.500,0:39:43.920
-and fission became more likely.
+un reakcija noritēja ātrāk.
 
 0:39:43.920,0:39:46.830
-The engineers out there, that's a dynamically
-stable system.
+Inženieri šādas sistēmas sauc par dinamiski stabilām sistēmām.
 
 0:39:46.830,0:39:49.450
-It gets hotter, cools down, gets too cool,
-heats up.
+Ja tas uzkarst, tad sāk atdzist, ja tas atdziest, tad sāk uzsilt.
 
 0:39:49.450,0:39:55.530
-Well, by this time it was about 1960. ICBMs
-were going great. We'd perfected air to air
+Tas bija ap 1960. gadu. Attīstījās ballistiskās raķetes,
+un par ērtāku risinājumu atzina
 
 0:39:55.530,0:39:58.960
-refueling. The Air Force was going, "Oh, man,
-you know, I don't think we really need that
+lidmašīnu uzpildīšanu gaisā. Gaisa spēki atzina, ka:
+"Ziniet, patiesībā mums tas kodolbumbvedējs,
 
 0:39:58.960,0:40:00.930
-nuclear bomber anymore."
+nav vairs īpaši vajadzīgs."
 
 0:40:00.930,0:40:04.400
-Weinberg petitioned the Atomic Energy Commission
-in the United States for money and he got
+Vīnbergs rakstīja ASV Atomenerģijas komisijai un
 
 0:40:04.400,0:40:09.590
-a little bit. He got enough to build a demonstration
-reactor that was supposed to be less than
+dabūja nedaudz naudas. Tās pietika, lai uzbūvētu reaktoru,
 
 0:40:09.590,0:40:12.860
-10 megawatts. They built it, and it was called
-the Molten Salt Reactors Experiment. It ran
+ar jaudu zem 10 megavatiem. To nosauca par Kausēta sāls reaktoru.
 
 0:40:12.860,0:40:14.640
-from 1965 to 1969.
+Tas darbojās no 1965. līdz 1969. gadam.
 
 0:40:14.640,0:40:19.070
-It turned out that thorium was a great fit
-in this reactor.
+Atklājās, ka torijs šādam reaktoram ir izcili piemērots.
 
 0:40:19.070,0:40:22.520
-This is what's called a two fluid, molten
-salt reactor design.
+Patiesībā tas bija divu šķidrumu kausēta sāls reaktors.
 
 0:40:22.520,0:40:25.990
-What is molten salt reactor in relation to
-LFTR and vice versa?
+Kāda ir saistība starp kausēta sāls reaktoriem un LFTR
+un otrādi?
 
 0:40:25.990,0:40:30.860
-LFTR is a molten salt reactor. All LFTRs are
-molten salt reactors but not all molten salt
+LFTR (šķidra torija fluorīda reaktors)
+ir kausēta sāls reaktors. Visi LFTR ir kausēta sāls
 
 0:40:30.860,0:40:31.810
-reactors are LFTRs.
+reaktori. Bet ne visi kausēta sāls reaktori ir LFTR
+(torija fluorīda) reaktori.
 
 0:40:31.810,0:40:37.690
-You've got this core fluid, a lithium beryllium
-salt, with uranium tetrafluoride in there.
+Jums ir šķidra reaktora serde ar litija un berilija sāļiem
+un urāna tetraflorīdu.
 
 0:40:37.690,0:40:41.160
-Now what you want to do is you want to move
-that fuel you've made from the blanket into
+Un jūs vēlaties atdalīt kodoldegvielu no substrāta sāļiem.
 
 0:40:41.160,0:40:45.740
-the core. And here's how you do it. You take
-this stream of this blanket salt off and you
+Un to dara šādi. Visu šķidrumu ar kodoldegvielas un substrāta
+sāļiem iepumpē
 
 0:40:45.740,0:40:48.850
-put it in this fluoride volatility column.
+destilēšanas kolonnā.
 
 0:40:48.850,0:40:54.930
-You hit the salt with fluorine gas, and what'll
-happen is... Uranium has two kinds of fluorine
+Jūs pūšat cauri florīdam flora gāzi... un notiek sekojošais.
+Urānam ir divi florīda veidi:
 
 0:40:54.930,0:41:00.540
-states it'll be in. There's uranium tetrafluoride,
-four fluoride ions, and there's uranium hexafluoride,
+urāna tetrafluorīds ar četriem flora joniem un heksaflorīds
 
 0:41:00.540,0:41:02.780
-six fluoride ions.
+ar sešiem flora joniem.
 
 0:41:02.780,0:41:04.270
-Uranium hexafluoride is a gas.
+Urāna heksaflorīds ir gāze.
 
 0:41:04.270,0:41:06.650
-Uranium tetrafluoride is in solution.
+Urāna tetraflorīds ir šķidrums.
 
 0:41:06.650,0:41:11.000
-If you hit it with fluorine it will start
-to bubble out of the salt, just like bubbles
+Ja tetraflorīdam iesit ar flora atomu, tas kļūst par 
+heksaflorīdu, un tas izdalās no šķidruma kā gāzes burbuļi.
 
 0:41:11.000,0:41:15.160
-in your pop. And that's great because this
-is a neat trick. This is a way to get your
+Un tas ir ļoti elegants triks. Tādā veidā
+atdalīt urānu no substrāta
 
 0:41:15.160,0:41:19.210
-uranium product to come out of the blanket
-and leave everything behind.
+var ļoti vienkārši. Urāns izgaro, bet substrāts paliek.
 
 0:41:19.210,0:41:25.100
-This wouldn't work if thorium also had this
-same trick. If thorium would turn into a hexafluoride
+Tas nestrādātu, ja urāna īpašības būtu arī torijam.
+Ja torija heksaflorīds būtu gāze,
 
 0:41:25.100,0:41:29.780
-in a gas, we'd be up the creek. But this is
-one of these little miracles of nature.
+mums būtu problēmas. Bet šī ir viena no dabas jaukajām
+īpašībām.
 
 0:41:29.780,0:41:33.370
-So you can sit there and pound thorium with
-fluoride all you want. It's not going to change.
+Līdz ar to, jūs varat papildināt torija florīdu, kad vien vēlaties.
+Tas nekur nepazudīs.
 
 0:41:33.370,0:41:39.020
-It's going to stay in solution. But the uranium
-will come out as uranium hexafluoride, a gas.
+Tas paliks šķīdumā. Bet urāns izdalās gāzveida formā kā
+urāna heksaflorīds. 
 
 0:41:39.020,0:41:42.690
-Well now you need to move it into the core
-salts. So you bring a stream of core salt
+Tagad jums tas ir jāpievieno serdes sāļiem. 
+Jūs pievadāt serdes sāļus šeit
 
 0:41:42.690,0:41:47.810
-over here and you introduce this uranium hexafluoride
-here. And now you hit it with a little hydrogen
+un laižat tam cauri urāna heksaflorīdu un nedaudz
 
 0:41:47.810,0:41:48.780
-gas.
+ūdeņraža gāzes.
 
 0:41:48.780,0:41:54.680
-The hydrogen will say to UF6, "Hey man, I
-want those two fluorines a whole lot worse
+Ūdeņradis saka UF6:
+"Hei, vecais, man šos flora jonus vajag daudz vairāk nekā tev!"
 
 0:41:54.680,0:42:01.380
-than you do." Ahh! UF6 gets stuck up at the
-gas station, has to give up two fluorines
+Kamēr UF6 brīnās, ūdeņradis paņem no tā divus flora jonus,
 
 0:42:01.380,0:42:05.460
-you know and drops from UF6 back to UF4. Whoop!
-It's in solution now.
+un, hops! UF6 kļūst par UF4! Un atkal pārvēršas par šķidrumu.
 
 0:42:05.460,0:42:11.210
-So now, you've just refueled your core salt
-with uranium tetrafluoride. Cool trick, huh?
+Un jūs esat papildinājuši serdes sāļus ar urāna tetraflorīdu. 
+Jauks triks, vai ne?
 
 0:42:11.210,0:42:15.670
-You're continuously refueling your reactor,
-all the time. You're always refueling the
+Un tā jūs nepārtraukti papildināt reaktora serdi ar urānu-233.
 
 0:42:15.670,0:42:21.980
-core with new uranium-233. And uranium-233
-is being consumed but the neutrons from the
+Un, lai arī urāns-233 kodolreakcijā tiek izlietots,
+reakcijā izdalījušies neitroni 
 
 0:42:21.980,0:42:23.770
-fission are making new uranium-233.
+no torija rada arvien jaunus urāna-233 krājumus.
 
 0:42:23.770,0:42:29.820
-OK, well out of the top of this column comes
-hydrofluoric acid - HF. You send that down
+Labi. No šīs destilācijas kolonnas kā gāze izdalās florūdeņražskābe HF.
 
 0:42:29.820,0:42:34.490
-to this electrolyzer unit. And you hit it
-with some electricity and the HF will split
+Jūs to novadāt uz elektrolīzes iekārtu, un tajā
+to atkal sadalāt 
 
 0:42:34.490,0:42:39.950
-into hydrogen gas and fluorine gas. And guess
-what - now you've regenerated your two reactants.
+ūdeņradī un florā. Un jūs esat atguvuši sākuma stāvoklī
+visus reakcijā izmantotās sastāvdaļas.
 
 0:42:39.950,0:42:44.770
-So your fluorine and your hydrogen are ready
-for duty again to make this trick work.
+Un jūs varat izmantot to pašu floru un ūdeņradi, lai turpinātu
+šo atdalīšanas triku.
 
 0:42:44.770,0:42:48.410
-This is a piece you can actually buy off the
-shelf. So this is pretty cool! This is a closed
+Izmantotās vielas jūs varat vienkārši nopirkt.
+Tas ir cikls,
 
 0:42:48.410,0:42:55.410
-cycle for how to get your new fuel from here
-into here. You're essentially converting thorium
+kurā rodas papildu kodoldegviela, un kurā jūs
 
 0:42:56.650,0:43:00.880
-into energy. First into U233, and then into
-energy through fission. Now of course you're
+pārvēršat toriju enerģijā. Vispirms kā U233, un no tā
+sadalīšanās iegūstat enerģiju. Protams, lai to veiktu,
 
 0:43:00.880,0:43:05.150
-using up some thorium doing this. So you need
-to have a little feed of thorium fluoride,
+ir nepieciešams papildināt toriju. Tāpēc jums substrāta
+sāļos ir nepieciešams
 
 0:43:05.150,0:43:09.090
-you need to feed some new thorium into the
-blanket to make up for the thorium you are
+neliels torija fluorīda daudzums,
+lai kompensētu iztērēto toriju
 
 0:43:09.090,0:43:11.070
-consuming. But a very efficient reaction.
+Tomēr tā ir ļoti ekonomiska reakcija.
 
 0:43:11.070,0:43:14.370
-Let me introduce you to a typical nuclear
-reactor.
+Tagad apskatīsim tipisku kodolreaktoru.
 
 0:43:14.370,0:43:18.480
 Watts Bar Plant in Tennessee, I've actually
