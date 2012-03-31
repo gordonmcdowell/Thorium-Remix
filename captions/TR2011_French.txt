@@ -46,7 +46,6 @@ chimiquement stable, mais pas très efficace en transfert
 thermique. Si on perd de la pression, on perd
 
 0:00:54.079,0:00:58.129
-
 de l'eau, et bientôt le combustible fond et relâche 
 les produits de fission radioactifs qu'il contient.
 
@@ -4549,7 +4548,7 @@ Je pensais que ...
 1:25:46.699,1:25:48.309
 Non, c'est établi...
 
-1:25:47.320,
+1:25:47.320,1:25:48.309
 J'ai entendu dire qu'il n'y a ...
 
 1:25:48.309,1:25:51.940
