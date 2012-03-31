@@ -121,7 +121,6 @@ S'il y a une urgence et on perd toute
 
 0:02:08.989,0:02:13.400
 l'alimentation de notre centrale nucléaire, la
-
 petite soufflerie cesse de souffler, le bouchon de sel
 
 0:02:13.400,0:02:18.269
@@ -201,7 +200,6 @@ l'argent et le platine. Vous imaginez brûler
 
 0:03:34.719,0:03:39.209
 du platine pour faire de l'énergie? Et c'est ce que nous
-
 faisons avec nos sources d'énergie nucléaire aujourd'hui,
 
 0:03:39.209,0:03:44.670
@@ -241,8 +239,7 @@ toute son énergie pour une année. Et il dit:
 
 
 0:04:22.860,0:04:26.630
-"Et il y a un zillion d'autres
- lieux sur la
+"Et il y a un zillion d'autres lieux sur la
 Terre qui sont comme ma mine. C'est une belle
 
 0:04:26.630,0:04:30.300
@@ -645,8 +642,7 @@ la science  nucléaire et la politique qui l'entoure.
 Merci beaucoup d'etre avec moi aujourd'hui.
 
 0:11:59.530,0:12:01.380
-Merci beaucoup, Kiki, je suis heureux d'être
-ici.
+Merci beaucoup, Kiki, je suis heureux d'être ici.
 
 0:12:01.380,0:12:03.010
 Hé, les gars vous êtes un groupe assez techy, non?
@@ -772,9 +768,7 @@ disait: "C'est quoi ce thorium ?"
 
 0:14:20.680,0:14:24.820
 Mais j'étais assez fasciné et j'ai commencé à
-
-creuser
- le plus possible. Je lisais en ligne,
+creuser le plus possible. Je lisais en ligne,
 
 0:14:24.820,0:14:27.450
 je lisais des blogs en particulier Rod Adams.
@@ -833,9 +827,7 @@ sur Wikipédia, ce que d'ailleurs, j'ai fait.
 Mes Lords, mes Lords ... mes Lords.
 
 0:15:33.700,0:15:40.540
-Le Ministère de l'Énergie a cité mon site
- web
-
+Le Ministère de l'Énergie a cité mon site web
 en tant que source technique unique pour le réacteur
 
 0:15:40.540,0:15:45.350
@@ -962,8 +954,7 @@ et dit: "Ouais, vous aviez raison. Il a fissionné.
 
 0:17:46.409,0:17:49.960
 Vous avez raison. C'est une nouvelle forme de
-combustible nucléaire
-."
+combustible nucléaire."
 
 0:17:49.960,0:17:55.090
 Puis Seaborg pose la question vraiment, vraiment importante.
@@ -1220,7 +1211,6 @@ du tout assez radioactif.
 Qu'en est-il maintenant du thorium et de l'uranium? Ils
 sont tous les deux des matériaux naturels. Le thorium a
 
-
 0:22:51.409,0:22:57.909
 un seul isotope thorium-232. Il a une demi-vie de
 14 milliards d'années. Quand l'univers
@@ -1395,8 +1385,7 @@ a une demi vie de 9 heures. Il est très radioactif, mais
 pendant ces 9 heures, il veut vraiment manger tes neutrons.
 
 0:26:30.940,0:26:39.289
-En fait c'était un effet contributeur à 
-la catastrophe de Tchernobyl,
+En fait c'était un effet contributeur à la catastrophe de Tchernobyl,
 la présence de xenon-135. Et il est vraiment difficile à traiter
 
 0:26:39.289,0:26:45.580
@@ -1577,7 +1566,6 @@ de fois plus facile que de les séparer isotopiquement.
 0:29:56.789,0:29:57.929
 Parce que l'uranium-235 et l'uranium-238 sont
 chimiquement identiques. Il n'y a aucune différence
-
 
 0:29:57.929,0:30:02.580
 chimique entre eux.
@@ -1818,7 +1806,7 @@ fabriqué. Ils avaient travaillé avec sa chimie.
 
 0:34:40.280,0:34:46.860
 Ils en ont fait du carburant. Ils disent:
-"Ca, on acompris. Thorium? On n'a pas vraiment joué
+"Ca, on a compris. Thorium? On n'a pas vraiment joué
 
 0:34:46.860,0:34:49.960
 avec le thorium. Ce serait comme repartir à zéro."
@@ -2071,7 +2059,7 @@ Il a atteint les plus hautes températures qui avait
 jamais été atteint par un réacteur nucléaire jusqu'à
 
 0:39:15.140,0:39:16.370
-à ce point.
+ce point.
 
 0:39:16.370,0:39:21.440
 Et leur a prouvé que, pour l'essentiel, leur
@@ -2779,7 +2767,6 @@ parce que c'est commun aux réacteurs à eau bouillante,
 0:52:23.170,0:52:28.540
 les réacteurs à eau pressurisée et les CANDU.
  Voici
-
 une poignée de pastilles de combustible oxyde d'uranium.
 
 0:52:28.540,0:52:33.630
@@ -2848,9 +2835,7 @@ vous n'avez pas mon réacteur." Vous travaillez
 
 0:53:42.240,0:53:46.400
 avec ce gars, il n'y a pas de marché une fois
-le réacteur construit, vous utilisez son
- combustible.
-
+le réacteur construit, vous utilisez son combustible.
 
 0:53:46.400,0:53:49.630
 S'il décide de changer le prix, eh bien, tant pis.
@@ -2897,7 +2882,6 @@ l'une des choses que fait le xénon, c'est un gaz,
 0:54:30.290,0:54:35.610
 donc beaucoup, beaucoup moins dense que le 
 combustible
-
 solide. Lorsqu'on fabrique ce gaz, il commence à
 
 0:54:35.610,0:54:38.540
@@ -2960,7 +2944,6 @@ Pas très efficace.
 0:55:34.010,0:55:38.740
 Le réacteur à eau lourde utilise environ 0,7
 %
-
 de la valeur énergétique et les réacteurs
 
 0:55:38.740,0:55:44.120
@@ -3213,7 +3196,6 @@ le réacteur à onde progressive?
 Le réacteur à onde progressive est une autre forme
 d'un surgénérateur à métal liquide.
 
-
 1:00:34.120,1:00:38.290
 C'est une application particulièrement difficile
 de ce réacteur. Il est déjà difficile
@@ -3343,7 +3325,6 @@ volent dans tous les sens, il faut
 
 1:02:37.760,1:02:40.810
 s'assurer qu'il ya une clôture autour du mini-golf
-
 de sorte qu'elles n'échappent pas." Ca, c'est le confinement.
 
 1:02:40.810,1:02:45.490
@@ -3521,8 +3502,7 @@ ce truc n'est pas intrinsèquement bon ou mauvais,
 ce qu'on décide d'en faire avec.
 
 1:05:46.970,1:05:50.830
-Une des choses qui ne me fait pas
- beaucoup d'amis,
+Une des choses qui ne me fait pas beaucoup d'amis,
 c'est quand on dit:
 
 1:05:50.830,1:05:56.120
@@ -3572,7 +3552,6 @@ on les démonte, on enlève l'uranium,
 1:06:38.700,1:06:42.470
 on le brûle, et on fabrique de l'électricité! Vous voulez
 le laisser dans la bombe? Que voulez vous en faire?"
-
 
 1:06:42.470,1:06:47.470
 La Marine a autant de réacteurs que dans
@@ -3645,9 +3624,7 @@ tout le périmètre et donc tous les soldats passent
 leur temps à patrouiller la ferme solaire de 40 hectares.
 
 1:08:00.210,1:08:06.920
-Et si on avait un réacteur qui était si sûr
-,
-
+Et si on avait un réacteur qui était si sûr,
 simple et économique qu'on pourr(i)ez l'amener
 
 1:08:06.920,1:08:13.910
@@ -3701,9 +3678,7 @@ Le Dr David Carpenter, qui est l'autorité national
 sur les toxines du mercure, m'a dit qu'une femme
 
 1:09:11.819,1:09:15.819
-avec mes niveaux de mercure dans son sang
- aurait 
-
+avec mes niveaux de mercure dans son sang aurait
 des enfants avec des troubles cognitifs, avec des
 
 1:09:15.819,1:09:16.999
@@ -3726,8 +3701,7 @@ Il y a maintenant 640.000 enfants nés dans ce
 pays chaque année qui ont été exposés à des
 
 1:09:36.559,1:09:41.409
-niveaux dangereux de mercure dans les ventres de
- leurs mères.
+niveaux dangereux de mercure dans les ventres de leurs mères.
 L'ozone et les particules provenant des centrales à charbon
 
 1:09:41.409,1:09:51.230
@@ -3800,7 +3774,6 @@ modérées et des chaînes de désintégration compliquées.
 1:11:03.679,1:11:07.219
 Quand on regarde à faire un Yucca Mountain ou un site
 de traitement on se dit: "Que fait-on avec ça?"
-
 
 1:11:07.219,1:11:13.059
 L'avantage d'un LFTR par rapport à cette approche
@@ -3982,17 +3955,14 @@ d'être stable que, même après qu'il se désintègre,
 ne va pas le faire dix fois plus dans le corps.
 
 1:14:48.249,1:14:51.780
-Le bismuth-213 est à une désintégration d'être
- fini.
+Le bismuth-213 est à une désintégration d'être fini.
 
 1:14:51.780,1:14:57.949
 Et il est particulièrement bien contre les 
 cancers dispersés, comme la leucémie, le cancer du sang.
 
 1:14:57.949,1:15:01.949
-Pas les cancers tumorales, où il ya une grand
-e
-
+Pas les cancers tumorales, où il ya une grande
 bosse dure qu'on peut aller découper en chirurguie,
 
 1:15:01.949,1:15:06.639
@@ -4115,13 +4085,10 @@ les frais de développement et les coûts unitaires dans des
 
 1:17:17.420,1:17:20.650
 catégories distinctes. Quand on fabrique un avion de chasse,
-
 on dépense des milliards de dollars pour la conception,
 
 1:17:20.650,1:17:26.980
-mais après on fait chaque exemplaire pour 20 millions
-.
-
+mais après on fait chaque exemplaire pour 20 millions.
 C'est comme ça qu'ils construisent les 737 ou d'autres avions.
 
 1:17:26.980,1:17:30.199
@@ -4167,9 +4134,7 @@ obtenir 99,99. Les statisticiens vont peut-être
 se fâcher avec moi, j'ai peût être tout faux.
 
 1:18:09.800,1:18:14.369
-Une des choses qui rend les réacteurs
- conventionnels
-
+Une des choses qui rend les réacteurs conventionnels
 si chers est la cuve de confinement
 
 1:18:14.369,1:18:18.969
@@ -4231,10 +4196,8 @@ J'ai visité une centrale nucléaire. On a vraiment
 exactement sur de la justification de cela,
 s'ils étaient inquiets d'un vol de matière
 
-
 1:19:15.869,1:19:19.920
-fissile
- - ce serait assez difficile.
+fissile - ce serait assez difficile.
 Il faudrait dépressuriser le coeur, enlever
 
 1:19:19.920,1:19:24.599
@@ -4467,8 +4430,7 @@ qui publient et qui font de la révision par collègues
 
 1:23:29.869,1:23:36.670
 de revues, qui travaillent pour des institutions
-scientifiques
- très respectées, minimisent un incident
+scientifiques très respectées, minimisent un incident
 
 1:23:36.670,1:23:40.409
 parce qu'ils soutiennent l'industrie nucléaire.
@@ -4861,7 +4823,6 @@ Ils disent: "La géothermie est de l'énergie verte."
 "De la désintégration du thorium à l'intérieur de la Terre."
 
 1:30:33.340,1:30:37.780
-
 "L'énergie géothermique est-elle renouvelable?"
 "Oui!"
 "OK, alors le thorium est renouvelable."
@@ -4916,7 +4877,6 @@ de l'énergie quand on brûle du carburant.
 Donc, chaque fois que vous mettez un dollar d'essence
 dans votre voiture, dites au revoir à 60 cents,
 
-
 1:31:31.369,1:31:35.639
 parce qu'il va sortir du tuyau d'échappement en tant que
 chaleur. Et nous gaspillons 10% de ce qui est généré
@@ -4951,10 +4911,6 @@ On n'a pas besoin d'attendre la fusion, parce que
 1:32:08.519,1:32:12.010
 la fission est déjà suffisante, en particulier
 avec le cycle du thorium.
-
-
-
-
 
 1:32:12.010,1:32:16.409
 Un article nucléaire est écrit. L'auteur
@@ -5130,7 +5086,6 @@ sont-ils toujours faits pour le solaire et l'éolienne?
 Ne vous inquiétez pas de ce que nous avons maintenant,
 ça va être mieux l'année prochaine.
 
-
 1:35:10.719,1:35:14.869
 Mais on attribue au nucléaire cette position des années 50
 où il ne peut jamais faire des progrès,
@@ -5255,15 +5210,13 @@ Si c'est aussi sûr que cela, qu'est-ce qui empêche
 les gouvernements nord-américains de créer
 
 1:37:30.880,1:37:37.880
-le réacteur? Quelle est la chose effrayante
-?
+le réacteur? Quelle est la chose effrayante?
 
 1:37:38.579,1:37:43.050
 Ah, vous pensez comme moi il y a 10 ans,
 vous cherchez une raison pour ne pas faire,
 
 1:37:43.050,1:37:47.590
-
 je ne pense pas qu'il y a une raison pour ne pas faire.
 Il y a peut être une raison qu'ils ne soient pas enthousiastes,
 
@@ -5311,7 +5264,6 @@ qui pourraient toutes être non nucléaires.
 1:38:31.309,1:38:37.249
 Je n'ai pas beaucoup de confiance que l'industrie va
 l'adopter, pour être honnête, on attend
-
 
 1:38:37.249,1:38:43.039
 quoi exactement d'eux? Toute leur technologie est basée
@@ -5583,6 +5535,785 @@ et Amérique du Sud, il y a des beaux dépôts
 de monazite qui ont de terres rares lourdes, qui pourraient
 être très commerciales, à l'exception du contenu en thorium.
 
-1:43:50.000,1:44:30.000
-Les sous-titres français restants sont en cours de
-traduction. Ils seront mis à disposition dès que possible.
+1:43:40.209,1:43:45.809
+Mountain Pass a été fermé, selon
+le PDG Mark Smith, en raison de l'EPA dans
+
+1:43:45.809,1:43:50.530
+l'État de Californie et un peu de thorium qui est sorti
+d'une rupture dans un tuyau de résidus. Le thorium
+
+1:43:50.530,1:43:58.150
+représente une responsabilité inconnue et illimitée dans la
+production de terres rares, donc il fait le jeu de la Chine.
+
+1:43:58.150,1:44:03.380
+D'abord, la Chine a fourni des éléments
+de terres rares pas chers pour tout le monde
+
+1:44:03.380,1:44:08.809
+par leur main-d'œuvre bonne marché, une manque
+de règlements environnementaux, et leur monnaie.
+
+1:44:08.809,1:44:12.559
+Essentiellement, consolider et contrôler
+le marché des terres rares.
+
+1:44:12.559,1:44:17.559
+Et puis ils ont dit: "Eh bien, maintenant que vous venez
+tous nous acheter nos terres rares,
+
+1:44:17.559,1:44:22.209
+Nous ne voulons plus vendre la matière première.
+Nos fabricants peuvent l'acheter moins cher."
+
+1:44:22.209,1:44:28.909
+Ils imposent une taxe énorme sur l'exportation des éléments
+de terres rares. Donc, on avait le choix d'accepter une
+
+1:44:28.909,1:44:35.300
+taxe énorme et une augmentation du prix du produit
+ou de relocaliser l'usine dans la Chine continentale
+
+1:44:35.300,1:44:40.440
+et d'acheter des éléments de terres rares
+sur le marché local sans taxe.
+
+1:44:40.440,1:44:43.619
+C'est une stratégie et ça fonctionne assez bien.
+
+1:44:43.619,1:44:47.949
+Les fabricants qui utilisent des éléments de terres rares
+dans leurs produits ont délocalisé leurs bases de fabrication
+
+1:44:47.949,1:44:53.349
+à l'intérieur de la Chine. Les emplois dans le secteur
+manufacturier ont été transférés des États-Unis et de 
+
+1:44:53.349,1:44:55.489
+l'Europe de l'ouest à la Chine continentale.
+
+1:44:55.489,1:45:00.440
+Ils ont remonté toute la chaîne de valeur
+et sont en mesure de tirer parti de leur position
+
+1:45:00.440,1:45:06.849
+pour capter la propriété intellectuelle d'autres pays.
+Si Toyota veut fabiquer un million de batteries,
+
+1:45:06.849,1:45:12.380
+s'ils ne trouvent pas une solution au problème des
+terres rares lourdes, il va les fabriquer en Chine.
+
+1:45:12.380,1:45:20.309
+Donc nous devons laisser une autre entité prendre ce thorium,
+développer des usages et des marchés, y compris l'énergie.
+
+1:45:20.309,1:45:24.519
+Disons, par exemple, qu'on a une seule raffinerie
+de terres rares qui crée environ 20.000
+
+1:45:24.519,1:45:29.300
+tonnes de terres rares lourdes par an. avec la consommation
+actuelle, c'est environ 130% de la consommation domestique
+
+1:45:29.300,1:45:34.400
+des terres rares. Automatiquement, ça sape 
+l'avantage de la Chine. Maintenant, il y a
+
+1:45:34.400,1:45:38.829
+2 endroits sur la planète Terre où on a
+une fourniture garantie de terres rares lourdes.
+
+1:45:38.829,1:45:43.849
+Qu'est ce que ça peut faire comme effet de levier pour le pays?
+C'est le pivot dont on a besoin pour revenir dans
+
+1:45:43.849,1:45:46.099
+l'économie mondiale en tant que fabricant.
+
+1:45:46.099,1:45:50.749
+Comme 99% des terres rares que nous utilisons -
+y compris les aimants - eh bien, quand elles
+
+1:45:50.749,1:45:53.709
+ont été extraites, il y avait probablement du thorium
+qui était extrait avec, qui est probablement dans
+
+1:45:53.709,1:46:00.709
+dans des barils actuellement en Chine, en attendant
+que le Dr Jhang termine ses expériences avec
+
+1:46:00.900,1:46:03.829
+les réacteurs thorium à sels fondus
+pour commencer à les mettre en usage.
+
+1:46:03.829,1:46:07.999
+C'est la chose la plus importante qui arrivera
+dans les 24 prochains mois, et celui qui
+
+1:46:07.999,1:46:13.309
+y arrive en premier va essentiellement contrôler
+le destin et le déploiement de l'énergie pour
+
+1:46:13.309,1:46:14.539
+l'avenir prévisible.
+
+1:46:14.539,1:46:19.119
+Ils ont besoin de réaliser la promesse du thorium.
+Mais, je tiens aussi à nous voir réussir,
+
+1:46:19.119,1:46:24.199
+vous savez? On a travaillé là dessus il ya longtemps,
+on a fait de grands progrès.
+
+1:46:24.199,1:46:31.789
+On l'a abandonné en 1974 pour des raisons un peu stupides,
+et je pense qu'il est grand temps qu'on recommence.
+
+1:46:31.789,1:46:36.479
+L'énergie semble être en corrélation avec l'influence.
+Les gens qui ont de l'énergie, c'était les
+
+1:46:36.479,1:46:41.329
+États-Unis, avaient beaucoup d'influence. Maintenant,
+il y a d'autres qui ont beaucoup d'énergie, et il
+
+1:46:41.329,1:46:42.639
+semble qu'ils gagnent en influence.
+
+1:46:42.639,1:46:47.579
+La vraie question est de savoir si les Etats-Unis ratent
+une opportunité stratégique de sécurité nationale.
+
+1:46:47.579,1:46:52.039
+Soit on est sur le wagon, soit on peut acheter
+des réacteurs étrangers à l'avenir.
+
+1:46:52.039,1:46:56.979
+Le secteur de l'énergie dans le monde entier vaut
+environ 3 billion de dollars par an. La richesse
+
+1:46:56.979,1:47:03.979
+et le pouvoir de beaucoup de gens dépend
+
+du déplacement de grandes quantités d'hydrocarbures
+
+1:47:04.019,1:47:06.059
+d'un endroit à l'autre.
+
+1:47:06.059,1:47:12.070
+C'est une idée à des milliards de millions de dollars là.
+Et de passer de combustibles comme le pétrole, le gaz,
+
+1:47:12.070,1:47:17.940
+l'uranium, ça ne vous inquiète pas que ça pourrait
+être un problème?
+
+1:47:17.940,1:47:24.400
+Je suis beaucoup plus inquiet qu'un jour
+nos descendants diront: "Pourquoi
+
+1:47:24.400,1:47:28.570
+vous nous avez donné ce monde que nous avons maintenant?
+Pourquoi ce monde de pauvreté énergétique,
+
+1:47:28.570,1:47:34.389
+de pollution, de guerre, de maladie.., quand vous
+saviez qu'il y avait une meilleure façon et vous auriez
+
+1:47:34.389,1:47:37.260
+pu le réaliser? Pourquoi ne l'avez vous pas fait?"
+
+1:47:37.260,1:47:41.059
+On demanderait la même question à ces gars-là
+si on pouvait revenir en 1969, non? "Pourquoi ne
+
+1:47:41.059,1:47:46.420
+l'avez vous pas fait? Vous auriez pu le faire.
+Quel est votre excuse?"
+
+1:47:46.420,1:47:50.690
+Les êtres humains ont été superstitieux et peureux
+pour la plupart de leur histoire. L'ère des lumières
+
+1:47:50.690,1:47:55.380
+a été une partie de l'histoire humaine relativement courte,
+et il n'y a pas d'assurance que ça
+
+1:47:55.380,1:47:56.789
+continuera de cette manière.
+
+1:47:56.789,1:48:02.079
+Je crois vraiment que si on n'a pas accès à
+une énergie abordable et propre, on reviendra.
+
+1:48:02.079,1:48:05.130
+On va revenir à la façon d'être des humains
+pendant des milliers et des milliers d'années,
+
+1:48:05.130,1:48:10.510
+où les puissants et les riches oppriment
+les masses, qui avaient des vies terribles à essayer
+
+1:48:10.510,1:48:13.260
+de fournir des choses pour quelques personnes.
+
+1:48:13.260,1:48:19.639
+On va revenir non seulement à la barbarie
+mais aussi à des institutions sociales comme l'esclavage.
+
+1:48:19.639,1:48:21.369
+Et je suis sérieux quand je dis ça.
+
+1:48:21.369,1:48:24.349
+On a une quantité limitée d'argent,
+on veut réduire les gaz à effet de serre, donc on veut
+
+1:48:24.349,1:48:29.059
+appliquer les dollars de manière à réduire les gazes
+à effet de serre
+ le plus tout en créant le plus d'emplois
+
+1:48:29.059,1:48:30.519
+possible pour cet investissement.
+
+1:48:30.519,1:48:35.380
+Mais, tous les emplois qu'ils créent doivent
+être intégrés dans le prix de l'électricité qu'ils
+
+1:48:35.380,1:48:39.860
+fournissent. Oui, ça donnerait beaucoup d'emplois
+mais c'est au détriment des gens qui utilisent l'énergie.
+
+1:48:39.860,1:48:44.860
+Si nous pouvons apporter une source d'énergie moins
+chère que le charbon, toutes les nations, dans leur
+
+1:48:44.860,1:48:49.260
+propre intérêt économique,
+vont le choisir par rapport au charbon.
+
+1:48:49.260,1:48:51.349
+L'énergie nucléaire n'est pas très fiable.
+
+1:48:51.349,1:48:55.550
+C'est une turbine d'une centrale à gaz,
+suspendue d'un gros échafaudage,
+
+1:48:55.550,1:49:01.320
+et entourée de miroirs géants dans le désert.
+Si un nuage passe au-dessus,
+
+1:49:01.320,1:49:06.340
+ou pendant la nuit, le service public veut
+une charge de base
+. Et on va fournir
+
+1:49:06.340,1:49:10.940
+cette charge de base avec du gaz.
+On les construit à travers tout le pays,
+
+1:49:10.940,1:49:16.309
+et une des questions posées, on a besoin
+d'environ 900m d'altitude, un terrain plat,
+
+1:49:16.309,1:49:20.949
+300 jours de soleil, et on a besoin
+d'être près d'une conduite de gaz.
+
+1:49:20.949,1:49:22.439
+Des coûts en capital extrêmement coûteux.
+
+1:49:22.439,1:49:28.559
+Voici quatre propositions indépendantes pour des réacteurs
+à sels fondus et leurs dates. La médiane est 1,98$.
+
+1:49:28.559,1:49:34.079
+Avec un LFTR à un à deux dollars par watt,
+on parle d'un coût complet,
+
+1:49:34.079,1:49:38.739
+parce que le coût du combustible est si proche
+de zéro qu'on peut l'ignorer.
+
+1:49:38.739,1:49:40.670
+L'énergie nucléaire ne produit que de l'électricité.
+
+1:49:40.670,1:49:45.610
+Tous nos réacteurs actuels utilisent des turbines à vapeur.
+On ne les utilise pas parce qu'on est stupide,
+
+1:49:45.610,1:49:51.010
+on les utilise parce qu'avec les limites
+de l'eau sous pression,
+
+1:49:51.010,1:49:53.150
+le réacteur ne peut pas fonctionner
+à une température très élevée.
+
+1:49:53.150,1:49:58.219
+Avec ce réacteur, on peut monter jusqu'à environ
+700 ou 800°C, et à ces températures,
+
+1:49:58.219,1:50:02.420
+la turbine à gaz est une meilleure option.
+On peut produire de l'électricité avec la turbine,
+
+1:50:02.420,1:50:07.090
+et il faut refroidir le gaz,
+tout cycle thermodynamique rejete de la chaleur.
+
+1:50:07.090,1:50:10.630
+Presque aucune pénalité économique
+pour dessaler l'eau de mer.
+
+1:50:10.630,1:50:15.670
+Ou nous pourrions essayer de synthétiser du carburant.
+Nous pouvons le configurer, pas pour de l'électricité,
+
+1:50:15.670,1:50:20.570
+mais pour dissocier l'eau. On peut faire de l'ammoniac
+à partir de l'hydrogène, qui pourrait être un carburant.
+
+1:50:20.570,1:50:26.610
+C'est aussi un engrais. La production d'ammoniac
+consomme plus d'1% de l'énergie mondiale aujourd'hui.
+
+1:50:26.610,1:50:31.849
+Il se passe environ 14 ans entre le projet et le moment où c'est construit, et c'est célèbre pour les dépassements de coûts.
+
+1:50:31.849,1:50:39.550
+Nous construisions de petits réacteurs dans un temps court.
+Mai 1961, le Congrès a financé Camp Century au Groenland.
+
+1:50:39.550,1:50:44.610
+L'assemblage est encore sous-critique.
+Nous avons commencé à transférer les éléments de combustible,
+
+1:50:44.610,1:50:46.559
+un par un,
+et avons commencé le chargement du cœur du réacteur.
+
+1:50:46.559,1:50:50.489
+Le réacteur été opérationnel sous la glace
+18 mois plus tard.
+
+1:50:50.489,1:50:56.039
+Le cycle de Brayton utilise un gaz inerte, donc on
+n'a pas à se soucier des explosions de carburant,
+
+1:50:56.039,1:51:01.400
+on obtient plus d'efficacité du coté de la turbine,
+et les turbines sont plus petits et moins chers à construire.
+
+1:51:01.400,1:51:02.400
+Le risque d'accidents
+
+1:51:02.400,1:51:07.110
+Nous pouvons assurer la sécurité à moindre coût, car
+nous adoptons une sécurité passive, plutôt qu'une
+
+1:51:07.110,1:51:11.709
+sécurité conçue. Nous voyons cette tendance avec
+des réacteurs comme AP1000, mais le LFTR peut l'amener
+
+1:51:11.709,1:51:13.780
+à un niveau beaucoup plus élevé.
+
+1:51:13.780,1:51:18.400
+L'énergie nucléaire commerciale dans le monde
+a un très bon niveau de sécurité, même si on
+
+1:51:18.400,1:51:23.219
+compte Tchernobyl. Le nombre de décès des accidents
+de centrales nucléaires est inférieure à 100
+
+1:51:23.219,1:51:25.780
+à travers le monde, depuis toujours.
+
+1:51:25.780,1:51:30.739
+Juste l'année dernière on a eu une explosion de gaz naturel
+dans une installation d'énergie propre à Middletown, CT
+
+1:51:30.739,1:51:35.110
+qui a tué 7 personnes, une explosion de méthane 
+et poussière de charbon dans la mine 'Upper Big Branch'
+
+1:51:35.110,1:51:40.239
+qui a tué 29 personnes, et une explosition
+de méthane sur Deepwater Horizon qui a tué
+
+1:51:40.239,1:51:45.679
+11 personnes. Le feu de San Bruno, un gazoduc
+qui passait en dessous d'un quartier résidentiel,
+
+1:51:45.679,1:51:49.320
+il a explosé et a tué environ 8 personnes
+et a détruit 50 maisons.
+
+1:51:49.320,1:51:53.900
+Pourquoi s'en prendre à l'énergie nucléaire?
+Pourquoi ne pas s'en prendre au transport de gaz?
+
+1:51:53.900,1:51:57.469
+Pourquoi ne pas s'en prendre à toutes
+ces autres sources de décès réels?
+
+1:51:57.469,1:52:01.959
+Les déchets nucléaires à longue vie qui doivent être gardés
+hors de la biosphère pour un quart de million d'années.
+
+1:52:01.959,1:52:06.199
+La plupart de ces déchets est du combustible imbrûlé.
+Il y a plusieurs façons de le retraiter pour en brûler plus,
+
+1:52:06.199,1:52:10.860
+mais c'est assez cher, et pas économiquement avantageux
+dans les réacteurs d'aujourd'hui. Avec la percée
+
+1:52:10.860,1:52:16.939
+des combustibles liquides on n'a pas
+ besoin
+de retraiter ou recycler, on laisse le combustible
+
+1:52:16.939,1:52:18.630
+nucléaire dans le réacteur jusqu'à ce qu'il soit brûlé.
+
+1:52:18.630,1:52:23.499
+Ils restent dans le sel et se désintègrent dans le sel
+jusqu'au dégagement de toute la chaleur de désintégration.
+
+1:52:23.499,1:52:30.499
+Voici nos transuraniens - ces chiffres montrent
+10^-7, 10^-4, 10^-7, 10^-9 grammes,
+
+1:52:33.479,1:52:38.900
+une production miniature. Un millième de
+gramme de ces matériaux redoutés en 10 ans
+
+1:52:38.900,1:52:43.989
+d'opération. C'est bien.
+Un profil de déchets beaucoup plus sain.
+
+1:52:43.989,1:52:45.639
+Le risque de prolifération nucléaire
+
+1:52:45.639,1:52:51.849
+La protection à la prolifération sur celle-ci, U-232,
+on a le protactinium. Il envoie un cascade
+
+1:52:51.849,1:52:57.869
+de rayons gamma, donc si quelqu'un essai de s'enfuir avec,
+on peut les attraper assez facilement.
+
+1:52:57.869,1:53:01.630
+On n'a même pas à regarder ces questions
+pour voir l'échec du nucléaire.
+
+1:53:01.630,1:53:06.719
+L'industrie pétrochimique dépense
+beaucoup d'argent en publicité.
+
+1:53:06.719,1:53:13.070
+Ils croient dans le vent et le soleil.
+Exxon parle de cultiver des algues, toutes sortes
+
+1:53:13.070,1:53:18.150
+d'alternatives. Vous n'entendrez jamais une société 
+d'hydrocarbures parler du nucléaire.
+
+1:53:18.150,1:53:25.150
+Vous verrez énormément d'histoires de quelqu'un
+dans l'industrie pétrolière qui travail contre
+
+1:53:25.179,1:53:30.900
+le nucléaire, essayant d'élever les barrières d'entrée.
+Ca, c'est une simulation de pastille de combustible nucléaire.
+
+1:53:30.900,1:53:39.389
+C'est autant d'énergie qu'une tonne de charbon, 668
+litres de pétrole, ou 481m^3 de gaz naturel.
+
+1:53:39.389,1:53:44.479
+Si vous faites de l'argent en vendant des hydrocarbures,
+vous allez faire moins d'argent.
+
+1:53:44.479,1:53:50.340
+Je suis né l'année qu'ils ont annulé cette recherche
+dans le Tennessee. J'ai l'impression qu'avec le blog,
+
+1:53:50.340,1:53:56.380
+je me suis levé pour dire: "Voici ce travail
+extraordinaire fait avant même que je suis né."
+
+1:53:56.380,1:54:01.079
+Il s'agit des lois de la physique. Je ne l'ai pas inventé,
+je fais juste de la promotion. Peut-être je ne le verrai 
+
+1:54:01.079,1:54:04.570
+jamais dans ma vie, mais quelqu'un va
+le faire. Une fois que les gens ont appris
+
+1:54:04.570,1:54:07.499
+à le faire, ils vont continuer à l'utiliser,
+car ça va faire beaucoup de différence.
+
+1:54:07.499,1:54:10.610
+D'autres personnes beaucoup plus intelligents
+que moi l'ont regardé et ont dit: "Ca a l'air
+
+1:54:10.610,1:54:12.630
+sacrément bon, pourquoi nous ne faisons pas cela?"
+
+1:54:12.630,1:54:14.420
+Combien de temps pensez-vous que ça va prendre?
+
+1:54:14.420,1:54:18.280
+Au rythme où nous allons maintenant aux États-Unis
+ça n'arrivera jamais. Mais ça va changer.
+
+1:54:18.280,1:54:23.139
+On va faire bouger les choses. Je pense que dans 10 ans,
+nous allons construire des LFTRs sur des lignes d'assemblage.
+
+1:54:23.139,1:54:26.969
+Nous pouvons être compétitifs avec la Chine sur le dépôt de 
+brevets sur des choses qui n'ont pas été pensés
+
+1:54:26.969,1:54:32.719
+dans les années 50 et 60. Mais, si nous attendons,
+les Américains, Canadiens et Brésiliens acheteront
+
+1:54:32.719,1:54:35.559
+la technologie LFTR et sel fondu de la Chine
+en leur payant des royalties.
+
+1:54:35.559,1:54:40.039
+Nous achetons beaucoup de choses de la Chine déjà.
+Ce n'est pas comme si nous n'achetons pas assez de choses
+
+1:54:40.039,1:54:48.559
+de la Chine. Nous les occupons bien. Allons développer
+le thorium. C'est vraiment ce que j'aimerais faire.
+
+1:54:48.559,1:54:53.389
+Si tout le monde peut profiter d'un style de vie comme
+vous et moi au Canada et aux États-Unis aujourd'hui,
+
+1:54:53.389,1:54:59.519
+on peut avoir la paix mondiale, se spécialiser
+dans les domaines où nous sommes bons, faire du commerce,
+
+
+1:54:59.519,1:55:02.780
+et arrêter de disputer des ressources limitées.
+
+1:55:02.780,1:55:06.209
+Je pense que les choses vont se dérouler différemment
+cette fois par rapport aux années 50 et 60.
+
+1:55:06.209,1:55:11.780
+Aux années 50 et 60, on avait des dotations gouvernementales
+aux laboratoires nationaux, qui conduisaient au développement
+
+1:55:11.780,1:55:14.689
+de cette technologie. Je ne pense pas que ça
+se passera comme ça cette fois. Je pense que
+
+1:55:14.689,1:55:18.659
+ce sera une fusion des passionnés
+et de l'industrie privée.
+
+1:55:18.659,1:55:23.050
+Grâce à l'Internet, suffisamment de gens
+connaissent maintenant le potentiel de LFTR
+
+1:55:23.050,1:55:24.659
+et du thorium,
+et ils posent des questions difficiles.
+
+1:55:24.659,1:55:28.920
+Monsieur le Président, vous dites souvent qu'il n'y a pas
+de balle d'argent pour nos problèmes énergétiques. Pourquoi
+
+1:55:28.920,1:55:33.499
+le gouvernement fédéral n'accélère pas la recherche
+sur les réacteurs à combustible liquide de sels fondus
+
+1:55:33.499,1:55:35.030
+qui fonctionnent au thorium?
+
+1:55:35.030,1:55:38.729
+Les réacteurs thorium au fluorure liquide,
+c'est le genre ...
+
+1:55:38.729,1:55:42.550
+Vous êtes déjà au-dessus de ma tranche de salaire...
+
+1:55:42.550,1:55:45.679
+Je vais vous l'expliquer parce que c'est le
+genre d'idée que Washington a besoin de connaître.
+
+1:55:48.000,1:55:54.729
+En 10 ans on va leur acheter ces choses
+si on ne commence pas à les fabriquer tout de suite.
+
+1:55:54.729,1:56:01.059
+Le rapport de l'AEC donné à John F. Kennedy à
+sa demande en 1962, traite directement les craintes
+
+1:56:01.059,1:56:07.459
+qu'ils avaient, et il décrit spécifiquement
+ce que nous aurions dû faire. Nous ne l'avons pas fait.
+
+1:56:07.459,1:56:11.769
+Nous pouvons faire le surgénérateur au thorium
+sur lequel Weinberg et l'équipe ORNL a travaillé 
+
+1:56:11.769,1:56:18.070
+pendant 20 ans et ont perfectionné et exploité
+pendant 4 ans dans les années 1960.
+
+1:56:18.070,1:56:25.070
+La Chine a maintenant un milliard de dollars
+pour développer ce réacteur à l'aide de nos plans,
+
+1:56:25.219,1:56:31.999
+toutes nos recherches, tout ce que nous avons fait 
+en institution de recherche américaine il y a 49 ans.
+
+1:56:31.999,1:56:38.329
+Même si Washington fonctionne lentement,
+49 années, ça semble un peu excessif.
+
+1:56:38.329,1:56:41.959
+Si nous ne le faisons pas, ça se produira quand même.
+C'est juste que ça se produira dans un endroit comme
+
+1:56:41.959,1:56:46.519
+la Chine plutôt que les Etats-Unis. Nous allons voir
+des LFTRs construits à l'avenir, ne vous méprenez pas.
+
+1:56:46.519,1:56:50.729
+Beaucoup d'écologistes essayent toujours
+de nous conduire vers moins d'utilisation d'énergie,
+
+1:56:50.729,1:56:53.979
+parce que toute cette énergie provient de la
+consommation de carburants fossiles.
+
+1:56:53.979,1:56:58.260
+Eh bien, disons que l'énergie ne vient pas de
+la consommation de carburants fossiles. On pourrait
+
+1:56:58.260,1:57:03.309
+utiliser plus d'énergie, et on pourrait
+accomplir des choses qui ne sont pas possibles
+
+1:57:03.309,1:57:09.619
+aujourd'hui. Dissocier le dioxyde de carbone et l'eau,
+faire de l'engrais, des cultures, tout cela.
+
+1:57:09.619,1:57:14.889
+Tellement d'énergie, une abondance d'énergie,
+que ça ferait baisser les prix au point
+
+1:57:14.889,1:57:19.619
+où le seul pétrole qu'on prendrait du sol
+serait le pétrôle facile à extraire.
+
+1:57:19.619,1:57:24.079
+Et il n'y aurait pas plus de dévastation
+écologique que ce qui n'existe déjà.
+
+1:57:24.079,1:57:28.709
+Si on n'avait pas à se soucier de l'énergie,
+on pourrait penser à tellement de choses à faire.
+
+1:57:28.709,1:57:33.050
+S'il y en avait beaucoup et elle était bon marché
+et elle n'était pas nocif pour l'environnement,
+
+1:57:33.050,1:57:34.889
+que feriez-vous que vous ne faites pas en ce moment?
+
+1:57:34.889,1:57:39.139
+Ce qui m'a attiré l'oeuil quand j'étais encore
+au lycée était l'idée d'un satellite spatial à
+
+1:57:39.139,1:57:44.510
+énergie solaire: 'The High Frontier' de Gerard
+O'Neill. Son idée était que nous allions construire
+
+
+1:57:44.510,1:57:47.449
+ces colonies. Comme vivre dans
+un centre commercial dans l'espace.
+
+1:57:47.449,1:57:53.559
+Vous savez, avec une petite maison dans le tube.
+
+1:57:53.559,1:57:56.840
+Je ne pense pas qu'on soit prêt encore à vivre
+dans l'espace. On n'a pas appris à vivre d'une
+
+1:57:56.840,1:58:03.689
+façon où on recycle plus de notre ... Je veux dire,
+si on veut vivre dans l'espace, il faut tout recycler.
+
+1:58:03.689,1:58:07.150
+Il semblait que le réacteur thorium à fluorore liquide,
+ou LFTR, pourrait être la source d'énergie
+
+1:58:07.150,1:58:11.900
+pour réaliser une colonie lunaire autonome.
+Mais j'avais une question simple.
+
+1:58:11.900,1:58:17.170
+Si c'était si bien pour une communauté sur la lune,
+pourquoi pas une communauté sur la Terre,
+
+1:58:17.170,1:58:18.150
+autonome, avec une indépendance énergétique.
+
+1:58:18.150,1:58:23.849
+Pensez à "Star Trek". On ne peut pas s'empêcher
+de penser à "Star Trek" quand on s'appelle Kirk.
+
+1:58:23.849,1:58:28.360
+Le monde de "Star Trek" est alimenté comment?
+Ils font marcher "Star Trek" au charbon?
+
+1:58:28.360,1:58:32.469
+Avec des sables bitumineux? Non.
+Pas de raffineries de pétrole
+
+1:58:32.469,1:58:34.269
+sur "Star Trek". Aucune mine de charbon.
+
+1:58:34.269,1:58:40.439
+Nous avons des vies meilleures aujourd'hui parce que nous
+avons appris à utiliser le carbone. OK, quid du thorium?
+
+1:58:40.439,1:58:47.389
+Le thorium a une densité d'énergie qui est un million
+de fois celle d'une liaison carbone-hydrogène.
+
+1:58:47.389,1:58:52.809
+Quelle est l'implication pour la civilisation humaine sur
+des milliers, des dizaines de milliers d'années
+
+1:58:52.809,1:58:55.650
+à l'avenir? Parce que nous n'allons pas manquer
+de cette matière. Une fois que nous avons appris
+
+1:58:55.650,1:59:02.650
+à l'utiliser avec cette efficacité,
+nous n'allons jamais l'épuiser.
+
+1:59:05.000,1:59:30.000
+Sous-titres français - John Laurie
+
+1:59:35.000,1:59:59.000
+http://thoriumremix.com/fr/2011
