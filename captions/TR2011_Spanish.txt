@@ -4607,627 +4607,622 @@ ya que Carl Sagan murió. Pero sí, ¿cuál es el
 primero en su lista, el hambre?
 
 1:25:08.059,1:25:13.360
-La malaria, 250.000;: el hambre, 3.000.000 automóviles
-accidentes, 100.000, 28.000 terremotos y tsunamis.
+La malaria, 250.000; el hambre, 3.000.000; accidentes de
+automóviles, 100.000; terremotos y tsunamis 28.000.
 
 1:25:13.360,1:25:17.369
-Número de muertos en la muerte de la energía nuclear es qué?
-Baja.
+¿Cuántos son los muertos debidos a la energía nuclear?
+Pocos.
 
-1:25:17.369,1:25:20.889
-Energía nuclear civil en los Estados Unidos
-no ha matado a nadie. El número de muertos se
+1:25:17.369,1:25:21.420
+La energía nuclear civil en los Estados Unidos
+no ha matado a nadie. El número de muertos es cero.
 
-1:25:20.889,1:25:21.420
-ser cero.
+
 
 1:25:21.420,1:25:26.639
-Así que cuando Three Mile Island, comunicados de parte de la radiación,
-que te gustaría incorporar la probabilidad estadística
+Así que cuando Three Mile Island, emitió algo de radiación,
+tendríamos que incorporar la probabilidad estadística
 
 1:25:26.639,1:25:29.030
-de cáncer de tiroides que alguien se de cualquier número.
+de que alguien haya desarrollado un cáncer de tiroides en cualquier número.
 
 1:25:29.030,1:25:33.150
-No, porque incluso la probabilidad estadística
-es la teoría de que no se basa en hechos. Es
+No, ya que incluso la probabilidad estadística
+está basada en una teoría que no está apoyada en hechos.
 
 1:25:33.150,1:25:38.159
-llama lineal sin umbral hipótesis
+La teoría se llama hipótesis lineal sin umbral, 
 y no se basa en datos epidemiológicos.
 
 1:25:38.159,1:25:42.729
 Se basa en el supuesto de que la radiación
-le harán daño a cualquier grado - a lo que
+hará daño cualquiera que sea la dosis a la que
 
 1:25:42.729,1:25:44.289
-grado en el que se exponen.
+se exponga
 
 1:25:44.289,1:25:46.699
-Pensé que se trataba de establecer en realidad.
-Pensé que ...
+Yo pensaba que se había establecido una relación basándose en los datos.
 
 1:25:46.699,1:25:47.320
-No, no es establecido.
+Pero, no, no tiene ese fundamento.
 
 1:25:47.320,1:25:48.309
 He oído que hay ...
 
 1:25:48.309,1:25:51.940
-Es una política establecida. Ahí es donde que
-no hay tal cosa como la radiación seguro - que viene
+Es una política establecida. De ahí es donde
+proviene esa idea de que no existe ningún nivel de radiación segura
 
 1:25:51.940,1:25:56.400
-desde el lineal sin umbral hipótesis. Lo
-se establece en la regulación, sin embargo, no hay
+proviene de la hipótesis lineal sin umbral. 
+Se establece en la regulación y, sin embargo,
 
 1:25:56.400,1:26:01.420
-no hay datos epidemiológicos para apoyar eso. Hay
-ningún estudio que diga que hemos tomado una cohorte
+no hay datos epidemiológicos que apoyen eso. No hay
+ningún estudio que diga que tomando una muestra
 
 1:26:01.420,1:26:05.269
-de las personas y los hemos expuesto a una
-radiación por ciento más de lo que normalmente
+de personas expuestas a una
+radiación un uno por ciento por encima de lo normal
 
 1:26:05.269,1:26:06.920
-conseguir y hemos visto el cáncer de uno por ciento más.
+se vaya a producir un uno por ciento más de cáncer.
 
 1:26:06.920,1:26:11.269
 De hecho, hay muchos lugares en el mundo
-donde los niveles de trastienda de la radiación son sustancialmente
+donde los niveles de radiación ambiental son sustancialmente
 
 1:26:11.269,1:26:17.239
-mayor si el lineal sin umbral hipótesis
-fue, de hecho, verdadero o incluso acercarse a la verdad,
+mayores. Si la hipótesis lineal sin umbral
+fuera, de hecho, verdadera o incluso cerca de la verdad,
 
 1:26:17.239,1:26:21.719
-que se vería de forma estadísticamente significativa
-niveles más altos de cáncer en las poblaciones,
+se observarían niveles de cáncer más elevados estadísticamente significativos en las poblaciones con mayor exposición.
 
-1:26:21.719,1:26:26.840
-las cohortes. Pero ¿qué sucede? No sólo
-es que no hay niveles más altos de cáncer,
+1:26:21.719,1:26:29.550
+Pero ¿qué sucede? No sólo hay niveles más altos de cáncer, sino que, en realidad se han observado niveles menores de cáncer.
 
-1:26:26.840,1:26:29.550
-son en realidad supresión de los niveles de cáncer.
+
+
 
 1:26:29.550,1:26:34.479
-Lo que nos lleva a una teoría que tiene fundamento
-en los datos y que se llama hormesis. Hormesis
+Lo que nos lleva a una teoría que tiene su fundamento
+en los datos y que se llama hormesis.
 
 1:26:34.479,1:26:38.260
-no es más que un poco es bueno para usted y
-la radiación que parece ser una de estas cosas
+La hormesis sostiene que una pequeña cantidad de ciertas cosas es buena y
+la radiación parece ser una de esas cosas.
 
 1:26:38.260,1:26:42.999
-donde un poco más es realmente bueno para
-usted y suprime el desarrollo del cáncer.
+una pequeña cantidad de radiación parece que
+contribuye a suprimir el desarrollo del cáncer.
 
 1:26:42.999,1:26:45.969
-Y yo digo, bueno, ¿por qué un poco de
-la radiación es bueno para mí? Cuando usted va y
+Y yo me pregunto: bueno, ¿por qué un poco de
+radiación va a ser bueno? Cuando se hace
 
 1:26:45.969,1:26:49.369
-ejercicio, dañar los músculos, pero su
-cuerpo los reconstruye y vuelve a generar fuertes
+ejercicio, se dañan los músculos, pero el
+cuerpo los reconstruye y los vuelve a generar más fuertes
 
-1:26:49.369,1:26:53.809
-lo que eran antes. Radiación estimula
-el daño celular, sino que también estimula la
+1:26:49.369,1:26:55.289
+de lo que eran antes. La radiación provoca daño celular,
+pero también estimula los mecanismos de reparación del cuerpo 
 
-1:26:53.809,1:26:55.289
-cuerpo mecanismo de reparación.
+
+
 
 1:26:55.289,1:26:59.420
-Si hormesis se convirtió en política en lugar de lineal
-sin umbral, tendríamos una muy
+Si la hormesis se convirtiera en una política, en lugar de
+la lineal sin umbral, tendríamos un 
 
 1:26:59.420,1:27:03.989
 enfoque diferente a la radiación. De hecho,
-de alguna manera, que en realidad no aceptan hormesis
+de alguna manera, estamos aceptando la hormesis
 
 1:27:03.989,1:27:07.469
-cuando se trata de la radiación natural, pero
-no lo aceptamos cuando se trata de artificial
+cuando se trata de radiación natural, pero
+no cuando es de origen artificial.
 
 1:27:07.469,1:27:09.999
-la radiación. La realidad es que no hay diferencia
+La realidad es que no hay diferencia
 entre los dos.
 
 1:27:09.999,1:27:14.800
-Tenemos una evaluación de tres años del medio ambiente
-proceso en Canadá para construir un reactor nuclear
+En Canadá cuando tratamos de construir un reactor nuclear
+tenemos una evaluación medioambiental que dura tres años
 
 1:27:14.800,1:27:16.300
-y tenemos un fin de semana para producir una planta de carbón.
+y, sin embargo, sólo de un fin de semana
+para producir una central de carbón.
 
 1:27:16.300,1:27:20.739
-Las plantas de carbón y el gas son capaces de liberación radiactiva
-materiales en los ambientes en mucho mayor
+Las plantas de carbón y el gas emiten muchos más 
+materiales radioactivos al medioambiente que una central nuclear.
 
 1:27:20.739,1:27:25.559
-cantidades de una planta nuclear que nunca, posiblemente,
-permitir que porque se consideran
+Y la regulación les permite esa mayor emisión que a las centrales
+nucleares porque considera que emiten
+
 
 1:27:25.559,1:27:29.489
-lo que se llama NORM, natural radiactivo
-Los materiales. Por ejemplo, cuando usted va frack
+lo que se denomina NORM, (materiales radioactivos de origen
+natural). Por ejemplo, cuando fracturamos la rocas
 
 1:27:29.489,1:27:34.179
-una pizarra y sacar el gas a cabo, una gran cantidad de radón
-sale con eso también.
+de una pizarra para extraer el gas natural, sale también
+una gran cantidad de radón.
 
 1:27:34.179,1:27:39.749
-Que quema el gas, que el radón es liberado.
-No cuenta nadie de que el radón en contra del gas.
+Cuando quemamos el gas, el radón es liberado.
+Pero nadie cuenta ese radón que acompaña al gas.
 
 1:27:39.749,1:27:44.539
-Si lo hicieran, la comisión reguladora que
-cerrar la planta de gas hacia abajo, lo mismo con el carbón. Carbón
+Si lo hicieran, la comisión reguladora cerraría la planta de
+gas inmediatamente, y lo mismo que pasaría con el carbón.
 
 1:27:44.539,1:27:47.769
-contiene pequeñas cantidades de uranio y torio.
-Ellos van a la pila, que están dispersos.
+El carbón contiene pequeñas cantidades de uranio y torio.
+Y cuando se evacua por la chimenea, se dispersan en la atmósfera.
 
 1:27:47.769,1:27:50.369
-Es por eso que no te puedo decir la cantidad de residuos
+Es por eso que no pueden decir la cantidad de residuos
 que producen.
 
 1:27:50.369,1:27:55.130
-Sí, y gastan mucho dinero para hacer
-Asegúrese de que los organismos reguladores no regulan
+Sí, y gastan mucho dinero para asegurarse
+que los organismos reguladores no regulan los NORM
 
 1:27:55.130,1:28:00.900
-Norma para una planta de carbón o de gas de la forma en que
-regular las emisiones radiactivas de una central nuclear
+de cualquier planta de carbón o de gas, de la misma forma que
+regularían las emisiones radiactivas de una central nuclear.
 
-1:28:00.900,1:28:06.070
-de la planta. Si así fuera, estaríamos cerrando
-todas nuestras plantas de carbón y de gas sobre la base de la radiactividad
+1:28:00.900,1:28:07.479
+Si así fuera, cerraríamos todas nuestras plantas de carbón
+y de gas, debido a la radiactividad, por sí sola.
 
-1:28:06.070,1:28:07.479
-solos.
 
 1:28:07.479,1:28:10.670
-Incluso si lineal sin umbral era verdad
-- Digamos por un momento que era cierto, y
+Incluso si la hipótesis lineal-sin umbral fuera verdad
+- Supongamos por un momento que es cierta, y
 
 1:28:10.670,1:28:15.249
-ésta era la realidad del mundo. Usted
-todavía mucho mejor establecer un todo
+ésa es la realidad del mundo. Incluso en ese caso
+si dependiéramos totalmente de la energía nuclear
 
 1:28:15.249,1:28:18.739
-mundo propulsado por energía nuclear. La razón
-¿Por qué es debido a la liberación de sustancias radioactivas
+estaríamos en un mundo mejor en cuanto a la emisión de
+sustancias radiactivas que si dependiéramos del carbón. 
 
 1:28:18.739,1:28:22.440
-a partir del carbón. Usted quiere apagar el carbón
-por lo que podría haber nuclear, porque las emisiones de carbón
+Deberíamos cerrar las plantas de carbón y sustituirlas
+por centrales nucleares sólo porque el carbón
 
 1:28:22.440,1:28:25.679
-más radiación que la energía nuclear en varios órdenes
+emite más radiación que la energía nuclear por varios órdenes
 de magnitud.
 
 1:28:25.679,1:28:32.130
 La idea de que no existe una cantidad segura de
-la radiación no es justificado o incluso una
+radiación no está justificada ni siquiera es una
 
 1:28:32.130,1:28:38.469
-declaración exacta. Es probable que en realidad
-totalmente inexacta. Sin embargo, se encuentra comúnmente
+certeza. Es probable que, en realidad,
+sea totalmente inexacta. Sin embargo, se encuentra comúnmente
 
 1:28:38.469,1:28:41.639
 como base de las políticas públicas en todo el mundo.
 
 1:28:41.639,1:28:46.800
-Esa fue mi entendimiento hasta ahora,
-que no hay nivel seguro de radiación.
+Hasta hace poco creía que no existía un nivel
+seguro de radiación.
 
 1:28:46.800,1:28:50.510
-Dos grandes libros sobre esto: "Energía Terrestre"
-por Bill Tucker, y "El poder de salvar la
+Hay dos grandes libros sobre esta materia: "Energía Terrestre"
+de Bill Tucker, y "El poder de salvar al
 
 1:28:50.510,1:28:57.070
-Mundo "de Gwen Cravens-entrar en este tema
-extensivamente. Hasta que esta noción de una baja exposición
+Mundo" de Gwen Cravens- ambos abordan este tema
+extensamente. Hasta que esta noción de que una baja exposición
 
 1:28:57.070,1:29:03.670
-los niveles de radiación se dirige y poner a
-cama, para siempre el perro de la industria nuclear.
+a niveles de radiación sea maligna se aparque,
+seguirá siendo un hándicap para el sector nuclear.
 
 1:29:03.670,1:29:07.760
-Una quemadura es el daño por radiación. Esa es la radiación
-quemaduras. No puede llamar así, pero eso es lo que
+Una quemadura solar es daño por radiación. Es una quemadura
+por radiación. No la llamamos así pero, en realidad, lo es.
 
 1:29:07.760,1:29:13.499
-lo que es. Su cuerpo está respondiendo, tratando de
-prevenir el daño por radiación adicional, ionizante
+Su cuerpo está respondiendo, tratando de
+prevenir un daño por radiación adicional,
 
-1:29:13.499,1:29:16.780
-la radiación a la piel y sus células, y
-es la generación de melanina, que es un producto natural
+1:29:13.499,1:29:18.519
+la generación de melanina, que es un producto natural,
+es el mecanismo natural de protección.
 
-1:29:16.780,1:29:18.519
-blindaje mecanismo.
+
+
 
 1:29:18.519,1:29:22.229
-Usted no quiere dejar que nadie reciba una dosis excesiva
-la dosis de radiación en un momento dado y la radiactividad
+No deseamos que nadie reciba una dosis excesiva
+de radiación en un momento dado y la radiactividad
 
 1:29:22.229,1:29:26.760
-que obtenemos de los reactores nucleares es extremadamente
-pequeño en comparación con la radiactividad que estamos
+que se escapa de los reactores nucleares es extremadamente
+pequeña en comparación con la radiactividad que estamos
 
 1:29:26.760,1:29:30.659
-obtener de otras fuentes. El más grande
-siendo el radón. Hay un gas radiactivo que se
+recibiendo de otras fuentes. La más grande
+es el radón. Es un gas radiactivo que se
 
 1:29:30.659,1:29:34.760
-saliendo de la tierra todo el tiempo. Usted es
-respiración que en estos momentos. Tiene a su cargo
+está saliendo de la tierra todo el tiempo. Lo
+estamos respirando en estos momentos. Es el responsable
 
 1:29:34.760,1:29:40.479
-en gran medida para la mayoría de la radiactividad
-que su cuerpo recibe. Es sólo el planeta
+de la mayor parte de la radiactividad
+que estamos recibiendo. Es culpa del planeta
 
 1:29:40.479,1:29:41.829
 en que vivimos.
 
 1:29:41.829,1:29:45.159
-Dentro de la tierra, el torio y el uranio son
-descomposición, y que están en descomposición muy lentamente,
+Dentro de la tierra, el torio y el uranio se están
+descomponiendo, y lo hacen muy lentamente,
 
 1:29:45.159,1:29:50.070
-pero hay un montón de ellos y es la tierra
-grande. Que producen la mayor parte del calor que impulsa
+pero hay mucho, y es la tierra es muy grande.
+Producen la mayor parte del calor que impulsa
 
 1:29:50.070,1:29:54.030
-los procesos internos de la tierra. Ellos
-producir el calor que impulsa la tectónica de placas,
+los procesos internos de la tierra. 
+Producen el calor que impulsa la tectónica de placas,
 
 1:29:54.030,1:29:58.510
-y que producen el calor que impulsa el
-la generación del campo magnético. Si no tuviéramos
+y que producen el calor que genera
+el campo magnético. Si no tuviéramos
 
 1:29:58.510,1:30:02.340
-tiene la energía a partir del torio, que no
-han reciclado del carbono en la corteza.
+la energía del torio, tampoco se produciría
+el reciclado del carbono en la corteza terrestre.
 
 1:30:02.340,1:30:07.010
-Un reparto más grande es el campo magnético, ya que
-el campo magnético que desvía el solar
+Más importante aún es el campo magnético, ya que
+éste desvía el viento solar.
 
 1:30:07.010,1:30:11.900
-viento. Si usted no tiene un campo magnético desvía
-el viento solar, durante miles de millones de años
+Si no tuviéramos un campo magnético que desviara
+el viento solar, a lo largo de miles de millones de años
 
 1:30:11.900,1:30:17.489
-planeta termina como Marte. Debido a que el solar
-viento tira de la atmósfera de un planeta
+el planeta terminaría como Marte. Esto es debido a que el viento
+solar arrastraría la atmósfera del planeta
 
 1:30:17.489,1:30:22.909
-sin la protección de la naturaleza del campo magnético
-sobre el terreno. Así que si no tenía la energía de
+si no existiera la protección natural del campo magnético.
+Así que si no tuviéramos la energía de torio
 
 1:30:22.909,1:30:26.340
-torio dentro de la tierra, estaríamos en una
+dentro de la tierra, estaríamos en un
 planeta muerto.
 
 1:30:26.340,1:30:28.309
-Una cosa de la diversión que decirle a la gente, digo, "¿Cuál es
-la energía verde? "Van", geotérmica es verde
+Hay algo divertido que cuento a la gente: "¿Cuál es
+la energía verde?" Y contestan:" la geotérmica es energía verde
 
 1:30:28.309,1:30:33.340
-energía. "¿Sabes de dónde viene geotérmica
-de? No, viene de la descomposición del interior de torio
+"¿Sabeís de dónde viene la energía geotérmica?
+No, viene de la descomposición del torio dentro
 
 1:30:33.340,1:30:37.780
-de la tierra. Es renovable geotérmica? ¡Sí! OK,
-entonces torio es renovable. "No, no lo es,
+de la tierra ¿Es renovable la energía geotérmica? ¡Sí!,
+Entonces el torio es renovable. "No, no lo es,
 
 1:30:37.780,1:30:40.550
-usted lo está utilizando para arriba! "Bueno, usted está utilizando a
-Torio, ya que se descompone en el interior de la tierra, también.
+usted lo va gastar! "Bueno, vosotros estáis gastando el
+torio, ya que también se descompone en el interior de la tierra.
 
 1:30:40.550,1:30:45.929
-Por lo que cualquier argumento de la energía geotérmica, si es rigurosamente
-perseguido, es un argumento a favor de la renovación
+Por eso cualquier argumento a favor de la energía geotérmica, si se analiza rigurosamente, es también un argumento a favor de considerar
 
 1:30:45.929,1:30:49.739
-de torio como fuente de energía. Y me encanta
-a tener ese debate. Por lo general, cambiar el
+al torio como fuente de energía renovable. Y me encanta
+tener ese debate. Por lo general, cambian
 
 1:30:49.739,1:30:51.280
-normas sobre mí, como me meto en él.
+la forma en la que me ven cuando inicio esta discusión.
 
 1:30:51.280,1:30:56.369
-Sin embargo, una buena para jugar a tus amigos si
-que comenzará a darle un mal rato por venir
+Sin embargo, es una buena estrategia para debatir con tus amigos
+si comienzan a protestar por venir a Protospace
 
 1:30:56.369,1:31:00.829
-a protospace y hablando de torio, que
-dice: "Amigo, es la energía verde." "¿Qué?"
+hablando del torio, cuando les digo:
+"Amigo, es energía verde." "¿Qué?"
 
 1:31:00.829,1:31:05.139
-Si usted está preocupado con el medio ambiente,
-entonces usted desea estar al tanto de lo que el poder
+Si estáis preocupados con el medio ambiente,
+entonces tenéis que tener en consideración la densidad
 
 1:31:05.139,1:31:11.139
-la densidad de cualquier fuente. Cualquier persona que está tratando de
-de vender biocombustibles, o este tipo de cosas,
+energética de cualquier fuente. Cualquier persona que trate de
+de vender la idea de los biocombustibles, o cosas por el estilo;
 
 1:31:11.139,1:31:16.260
-¿Qué hacer con la ineficacia termodinámica
-los motores de combustión? Combustibles, que usted se quema,
+¿Qué vais a hacer con la ineficacia termodinámica
+de los motores de combustión interna? Con los Combustibles, que quemáis,
 
 1:31:16.260,1:31:22.289
-es en el aquí. Cada vez que quemamos algo,
-estamos utilizando un proceso muy ineficiente. Termodinámica
+Cada vez que quemamos algo estamos utilizando un proceso
+muy ineficiente. La Termodinámica
 
 1:31:22.289,1:31:26.710
 por lo general nos da un 30 por ciento de la
-energía cuando el consumo de combustible.
+energía del consumo de combustible.
 
 1:31:26.710,1:31:31.369
-Así que cada vez que se ponga un dólar de
-gasolina de su automóvil, un beso de despedida de 60 centavos, porque
+Así que cada vez que se pongáis un dólar de
+gasolina en vuestro automóvil, despediros de 60 centavos, porque
 
 1:31:31.369,1:31:35.639
-que va a salir del tubo de escape
+es lo que vais a perder por el tubo de escape en forma de
 calor. Y perdemos un 10 por ciento de lo que se genera
 
 1:31:35.639,1:31:39.699
-en líneas de transmisión. Así que cada vez que hablan
-sobre estas granjas remotas solar, o remoto
+en líneas de transmisión. Así que cada vez que se habla
+sobre estas granjas solares remotas, o 
 
 1:31:39.699,1:31:43.210
-parques eólicos o cualquier otra cosa, usted tiene una deuda de
-10 por ciento que usted está pagando a partir de ahora,
+parques eólicos remotos o cualquier otra cosa, tenéis una pérdida
+del 10% para siempre.
 
 1:31:43.210,1:31:45.820
-para siempre. Usted nunca va a conseguir que la energía
-espalda.
+Nunca vais a recuperar esta energía.
 
 1:31:45.820,1:31:51.820
-Cinco megavatios, superior de la línea Siemens viento
-molino, tiene 10 acres. Y cinco megavatios por
+Los últimos aerogeneradores de Siemens de cinco megavatios
+ocupan una extensión de 10 acres. Y cinco megavatios por
 
 1:31:51.820,1:31:56.389
-10 hectáreas, que es la mitad de un megavatio por acre.
-Si usted se muda a la fisión, que tiene cientos
+10 acres, es medio megavatio por acre.
+En cambio, la fisión produce cientos
 
 1:31:56.389,1:32:02.229
 de miles de vatios por pie cuadrado, por
-libras acre, por. Lo que sea. Y si se mueve
+acre, por libra. Por lo que sea. Y si hablamos de
 
 1:32:02.229,1:32:08.519
-hasta la fusión, se obtiene otro 10.000 veces
-que. La fusión no tenemos que esperar, porque
+fusión, obtendríamos 10.000 veces más.
+No hace falta que esperemos a tener lista la fusión
 
 1:32:08.519,1:32:12.010
-fisión es lo suficientemente bueno para nosotros, especialmente
-con el ciclo del torio.
+porque la fisión es suficientemente buena para nosotros,
+especialmente con el ciclo del torio.
 
 1:32:12.010,1:32:16.409
-Un artículo nuclear sería por escrito. Autor
-de este artículo se destinarán a mí, o Adams Rod,
+Cuando se escribe un artículo sobre tecnología nuclear de autores
+tales como yo mismo, Rod Adams,
+
 
 1:32:16.409,1:32:20.949
-o John Wheeler - alguien que es una especie de conocido
-como un defensor público de la energía nuclear. Y luego
+o John Wheeler – cualquiera que defienda públicamente la
+energía nuclear. En seguida surgen
 
 1:32:20.949,1:32:25.389
-que ir a buscar el otro lado, Ed Lyman, o Jim
-Riccio de Greenpeace, o uno de estos otros
+respuestas por el otro lado; Ed Lyman, o Jim
+Riccio de Greenpeace, o alguno de estos otros.
 
 1:32:25.389,1:32:29.110
-chicos. Ahora comparemos esto con un artículo en torno a
-solar, o eólica, y espero de esto, el todo
+Pero si se publica un artículo en torno a la energía
+solar, o eólica, podemos esperar todo el tiempo que sea necesario.
 
 1:32:29.110,1:32:33.389
-tiempo. Siempre estoy tratando de ver, ¿hay otra
-lado en los artículos? Nunca hay otra
+Nunca hay respuesta. Siempre trato de comprobar si hay opiniones
+contrarias a estos artículos. Pero no las hay nunca.
 
 1:32:33.389,1:32:36.979
-lado. "Tal y como ha anunciado la empresa
-que van a poner 50 megavatios de molinos de viento
+Imaginemos que se anuncia que tal empresa ha anunciado
+que van a poner 50 megavatios de aerogeneradores
 
 1:32:36.979,1:32:39.659
-en este sitio. Mundo se alegrará ".
+en determinado sitio. Y el mundo se alegra.
 
 1:32:39.659,1:32:42.159
-Y he tomado la mitad de la montaña para
-poner los molinos de viento allá arriba.
+Y han ocupado media montaña para
+poner aerogeneradores en ella.
 
 1:32:42.159,1:32:46.389
-Llegan más subsidios por megavatio hora
+Y obtienen más subsidios por megavatio hora
 que cualquier otra forma de energía por uno o dos
 
 1:32:46.389,1:32:51.949
-órdenes de magnitud. Quiero decir, que es enorme! Estamos
-oferta de recompra de la energía solar de la gente
+órdenes de magnitud. ¡Es muchísimo! Estamos
+dispuestos a recomprar de la energía solar de la gente
 
 1:32:51.949,1:32:57.400
-que se producen de 35 a 50 centavos de dólar por kilowatt
-hora. Quiero decir, que es obsceno. ¿Por qué en la Tierra,
+que lo produce de 35 a 50 centavos de dólar por kilovatio/h.
+Es obsceno. ¿Por qué demonios,
 
 1:32:57.400,1:33:00.960
-si usted está haciendo de la energía en su hogar,
-debe venderla a la red en cualquier
+si usted está produciendo energía en su hogar,
+debe poderla vender a la red en cualquier red
 
-1:33:00.960,1:33:05.260
-la red es comprar en ese momento. La red de
-no debería tener que comprar energía a partir de que en
+1:33:00.960,1:33:06.989
+y en cualquier momento. La red no debería tener
+que comprar energía a esos precios tan caros.
 
-1:33:05.260,1:33:06.989
-algunos masivo aumento en el precio.
+
+
 
 1:33:06.989,1:33:09.400
-Pero están subsidiando la tecnología hasta que se
-se vuelve más eficiente.
+Pero están subsidiando la tecnología hasta que sea
+más eficiente.
 
 1:33:09.400,1:33:12.409
-Cuando todas estas tarifas se reducen, la
-cosas que se supone que debemos fomentar, y
+Cuando todos estos costes se reducen, la
+cosas que se supone que debemos apoyar, 
 
 1:33:12.409,1:33:17.179
-reactivar la industria, la industria se derrumba.
-Industria de energía solar en Alemania y en España es
+para reactivar la industria, la industria se derrumba.
+El sector de la energía solar en Alemania y en España está
 
 1:33:17.179,1:33:21.739
-en el colapso total debido a la proyectada
-eliminación de las cuotas y los aranceles debido a que estos
+en situación de colapso total debido a la proyectada
+eliminación de las subvenciones debido a que estas
 
 1:33:21.739,1:33:26.300
-simplemente no son fuentes de ahorro de energía.
+simplemente no son fuentes de energía sostenibles económicamente.
 La subvención puede ser bien intencionada para tratar de
 
 1:33:26.300,1:33:30.260
-para llegar a la industria a ponerse en marcha por su cuenta
-pero eso es por lo general no funcionan las cosas.
+que el sector se ponga en marcha por sí mismo
+pero las cosas, por lo general no suelen funcionan así.
 
 1:33:30.260,1:33:34.539
-Cada fuente de energía es subsidiada, ¿verdad?
-Si el aceite es subvencionado, porque estamos enviando
+Todas las fuente de energía se subvencionan, ¿verdad?
+El petróleo está subvencionado porque estamos enviando
 
 1:33:34.539,1:33:35.869
-la gente a la guerra ...
+tropas a la guerra ...
 
 1:33:35.869,1:33:41.059
-Los niveles de los subsidios son sustancialmente
-más bajos para las industrias establecidas de lo que
+Los niveles de subsidios son sustancialmente
+más bajos para las industrias establecidas que para
 
 1:33:41.059,1:33:42.909
-son cosas como la solar y la eólica.
+cosas como la solar y la eólica.
 
 1:33:42.909,1:33:46.769
 George Monbiot, que escribe en The Guardian,
-Recientemente ha salido muy fuerte en
+Recientemente ha salido de forma muy enérgica
 
 1:33:46.769,1:33:50.280
-apoyo a la energía nuclear por lo que pasó
-Fukushima Daiichi a, ¿cómo, si sobrevivieron a la
+a favor de la energía nuclear, por lo que pasó
+en Fukushima-Daiichi. Cómo, a pesar del terremoto
 
-1:33:50.280,1:33:54.510
-terremoto y el efecto general ha sido
-nada comparado con la muerte y la pérdida de
+1:33:50.280,1:33:55.559
+el efecto general ha sido nada en comparación con
+la muerte y la pérdida de vidas por el tsunami.
 
-1:33:54.510,1:33:55.559
-la vida desde el tsunami.
+
 
 1:33:55.559,1:33:59.199
 Bueno, él mencionó en un artículo que escribió
 ayer que habló con Caroline Lucas,
 
 1:33:59.199,1:34:04.300
-el jefe del partido verde en la U. Y K.
-le preguntó por qué iba a apoyar las subvenciones
+la jefa del partido verde en Reino Unido y le
+preguntó por qué iba a apoyar las subvenciones
 
 1:34:04.300,1:34:07.579
-en el solar y eólica. Ella va "Me opongo a las subvenciones
-de la energía nuclear, pero yo les apoyo para la energía solar y
+en la solar y la eólica. Ella dijo: "Me opongo a las subvenciones
+a la energía nuclear, pero las apoyo para la energía solar y
 
 1:34:07.579,1:34:11.340
-viento porque nuclear es una industria establecida
-y la energía solar y el viento todavía se están desarrollando las industrias,
+eólica porque la nuclear es una industria establecida
+y la energía solar y el viento todavía se están desarrollando,
 
 1:34:11.340,1:34:15.960
-y que necesitan el apoyo del público con el fin de prosperar. "
-Y así, George, un tipo muy inteligente, dijo: "¿Se
+y necesitan el apoyo del público con el fin de prosperar.” 
+Y así, George, que es un tipo muy inteligente, dijo: 
 
 1:34:15.960,1:34:20.889
-que apoyar la investigación sobre los reactores de torio,
-que podría servir de mucho más seguro y más barato
+“Apoyaría la investigación sobre los reactores de torio,
+que podrían proporcionar energía mucho más segura
 
 1:34:20.889,1:34:23.670
-medios de producción de la energía nuclear? "
+y más barata? "
 
 1:34:23.670,1:34:28.460
-No, porque los reactores de torio no son un resultado
-la tecnología.
+No, porque los reactores de torio no son
+una tecnología probada.
 
 1:34:28.460,1:34:32.749
-A nivel individual estamos viendo una gran cantidad
-de las personas a cambiar sus mentes. Sin embargo, en la organización
+A nivel individual estamos viendo una gran cantidad de personas
+que cambian de opinión. Sin embargo, en organizaciones no
 
-1:34:32.749,1:34:38.030
-nivel que no estamos viendo ningún cambio. Pueblo
-que dirigen las organizaciones ambientalistas,
+1:34:32.749,1:34:38.280
+estamos viendo ningún cambio. Es decir, en la gente que
+dirige las organizaciones ecologistas, y eso es lamentable.
 
-1:34:38.030,1:34:38.280
-y eso es lamentable.
+
+
+
 
 1:34:38.130,1:34:43.209
-¿Ha tenido un uno-a-uno en el que está hablando
-a alguien y conseguir esto?
+¿Ha tenido algún cara a cara con alguno de ellos para
+conseguir convencerle?
 
 1:34:43.209,1:34:47.300
 Es difícil para las personas que están más arriba en la
-la cadena alimentaria en que estas organizaciones vienen
+dirección de estas organizaciones 
 
 1:34:47.300,1:34:51.959
-y hacer declaraciones de política pública. Una gran cantidad
-de gente que uno a uno, pero tienen miedo
+hacer declaraciones políticas públicamente. Una gran cantidad
+de gente lo admitirían privadamente, pero tienen miedo
 
 1:34:51.959,1:34:56.920
-para ser el primero en levantarse y decir "Ra-ra-ra,
-vamos a hacer esto. "Es mucho más fácil cuando
+de ser los primeros en levantarse y decir "Ra-ra-ra,
+vamos a hacer esto." Es mucho más fácil cuando
 
 1:34:56.920,1:34:58.789
-se siente como todo el mundo está detrás de usted.
+sienten el apoyo de todos los que están apoyándoles.
 
 1:34:58.789,1:35:04.249
-¿Por qué se apela a los avances tecnológicos
-siempre hizo lo que respecta a la energía solar y eólica?
+¿Por qué siempre se habla de avances tecnológicos
+referidos a la energía solar y eólica?
 
 1:35:04.249,1:35:07.159
-Se va a poner mejor que va a conseguir
-más barato, que va a ser más eficientes.
+Van a ser siempre mejores, más baratos, más eficientes.
 
 1:35:07.159,1:35:10.719
-No te preocupes por lo que tenemos ahora, la causa
-que va a ser mejor el próximo año. Sin embargo, todavía
+No te preocupes por lo que tenemos ahora, ya que
+el próximo año van a ser mejores. Sin embargo, siempre
 
 1:35:10.719,1:35:14.869
-nuclear se le asigna en este puesto de nuevo en
-los años 50 donde no puede llegar mejor,
+en materia nuclear se asume que se mantendrá en la misma situación
+que en los años 50, y que jamás podrá mejorar.
 
-1:35:14.869,1:35:19.289
-nunca se puede incorporar una nueva tecnología,
-nunca se puede mejorar y no vamos a entretener incluso
+1:35:14.869,1:35:20.840
+nunca se podrá incorporar ninguna nueva tecnología,
+nunca se podrá mejorar y ni siquiera podemos asumir cualquier mejora 
 
-1:35:19.289,1:35:20.840
-si puede ser mejor.
+
+
+
 
 1:35:20.840,1:35:25.719
-Derecho nuclear hoy en día significa reactor refrigerado por agua,
-de combustible de uranio de óxido sólido, la eficiencia del combustible pobres
+La energía nuclear hoy en día significa reactores refrigerados por agua
+de combustible de óxido de uranio sólido, baja eficiencia de combustible
 
 1:35:25.719,1:35:31.510
-y la turbina de vapor. Eso es lo que la energía nuclear
-significa que en estos momentos. Así que la gente busca en Fukushima
+y turbina de vapor. Eso es lo que la energía nuclear
+significa que en estos momentos. Así que la gente se fija en Fukushima
 
 1:35:31.510,1:35:37.789
-Daiichi y se van, "¿Es este el final de la energía nuclear
-el poder? "y me voy," No, no es el fin del
+Daiichi y dicen: "¿Es este el final de la energía nuclear?”
+y digo:" No, no es el fin de la
 
 1:35:37.789,1:35:39.300
 la energía nuclear, hay un trillón de otras maneras
-para hacer la energía nuclear. "
+de hacer energía nuclear. "
 
 1:35:39.300,1:35:44.190
-El reactor que trabajamos es enfriado por
-una sal líquida, un combustible nuclear en forma
+El reactor que trabajamos se refrigera mediante
+una sal líquida, y el combustible nuclear está 
 
 1:35:44.190,1:35:45.429
-de piedras sólidas.
+como bolas en estado sólido.
 
 1:35:45.429,1:35:50.739
-Son enfriados por las sales de flúor, pero la
-combustible no se disuelve en las sales, que en
+Son enfriadas por sales de flúor, pero el
+combustible no se disuelve en las sales, está en
 
 1:35:50.739,1:35:51.809
-una forma sólida.
+forma sólida.
 
 1:35:51.809,1:35:56.690
 Fui invitado a la oficina del director. La
