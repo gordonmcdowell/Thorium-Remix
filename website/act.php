@@ -43,12 +43,12 @@ The fastest, cheapest &amp; easiest way to help, is to share THORIUM REMIX 2011 
 <div class="text">
 To learn more, and to <strong>really</strong>  engage I'd suggest visitng/joining the following:
 <ul>
-  <li><a href="http://www.facebook.com/EnergyFromThorium">Energy from Thorium (on facebook)</a></li>
-  <li><a href="http://www.thoriumenergyalliance.com/">Thorium Energy Alliance</a></li>
+<li><a href="http://ThoriumPetition.com">Thorium Petition</a></li>
+<li><a href="http://www.facebook.com/EnergyFromThorium">Energy from Thorium (on facebook)</a></li>
+<li><a href="http://www.thoriumenergyalliance.com/">Thorium Energy Alliance</a></li>
 <li><a href="http://itheo.org/">International Thorium Energy Organization</a></li>
 <li><a href="http://energyfromthorium.com/">Energy from Thorium</a></li>
 <li><a href="http://www.facebook.com/ThoriumRemix">Thorium Remix (on facebook)</a></li>
-<li><a href="http://ThoriumPetition.com">USA Gov Thorium Petition (on facebook, a work in progress but good to join) </a></li>
 </ul> 
 ...these provide thorium FAQs, enthusiasts and experts to assist with any technical/policy questions you may have.
 </div>
