@@ -496,7 +496,7 @@ it burns 99 percent of its fuel, it can reduce
 existing nuclear waste. Normal operational
 
 0:10:13.850,0:10:18.430
-range is seven, 800C. This is where you can
+range is 700C - 800C. This is where you can
 create miracles.
 
 0:10:18.430,0:10:24.180
@@ -650,7 +650,7 @@ this. What are we going to do then, as a country?
 They're smart, they've got brains just like
 anyone, so they're going to have design, engineering,
 
-0:13:25.980,0:13:32.980
+0:13:25.980,0:13:34.220
 cheap labor, lots of resources. If we add
 clean, abundant energy to that mix, where's
 
@@ -674,7 +674,7 @@ again of something. Considering our fiscal,
 monetary and trade deficit, whatever we're
 going to start selling, it's got to be big.
 
-0:14:00.579,0:14:07.579
+0:14:00.579,0:14:08.709
 The biggest market in the world is energy.
 We're chasing a shrinking pie of oil, trying
 
@@ -771,13 +771,13 @@ close to the vest. I am being ruthless on
 one thing. Any activities that we possibly
 can, should be placed in southern California.
 
-0:15:52.959,0:15:56.329
-I told Dr. David, and of course [indecipherable
-15
+0:15:52.959,0:15:58.000
+I told Dr. David, and of course Seaborg
+and the rest, that we do it.
 
-0:15:56.329,0:16:01.970
-58] and the rest, that we do it. On the committee,
-every time you have a chance, needle them,
+0:15:58.000,0:16:01.970
+On the committee, every time you
+have a chance, needle them,
 
 0:16:01.970,0:16:05.250
 say, "Where's this going to be?" Let's push
