@@ -1033,7 +1033,7 @@ and the senator, and in the end he basically
 said, "I don't want to use the word thorium
 in a piece of legislation because it's going
 
-0:20:53.500,0:21:00.500
+0:20:53.500,0:21:01.610
 to attract attention." He also agreed with
 me that if you could create a rare earth co-operative,
 
@@ -1045,11 +1045,11 @@ what do you do? Move all thorium-bearing rare
 earth products to a centralized, rare earth
 refinery.
 
-0:21:09.669,0:21:16.669
+0:21:09.669,0:21:17.520
 The refinery would be funded by OEMs who are
 desperate to get a supply that's not Chinese-based.
 
-0:21:17.520,0:21:24.520
+0:21:17.520,0:21:25.520
 Hitachi, Mitsubishi, Boeing, anybody who wanted
 to actually own some of the off-take would
 
@@ -1061,12 +1061,9 @@ your customers as owners of the refinery.
 Not only have you tied yourself to your end
 users, but you're saying to them, "Hey, on
 
-0:21:36.490,0:21:40.289
+0:21:36.490,0:21:41.299
 good years we're going to have a profit because
-we're a co-op, we have to write you a check
-
-0:21:40.289,0:21:41.299
-back."
+we're a co-op, we'll write you a check back."
 
 0:21:41.299,0:21:46.570
 Now you're tied very very closely to your
@@ -1100,7 +1097,7 @@ It's just bad news doing business in China
 right now. If you don't believe how desperate
 
 0:22:16.090,0:22:21.210
-they are, just look at Malicorp. They can
+they are, just look at Molycorp. They can
 barely offer any usable heavy rare earths,
 
 0:22:21.210,0:22:27.470
@@ -1108,18 +1105,16 @@ but as soon as China embargoed Japan because
 of that fishing captain thing, Japan was like,
 
 0:22:27.470,0:22:32.770
-"Here's a half a billion dollars, Malicorp,
+"Here's a half a billion dollars, Molycorp,
 just on the hopes that you'll be able to provide
 
-0:22:32.770,0:22:34.320
+0:22:32.770,0:22:36.320
 a second source of rare earth."
+I can't tell you how many calls we get,
 
-0:22:34.320,0:22:38.250
-I can't tell you how many calls we get, "When
-are you going to do this? When is this going
-
-0:22:38.250,0:22:38.740
-to happen?"
+0:22:36.320,0:22:38.740
+"When are you going to do this?
+When is this going to happen?"
 
 0:22:38.740,0:22:42.250
 Of course there are some companies that love
@@ -1163,16 +1158,16 @@ who are sick and tired of being forced to
 move their factories to China, they can now
 come right here."
 
-0:23:23.840,0:23:30.840
+0:23:23.840,0:23:31.070
 Suddenly, places that are industrial deserts
-could suddenly be blooming in technology companies.
+could be blooming in technology companies.
 
 0:23:31.070,0:23:35.700
-Where we're going and what I think is much
-more important, Poe's language creates a regulatory
+Where we're going & much more important, 
+proposed language creates a regulatory pathway
 
 0:23:35.700,0:23:41.380
-pathway for thorium energy under a federally-chartered
+for thorium energy under a federally-chartered
 corporation. This federally-chartered corporation
 
 0:23:41.380,0:23:43.940
@@ -1194,7 +1189,7 @@ be totally independent. We can still make
 electricity, and the electricity can go down
 a power line and plug it into your car.
 
-0:24:03.299,0:24:10.299
+0:24:03.299,0:24:10.679
 We want people to know this is real, and that
 our government has done this. It's not like
 
@@ -1210,7 +1205,7 @@ for 22,000 hours, that's five years.
 The research that was true for rare earths
 is doubly true for the nuclear aspect. What
 
-0:24:26.220,0:24:33.220
+0:24:26.220,0:24:34.789
 we keep telling Congress is, the day the Chinese
 start fence-posting patent IP on this technology,
 
@@ -1268,7 +1263,7 @@ restart rare earth, we open up the possibility
 for thorium energy, everything starts happening
 from that point on.
 
-0:25:44.010,0:25:51.010
+0:25:44.010,0:25:52.620
 What kind of metallurgy are we looking, to
 contain the salts in a thorium reactor?
 
@@ -1359,7 +1354,7 @@ All sorts of things that give us the advantage
 and they're all based on energy.
 
 0:27:41.250,0:27:46.750
-Colonel Rogie manages energy systems for the
+Colonel Roege manages energy systems for the
 United States Army and the military. Canadians
 
 0:27:46.750,0:27:49.130
