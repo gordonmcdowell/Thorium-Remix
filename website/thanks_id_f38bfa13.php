@@ -42,7 +42,7 @@
 <div class="space">&nbsp;</div>
 
 <div class="text">
-<h2 style="color:#FFFFFF; text-align:center;">READ THIS BEFORE CLICKING ON ANYTHING!</h2>
+<h2 style="color:#220000; text-align:center;">READ THIS BEFORE CLICKING ON ANYTHING!</h2>
 
 <p><strong>If you are unfamilliar with downloading large video files from web pages</strong>, you probably <strong><em>do not</em></strong> want to <strong>left-click</strong> on them... that may cause your computer to attempt to <strong>play</strong> the video in your browser rather than download it. <em><strong>Right-click on the video file</strong></em> and "Save link as" or "download" it. (If you own a <strong>Mac</strong>, <strong>CTRL-click</strong> for this option.)</p><br />
 
