@@ -3,105 +3,114 @@ Le réacteur à eau lourde utilise environ 0,7%
 de la valeur énergétique de l'uranium,
 
 0:00:05.060,0:00:08.630
-et le réacteur à eau légère utilise 0,5%.
-Médiocre tous les deux.
+et le réacteur à eau légère utilise environ 0,5%.
+Les deux sont vraiment mauvais.
 
 0:00:08.630,0:00:13.380
-A des pressions normales, l'eau bouillira à 100
-degrés Celsius. Pas assez chaude pour
+À pression normale, l'eau bout à 100 degrés Celsius.
+Cette température n'est pas suffisamment élevée pour 
 
-0:00:13.380,0:00:18.280
-générer efficacement l'électricité. Donc les réacteurs
-refroidis à l'eau fonctionnent avec plus de 70 atmosphères
+0:00:13.380,0:00:18.880
+générer efficacement de l'électricité. Donc les
+réacteurs refroidis à eau sont contraints de fonctionner
+à une pression supérieure à 70 atmosphères.
 
-0:00:18.280,0:00:22.310
-de pression. Il faut construire un réacteur refroidi 
-à l'eau comme un récipient sous pression. Le numéro un
+0:00:18.880,0:00:22.310
+Il faut alors construire un réacteur
+refroidi à l'eau comme un réservoir sous pression.
+Le principal accident possible
 
 0:00:22.310,0:00:24.529
-des accidents qui inquiète les gens ...
+qui inquiète les gens est le suivant : 
 
 0:00:24.529,0:00:28.760
-La pression est perdue, l'eau qui est tenue
-à 300 degrés Celsius
+La pression ne peut plus être maintenue,
+et l'eau à 300 degrés Celsius
 
-0:00:28.760,0:00:34.320
-se transforme en vapeur. Son volume augmente par un facteur
-d'environ 1000. Si on n'alimente pas d'urgence le combustible
+0:00:28.760,0:00:34.620
+se transforme instantanément en vapeur. Son volume
+augmente alors environ d'un facteur 1'000.
+Si le combustible dans le réacteur n'est pas alimenté
 
-0:00:34.320,0:00:38.010
-dans le réacteur avec du liquide de refroidissement,
+0:00:34.620,0:00:38.010
+d'urgence avec du liquide de refroidissement,
 il peut surchauffer et fondre.
 
 0:00:38.010,0:00:44.739
-C'est ce qui conduit à la conception de ce bâtiment.
-Si cela arrive, toute la vapeur est capturée dans ce bâtiment.
+Voilà la raison qui conduit à la conception de ce bâtiment.
+Si cet événement devait arriver, toute la vapeur
+serait capturée dans ce bâtiment.
 
 0:00:44.739,0:00:50.129
 Les réacteurs que nous avons aujourd'hui utilisent de l'oxyde
-d'uranium en tant que combustible. C'est un matériau céramique,
+d'uranium comme combustible. C'est un matériau céramique,
 
 0:00:50.129,0:00:54.079
 chimiquement stable, mais pas très efficace en transfert
-thermique. Si on perd de la pression, on perd
+de chaleur. Si la pression ne peut plus être maintenue,
 
 0:00:54.079,0:00:58.129
-de l'eau, et bientôt le combustible fond et relâche 
-les produits de fission radioactifs qu'il contient.
+l'eau s'évapore, et il s'ensuit la fonte du
+combustible ainsi que la libération des produits
+de fission radioactifs qu'il contient.
 
 0:00:58.129,0:01:03.629
-Donc on utilise une série de systèmes de sécurité
-conçus pour toujours garder le cœur recouvert
+Il y a donc un ensemble de systèmes de sécurité conçus
+pour toujours garder le coeur recouvert d'eau.
 
 0:01:03.629,0:01:08.649
-d'eau. On a vu l'échec de cette approche à Fukushima Daiichi.
-Ils avaient de multiples générateurs diesel de secours,
+On a vu l'échec de cette approche à Fukushima Daiichi.
+Ils avaient plusieurs générateurs diesel de secours,
 
 0:01:08.649,0:01:14.369
-et chacun avait une très grande probabilité
-de démarrer. Le tsunami est venu les éliminer tous.
+et chacun avait certainement une très grande probabilité
+de démarrer. Le tsunami est venu et les a tous éliminé.
 
 0:01:14.369,0:01:16.929
-Les gens demandent toujours: "l'énergie nucléaire
-est-elle sûre?", et moi je dis: "laquelle?"
+Les gens me demandent toujours:
+"Est-ce que l'énergie nucléaire est sûre ?"
+Je réponds: "Laquelle ?"
 
 0:01:16.929,0:01:21.240
-Il y a des milliers de façons de faire de l'énergie nucléaire.
-Une voiture est-elle sûre? Eh bien, laquelle?
+Il y a des milliers de manières différentes de
+produire de l'énergie nucléaire.
+"Une voiture est-elle sûre ?" Eh bien, "Laquelle ?"
 
 0:01:21.240,0:01:24.810
-J'ai eu la bonne fortune de découvrir une autre
-forme d'énergie nucléaire.
+J'ai eu la chance de découvrir l'existence
+d'une autre forme d'énergie nucléaire.
 
 0:01:24.810,0:01:26.549
-Le Réacteur Thorium à Fluorure Liquide (LFTR).
+Le Réacteur au Fluorure Liquide de Thorium (LFTR).
 
 0:01:26.549,0:01:30.749
 On peut brûler entièrement le thorium dans ce réacteur
 alors qu'on ne brûle qu'une partie de l'uranium
 
 0:01:30.749,0:01:32.719
-dans un réacteur à eau légère typique.
+dans un réacteur conventionnel à eau légère.
 
 0:01:32.719,0:01:37.349
-Ce n'est pas basé sur le refroidissement à eau et ça n'utilise pas
-de combustible solide. C'est basé sur des sels de fluorure
+Ce n'est pas fondé sur le refroidissement à eau et
+ça n'utilise pas de combustible solide.
+C'est fondé sur l'utilisation de sels de fluorure
 
 0:01:37.349,0:01:42.380
-en tant que combustible nucléaire. Il faut les chauffer
-à environ 400 degrés Celsius pour les faire
+comme combustible nucléaire. Il faut les chauffer
+à environ 400 degrés Celsius pour qu'ils fondent,
 
 0:01:42.380,0:01:46.459
-fondre, ce qui est parfait pour essayer de générer
-de la puissance dans un réacteur nucléaire. Voici
+ce qui est parfait pour essayer de produire
+de l'énergie dans un réacteur nucléaire.
 
 0:01:46.459,0:01:50.700
-la vraie magie - ils n'ont pas besoin de fonctionner
-à haute pression. Ils n'ont pas besoin d'eau
+Ce qui est formidable, c'est qu'ils n'ont pas besoin de
+fonctionner à haute pression. Ils n'ont pas besoin d'eau
 
 0:01:50.700,0:01:54.989
-en tant que liquide de refroidissement et il n'y a rien
-dans le réacteur qui changera massivement de densité.
+comme liquide de refroidissement, et il n'y
+a rien dans le réacteur qui pourrait faire
+un grand changement de masse volumique.
 
 0:01:54.989,0:01:59.149
 Contrairement aux combustibles solides qui peuvent fondre
@@ -111,165 +120,165 @@ si on arrête de les refroidir, ces carburants à fluorure
 liquide sont déjà fondus.
 
 0:02:00.599,0:02:04.389
-En fonctionnement normal, on a un petit morceau
-de sel congelé qu'on maintient congelé en
+En fonctionnement normal, une portion
+de sels est maintenue gelée en 
 
 0:02:04.389,0:02:08.989
 soufflant un gaz froid sur l'extérieur du tuyau.
-S'il y a une urgence et on perd toute
+S'il y a une urgence et que toute l'alimentation de
 
 0:02:08.989,0:02:13.400
-l'alimentation de notre centrale nucléaire, la
-petite soufflerie cesse de souffler, le bouchon de sel
+la centrale nucléaire est perdue, le petit
+ventilateur cesse de souffler, le bouchon de sel
 
 0:02:13.400,0:02:18.269
 congelé fond, et le combustible de fluorure liquide
-à l'intérieur du réacteur s'écoule de la cuve
+s'écoule de la cuve de l'intérieur du réacteur
 
 0:02:18.269,0:02:20.769
-par le tuyau jusqu'à un autre réservoir appelé
-réservoir de vidange.
+par le tuyau jusqu'à un autre réservoir
+appelé 'réservoir de vidange'.
 
 0:02:20.769,0:02:25.209
-Dans les réacteurs refroidis à l'eau, généralement il faut
+Dans les réacteurs refroidis à l'eau, il faut généralement
 maintenir l'alimentation de l'usine pour assurer la
 
 0:02:25.209,0:02:29.620
-circulation de l'eau et pour empêcher un effondrement.
-Mais si on perd l'alimentation du LFTR,
+circulation de l'eau et pour empêcher une fonte du coeur.
+Mais si l'alimentation du LFTR est perdue,
 
 0:02:29.620,0:02:32.420
-il s'éteint tout seul, sans intervention humaine.
+il s'éteint tout seul de lui-même, sans intervention humaine.
 
 0:02:32.420,0:02:37.519
-Un niveau de sécurité incroyablement impressionnant,
-même en cas de dégâts physiques sur le réacteur.
+Un niveau de sécurité vraiment impressionnant,
+même en cas de dégâts physiques au réacteur.
 
 0:02:37.519,0:02:41.430
 Le thorium est un combustible nucléaire d'origine naturelle
-qui est quatre fois plus fréquent dans la croute
+qui est quatre fois plus abondant que l'uranium
 
 0:02:41.430,0:02:46.040
-terrestre que l'uranium. Il contient une densité d'énergie telle
-qu'on peut tenir, dans la paume de sa main, un approvisionnement
+dans la croûte terrestre. Le thorium est tellement
+dense en énergie qu'on peut tenir dans sa main
+l'équivalent d'un approvisionnement
 
 0:02:46.040,0:02:50.299
-à vie d'énergie thorium. On pourrait exploiter
-le thorium de façon environ 200 fois plus efficace
+en énergie de toute une vie. Le thorium serait exploité
+de manière environ 200 fois plus efficace
 
 0:02:50.299,0:02:54.879
-qu'on exploite l'uranium actuellement. Le
-LFTR est capable de libérer presque entièrement
+que l'uranium qui est exploité actuellement. Parce que
+le LFTR est capable de libérer presque entièrement
 
 0:02:54.879,0:03:00.140
-l'énergie dans le thorium, ce qui réduit les déchets
-générés par rapport à l'uranium par des facteurs de cents,
+l'énergie contenue dans le thorium, il réduit de plusieurs
+centaines de fois les déchets générés par rapport à l'uranium,
 
 0:03:00.140,0:03:02.469
-et par des facteurs de millions
-par rapport aux combustibles fossiles.
+et de plusieurs millions par rapport
+aux combustibles fossiles.
 
 0:03:02.469,0:03:06.519
-On aura toujours besoin de carburants liquides pour
-les véhicules et les machines, mais on peut générer
+Il va toujours falloir utiliser des carburants liquides pour
+les véhicules et l'industrie, mais ces combustibles liquides
 
-0:03:06.519,0:03:10.239
-ces combustibles liquides à partir du dioxyde de carbone
-dans l'atmosphère et de l'eau, un peu comme ce que
+0:03:06.519,0:03:10.939
+peuvent être produits à partir du dioxyde de carbone présent
+dans l'atmosphère et d'eau, un peu comme le fait la nature.
 
-0:03:10.239,0:03:14.719
-fait la nature. On pourrait produire de l'hydrogène par
-séparation de l'eau et en le combinant avec le carbone
+0:03:10.939,0:03:14.519
+De l'hydrogène pourrait être produit par séparation de
+l'eau et pourrait être utilisé en le combinant avec le carbone
 
-0:03:14.719,0:03:20.219
+0:03:14.519,0:03:19.719
 récolté à partir du CO2 dans l'atmosphère, pour faire des
-combustibles comme le méthanol, l'ammoniac et l'éther
+combustibles comme le méthanol, l'ammoniac,
 
-0:03:20.219,0:03:23.629
-méthylique, qui pourrait être un remplaçant direct
-des carburants diesel.
+0:03:19.719,0:03:23.629
+et l'éther méthylique qui pourrait être un remplaçant
+direct des carburants diesel.
 
 0:03:23.629,0:03:28.769
-Imaginez de l'essence et du diesel neutre en carbone,
-durable et auto-produit.
+Imaginez de l'essence et du diesel neutres en carbone,
+durables, et auto-produits.
 
 0:03:28.769,0:03:34.719
-On voit que l'uranium-235 est au même niveau que
-l'argent et le platine. Vous imaginez brûler
+On voit que l'uranium-235 est au même niveau
+de concentration que l'argent et le platine.
+Est-ce que vous vous imaginez brûler
 
 0:03:34.719,0:03:39.209
-du platine pour faire de l'énergie? Et c'est ce que nous
+du platine pour faire de l'énergie? C'est pourtant ce que nous
 faisons avec nos sources d'énergie nucléaire aujourd'hui,
 
 0:03:39.209,0:03:44.670
-on brûle ces choses extrêmement rares, et
-on ne brûle pas le thorium.
+on brûle ces éléments extrêmement rares,
+mais on ne brûle pas le thorium.
 
 0:03:44.670,0:03:49.290
-Certaines personnes sont des écologistes,
-et ils disent: "Écoutez, le nucléaire n'est pas
+Certains écologistes disent: 
+"Écoutez, le nucléaire n'est pas durable."
 
-0:03:49.290,0:03:53.409
-durable. Nous allons manquer d'uranium."
-OK, je vous cède ce point si on
+0:03:49.290,0:03:56.009
+"Nous allons manquer d'uranium." Je suis d'accord avec vous
+si on parle de la technologie nucléaire d'aujourd'hui.
 
-0:03:53.409,0:04:00.180
-parle de la technologie nucléaire d'aujourd'hui.
-En 2007, nous avons utilisé 5 milliards de tonnes de charbon, 31
+0:03:56.009,0:03:59.780
+En 2007, nous avons utilisé 5 milliards de tonnes de charbon,
 
-0:04:00.180,0:04:05.529
-milliards de barils de pétrole, et 5 trillions de
-mètres cubes de gaz naturel, avec 65.000 tonnes
+0:03:59.780,0:04:05.529
+31 milliards de barils de pétrole, et 5 billions de
+mètres cubes de gaz naturel, avec 65'000 tonnes
 
 0:04:05.529,0:04:07.670
 d'uranium pour produire de l'énergie dans le monde.
 
 0:04:07.670,0:04:11.900
-J'ai un ami qui essaie de démarrer une mine de métaux
-des terres rares dans le Missouri. "Jim, combien de thorium
+Un de mes amis essaie de démarrer une mine de terres
+rares dans le Missouri. "Jim, combien de thorium
 
 0:04:11.900,0:04:16.709
 tu penses que tu vas récolter en un an?"
-Et il dit: "Environ 5000 tonnes je pense."
+Il me répond: "Environ 5'000 tonnes je pense."
 
 0:04:16.709,0:04:22.860
-5000 tonnes de thorium fournirait la planète avec
-toute son énergie pour une année. Et il dit:
-
+5'000 tonnes de thorium fourniraient tous les besoins
+énergétiques planétaires durant une année. Il ajoute:
 
 0:04:22.860,0:04:26.630
-"Et il y a un zillion d'autres lieux sur la
-Terre qui sont comme ma mine. C'est une belle
+"Et il y a un tas d'autres endroits sur terre
+qui sont comme ma mine. C'est une bonne mine,
 
 0:04:26.630,0:04:30.300
-mine, mais elle n'est pas unique, et ce n'est pas
-comme si c'est le seul endroit sur Terre où on le trouve"
+mais elle n'est pas unique, ce n'est pas comme si c'était
+le seul endroit sur terre où on trouve du thorium."
 
 0:04:30.300,0:04:35.960
-A chaque fois que l'humanité a été en mesure d'accéder
-à une nouvelle source d'énergie, ça a eu des implications
+À chaque fois que l'humanité a été en mesure d'accéder
+à une nouvelle source d'énergie, cela a eu des implications
 
 0:04:35.960,0:04:41.669
-sociétales profondes. Les êtres humains ont eu des esclaves
-pendant des milliers et des milliers d'années. Lorsque
+sociétales profondes. Les êtres humains ont eu des
+esclaves pendant des milliers d'années. Lorsque nous 
 
-0:04:41.669,0:04:45.830
-nous avons appris comment faire du carbone notre esclave,
-au lieu d'autres êtres humains, nous avons commencé à apprendre
+0:04:41.669,0:04:46.430
+avons appris comment faire du carbone notre esclave au lieu
+d'autres êtres humains, nous avons commencé à apprendre
 
-0:04:45.830,0:04:48.330
+0:04:46.430,0:04:48.330
 comment devenir des gens civilisés.
 
 0:04:48.330,0:04:54.750
-Le thorium a une densité d'énergie qui est un million de fois
-celle d'une liaison carbone-hydrogène. Quelle est l'implication
+Le thorium a une densité d'énergie un million de fois celle
+d'un lien carbone-hydrogène. Quel impact cela pourrait-il
 
-0:04:54.750,0:04:59.270
-pour la civilisation humaine? Parce que nous n'allons pas
-manquer de cette matière. Nous n'allons
+0:04:54.750,0:05:01.270
+bien avoir pour l'humanité ? Parce que nous n'allons pas
+manquer de cet élément. Nous n'allons jamais en manquer.
 
-0:04:59.270,0:05:06.270
-jamais l'épuiser. Elle est tout simplement trop abondante.
+0:05:01.270,0:05:06.270
+Le thorium est tout simplement trop abondant.
 
 0:06:04.000,0:06:10.259
 Sur notre page Facebook, la composition démographique des sexes
