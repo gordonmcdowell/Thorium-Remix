@@ -164,7 +164,7 @@ dense en énergie qu'on peut tenir dans sa main
 l'équivalent d'un approvisionnement
 
 0:02:46.040,0:02:50.299
-en énergie de toute une vie. Le thorium serait exploité
+à vie en énergie. Le thorium serait utilisé
 de manière environ 200 fois plus efficace
 
 0:02:50.299,0:02:54.879
@@ -176,23 +176,23 @@ l'énergie contenue dans le thorium, il réduit de plusieurs
 centaines de fois les déchets générés par rapport à l'uranium,
 
 0:03:00.140,0:03:02.469
-et de plusieurs millions par rapport
-aux combustibles fossiles.
+et de plusieurs millions de fois par
+rapport aux combustibles fossiles.
 
 0:03:02.469,0:03:06.519
-Il va toujours falloir utiliser des carburants liquides pour
-les véhicules et l'industrie, mais ces combustibles liquides
+Il va toujours falloir utiliser des carburants liquides
+pour les véhicules et l'industrie, mais ces carburants 
 
 0:03:06.519,0:03:10.939
-peuvent être produits à partir du dioxyde de carbone présent
-dans l'atmosphère et d'eau, un peu comme le fait la nature.
+peuvent être produits à partir d'eau et de dioxyde de carbone
+présent dans l'atmosphère, un peu comme le fait la nature.
 
 0:03:10.939,0:03:14.519
 De l'hydrogène pourrait être produit par séparation de
 l'eau et pourrait être utilisé en le combinant avec le carbone
 
 0:03:14.519,0:03:19.719
-récolté à partir du CO2 dans l'atmosphère, pour faire des
+récolté à partir du CO2 de l'atmosphère, pour faire des
 combustibles comme le méthanol, l'ammoniac,
 
 0:03:19.719,0:03:23.629
@@ -200,7 +200,7 @@ et l'éther méthylique qui pourrait être un remplaçant
 direct des carburants diesel.
 
 0:03:23.629,0:03:28.769
-Imaginez de l'essence et du diesel neutres en carbone,
+Imaginez : de l'essence et du diesel neutres en carbone,
 durables, et auto-produits.
 
 0:03:28.769,0:03:34.719
@@ -213,12 +213,12 @@ du platine pour faire de l'énergie? C'est pourtant ce que nous
 faisons avec nos sources d'énergie nucléaire aujourd'hui,
 
 0:03:39.209,0:03:44.670
-on brûle ces éléments extrêmement rares,
-mais on ne brûle pas le thorium.
+on brûle cet élément extrêmement rare,
+et on ne brûle pas le thorium.
 
 0:03:44.670,0:03:49.290
 Certains écologistes disent: 
-"Écoutez, le nucléaire n'est pas durable."
+"Écoutez, l'énergie nucléaire n'est pas durable."
 
 0:03:49.290,0:03:56.009
 "Nous allons manquer d'uranium." Je suis d'accord avec vous
