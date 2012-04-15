@@ -35,7 +35,7 @@ Le Réacteur Thorium à Fluorure Liquide (LFTR).
 
 <div class="video">
 
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/P9M__yYbsZ4?fs=1&hl=fr&rel=0&cc_load_policy=1&cc_lang_pref=fr&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P9M__yYbsZ4?fs=1&hl=fr&rel=0&cc_load_policy=1&cc_lang_pref=fr&version=3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/Xe3K6pEA_1U?fs=1&hl=fr&rel=0&cc_load_policy=1&cc_lang_pref=fr&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Xe3K6pEA_1U?fs=1&hl=fr&rel=0&cc_load_policy=1&cc_lang_pref=fr&version=3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
 
 </div>
 
