@@ -23,6 +23,7 @@
 <h1 class="main_title">Le Réacteur Thorium à Fluorure Liquide</h1>
 <ul class="tabs">
 <li id="Selected"><a href="/fr/2011/">2011<br />&nbsp;</a></li>
+<li><a href="/fr/tedxyyc/">TEDxYYC<br />&nbsp;</a></li>
 </ul><br /><br />
 </div>
 
