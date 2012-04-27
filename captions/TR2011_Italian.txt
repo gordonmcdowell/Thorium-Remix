@@ -1,18 +1,18 @@
-0:00:00.340,0:00:05.060
+Ôªø0:00:00.340,0:00:05.060
 Il reattore ad acqua pesante usa
-all'incirca il 0.7 percento della capacit‡
+all'incirca il 0.7 percento della capacit√†
 energetica dell'uranio,
 
 0:00:05.060,0:00:08.630
-ed il reattore ad acqua leggera circa met‡ di
+ed il reattore ad acqua leggera circa met√† di
 un percento. Sono entrambi pessimi.
 
 0:00:08.630,0:00:13.380
 A pressioni normali, l'acqua bolle a 100 gradi
-centigradi. Il che non Ë lontanamente caldo a sufficienza
+centigradi. Il che non √® lontanamente caldo a sufficienza
 
 0:00:13.380,0:00:18.280
-per generare elettricit‡ in modo efficiente. I reattori
+per generare elettricit√† in modo efficiente. I reattori
 raffreddati ad acqua sono quindi costretti a funzionare 
 a temperature superiori alle 70 atmosfere
 
@@ -24,7 +24,7 @@ come recipienti a pressione. Il problema principale
 in caso di incidente di cui ci si preoccupa...
 
 0:00:24.529,0:00:28.760
-La pressione Ë persa, l'acqua che normalmente viene
+La pressione √® persa, l'acqua che normalmente viene
 mantenuta a 300 gradi [fa un rumore di spruzzo]
 
 0:00:28.760,0:00:34.320
@@ -33,25 +33,25 @@ fattore 1000. Se non riesci ad introdurre
 
 0:00:34.320,0:00:38.010
 del liquido refrigerante di emergenza nel reattore,
-il nocciolo puÚ surriscaldarsi e fondere.
+il nocciolo pu√≤ surriscaldarsi e fondere.
 
 0:00:38.010,0:00:43.829
-Questo Ë ciÚ che guida la progettazione della struttura.
-In caso di incidente, tutto il vapore Ë catturato
+Questo √® ci√≤ che guida la progettazione della struttura.
+In caso di incidente, tutto il vapore √® catturato
 
 0:00:43.829,0:00:44.739
 nell'edificio.
 
 0:00:44.739,0:00:50.129
 I reattori correnti usano ossido di uranio
-come combustibile. » un materiale ceramico,
+come combustibile. √à un materiale ceramico,
 
 0:00:50.129,0:00:54.079
 chimicamente stabile, ma non ottimale per
 il trasferimento di calore. Se perdi pressione, perdi
 
 0:00:54.079,0:00:57.610
-l'acqua, e in poco tempo il combustibile fonder‡
+l'acqua, e in poco tempo il combustibile fonder√†
 rilasciando prodotti radiottivi di fissione al suo
 
 0:00:57.610,0:00:58.129
@@ -63,23 +63,23 @@ emergenza progettati per avere continuamente
 il nocciolo immerso in
 
 0:01:03.629,0:01:08.649
-acqua. Abbiamo visto come puÚ fallire a Fukushima
+acqua. Abbiamo visto come pu√≤ fallire a Fukushima
 Daiichi. Avevano multipli generatori diesel di riserva,
 
 0:01:08.649,0:01:13.609
-ed ognuno probabilmente aveva un'alta probabilit‡
+ed ognuno probabilmente aveva un'alta probabilit√†
 di funzionare. Lo tsunami gli ha abbattuti
 
 0:01:13.609,0:01:14.369
 tutti.
 
 0:01:14.369,0:01:16.929
-La gente mi chiede sempre "Il nucleare Ë sicuro?",
-e la prima cosa che rispondo Ë "Quale?"
+La gente mi chiede sempre "Il nucleare √® sicuro?",
+e la prima cosa che rispondo √® "Quale?"
 
 0:01:16.929,0:01:20.990
 Ci sono migliaia di modi differenti per ottenere
-energia nucleare. » un'automobile sicura? be',
+energia nucleare. √à un'automobile sicura? be',
 
 0:01:20.990,0:01:21.240
 quale?
@@ -100,36 +100,36 @@ dell'uranio
 in un tipico reattore ad acqua leggera.
 
 0:01:32.719,0:01:37.349
-Non Ë basato sul raffreddamento ad acqua e non ha
-combustibile solido. » basato su sali di fluoruro
+Non √® basato sul raffreddamento ad acqua e non ha
+combustibile solido. √à basato su sali di fluoruro
 
 0:01:37.349,0:01:42.380
 come combustibile. Devi riscaldarli fino a
 circa 400 gradi centigradi per
 
 0:01:42.380,0:01:46.459
-fonderli, ma in realt‡ Ë una temperatura
-perfetta per generare elettricit‡ in un reattore
+fonderli, ma in realt√† √® una temperatura
+perfetta per generare elettricit√† in un reattore
 nucleare. E questo
 
 0:01:46.459,0:01:50.700
-Ë il vero vantaggio - non devono operare ad alte
+√® il vero vantaggio - non devono operare ad alte
 pressioni. Non devono usare l'acqua come
 
 0:01:50.700,0:01:54.989
-raffreddante per il nocciolo e non vi Ë nulla
-nel reattore che puÚ cambiare molto in
-termini di densit‡.
+raffreddante per il nocciolo e non vi √® nulla
+nel reattore che pu√≤ cambiare molto in
+termini di densit√†.
 
 0:01:54.989,0:01:59.149
 Al contrario dei combustibili solidi che possono
 fondersi se smetti di raffreddarli, questi
 
 0:01:59.149,0:02:00.599
-combustibili al fluoruro sono gi‡ fusi.
+combustibili al fluoruro sono gi√† fusi.
 
 0:02:00.599,0:02:04.389
-Durante il normale funzionamento, c'Ë un
+Durante il normale funzionamento, c'√® un
 pezzo di sale congelato che viene mantenuto tale
 
 0:02:04.389,0:02:08.989
@@ -149,7 +149,7 @@ attraverso un tubo in un altro recipiente
 chiamato serbatoio di scarico.
 
 0:02:20.769,0:02:25.209
-Nei reattori raffreddati ad acqua, Ë necessario
+Nei reattori raffreddati ad acqua, √® necessario
 fornire energia alla centrale per mantenere
 
 0:02:25.209,0:02:29.620
@@ -164,11 +164,11 @@ Un impressionante livello di sicurezza,
 anche in caso di danno fisico al reattore.
 
 0:02:37.519,0:02:41.430
-Il torio Ë un combustibile nucleare che si trova
-in natura ed Ë quattro volte pi˘ abbondante
+Il torio √® un combustibile nucleare che si trova
+in natura ed √® quattro volte pi√π abbondante
 
 0:02:41.430,0:02:46.040
-nel mantello terrestre dell'uranio. » cosÏ
+nel mantello terrestre dell'uranio. √à cos√¨
 energetico che puoi tenere nel palmo della
 
 0:02:46.040,0:02:50.299
@@ -177,7 +177,7 @@ Possiamo sfruttare il torio con una efficienza
 
 0:02:50.299,0:02:54.879
 200 volte maggiore rispetto all'uranio. Questo
-perchË LFTR permette di rilasciare quasi
+perch√® LFTR permette di rilasciare quasi
 l'intera maggioranza
 
 0:02:54.879,0:03:00.140
@@ -211,12 +211,12 @@ Provate ad immaginare benzina e diesel sostenibili
 con bilancio del CO2 neutro ed auto-prodotti.
 
 0:03:28.769,0:03:34.719
-L'uranio Ë comparabile all'argento ed al platino.
+L'uranio √® comparabile all'argento ed al platino.
 Riuscite ad immaginare consumare
 
 0:03:34.719,0:03:39.209
-del platino per generare elettricit‡? E questo
-Ë quello che stiamo facendo con le sorgenti
+del platino per generare elettricit√†? E questo
+√® quello che stiamo facendo con le sorgenti
 energetiche di oggi,
 
 0:03:39.209,0:03:44.670
@@ -225,7 +225,7 @@ rari e non il torio.
 
 0:03:44.670,0:03:49.290
 Alcune persone con tendenze ambientaliste
-dicono "Guarda, l'energia nucleare non Ë
+dicono "Guarda, l'energia nucleare non √®
 
 0:03:49.290,0:03:53.409
 sostenibile. Stiamo esaurendo l'uranio."
@@ -262,15 +262,15 @@ all'intero pianeta per un anno. E continua
 sul pianeta che sono esattamente come questo.
 
 0:04:26.630,0:04:30.300
-Il mio Ë carino, ma non eccezionale. Non Ë certo
+Il mio √® carino, ma non eccezionale. Non √® certo
 l'unico posto sul pianeta dove puoi trovare del torio."
 
 0:04:30.300,0:04:35.960
-Ogni volta l'umanit‡ Ë stata in grado di 
+Ogni volta l'umanit√† √® stata in grado di 
 accedere a nuove fonti di energia, ha avuto
 
 0:04:35.960,0:04:41.669
-profonde implicazioni per la societ‡. Gli esseri
+profonde implicazioni per la societ√†. Gli esseri
 umani hanno avuto schiavi per migliaia e migliaia di anni.
 
 0:04:41.669,0:04:45.830
@@ -283,14 +283,14 @@ ad imparare come essere civilizzati.
 
 0:04:48.330,0:04:54.750
 Il torio ha un milione di volte l'energia del
-legame carbonio-idrogeno. Che cosa puÚ
+legame carbonio-idrogeno. Che cosa pu√≤
 
 0:04:54.750,0:04:59.270
-significare per la civilt‡ umana? PoichÈ
+significare per la civilt√† umana? Poich√©
 non saremo mai a corto di questa roba. Non
 
 0:04:59.270,0:05:06.270
-si esaurir‡ mai. » semplicemente troppo 
+si esaurir√† mai. √à semplicemente troppo 
 comune.
 
 0:06:06.259,0:06:10.159
@@ -299,7 +299,7 @@ visitatori uomini e il 13% donne.
 
 0:06:10.259,0:06:15.300
 Non sono mai stata una sostenitrice dell'energia
-nucleare. » a causa del consumo, no?
+nucleare. √à a causa del consumo, no?
 
 0:06:15.300,0:06:20.610
 Ci permette di continuare a consumare e penso
@@ -307,10 +307,10 @@ che sia insostenibile.
 
 0:06:20.610,0:06:23.889
 Credi che altre forme di energia ci impediranno
-di consumare cosÏ tanto?
+di consumare cos√¨ tanto?
 
 0:06:23.889,0:06:29.550
-Se cominceremo ad esserne a corto, sÏ. Penso
+Se cominceremo ad esserne a corto, s√¨. Penso
 che cominceremmo a razionare e riciclare
 
 0:06:29.550,0:06:31.129
@@ -318,7 +318,7 @@ invece che semplicemente ricreare nuove cose.
 
 0:06:31.129,0:06:34.750
 Cosa ne pensi del solare e del vento allora?
-Il sole continuer‡ a splendere ed il vento a soffiare.
+Il sole continuer√† a splendere ed il vento a soffiare.
 
 0:06:34.750,0:06:36.110
 Ci permettono di vivere.
@@ -327,7 +327,7 @@ Ci permettono di vivere.
 Una dieta a "pane ed acqua" di energia.
 
 0:06:38.580,0:06:42.240
-Gi‡. Penso che non apprezziamo veramente quello 
+Gi√†. Penso che non apprezziamo veramente quello 
 che abbiamo, ma parlo solo per me.
 
 0:06:42.240,0:06:47.690
@@ -343,7 +343,7 @@ e penso che se amplificassimo la portata
 
 0:06:54.050,0:06:58.740
 sia del vento che del solare, allora finiremmo
-per fare ancora pi˘ danni.
+per fare ancora pi√π danni.
 
 0:06:58.740,0:07:04.229
 Quindi riconosci che che il vento ed il solare sono
@@ -353,7 +353,7 @@ forme di generazione di energia invasive per l'ambiente?
 Prendono un sacco di spazio.
 
 0:07:05.590,0:07:06.220
-Gi‡.
+Gi√†.
 
 0:07:06.220,0:07:11.479
 Per prevenire un livello di distruzione ambientale
@@ -364,14 +364,14 @@ e solare ci mettiamo.
 
 0:07:12.330,0:07:16.629
 Dovremo usarli in modi differenti incorporandoli
-in strutture che esistono gi‡.
+in strutture che esistono gi√†.
 
 0:07:16.629,0:07:20.009
 Effettivamente ho controllato per la mia stessa
 casa. Se la coprissi di pannelli solari quanto
 
 0:07:20.009,0:07:23.650
-produrrei, e il problema Ë che non era lontanamente
+produrrei, e il problema √® che non era lontanamente
 sufficiente. La loro performance in perdita.
 
 0:07:23.650,0:07:26.789
@@ -386,11 +386,11 @@ Abbiamo professionisti, gente che lo fa come
 lavoro.
 
 0:07:29.210,0:07:33.720
-Mio fratello Ë uno di loro. » un lavoro duro.
-» per questo che un 21enne come lui Ë l‡ fuori
+Mio fratello √® uno di loro. √à un lavoro duro.
+√à per questo che un 21enne come lui √® l√† fuori
 
 0:07:33.720,0:07:37.159
-da tetto a tetto facendo un mucchio di soldi perchÈ
+da tetto a tetto facendo un mucchio di soldi perch√©
 mette la sua vita in pericolo, esattamente come
 
 0:07:37.159,0:07:37.580
@@ -401,36 +401,36 @@ Consideri una buona cosa il fatto di limitare la
 fornitura di energia, giusto?
 
 0:07:42.699,0:07:43.979
-SÏ, lo penso.
+S√¨, lo penso.
 
 0:07:43.979,0:07:50.020
 Adattarci ad uno stile di vita a basso consumo di
-energia Ë quasi sicuramente correlato con un pi˘ basso
+energia √® quasi sicuramente correlato con un pi√π basso
 
 0:07:50.020,0:07:50.780
 tenore di vita.
 
 0:07:50.780,0:07:54.500
-BenchÈ una maggiore efficienza Ë degna di essere
+Bench√© una maggiore efficienza √® degna di essere
 perseguita e potremmo probabilmente ridurre del 25%
 
 0:07:54.500,0:07:58.789
-il nostro consumo energetico, ciÚ non Ë neppure
+il nostro consumo energetico, ci√≤ non √® neppure
 lontanamente sufficiente per eliminare l'uso di combustibili
 
 0:07:58.789,0:07:59.270
 fossili.
 
 0:07:59.270,0:08:02.849
-Elizabeth May, sai, puÚ dire, e penso che
+Elizabeth May, sai, pu√≤ dire, e penso che
 potrei essere d'accordo, "Dobbiamo
 
 0:08:02.849,0:08:05.780
-perseguire uno stile di vita pi˘ efficiente",
+perseguire uno stile di vita pi√π efficiente",
 assolutamente.
 
 0:08:05.780,0:08:10.060
-Quando Ë venuta a discutere lo sviluppo delle
+Quando √® venuta a discutere lo sviluppo delle
 sabbie bituminose a Calgary, ha creato una
 
 0:08:10.060,0:08:14.550
@@ -438,11 +438,11 @@ certa aspettativa su cosa sia accettabile.
 Lei ha detto un certo ritorno in efficienza energetica.
 
 0:08:14.550,0:08:19.169
-Vi Ë della tecnologia nucleare che penso sia piuttosto
+Vi √® della tecnologia nucleare che penso sia piuttosto
 promettente, il reattore al torio con fluoruro liquido.
 
 0:08:19.169,0:08:21.729
-La nostra politica Ë molto semplice da capire,
+La nostra politica √® molto semplice da capire,
 niente nucleare.
 
 0:08:21.729,0:08:25.490
@@ -453,7 +453,7 @@ l'energia nucleare che possono essere affrontate
 con tecnologia del futuro?
 
 0:08:26.979,0:08:31.490
-PoichÈ i Verdi hanno una politica contro l'energia
+Poich√© i Verdi hanno una politica contro l'energia
 nucleare, potremmo mai considerare alcune di
 
 0:08:31.490,0:08:35.360
@@ -484,11 +484,11 @@ Canada. E questo a cause di costruzioni
 
 0:08:53.310,0:08:58.390
 e trasporti inefficienti. La nostra infrastuttura
-Ë progettata per energia economica ed abbondante.
+√® progettata per energia economica ed abbondante.
 
 0:08:58.390,0:09:03.000
-Quindi, nessuna sorpresa, c'Ë parecchio spreco.
-Quello che vuoi fare Ë migliorare la produttivit‡ del
+Quindi, nessuna sorpresa, c'√® parecchio spreco.
+Quello che vuoi fare √® migliorare la produttivit√† del
 
 0:09:03.000,0:09:04.140
 modo in cui usiamo l'energia.
@@ -499,14 +499,14 @@ di scelte ed opzioni disponibili e abbiamo
 
 0:09:07.820,0:09:13.760
 una lunga lista di opzioni che funzionano piuttosto
-bene, l'energia nucleare Ë in fondo alla lista poichÈ
+bene, l'energia nucleare √® in fondo alla lista poich√©
 
 0:09:13.760,0:09:19.440
-non Ë molto affidabile, richiede un investimento
+non √® molto affidabile, richiede un investimento
 elevatissimo, crea pochi posti di lavoro e
 
 0:09:19.440,0:09:24.850
-produce solo elettricit‡. Ci vogliono 14 anni
+produce solo elettricit√†. Ci vogliono 14 anni
 dal momento dall'approvazione del progetto alla
 
 0:09:24.850,0:09:29.510
@@ -525,11 +525,11 @@ non si deve neppure guardare a queste cose per
 bocciare il nucleare.
 
 0:09:41.100,0:09:45.740
-Dovremmo perseguire uno stile di vita pi˘ efficiente,
-assolutamente. Fino a dove possiamo arrivare perÚ?
+Dovremmo perseguire uno stile di vita pi√π efficiente,
+assolutamente. Fino a dove possiamo arrivare per√≤?
 
 0:09:45.740,0:09:50.890
-Sar‡ sufficiente da permetterci di evitare di
+Sar√† sufficiente da permetterci di evitare di
 avere nuove e migliori fonti di energia?
 
 0:09:50.890,0:09:52.730
@@ -540,15 +540,15 @@ Non pensi che il vento ed il solare possano...
 
 0:09:54.760,0:09:59.170
 Abbiamo cercato di mettere in rete il solare ed il
-vento per decenni. » tuttora solo nell'ordine
+vento per decenni. √à tuttora solo nell'ordine
 
 0:09:59.170,0:10:04.260
 dell'un percento della produzione totale di energia
-negli Stati Uniti. Il vento Ë citato in termini
+negli Stati Uniti. Il vento √® citato in termini
 
 0:10:04.260,0:10:10.320
-di capacit‡. Un po' come se mi dici che questa 
-Ë una turbina eolica da tre megawatt. Se ho una
+di capacit√†. Un po' come se mi dici che questa 
+√® una turbina eolica da tre megawatt. Se ho una
 
 0:10:10.320,0:10:14.720
 centrale nucleare da 3000 megawatt, 1000 di queste
@@ -559,7 +559,7 @@ soffia solo il 15 percento delle volte, una su sei.
 
 0:10:18.060,0:10:21.760
 Quella correlazione diventa assolutamente senza senso
-ora, poichÈ una Ë in funzione per tutto il tempo e 
+ora, poich√© una √® in funzione per tutto il tempo e 
 
 0:10:21.760,0:10:25.670
 l'altra solo una volta su sei. Se avessi
@@ -567,26 +567,26 @@ un'automobile e pensassi "ogni volta che
 
 0:10:25.670,0:10:29.470
 entro in macchina, giro l'accenzione e ho una
-possibilit‡ su sei che la macchina
+possibilit√† su sei che la macchina
 
 0:10:29.470,0:10:33.910
 parta". Quanto pensi che possa essere utile
 questa macchina per te? L'industria del vento dice,
 
 0:10:33.910,0:10:37.940
-"Non c'Ë problema, Chelsea, hai solo bisogno di sei
-automobili." Nel campo energetico l'affidabilit‡ Ë tutto.
+"Non c'√® problema, Chelsea, hai solo bisogno di sei
+automobili." Nel campo energetico l'affidabilit√† √® tutto.
 
 0:10:37.940,0:10:44.540
 Possiamo affrontare questi problemo con l'uso di 
 batterie che stanno facendo grandi progressi con
 
 0:10:44.540,0:10:45.470
-poco pi˘ che un laptop?
+poco pi√π che un laptop?
 
 0:10:45.470,0:10:49.690
-Usare batterie di riserva per la rete Ë
-una proposta molto molto costosa. Non si Ë
+Usare batterie di riserva per la rete √®
+una proposta molto molto costosa. Non si √®
 
 0:10:49.690,0:10:53.770
 mai riuciti a realizzarla a livello di rete
@@ -601,28 +601,28 @@ stiamo parlando di batterie a buon mercato,
 
 0:10:58.170,0:11:01.930
 quelle piombo-acido, batterie veramente economiche.
-» perchÈ ne hai bisogno parecchie. » pi˘ semplice
+√à perch√© ne hai bisogno parecchie. √à pi√π semplice
 
 0:11:01.930,0:11:04.730
 prenderne un sacco di poco valore che poche 
 veramente buone.
 
 0:11:04.730,0:11:09.050
-E se ne avessimo ad alta conduttivit‡... o
+E se ne avessimo ad alta conduttivit√†... o
 come vengono chiamate?
 
 0:11:09.050,0:11:09.480
-Superconduttivit‡?
+Superconduttivit√†?
 
 0:11:09.480,0:11:10.870
 Energia intermittente da fonti multiple.
 
 0:11:10.870,0:11:14.210
 Se vuoi costruire una linea di trasporto di 
-elettricit‡, devi dare prova che sia fattibile 
+elettricit√†, devi dare prova che sia fattibile 
 
 0:11:14.210,0:11:17.040
-economicamente. Devi dimostrare come l'elettricit‡ puÚ
+economicamente. Devi dimostrare come l'elettricit√† pu√≤
 essere inserita nella rete praticamente 
 
 0:11:17.040,0:11:21.140
@@ -631,18 +631,18 @@ costerebbe troppo.
 
 0:11:21.140,0:11:24.000
 Quindi l'idea che "OK, ci mettiamo una  
-centrale eolica qui, una solare l‡ ed
+centrale eolica qui, una solare l√† ed
 
 0:11:24.000,0:11:27.440
-un'altra centrale eolica pi˘ in l‡ cosÏ almeno
-una funzioner‡ sempre, ma va bene perchÈ
+un'altra centrale eolica pi√π in l√† cos√¨ almeno
+una funzioner√† sempre, ma va bene perch√©
 
 0:11:27.440,0:11:31.500
 avremo elettrodotti che le collegano tra
 di loro". Voglio dire, tutto
 
 0:11:31.500,0:11:34.750
-questo Ë assurdo. Chi propone cose del
+questo √® assurdo. Chi propone cose del
 genere non ha fatto i calcoli.
 
 0:11:34.750,0:11:37.580
@@ -654,8 +654,8 @@ unghie e con i denti contro gli elettrodotti.
 Abbiamo bisogno di fonti di energia affidabili
 
 0:11:42.300,0:11:45.260
-vicino a dove l'energia Ë necessaria e
-verr‡ consumata.
+vicino a dove l'energia √® necessaria e
+verr√† consumata.
 
 0:11:45.260,0:11:47.310
 Penso di sapere come puoi coinvolgere le donne.
@@ -695,7 +695,7 @@ Sono davvero felice di essere qui oggi per
 partecipare a questa discussione.
 
 0:12:12.600,0:12:16.280
-La risposta Ë energia meno cara del carbone.
+La risposta √® energia meno cara del carbone.
 
 0:12:16.280,0:12:21.030
 Tutta una serie di cose che danno vantaggi e
@@ -721,35 +721,35 @@ Guerre Stellari. E' il mio primo ricordo. Mio
 
 0:12:51.820,0:12:56.520
 padre non voleva credere mi ricordassi davvero
-finchÈ non ho cominciato a dare dettagli
+finch√© non ho cominciato a dare dettagli
 
 0:12:56.520,0:12:59.700
-del giorno in cui Ë successo. Disse che da quel
+del giorno in cui √® successo. Disse che da quel
 giorno non facevo altro che parlare di spazio.
 
 0:12:59.700,0:13:04.770
 Ho passato 10 anni a lavorare alla NASA. All'inizio,
-nel 2000, questo Ë il tipo di comunit‡
+nel 2000, questo √® il tipo di comunit√†
 
 0:13:04.770,0:13:09.350
-a che avevo in mente. Ha le stesse necessit‡
-e caratteristiche di una citt‡ sulla terra
+a che avevo in mente. Ha le stesse necessit√†
+e caratteristiche di una citt√† sulla terra
 
 0:13:09.350,0:13:15.480
 ma anche dei vincoli molto particolari.
-Non c'Ë carbone sulla luna, nÈ petrolio,
+Non c'√® carbone sulla luna, n√© petrolio,
 
 0:13:15.480,0:13:20.630
-nÈ gas naturale. Non c'Ë vento, nÈ atmosfera.
+n√© gas naturale. Non c'√® vento, n√© atmosfera.
 La luna orbita attorno alla terra una volta
 
 0:13:20.630,0:13:25.030
 al mese. Per due settimane, il sole cala e i
-pannelli solari non generano elettricit‡.
+pannelli solari non generano elettricit√†.
 
 0:13:25.030,0:13:28.530
 Se vuoi immagazzinare energia in batterie per
-due settimane, non Ë semplicemente
+due settimane, non √® semplicemente
 
 0:13:28.530,0:13:29.060
 fattibile.
@@ -759,7 +759,7 @@ Pensavo che l'energia nucleare fosse stupida.
 non mi interessava. Ero come "Ah, vecchia robaccia,
 
 0:13:34.400,0:13:37.120
-chi vorrebbe spendeci del tempo?" Non Ë stato
+chi vorrebbe spendeci del tempo?" Non √® stato
 fino a quando mi sono reso conto che questi rendimenti
 
 0:13:37.120,0:13:39.910
@@ -774,7 +774,7 @@ questo libro sullo scaffale intitolato
 lavorava ai laboratori di Oak Ridge in Tennessee
 
 0:13:47.090,0:13:51.900
-e mi dice "Ah sÏ, era quando facevano roba
+e mi dice "Ah s√¨, era quando facevano roba
 del genere all'Oak Ridge", e ancora
 
 0:13:51.900,0:13:57.440
@@ -794,7 +794,7 @@ per cercare di afferrarne i concetti nucleari,
 ne sono comunque rimasto affascinato
 
 0:14:10.080,0:14:15.150
-poichÈ sembrava presentare una visione davvero
+poich√© sembrava presentare una visione davvero
 differente dell'energia nucleare che abbiamo oggi.
 
 0:14:15.150,0:14:18.860
@@ -802,11 +802,11 @@ E questo libro parlava constantemente del torio.
 Torio, torio, torio, torio. Ero tipo
 
 0:14:18.860,0:14:20.680
-"cavoli, che diavolo Ë questo torio?"
+"cavoli, che diavolo √® questo torio?"
 
 0:14:20.680,0:14:24.820
 Ma mi ha incuriosito a sufficienza da farmi cominciare
-a ricercare il pi˘ possibile. Ho cercato online,
+a ricercare il pi√π possibile. Ho cercato online,
 
 0:14:24.820,0:14:27.450
 ho letto parecchi blog, specialmente Rod Adams.
@@ -816,7 +816,7 @@ I contribuenti americani mi hanno mandato in mare
 su sommergibili. Ho vissuto in un ambiente
 
 0:14:31.460,0:14:36.810
-alimentato al 100% da energia nucleare. » una
+alimentato al 100% da energia nucleare. √à una
 cosa che normalmente la gente non sente parlare.
 
 0:14:36.810,0:14:42.240
@@ -832,33 +832,33 @@ di energia nucleare.
 
 0:14:49.330,0:14:54.820
 Ora, con reattori al torio con fluoruro liquido,
-nessuna scoria altamente radioattiva Ë generata
+nessuna scoria altamente radioattiva √® generata
 
 0:14:54.820,0:14:59.910
-e puÚ anche essere usato per ridurre i depositi
-attuali. Quindi, c'Ë qualcosa che il governo puÚ
+e pu√≤ anche essere usato per ridurre i depositi
+attuali. Quindi, c'√® qualcosa che il governo pu√≤
 
 0:14:59.910,0:15:01.880
 fare per valutare questa tecnologia?
 
 0:15:01.880,0:15:06.780
-La realt‡ Ë che abbiamo scorie, e quindi non puÚ
+La realt√† √® che abbiamo scorie, e quindi non pu√≤
 essere usato per migliorare le scorie nucleari.
 (Non ha senso neanche in inglese, NdT)
 
 0:15:06.780,0:15:11.800
-Perdonate l'ignoranza, ma che cos'Ë il torio?
+Perdonate l'ignoranza, ma che cos'√® il torio?
 
 0:15:11.800,0:15:17.190
 Se solo il mio insegnante di scienze del liceo
 potesse vedermi ora. Prende nome dal dio nordico Thor
 
 0:15:17.190,0:15:22.230
-e so che la nobile baronessa sar‡ compiaciuta
-di sapere che Ë dimorfico e che ci sono tutta
+e so che la nobile baronessa sar√† compiaciuta
+di sapere che √® dimorfico e che ci sono tutta
 
 0:15:22.230,0:15:29.230
-una serie di altri fatti che lei puÚ trovare
+una serie di altri fatti che lei pu√≤ trovare
 su Wikipedia come io, effettivamente, ho fatto.
 
 0:15:30.050,0:15:33.700
@@ -873,20 +873,20 @@ fusi nel loro Generation IV quando l'hanno
 pubblicato per la prima volta. La gente dice "Be'
 
 0:15:45.350,0:15:51.240
-Ë sicuramente un onore". No, Ë piuttosto patetico
-perchÈ io sono un Mr. Nessuno nel suo garage
+√® sicuramente un onore". No, √® piuttosto patetico
+perch√© io sono un Mr. Nessuno nel suo garage
 
 0:15:51.240,0:15:55.420
-che pubblica un sito web, e questo Ë l'unica
+che pubblica un sito web, e questo √® l'unica
 fonte tecnica che hai trovato?
 
 0:15:55.420,0:15:59.890
 Il governo conosce e comprende tutte le opzioni
-disponibili? No. C'Ë qualcuno che davvero
+disponibili? No. C'√® qualcuno che davvero
 
 0:15:59.890,0:16:06.890
 capisce chiaramente che l'energia nucleare
-Ë una tecnologia completamente dirompente?
+√® una tecnologia completamente dirompente?
 
 0:16:07.810,0:16:11.920
 Il reattore al torio con fluoruro liquido, ho
@@ -894,27 +894,27 @@ visto che alcuni sorridono quando lo cito
 
 0:16:11.920,0:16:15.750
 e questo mi preoccupa un poco. Quello 
-che avete sentito su LFTR non Ë.. che cosa
+che avete sentito su LFTR non √®.. che cosa
 
 0:16:15.750,0:16:18.330
 avete sentito sul reattore a sali fusi che
-non Ë lÏ?
+non √® l√¨?
 
 0:16:18.330,0:16:23.640
 Sarei davvero sorpreso se i nostri leader ne
 fossero a conoscenza. Non penso leggano blog.
 
 0:16:23.640,0:16:27.880
-Il fatto che oggi abbiamo internet credo sar‡
-la cosa che far‡ la differenza alla fine.
+Il fatto che oggi abbiamo internet credo sar√†
+la cosa che far√† la differenza alla fine.
 
 0:16:27.880,0:16:32.310
-Siamo passati dall'Et‡ del Bronzo all'Et‡
+Siamo passati dall'Et√† del Bronzo all'Et√†
 del Ferro e poi alla Rivoluzione Industriale.
 
 0:16:32.310,0:16:36.010
 Penso davvero che tra qualche centinaio di anni,
-diranno "poi Ë cominciata l'Era del Torio".
+diranno "poi √® cominciata l'Era del Torio".
 
 0:16:36.010,0:16:39.550
 Permettetemi di spiegare avvenne la scoperta.
@@ -937,7 +937,7 @@ quindi erano ancora agli inizi.
 
 0:16:55.950,0:16:58.720
 Allora ha preso un giovane laureato. Chiunque
-Ë stato uno studente sa cosa significa quando
+√® stato uno studente sa cosa significa quando
 
 0:16:58.720,0:17:02.190
 il professore ti dice, "Okay. Voglio che tu
@@ -951,11 +951,11 @@ questo campione di materiale radioattivo e
 mi dici cosa succede".
 
 0:17:09.449,0:17:13.079
-"C'Ë una guerra l‡ fuori, vero signore?
+"C'√® una guerra l√† fuori, vero signore?
 Potrei essere al fronte."
 
 0:17:13.079,0:17:13.589
-"Gi‡, potresti."
+"Gi√†, potresti."
 
 0:17:13.589,0:17:15.529
 "Ok. Sissignore. Assolutamente. Parto."
@@ -969,7 +969,7 @@ gli dice, "Tutto fatto, signore. Ho creato qualcosa
 di nuovo. Il torio ha assorbito il neutrone.
 
 0:17:25.019,0:17:28.279
-» diventato uranio-233. Non Ë geniale?"
+√à diventato uranio-233. Non √® geniale?"
 
 0:17:28.279,0:17:32.860
 Seaborgo rispose, "Certo, assolutamente. Ok, ora portiamolo
@@ -980,7 +980,7 @@ Voglio che ci ritorni. Ora voglio che lo colpisci
 con un neutrone e vedi se ottieni una fissione.
 
 0:17:37.830,0:17:40.309
-PerchÈ penso che si scinder‡. Penso che si scinder‡
+Perch√© penso che si scinder√†. Penso che si scinder√†
 proprio come l'uranio-235."
 
 0:17:40.309,0:17:41.840
@@ -988,29 +988,29 @@ proprio come l'uranio-235."
 
 0:17:41.840,0:17:46.409
 Parte, effettua l'esperimento, torna
-e dice "Gi‡, avevate ragione. Si Ë scisso.
+e dice "Gi√†, avevate ragione. Si √® scisso.
 
 0:17:46.409,0:17:49.960
-Ed Ë una nuova forma di carburante nucleare".
+Ed √® una nuova forma di carburante nucleare".
 
 0:17:49.960,0:17:55.090
-Allora Seaborg uscÏ con la domanda davvero, davvero
-pi˘ importante. Disse, "ora voglio che tu scopra
+Allora Seaborg usc√¨ con la domanda davvero, davvero
+pi√π importante. Disse, "ora voglio che tu scopra
 
 0:17:55.090,0:18:02.090
-quanti neutroni sono usciti quando si Ë scisso.
-PoichÈ se quel numero Ë meno di 2, allora non
+quanti neutroni sono usciti quando si √® scisso.
+Poich√© se quel numero √® meno di 2, allora non
 
 0:18:02.470,0:18:07.720
-c'Ë molto da fare. Se questo numero..
-quando torni, mi dici Ë tipo 1.5, allora..
+c'√® molto da fare. Se questo numero..
+quando torni, mi dici √® tipo 1.5, allora..
 
 0:18:07.720,0:18:13.899
 abbiamo un fatto da aggiungere come postilla in un
-libro. Ma se questo numero Ë superiore a 2, allora
+libro. Ma se questo numero √® superiore a 2, allora
 
 0:18:13.899,0:18:14.580
-Ë davvero importante".
+√® davvero importante".
 
 0:18:14.580,2:10:00.000
 Il resto dei sottotitoli in italiano sono in corso
