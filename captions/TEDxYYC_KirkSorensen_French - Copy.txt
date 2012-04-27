@@ -1,0 +1,672 @@
+0:00:02.000,0:00:06.000
+Le Thorium peut-il être la solution au problème énergétique? 
+
+0:00:07.420,0:00:11.290
+Presque tout le monde fait partie d’une communauté,
+qu’elle soit grande ou petite,
+
+0:00:11.290,0:00:14.869
+et toutes ces communautés
+ont des besoins similaires.
+
+0:00:14.869,0:00:16.920
+Elles ont besoin de lumière, chaleur,
+
+0:00:16.920,0:00:20.950
+air conditionné. Les gens ne peuvent pas
+bien fonctionner quand
+
+0:00:20.950,0:00:21.840
+il fait trop chaud, ou trop froid
+
+0:00:21.840,0:00:26.289
+Ils ont besoin que la nourriture, cultivée ou importée, 
+soit distribuée et conservée en sécurité.
+
+0:00:26.289,0:00:31.000
+Ils ont besoin que les détritus soient
+collectés, retirés, et retraités
+
+0:00:31.000,0:00:33.500
+Les gens de la communauté ont besoin
+de se déplacer d’un endroit à un autre,
+
+0:00:33.500,0:00:34.940
+aussi vite que possible,
+
+0:00:34.940,0:00:38.639
+et l’approvisionnement d’énergie
+est la base de toutes ces activités.
+
+0:00:38.639,0:00:42.000
+L’énergie sous forme d’électricité fournit
+la lumière et l’air conditionné,
+
+0:00:42.000,0:00:45.710
+L’énergie sous forme de chaleur nous garde au chaud,
+et l’énergie sous forme chimique
+
+0:00:45.710,0:00:49.000
+fournit les fertilisants, fait tourner
+le matériel agricole et les transports
+
+0:00:49.000,0:00:52.000
+J’ai passé 10 ans à travailler pour la NASA;
+
+0:00:52.000,0:00:56.430
+au début de ma période là-bas, en 2000, 
+J’étais très intéressé par les communautés, 
+
+0:00:56.430,0:00:58.990
+mais voilà le type de communauté
+à laquelle je pensais…
+
+0:00:58.990,0:01:03.920
+une  Communauté Lunaire! Elle avait les mêmes
+besoins qu’une communauté sur la Terre, 
+
+0:01:03.920,0:01:06.888
+mais elle avait des contraintes spécifiques
+
+0:01:08.888,0:01:10.020
+Et nous avons eu a réfléchir sur la façon de fournir
+de l’énergie à cette communauté particulière
+
+0:01:10.020,0:01:13.289
+Il n’y a pas de charbon sur la lune,
+pas de pétrole,
+
+0:01:13.289,0:01:16.000
+Pas de gaz naturel
+Il n’y a pas d’atmosphère,
+
+0:01:16.000,0:01:17.800
+et (par conséquent) pas de vent non plus
+
+0:01:17.800,0:01:21.979
+Et l’énergie solaire était confrontée à un sérieux problème;
+La lune orbite autour de la Terre une fois par mois,
+
+0:01:21.979,0:01:26.250
+Et pour deux semaines le soleil se couche 
+et vos panneaux solaires ne produisent pas d’énergie
+
+0:01:26.250,0:01:29.790
+Et essayer de stocker assez d’énergie
+dans des batteries pour deux semaines,
+
+0:01:29.790,0:01:31.079
+n’est tout simplement pas pratique
+
+0:01:31.079,0:01:33.079
+L’énergie nucléaire était de fait la seule option
+
+0:01:33.079,0:01:37.090
+Mais à l’époque, en 2000, je ne connaissais
+pas grand chose au nucléaire,
+
+0:01:37.090,0:01:39.639
+alors j’ai commencé à essayer d’apprendre
+Presque toute l’énergie nucléaire
+
+0:01:39.639,0:01:42.690
+que nous utilisons aujourd’hui sur Terre
+utilise l’eau comme liquide de refroidissement
+
+0:01:42.690,0:01:45.829
+Cela présente des avantages
+mais aussi beaucoup d’inconvénients
+
+0:01:45.829,0:01:48.170
+Pour générer de l’énergie,
+
+0:01:48.170,0:01:50.650
+il faut chauffer l’eau à une température
+beaucoup plus élevée que l’on peut normalement
+
+0:01:50.650,0:01:54.170
+A pression normale, l’eau bout à 100°C
+
+0:01:54.170,0:01:57.879
+Cela est loin d’être suffisant pour générer
+efficacement de l’électricité.
+
+0:01:57.879,0:02:01.229
+Donc les réacteurs refroidis à l’eau doivent
+être soumis à des pressions bien plus élevées
+
+0:02:01.229,0:02:02.790
+que la pression atmosphérique
+
+0:02:02.790,0:02:06.869
+Certains réacteurs refroidis à l’eau sont soumis
+à plus que 70 fois la pression atmosphérique
+
+0:02:06.869,0:02:10.580
+Et d’autres fonctionnent à 150 fois
+la pression atmosphérique
+
+0:02:10.580,0:02:14.070
+Il n’y a pas moyen d’y échapper;
+c’est tout simplement ce qu’il faut faire
+
+0:02:14.070,0:02:16.650
+pour générer de l’électricité
+par des réacteurs refroidis à l’eau
+
+0:02:16.650,0:02:20.390
+Et cela signifie qu’il faut construire un réacteur
+comme «cuve sous pression»,
+
+0:02:20.390,0:02:25.120
+avec des murs d’acier épais de 20cm
+Si cela parait lourd… c’est parce que ça l’est !
+
+0:02:25.120,0:02:29.360
+Les choses se corsent sérieusement si vous avez un accident
+qui fait perdre de la pression à l’intérieur du réacteur
+
+0:02:29.360,0:02:34.090
+Si vous avez de l’eau liquide à 300°C
+et que soudainement vous la dépressurisez…
+
+0:02:34.090,0:02:37.190
+elle ne reste pas liquide très longtemps,
+elle s’évapore instantanément !
+
+0:02:37.190,0:02:41.160
+Donc les réacteurs refroidis à l’eau sont construits
+à l’intérieur de gros bâtiments en béton épais
+
+0:02:41.160,0:02:42.480
+appelés “bâtiments de confinement”,
+
+0:02:42.480,0:02:45.640
+Qui sont censés retenir toute la vapeur
+qui s’échapperait du réacteur
+
+0:02:45.640,0:02:48.319
+s’il y avait un accident de dépressurisation
+
+0:02:48.319,0:02:52.010
+La vapeur prend environ 1000 fois
+plus de volume que l’eau,
+
+0:02:52.010,0:02:56.200
+et par conséquent le bâtiment de confinement
+est très grand par rapport à la taille du réacteur
+
+0:02:56.200,0:02:59.669
+Une autre mauvaise chose se produit si vous perdez
+de la pression et que l’eau se transforme en vapeur…
+
+0:02:59.669,0:03:04.439
+si vous ne mettez pas un liquide de refroidissement
+d’urgence dans le réacteur, il peut surchauffer et fondre
+
+0:03:04.439,0:03:07.680
+Et bien, les réacteurs utilisent de nos jours
+l’oxyde d’uranium comme combustible;
+
+0:03:07.680,0:03:11.420
+c’est un matériau céramique avec
+une performance similaire à celle de céramiques
+
+0:03:11.420,0:03:16.160
+qu’on utilise pour faire des tasses à café,
+des casseroles, ou les briques pour la cheminée
+
+0:03:16.160,0:03:18.820
+Ils sont chimiquement stables, mais ils ne sont pas
+très efficaces pour transférer la chaleur
+
+0:03:18.820,0:03:21.009
+Si vous perdez de la pression,
+vous perdez l’eau,
+
+0:03:21.009,0:03:24.609
+et bientôt votre réacteur va s’effondrer et libérer
+les produits radioactifs de la fission  qu’il contient
+
+0:03:24.609,0:03:28.620
+Faire du combustible nucléaire solide
+est un processus compliqué et onéreux,
+
+0:03:28.620,0:03:31.670
+Et l’on n’extrait que moins de 1%
+de l’énergie du combustible nucléaire
+
+0:03:31.670,0:03:33.670
+avant qu’il ne faille le retirer du réacteur
+
+0:03:33.670,0:03:37.269
+Les réacteurs refroidis à l’eau sont confrontés
+à un autre défi supplémentaire:
+
+0:03:37.269,0:03:40.239
+Ils ont besoin d’être situés à proximité de larges
+étendues d’eau, où la vapeur qu'ils génèrent
+
+0:03:40.239,0:03:44.620
+peut être refroidie et condensée, pour continuer
+le cycle de production de l’énergie électrique
+
+0:03:44.620,0:03:49.050
+Mais il n’y a pas de lacs ou de rivières sur la Lune !
+Si tout ceci vous fait penser que des réacteurs refroidis à l’eau
+
+0:03:49.050,0:03:54.249
+ne sont pas une si bonne idée pour une Communauté Lunaire…
+et bien, j’aurais tendance à être d’accord vous :-)
+
+0:03:54.249,0:03:57.819
+Vous savez, j’ai eu la chance d’apprendre l’existence
+d’une autre forme d’énergie nucléaire
+
+0:03:57.819,0:04:01.980
+qui n’a pas tous ces problèmes pour une bonne et simple raison:
+Elle n’est pas fondée sur le refroidissement à l’eau
+
+0:04:01.980,0:04:06.240
+et n’utilise pas de combustible solide.
+Etonnamment, elle est basée sur… du Sel !
+
+0:04:06.240,0:04:09.439
+Un jour j’étais au bureau d’un ami lorsque
+j’ai aperçu ce livre sur une étagère: 
+
+0:04:09.439,0:04:13.839
+«Fluid Fuel Reactors» (Réacteurs à Combustibles Fluides)
+J'ai été intéressé et je lui ai demandé si je pouvais l’emprunter
+
+0:04:13.839,0:04:17.829
+Dans ce livre j'ai appris sur la recherche aux US
+dans les années 1950 sur un type de
+
+0:04:17.829,0:04:22.400
+réacteur nucléaire qui n'était pas basé sur du combustible solide
+ou de l’eau de refroidissement Il n'avait pas les problèmes
+
+0:04:22.400,0:04:26.370
+du réacteur refroidi à l'eau,
+et la raison de sa simplicité était que… 
+
+0:04:26.370,0:04:29.669
+il utilisait un mélange de sels de fluorure
+comme combustible nucléaire,
+
+0:04:29.669,0:04:32.910
+spécifiquement les Fluorures de Lithium,
+Béryllium, Uranium et Thorium
+
+0:04:32.910,0:04:35.150
+Les sels de fluorure sont
+remarquablement stables chimiquement.
+
+0:04:35.150,0:04:40.169
+Ils ne réagissent pas avec l'air et l'eau; 
+il faut les chauffer jusqu'à environ 400°C
+
+0:04:40.169,0:04:42.479
+pour les faire fondre,
+mais cette température est vraiment parfaite
+
+0:04:42.479,0:04:45.249
+pour produire de l'électricité
+dans un réacteur nucléaire
+
+0:04:45.249,0:04:48.810
+Voici la vraie magie:
+ils n'ont pas à fonctionner à haute pression,
+
+0:04:48.810,0:04:50.680
+ce qui fait la grande différence
+
+0:04:50.680,0:04:53.960
+Cela signifie qu'ils n'ont pas à être
+dans des lourdes et épaisses “cuves de pression”
+
+0:04:53.960,0:04:57.530
+Ils n'ont pas à utiliser de l'eau pour le refroidissement, 
+et il n'y a rien dans le réacteur
+
+0:04:57.530,0:05:00.220
+qui va faire un grand changement
+de densité comme de l'eau 
+
+0:05:00.220,0:05:02.770
+Ainsi, l'enceinte de confinement
+autour du réacteur
+
+0:05:02.770,0:05:06.080
+peut être beaucoup plus petit et serré
+Contrairement aux combustibles solides qui peuvent fondre
+
+0:05:06.080,0:05:10.310
+si vous arrêtez de les refroidir,
+ces combustibles liquides de fluorure sont déjà fondus,
+
+0:05:10.310,0:05:11.849
+à une température beaucoup plus faible
+[que celle à laquelle la barre d'uranium fond] 
+
+0:05:11.849,0:05:15.970
+En fonctionnement normal, vous avez
+un petit bouchon au fond de la cuve du réacteur;
+
+0:05:15.970,0:05:19.770
+ce bouchon est fait d'un morceau de sel
+qui est conservé congelé
+
+0:05:19.770,0:05:21.979
+en soufflant du gaz froid
+sur l'extérieur de la conduite
+
+0:05:21.979,0:05:26.669
+Si il y a une urgence et que vous perdez toute
+l’alimentation électrique à la centrale, 
+
+0:05:26.669,0:05:27.820
+le ventilateur cesse de souffler,
+
+0:05:27.820,0:05:31.700
+le bouchon congelé fond, et le combustible
+liquide de fluorure dans le réacteur
+
+0:05:31.700,0:05:36.370
+s'écoule hors de la cuve dans un autre réservoir
+appelé réservoir de vidange
+
+0:05:36.370,0:05:40.150
+A l'intérieur du réservoir de vidange tout est configuré
+pour maximiser le transfert de chaleur 
+
+0:05:40.150,0:05:44.389
+de manière à maintenir le sel refroidi passivement,
+tandis que sa chaleur diminue au fil du temps 
+
+0:05:44.389,0:05:48.340
+En générale, dans les réacteurs refroidis à l'eau
+vous devez fournir de l'énergie à la centrale
+
+0:05:48.340,0:05:52.529
+pour garder l'eau en circulation en vue d’éviter
+la fusion du cœur du réacteur (comme on a vu au Japon). 
+
+0:05:52.529,0:05:57.020
+Mais dans ce réacteur, si vous perdez
+l’alimentation électrique, il s'éteigne
+
+0:05:57.020,0:05:59.080
+tout seul sans intervention humaine,
+
+0:05:59.080,0:06:01.759
+et il se met dans une configuration sûre et contrôlée
+
+0:06:01.759,0:06:05.359
+Je dois dire que j'avais commencé à ressentir
+une vague d'enthousiasme pour la possibilité
+
+0:06:05.359,0:06:08.420
+d'utiliser un réacteur nucléaire à sels fondus
+afin d'alimenter une communauté lunaire… 
+
+0:06:08.420,0:06:11.209
+mais ensuite j'ai appris au sujet de thorium
+et l'histoire est devenue encore meilleure! 
+
+0:06:11.209,0:06:15.659
+Le thorium est un combustible nucléaire d'origine naturelle
+qui est 4 fois plus abondant dans la croûte terrestre
+
+0:06:15.659,0:06:19.189
+que l'uranium. Le Thorium peut être utilisé
+dans des Réacteurs Thorium à Fluorure Liquide (LFTR)
+
+0:06:19.189,0:06:22.900
+pour produire de l'énergie électrique,
+du chaleur et d'autres produits de valeur
+
+0:06:22.900,0:06:26.180
+Il est si dense en énergie que vous pouvez tenir
+un approvisionnement à vie d'énergie Thorium
+
+0:06:26.180,0:06:28.039
+dans la paume de votre main
+
+0:06:28.039,0:06:30.509
+Le thorium est aussi commune sur la lune
+et facile à trouver;
+
+0:06:30.509,0:06:33.530
+voici une carte des endroits
+où le thorium lunaire est situé
+
+0:06:33.530,0:06:36.069
+Le Thorium a une signature électromagnétique
+qui le rend facile à trouver,
+
+0:06:36.069,0:06:37.319
+même d'un vaisseau spatial 
+
+0:06:37.319,0:06:42.060
+Avec l'énergie produite avec un réacteur LFTR
+nous pourrions recycler tout l'air,
+
+0:06:42.060,0:06:45.919
+l'eau et les déchets produits au sein
+de la communauté lunaire. En fait,
+
+0:06:45.919,0:06:48.129
+le Recyclage serait une exigence
+absolue pour la réussite.
+
+0:06:48.129,0:06:52.430
+Nous pourrions cultiver les plantes nécessaires
+pour nourrir les membres de la communauté même pendant
+
+0:06:52.430,0:06:55.150
+la nuit lunaire de deux semaines en utilisant 
+la lumière et la puissance du réacteur 
+
+0:06:55.150,0:06:58.729
+Il semblait que le Réacteur Thorium à Fluorure Liquide
+(LFTR) était la source d'énergie qui pouvait… 
+
+0:06:58.729,0:07:03.289
+faire de la colonie lunaire autosuffisant une réalité
+Mais j'avais une question simple:
+
+0:07:03.289,0:07:06.560
+si le réacteur LFTR était tellement adéquate
+pour une communauté sur la lune…
+
+0:07:06.560,0:07:09.630
+pourquoi pas pour une communauté sur la terre? 
+Une communauté de l'avenir,
+
+0:07:09.630,0:07:11.630
+autosuffisant et indépendante
+pour l’énergie.
+
+0:07:11.630,0:07:14.820
+Les même techniques de production
+d'énergie et de recyclage
+
+0:07:14.820,0:07:17.920
+qui pourraient avoir un impact puissant
+sur la survie sur la Lune 
+
+0:07:17.920,0:07:21.080
+pourraient également avoir un impact puissant
+pour la survie sur la Terre
+
+0:07:21.080,0:07:25.830
+À l'heure actuelle nous brûlons des combustibles fossiles
+parce qu'ils sont faciles à trouver, et parce que nous pouvons.
+
+0:07:25.830,0:07:28.960
+Malheureusement, ils font certaines parties
+de notre planète ressembler à la “lune”
+
+0:07:28.960,0:07:32.430
+L'utilisation de combustibles fossiles nous enveloppe
+dans des conflits dans des régions instables du monde,
+
+0:07:32.430,0:07:34.929
+et coûte de l'argent
+et des vies humaines.
+
+0:07:34.929,0:07:37.270
+Les choses pourraient être très différents
+si nous utilisions Thorium.
+
+0:07:37.270,0:07:40.659
+Dans un réacteur LFTR nous pouvons utiliser
+le thorium environ 200 fois plus efficacement
+
+0:07:40.659,0:07:44.540
+que nous utilisons maintenant l'uranium.
+Étant donné que le réacteur LFTR est capable
+
+0:07:44.540,0:07:47.009
+de presque complètement libérer l'énergie en thorium,  
+
+0:07:47.009,0:07:50.840
+cela réduit les déchets produits par rapport
+à l'uranium par des facteurs de centaines,
+
+0:07:50.840,0:07:53.520
+et par des facteurs de millions
+par rapport aux combustibles fossiles
+
+0:07:53.520,0:07:56.539
+Nous aurons encore besoin de combustibles liquides
+pour les véhicules et les machines, 
+
+0:07:56.539,0:08:00.539
+mais on pourrait produire ces combustibles liquides
+à partir du dioxyde de carbone dans l'atmosphère
+
+0:08:00.539,0:08:04.400
+et de l'eau (comme il fait la nature). Nous pourrions
+produire de l'hydrogène par craquage de l'eau,
+
+0:08:04.400,0:08:07.789
+pour le combiner avec le carbone récolté
+à partir de CO2 dans l'atmosphère, 
+
+0:08:07.789,0:08:09.919
+fabriquant des carburants comme
+le méthanol, l'ammoniac
+
+0:08:09.919,0:08:14.900
+et l'éther méthylique, qui pourrait être
+un remplacement direct pour les carburants Diesel. 
+
+0:08:14.900,0:08:19.810
+Imaginez de l'essence et du diesel avec neutralité
+carbone, renouvelable et produit en autonomie!
+
+0:08:19.810,0:08:21.220
+Avons-nous suffisamment de Thorium
+dans les États-Unis? oui, on l’a! 
+
+0:08:21.220,0:08:26.359
+En fait, aux US, nous avons
+plus de 3200 tonnes de thorium
+
+0:08:26.359,0:08:30.610
+qui a été stocké il y a 50 ans et est actuellement
+enterré dans une tranchée peu profonde dans le Nevada
+
+0:08:30.610,0:08:33.019
+Juste ce dépôt de thorium,
+s'il est utilisé dans de réacteurs LFTRs,
+
+0:08:33.019,0:08:36.600
+pourrait produire presque autant d'énergie
+que les US utilisent en 3 ans
+
+0:08:36.600,0:08:41.000
+Et le Thorium n'est pas une substance rare non plus,
+il y a de nombreux sites comme celui-ci dans l'Idaho,
+
+0:08:41.000,0:08:44.260
+où une zone de la taille d'un terrain de football
+pourrait produire suffisamment de thorium chaque année
+
+0:08:44.260,0:08:46.169
+pour alimenter le monde entier. 
+
+0:08:46.169,0:08:50.929
+Utilisant la technologie LFTR nous pourrions
+nous passer des aspects coûteux et difficiles
+
+0:08:50.929,0:08:54.049
+de l’énergie nucléaire à combustible solide
+d'uranium et refroidie à l’eau.
+
+0:08:54.049,0:08:58.900
+Nous n'aurions pas besoin des grands réacteurs
+à haute pression et des grands bâtiments de confinement
+
+0:08:58.900,0:09:01.660
+Nous n'aurions pas besoin
+de grandes turbines à vapeur à faible efficacité
+
+0:09:01.660,0:09:05.529
+Nous n'aurions pas besoin d'avoir autant d'infrastructure
+pour transmission de puissance à long distance
+
+0:09:05.529,0:09:10.329
+parce que le thorium est une source d'énergie très portable
+qui peut être situé à proximité de l'endroit où elle est nécessaire.
+
+0:09:10.329,0:09:13.830
+Un Réacteur Thorium à Fluorure Liquide (LFTR)
+serait une structure compacte
+
+0:09:13.830,0:09:18.360
+très économe en énergie et en toute sécurité,
+qui produirait l'énergie dont nous avons besoin jour et nuit
+
+0:09:18.360,0:09:19.900
+et sans égard aux conditions météorologiques
+
+0:09:19.900,0:09:24.380
+En 2007, nous avons utilisé 5.000 millions de tonnes
+de charbon, 31.000 millions de barils de pétrole 
+
+0:09:24.380,0:09:27.470
+et 5 billions de mètres cubes de gaz naturel
+
+0:09:27.470,0:09:32.270
+ainsi que 65.000 tonnes d'uranium
+pour produire l'énergie du monde. 
+
+0:09:32.270,0:09:35.730
+Et bien: nous pourrions faire la même chose
+avec 7.000 tonnes de Thorium,
+
+0:09:35.730,0:09:38.580
+qui pourrait être exploité sur un seul site!
+Si tout cela vous semble intéressant,
+
+0:09:38.580,0:09:43.339
+je vous invite à visiter notre site web
+où une communauté d’enthousiastes
+
+0:09:43.339,0:09:46.019
+du Thorium travaille pour dire au monde
+
+0:09:46.019,0:09:49.930
+la façon dont nous pouvons réaliser
+un avenir énergétique propre, sûre et durable, 
+
+0:09:49.930,0:09:51.819
+basé sur les energies du Thorium.
+Merci beaucoup.
+
+0:09:59.000,0:10:03.000
+Sous-titres français - Raul Parolari & John Laurie
