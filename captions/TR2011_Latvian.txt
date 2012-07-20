@@ -2153,375 +2153,345 @@ Tomēr tā ir ļoti ekonomiska reakcija.
 Tagad apskatīsim tipisku kodolreaktoru.
 
 0:43:14.370,0:43:18.480
-Watts Bar Plant in Tennessee, I've actually
-been to this nuclear reactor before. This
+Piemēram, es esmu bijis Watts Bar stacijā
+Tenesijā.
 
 0:43:18.480,0:43:23.080
-has a distinction of being the newest nuclear
-reactor in the United States. This came online
+Tā ir jaunākā ASV atomelektrostacija.
+To palaida 1996. gadā.
 
 0:43:23.080,0:43:28.460
-in 1996.
-A big pressurized water reactor vessel. 150
+Tajā ir liels augstspiediena reaktora katls.
 
 0:43:28.460,0:43:33.400
-atmospheres, solid nuclear fuel. Fission is
-going on. Water is being pumped through. It's
+150 atmosfēras un cietā kodoldegviela, kurā norit
+kodolu dalīšanās. Caur to pumpē ūdeni
 
 0:43:33.400,0:43:37.050
-getting hotter. This water then goes through
-a steam generator and in another loop of water
+un tas uzkarst. Ūdens iet caur tvaika ģeneratoru
+un tā otrā cilpā rada ūdens tvaiku.
 
 0:43:37.050,0:43:41.900
-steam is being raised. It goes to the turbine,
-spins the turbine, which spins the generator
+Tvaiks iet caur turbīnu un tā savukārt griež
+elektrisko ģeneratoru,
 
 0:43:41.900,0:43:43.200
-makes electricity.
+kas ražo elektrību.
 
 0:43:43.200,0:43:46.390
-This is the steam turbine. And when I was
-at Watts Bar this is the part I got to go
+Šī ir tvaika turbīna. Kad es biju Watts Bar
+spēkstacijā, es vēlējos apskatīt
 
 0:43:46.390,0:43:46.970
-see.
+tieši to.
 
 0:43:46.970,0:43:53.970
-There was not a skitch of dust on anything!
-Now, if any of you have been to a coal plant
+Tur nebija neviena puteklīša!
+Ja jūs apskatītu ogļu staciju,
 
 0:43:54.500,0:43:59.410
-and seen the same steam turbine, because they
-use the same technology at a coal plant. It
+jūs ieraudzītu tādu pašu turbīnu arī tajā,
+jo izmantotā tehnoloģija ir tā pati. 
 
 0:43:59.410,0:44:06.410
-is nothing like this. A coal plant is dirty,
-it's smelly, it's filthy, and it's dripping.
+Tikai tā būtu netīra smirdīga, un nepatīkama.
 
 0:44:06.900,0:44:10.370
-This thing was almost antiseptic in the way
-it look.
+Šī izskatās gandrīz vai antiseptiska.
 
 0:44:10.370,0:44:10.620
-Is there a need for that?
-
+Vai tāda tīrība ir vajadzīga?
+ 
 0:44:10.370,0:44:17.370
-I don't know. So I'm standing next to this
-machine. You can't really see a person, about
+Es nezinu. Ja es pie tās apstātos,
+jūs varat iztēloties, cik tā ir liela,
 
 0:44:17.840,0:44:19.550
-yay high here.
+pēc šī cilvēciņa.
 
 0:44:19.550,0:44:25.860
-This is this low-pressure turbine. And this
-is turning the shaft that's running this.
+Šī ir zemspiediena turbīna. 
+Tā griež šo asi.
 
 0:44:25.860,0:44:29.960
-Now in front of this guy is this little thing
-called the high-pressure turbine. And you
+Un pirms tās atrodas augstspiediena turbīna. 
 
 0:44:29.960,0:44:30.700
-can't really see it. You see the big three
-low-pressure turbines but you don't see the
+Jūs to knapi varat ieraudzīt, salīdzinot ar
+zemspiediena turbīnu.
 
 0:44:30.700,0:44:32.090
-high-pressure turbine. The high pressure turbine
-is little bitty. It's like a third the size
+Augstspiediena turbīnas izmērs ir knapi trešā daļa
 
 0:44:32.090,0:44:37.200
-of the generator. The high-pressure turbine
-is making about two-thirds of the torque that's
+no ģeneratora izmēra. Tomēr, tā dod divas trešdaļas
+no turbīnas 
 
 0:44:37.200,0:44:38.310
-turning the shaft.
+griezes momenta.
 
 0:44:38.310,0:44:42.490
-And the low-pressure turbines are making about
-one-third of the torque that's turning the
+Bet zemspiediena turbīna dod atlikušo
+trešdaļu no griezes momenta.
 
 0:44:42.490,0:44:46.790
-shaft. This little guy is doing almost all
-the work and these big, big, big guys are
+Šī mazā turbīna dara lielāko daļu darba,
+bet šī lielā turbīna nedara
 
 0:44:46.790,0:44:47.930
-hardly doing anything.
+gandrīz neko.
 
 0:44:47.930,0:44:51.740
-When the steam goes into the high-pressure
-turbine, it's dense. It's got a lot of energy
+Kad tvaiks nonāk augstspiediena turbīnā, 
+tas ir ļoti blīvs. Tajā ir daudz enerģijas 
 
 0:44:51.740,0:44:55.980
-and a little volume. But then you let it blow
-down as it goes across the high pressure turbine
+mazā tilpumā. Bet tad, kad tas izplešas,
 
 0:44:55.980,0:44:58.000
-and becomes low-pressure steam.
+tas nonāk zemspiediena turbīnā. 
 
 0:44:58.000,0:45:02.670
-That's why these machines have to be so darn
-big. Because the steam that's heating them
+Un zemspiediena turbīna ir tik liela tāpēc,
 
 0:45:02.670,0:45:07.200
-has already lost the vast majority of the
-energy that it's going to give up.
+ka tvaiks jau ir zaudējis lielāko daļu savas enerģijas.
 
 0:45:07.200,0:45:12.380
-This is the reactor itself, the reactor vessel
-up here is where all the control rods slide
+Šis ir kodolreaktora korpuss, kurā atrodas
+kontroles stieņi, kurus iebīda vai izbīda 
 
 0:45:12.380,0:45:16.840
-in and out of the core. And then there's these
-four steam generators, as big if not bigger
+reaktora serdē. Un šie ir četri lieli tvaika ģeneratori,
+kas ir vēl lielāki par reaktoru
 
 0:45:16.840,0:45:20.190
-than the reactors and they also have to operate
-at these very high pressures.
+un tie visi darbojas ļoti augstā spiedienā. 
 
 0:45:20.190,0:45:27.190
-There's four of them. Look at that. One, two,
-three, four, five, six, seven, eight. Big
+Pavisam kopā ir četri ģeneratori katram no tiem
 
 0:45:27.430,0:45:28.280
-pipes.
+divas lielas caurules.
 
 0:45:28.280,0:45:32.630
-The number one accident people worry about
-with this kind of reactor is what's called
+Cilvēki uztraucas par to, kas notiktu, 
+ja kāda no šīm caurulēm pārplīstu. 
 
 0:45:32.630,0:45:38.460
-the double-ended pipe break. One of these
-eight pipes, for whatever reason, shears.
+Ja kāda no šīm astoņām caurulēm pārplīst,
 
 0:45:38.460,0:45:44.600
-And all of a sudden, pressure is lost in the
-reactor. That water that's being held water
+tad reaktorā pazūd spiediens.
+Un tad ūdens, kas atradās 300 grādu temperatūrā
 
 0:45:44.600,0:45:51.490
-at 300 Celsius by 150 atmospheres of pressure,
-when you lose pressure it flashes to steam,
+un 150 atmosfēru spiedienā, pēkšņi pārvēršas tvaikā.
 
 0:45:51.490,0:45:57.070
-almost instantly to steam. And when that happens,
-its volume increases roughly by a factor of
+Kad tas notiek, tā tilpums pieaug gandrīz 1000 reizes.
 
 0:45:57.070,0:46:02.330
-1,000. So what was yay dense is now not so
-dense anymore.
+Un tas kas bija ļoti blīvs, vairs tāds nav. 
 
 0:46:02.330,0:46:07.600
-The other thing that happens is steam doesn't
-take away heat nearly as well as liquid water
+Bez tam, kad ūdens pārvēršas tvaikā, tas ne tuvu vairs
+nevada siltumu tik labi kā šķidrs ūdens.
 
 0:46:07.600,0:46:12.960
-does from a surface. So all of a sudden your
-fuel rods are not being cooled nearly as effectively
+Līdz ar to, reaktora serdes stieņi vairs netiek dzesēti
+tik labi, kā agrāk.
 
 0:46:12.960,0:46:17.030
-as they were before. Now fission will stop
-because one of the things the water is doing
+Ja serde vairs nav ūdenī, kodolreakcija apstājas, jo ūdens
+bez dzesēšanas arī palēnināja reakcijā radušos neitronus
 
 0:46:17.030,0:46:21.400
-is slowing down the neutrons. So without the
-water the fission reaction stops. You don't
+Tāpēc reakcija apstājas, neatkarīgi no
 
 0:46:21.400,0:46:27.550
-have to put control rods in or anything. The
-reactor will turn off immediately. But it
+kontroles stieņiem. Tomēr,
+lai arī kodolreakcija momentā apstājas 
 
 0:46:27.550,0:46:30.470
-will still be generating heat from those fission
-products.
+atlikušie sadalīšanās produkti vēl kādu laiku turpina izstarot
+siltumu.
 
 0:46:30.470,0:46:35.810
-Here's what'll happen if you have a double-ended
-pipe break. You get this entire containment
+Lūk tas notiek, ja pārplīst kāda no caurulēm,
 
 0:46:35.810,0:46:36.890
-vessel filled with water.
+ar ūdeni pildītā reaktorā.
 
 0:46:36.890,0:46:41.010
-Now, I don't want to tell you all this because
-I'm trying to focus on negative situations
+Es to nestāstu tāpēc, ka vēlos vērst jūsu uzmanību
+uz visām iespējamajām nelaimēm. 
 
 0:46:41.010,0:46:44.870
-here. I'm telling you this because this is
-what drives the design of this building. This
+Es stāstu to tāpēc, ka šie iespējamie negadījumi
+nosaka stacijas dizainu.
 
 0:46:44.870,0:46:51.660
-building is the size it is and it's the way
-it is precisely to accommodate this event.
+Stacija ir būvēta tieši tāda, lai tā tiktu galā ar
+šādiem iespējamiem negadījumiem.
 
 0:46:51.660,0:46:57.650
-They've designed this reactor so if this happens,
-all the steam is captured in this building
+Stacija ir uzbūvēta tā, ka, ja no reaktora izplūst tvaiks,
+tas paliek šajā būvē
 
 0:46:57.650,0:46:58.750
-and doesn't get out.
-
+un netiek tālāk.
+  
 0:46:58.750,0:47:03.060
-Look at the size of the reactor. Look at the
-size of the containment building. It's huge.
+Salīdziniet reaktora un uztveršanas būves izmērus.
+Uztveršanas būve ir tik liela tāpēc,
 
 0:47:03.060,0:47:09.150
-It's much bigger than the reactor and it's
-all driven by that thousand to one difference
+ka ūdens tvaiks ir daudz reizes mazāk blīvs par ūdeni.
 
 0:47:09.150,0:47:14.830
-in the density between steam and liquid water.
-Now if this happens, you have to figure out
+Ja no reaktora izplūst ūdens, 
 
 0:47:14.830,0:47:21.060
-a way to get water back on the fuel rods to
-cool them. So they have a series of emergency
+tad ir jāatrod veids, kā to turpināt dzesēt.
 
 0:47:21.060,0:47:25.380
-systems in this reactor and they operate at
-all different stages of pressure.
+Tāpēc reaktoram ir avārijas dzesēšanas iekārta, kas strādā
+arī tad, ja reaktorā vairs nav spiediena. 
 
 0:47:25.380,0:47:28.200
-So the idea is if you're still at high pressure
-and you've got to get water in there, we've
+Piemēram, ja reaktorā vēl arvien ir augsts spiediens
+un ūdens, ir sistēma priekš tā.
 
 0:47:28.200,0:47:31.210
-got a system for that. If you've lost some
-of your pressure and you've got to get water
+Ja ir daļēji zudis spiediens un ūdens, tad ir rezerves
+sistēma priekš tam.
 
 0:47:31.210,0:47:34.460
-in there, we've got a system for that. If
-you've lost all your pressure and we've got
+Ja spiediens ir pazudis, bet šeit vēl ir saglabājies ūdens,
 
 0:47:34.460,0:47:37.900
-to get water in there, we've got a system
-for that. So there's a lot of systems and
+ir īpaša sistēma priekš tam. Kopumā ņemot,
+ir neskaitāmas sistēmas un rezerves sistēmas,
 
 0:47:37.900,0:47:42.200
-then there's backups to those systems, and
-it's all driven by this high pressure and
+kuras visas ir veidotas tāpēc, ka reaktors
+darbojās ūdenī un 
 
 0:47:42.200,0:47:43.450
-by the use of water.
+augstā spiedienā.
 
 0:47:43.450,0:47:43.920
-Yes sir?
+Jā lūdzu?
 
 0:47:43.920,0:47:49.100
-Does the control rod missile shield to keep
-the control rods from punching a hole through
+Vai vadības stieņi var izsprāgt no reaktora un 
+caurdurt stacijas jumtu, 
 
 0:47:49.100,0:47:53.550
-the roof if the steam explosion reaches the
-reactor chamber?
+ja reaktorā rodas sprādziens?
 
 0:47:53.550,0:47:58.340
-Precisely. Here's the control rod drive mechanism.
-Here's the rods. If you breach this part,
+Tā var notikt. Te ir kontroles stieņi.
 
 0:47:58.340,0:48:03.450
-let's say the welding failed, and this thing
-goes "boom" and out shoot the control rods,
+Ja šī reaktora daļai, pārplīst metinājuma šuve,
+tad kontroles stieņi izlido ārā,
 
 0:48:03.450,0:48:07.020
-that's there to keep them from doing bad things
-like punching a hole in the top.
+un ielido stacijas jumtā.
 
 0:48:07.020,0:48:12.300
-That actually did happen one time. That was
-an army reactor and they did not have a containment
+Patiesībā vienreiz tā arī notika stacijā,
+kurai nebija uztveršanas būves,
 
 0:48:12.300,0:48:16.410
-building. One poor guy got impaled to the
-ceiling by a control rod so...
+un vienu nabaga zēnu pienagloja pie stacijas jumta...
 
 0:48:16.410,0:48:18.530
-That's got to be the coolest way to die.
+Tas ir foršs veids, kā dabūt galu.
 
 0:48:18.530,0:48:21.900
-That was a real bad day. If he didn't get
-impaled the radiation was going to get him.
+Viņam tā bija slikta diena, un diez vai viņš uztraucās
+par to, ka viņš dabūja arī nāvīgu radiācijas devu.
 
 0:48:21.900,0:48:26.810
-The pinhole camera spotted several locations
-and sources of high gamma radiation activity
+Kamera norādīja vairākas vietas ar paaugstinātu 
+gamma radioaktivitāti
 
 0:48:26.810,0:48:33.170
-outside the reactor vessel presumably from
-reactor components blown from the core by
+stacijas telpās, kas bija radušās no reaktora daļām,
+kuras bija izmestas no tā
 
 0:48:33.170,0:48:34.920
-the force of the 500 PSI explosion.
+notiekot 30 atmosfēru sprādzienam.
 
 0:48:34.920,0:48:38.480
-The reactor vessel is about nine inch thick
-steel. When you've got nine inch thick steel
+Reaktora korpuss ir veidots no 20 cm bieza tērauda.
+Kad jums vajadzīgs korpuss no 20 bieza tērauda,
 
 0:48:38.480,0:48:42.460
-and it has to be nuclear grade and it has
-to be perfect, you can't go and weld nine
+un tam ir jābūt perfektā kodolstacijai nepieciešamajā kvalitātē,
+jūs tādu nevarat sametināt no gabaliem. 
 
 0:48:42.460,0:48:46.850
-inch thick steel. They don't make it that
-way. They forge it in one piece. Not a lot
+Jums tas ir jāizkaļ no viena gabala. 
 
 0:48:46.850,0:48:53.800
-of people have the capability to build a 10-meter
-diameter, 20-meter long, single piece, nine
+Nav daudz cilvēku, kas spētu izkalt 10m platu, 20m garu
+un 20cm biezu viengabala korpusu.
 
 0:48:53.800,0:48:57.920
-inch thick forging. In fact, there's exactly
-one place in the world you can build this.
+Patiesībā ir tikai viena vieta pasaulē, kur tādus izgatavo.
 
 0:48:57.920,0:49:00.670
-It's a place called Japan Steel Works in Japan.
+Tā ir Japan Steel Works rūpnīca Japānā.
 
 0:49:00.670,0:49:03.320
-It's a limiting factor because you say "I
-want to build lots and lots of nuclear reactors."
+Un tās spējas ierobežo esošo kodolreaktoru ražošanas jaudas.
+Jūs nevarat saražot neskaitāmus šādus reaktorus.
 
 0:49:03.320,0:49:07.670
-Either you're going to build a new heavy forging,
-which is really just for this task, or you're
+Vai nu jums ir jāuzceļ sava rūpnīca, kas ražos tieši šādus reaktorus,
+vai arī 
 
 0:49:07.670,0:49:11.460
-going to wait a long time to get your reactor
-in line to go do this.
+jums ir jāgaida rindā, kamēr šī rūpnīca jums tādu izgatavos.
 
 0:49:11.460,0:49:14.160
-Let me diss on water a few more times.
+Apkoposim visu, kāpēc ūdens šādos reaktoros nav labs.
 
 0:49:14.160,0:49:16.960
-Here's why water is not such a great thing
-for the inside of a nuclear reactor. Number
+Pirmkārt, ūdens nespēj labi tikt galā ar
 
 0:49:16.960,0:49:22.430
-one, it can't hack the temperature, we already
-talked about that. Number two, it's a covalently
+tik augstu temperatūru, kāda ir šajos reaktoros.
+Otrkārt,
 
 0:49:22.430,0:49:27.790
-bonded substance. The oxygen has a covalent
-bond with two hydrogens. Neither one of those
+ūdens molekulā ūdeņradi un skābekli satur kopā kovalentā saite.
+Kovalentā saite nav pietiekami spēcīga,
 
 0:49:27.790,0:49:33.440
-bonds is strong enough to survive getting
-smacked around by a gamma or a neutron. They're
+lai noturētos pretī neitronam, kas nāk no reaktora.
 
 0:49:33.440,0:49:37.600
-just going too fast. Sure enough, they knock
-the hydrogens clean off.
+Tie kustas tik ātri, ka tie vienkārši "izsit" ūdeņraža atomus no 
+skābekļa.
 
 0:49:37.600,0:49:42.310
-Now, in a water cooled reactor, you have a
-system called a recombiner that will take
+Tāpēc ūdens reaktoros ir iekārta, kuru sauc par
+rekombinētāju.
 
 0:49:42.310,0:49:47.890
-the hydrogen gas and the oxygen gas that is
-always being created from the nuclear reaction
+Tajā atsevišķus ūdeņraža un skābekļa atomus atkal savieno kopā
 
 0:49:47.890,0:49:51.740
-and put them back together, because chemically
-they'd much rather be water than being hydrogen
+ūdens molekulā, jo tie daudz labāk jūtas kopā kā ūdens,
+nevis katrs atsevišķi.
 
 0:49:51.740,0:49:56.420
-and oxygen. It's a great system as long as
+It's a great system as long as
 it's operating and the system is pumping.
 
 0:49:56.420,0:50:01.030
