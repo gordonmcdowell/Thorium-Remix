@@ -1,0 +1,687 @@
+0:00:07.420,0:00:11.290
+nearly everyone in the world is part of some
+community whether large or small
+
+0:00:11.290,0:00:14.869
+and all of these communities
+have similar needs
+
+0:00:14.869,0:00:16.920
+they need light
+they need heat
+
+0:00:16.920,0:00:20.950
+they need air conditioning
+people can't function very well when
+
+0:00:20.950,0:00:21.840
+it's too hot
+or too cold
+
+0:00:21.840,0:00:26.289
+they need food to be grown or provided
+distributed and stored safely
+
+0:00:26.289,0:00:31.000
+they need waste products to be
+collected removed and processed
+
+0:00:31.000,0:00:33.500
+people in the community need to
+be able to get from one place to another
+
+0:00:33.500,0:00:34.940
+as quickly as possible
+
+0:00:34.940,0:00:38.639
+and a supply of energy is the basis
+for all of these activities
+
+0:00:38.639,0:00:42.000
+energy in the form of electricity provides
+light and air conditioning
+
+0:00:42.000,0:00:45.710
+energy in the form of heat keeps us warm
+and energy in chemical form
+
+0:00:45.710,0:00:49.000
+provides fertilizer
+drives farm machinery and transportation
+
+0:00:49.000,0:00:52.000
+now i spent 10 years at NASA
+
+0:00:52.000,0:00:56.430
+and in the beginning of my time there
+in 2000 i was very interested in communities
+
+0:00:56.430,0:00:58.990
+but this is the kind of community
+i was thinking of
+
+0:00:58.990,0:01:03.920
+a lunar community it had all of the same needs
+as a community on earth would have
+
+0:01:03.920,0:01:06.888
+but it had some very
+unique constraints
+
+0:01:08.888,0:01:10.020
+and we had to think about how we would
+provide energy for this very unique community
+
+0:01:10.020,0:01:13.289
+there's no coal on the moon
+there's no petroleum
+
+0:01:13.289,0:01:16.000
+there's no natural gas
+there's no atmosphere
+
+0:01:16.000,0:01:17.800
+there's no wind either
+
+0:01:17.800,0:01:21.979
+and solar power has a real problem:
+the moon orbits the earth once a month
+
+0:01:21.979,0:01:26.250
+for two weeks the sun goes down
+and your solar panels don't make any energy
+
+0:01:26.250,0:01:29.790
+you want to try to store enough energy in
+batteries for two weeks
+
+0:01:29.790,0:01:31.079
+it just simply isn't practical
+
+0:01:31.079,0:01:33.079
+so nuclear energy was really
+the only choice
+
+0:01:33.079,0:01:37.090
+now back in 2000 i really didn't know
+too much about nuclear power 
+
+0:01:37.090,0:01:39.639
+so i started trying to learn
+almost all of the nuclear power
+
+0:01:39.639,0:01:42.690
+we use on earth today
+uses water as the basic coolant
+
+0:01:42.690,0:01:45.829
+that has had some advantages
+but it has a lot of disadvantages
+
+0:01:45.829,0:01:48.170
+if you want to generate electricity 
+
+0:01:48.170,0:01:50.650
+you have to get the water
+a lot hotter than you normally can
+
+0:01:50.650,0:01:54.170
+at normal pressure water will boil
+at 100 degrees celsius
+
+0:01:54.170,0:01:57.879
+this isn't nearly hot enough to
+generate electricity effectively
+
+0:01:57.879,0:02:01.229
+so water-cooled reactors have to run
+at much higher pressures
+
+0:02:01.229,0:02:02.790
+than atmospheric pressure
+
+0:02:02.790,0:02:06.869
+some water-cooled reactors
+run at over 70 atmospheres of pressure
+
+0:02:06.869,0:02:10.580
+and others have to run at as much as
+150 atmospheres of pressure
+
+0:02:10.580,0:02:14.070
+there's no getting around this
+it is simply what you have to do
+
+0:02:14.070,0:02:16.650
+if you want to generate electricity
+using a water-cooled reactor
+
+0:02:16.650,0:02:20.390
+and this means that you have to build
+a water-cooled reactor as a pressure vessel
+
+0:02:20.390,0:02:25.120
+with steel walls over 20 centimeters thick
+if that sounds heavy that's because it is
+
+0:02:25.120,0:02:29.360
+things get a lot worse if you have an accident
+where you lose pressure inside the reactor
+
+0:02:29.360,0:02:34.090
+if you have liquid water at 300 degrees celsius
+and suddenly you depressurize it
+
+0:02:34.090,0:02:37.190
+it doesn't stay liquid for very long
+it flashes into steam
+
+0:02:37.190,0:02:41.160
+so water-cooled reactors are built
+inside of big thick concrete buildings
+
+0:02:41.160,0:02:42.480
+called containment buildings
+
+0:02:42.480,0:02:45.640
+which are meant to hold all of the steam
+that would come out of the reactor
+
+0:02:45.640,0:02:48.319
+if you had an accident
+where you lost pressure
+
+0:02:48.319,0:02:52.010
+steam takes up about 1000 times
+more volume than liquid water
+
+0:02:52.010,0:02:56.200
+so the containment building ends up being
+very large relative to the size of the reactor
+
+0:02:56.200,0:02:59.669
+another bad thing happens if you lose pressure
+and your water flashes to steam
+
+0:02:59.669,0:03:04.439
+if you don't get emergency coolant to the
+fuel in the reactor it can overheat and melt
+
+0:03:04.439,0:03:07.680
+now the reactors we have today
+use uranium oxide as a fuel
+
+0:03:07.680,0:03:11.420
+it's a ceramic material similar in performance
+to that of the ceramics that
+
+0:03:11.420,0:03:16.160
+we use to make coffee cups or cookware
+or the bricks we use to line fireplaces
+
+0:03:16.160,0:03:18.820
+they are chemically stable but they're
+not very good at transferring heat
+
+0:03:18.820,0:03:21.009
+if you lose pressure
+you lose your water
+
+0:03:21.009,0:03:24.609
+and soon your fuel will melt down and release
+the radioactive fission products within it
+
+0:03:24.609,0:03:28.620
+making solid nuclear fuel is a
+complicated and expensive process
+
+0:03:28.620,0:03:31.670
+and we extract less than 1% of the energy
+from the nuclear fuel
+
+0:03:31.670,0:03:33.670
+before it can no longer
+remain in the reactor
+
+0:03:33.670,0:03:37.269
+water cooled reactors
+have another additional challenge
+
+0:03:37.269,0:03:40.239
+they need to be near large bodies of water
+where the steam they generate
+
+0:03:40.239,0:03:44.620
+can be cooled and condensed
+otherwise they can't generate electrical power
+
+0:03:44.620,0:03:49.050
+now there's no lakes or rivers on the moon so if
+all this makes it sound like water-cooled reactors
+
+0:03:49.050,0:03:54.249
+aren't such a good fit for a lunar community
+i would tend to agree with you
+
+0:03:54.249,0:03:57.819
+you see i had the good fortune to learn about
+a different form of nuclear power
+
+0:03:57.819,0:04:01.980
+that doesn't have all these problems for a
+very simple reason: it's not based on water cooling
+
+0:04:01.980,0:04:06.240
+and it doesn't use solid fuel
+surprisingly it's based on salt
+
+0:04:06.240,0:04:09.439
+one day i was at a friend's office at work
+and i noticed this book on his shelf
+
+0:04:09.439,0:04:13.839
+fluid fueled reactors and i was interested
+and asked if i could borrow it
+
+0:04:13.839,0:04:17.829
+i learned about research in the United States
+back in the 1950s into a kind of
+
+0:04:17.829,0:04:22.400
+nuclear reactor that wasn't based on solid
+fuel or water cooling it didn't have the problems
+
+0:04:22.400,0:04:26.370
+of the water-cooled reactor
+and the reason why was pretty neat
+
+0:04:26.370,0:04:29.669
+it used a mixture of fluoride salts
+as a nuclear fuel
+
+0:04:29.669,0:04:32.910
+specifically the fluorides of
+lithium, beryllium, uranium and thorium
+
+0:04:32.910,0:04:35.150
+fluorides are remarkably chemically stable
+
+0:04:35.150,0:04:40.169
+they do not react with air and water
+you have to heat them to 400 degrees celsius
+
+0:04:40.169,0:04:42.479
+to get them to melt
+but that's actually perfect
+
+0:04:42.479,0:04:45.249
+for trying to generate power
+in a nuclear reactor
+
+0:04:45.249,0:04:48.810
+here's the real magic: they don't
+have to operate at high pressure
+
+0:04:48.810,0:04:50.680
+and that makes
+the biggest difference of all
+
+0:04:50.680,0:04:53.960
+this means that they don't have to be
+in heavy thick steel pressure vessels
+
+0:04:53.960,0:04:57.530
+they don't have to use water for coolant
+and there's nothing in the reactor
+
+0:04:57.530,0:05:00.220
+that's going to make
+a big change in density like water
+
+0:05:00.220,0:05:02.770
+so the containment building
+around the reactor
+
+0:05:02.770,0:05:06.080
+can be much smaller and close-fitting
+unlike the solid fuels that can melt down
+
+0:05:06.080,0:05:10.310
+if you stop cooling them these liquid
+fluoride fuels are already melted
+
+0:05:10.310,0:05:11.849
+at a much, much
+lower temperature
+
+0:05:11.849,0:05:15.970
+in normal operation you have a little plug
+here at the bottom of the reactor vessel
+
+0:05:15.970,0:05:16.729
+this plug
+is made out of
+
+0:05:16.729,0:05:19.770
+a piece of frozen salt
+that you've kept frozen
+
+0:05:19.770,0:05:21.979
+by blowing cool gas over
+the outside of the pipe
+
+0:05:21.979,0:05:26.669
+if there's an emergency and you lose all the
+power to your nuclear power plant
+
+0:05:26.669,0:05:27.820
+the little blower
+stops blowing
+
+0:05:27.820,0:05:31.700
+the frozen plug melts
+and the liquid fluoride fuel inside the reactor
+
+0:05:31.700,0:05:33.539
+drains out of the vessel
+
+0:05:33.539,0:05:36.370
+through the line into another tank
+called a drain tank
+
+0:05:36.370,0:05:40.150
+inside the drain tank it's all configured
+to maximize the transfer of heat
+
+0:05:40.150,0:05:44.389
+so as to keep the salt passively cooled
+as its heat load drops over time
+
+0:05:44.389,0:05:48.340
+in water-cooled reactors you generally
+have to provide power to the plant
+
+0:05:48.340,0:05:52.529
+to keep the water circulating to prevent a
+meltdown as we saw in japan
+
+0:05:52.529,0:05:57.020
+but in this reactor if you lose the power
+to the reactor it shut itself down
+
+0:05:57.020,0:05:59.080
+all by itself
+without human intervention
+
+0:05:59.080,0:06:01.759
+and puts itself
+in a safe and controlled configuration
+
+0:06:01.759,0:06:05.359
+now this was sounding pretty good to me
+i was getting excited about the potential
+
+0:06:05.359,0:06:08.420
+of using a liquid fluoride reactor
+to power a lunar community
+
+0:06:08.420,0:06:11.209
+but then i learned about thorium
+and the story got even better
+
+0:06:11.209,0:06:15.659
+thorium is a naturally occurring nuclear fuel
+that is 4 times more common in the Earth's
+
+0:06:15.659,0:06:19.189
+crust than uranium it can be used in liquid
+fluoride thorium reactors
+
+0:06:19.189,0:06:22.900
+to produce electrical energy
+heat and other valuable products
+
+0:06:22.900,0:06:26.180
+it's so energy dense that you can hold
+a lifetime supply of thorium energy
+
+0:06:26.180,0:06:28.039
+in the palm of your hand
+
+0:06:28.039,0:06:30.509
+thorium is also common on the moon
+and easy to find
+
+0:06:30.509,0:06:33.530
+here's a map of where
+the lunar thorium is located
+
+0:06:33.530,0:06:36.069
+thorium has an electromagnetic signature
+that makes it easy to find
+
+0:06:36.069,0:06:37.319
+even from a spacecraft
+
+0:06:37.319,0:06:42.060
+with the energy generated from a liquid fluoride
+thorium reactor we could recycle all of the air
+
+0:06:42.060,0:06:45.919
+water and waste products within
+the lunar community in fact doing so
+
+0:06:45.919,0:06:48.129
+would be an absolute
+requirement for success
+
+0:06:48.129,0:06:52.430
+we can grow the crops needed to feed the
+members of the community even during the two-week
+
+0:06:52.430,0:06:55.150
+lunar night using light
+and power from the reactor
+
+0:06:55.150,0:06:58.729
+it seemed like the liquid fluoride thorium reactor
+or LFTR could be the power source that could make
+
+0:06:58.729,0:07:03.289
+the self sustainable lunar colony a reality
+but i had a simple question
+
+0:07:03.289,0:07:06.560
+if it was such a great thing
+for a community on the moon
+
+0:07:06.560,0:07:09.630
+why not a community on the earth? 
+a community of the future
+
+0:07:09.630,0:07:11.630
+self-sustaining
+and energy independent
+
+0:07:11.630,0:07:14.820
+the same energy generation
+and recycling techniques
+
+0:07:14.820,0:07:17.920
+that could have a powerful impact
+on surviving on the moon
+
+0:07:17.920,0:07:21.080
+could also have a powerful impact
+on surviving on the Earth
+
+0:07:21.080,0:07:25.830
+right now we're burning fossil fuels because
+they're easy to find and because we can
+
+0:07:25.830,0:07:28.960
+unfortunately they're making some parts
+of our planet look like the moon
+
+0:07:28.960,0:07:32.430
+using fossil fuels and entangles us in conflict
+in unstable regions of the world
+
+0:07:32.430,0:07:34.929
+and costs money and lives
+
+0:07:34.929,0:07:37.270
+things could be very different
+if we were using thorium
+
+0:07:37.270,0:07:40.659
+you see in a LFTR we can use thorium
+about 200 times more efficiently
+
+0:07:40.659,0:07:44.540
+than we're using uranium now
+because the LFTR is capable
+
+0:07:44.540,0:07:47.009
+of almost completely
+releasing the energy in thorium 
+
+0:07:47.009,0:07:50.840
+this reduces the waste generated over uranium
+by factors of hundreds
+
+0:07:50.840,0:07:53.520
+and by factors of millions
+over fossil fuels
+
+0:07:53.520,0:07:56.539
+we're still going to be liquid fuels
+for vehicles and machinery
+
+0:07:56.539,0:08:00.539
+but we could generate these liquid fuels from
+the carbon dioxide in the atmosphere
+
+0:08:00.539,0:08:04.400
+and from water much like nature does
+we can generate hydrogen by splitting water
+
+0:08:04.400,0:08:07.789
+and combining it with carbon harvested
+from CO2 in the atmosphere
+
+0:08:07.789,0:08:09.919
+making fuels like methanol
+ammonia and
+
+0:08:09.919,0:08:14.900
+dimethyl ether which could be
+a direct replacement for diesel fuels
+
+0:08:14.900,0:08:19.810
+imagine carbon neutral gasoline and diesel
+sustainable and self produced
+
+0:08:19.810,0:08:21.220
+do we have enough thorium?
+yes we do
+
+0:08:21.220,0:08:26.359
+in fact in the United States we have
+over 3200 metric tons of thorium
+
+0:08:26.359,0:08:30.610
+that was stockpiled 50 years ago and is
+currently buried in a shallow trench in Nevada
+
+0:08:30.610,0:08:33.019
+this thorium
+if used in LFTRs
+
+0:08:33.019,0:08:36.600
+could produce almost as much energy as
+the United States uses in 3 years
+
+0:08:36.600,0:08:41.000
+and thorium is not a rare substance either
+there are many sites like this one in Idaho
+
+0:08:41.000,0:08:44.260
+when area the size of a football field
+would produce enough thorium each year
+
+0:08:44.260,0:08:46.169
+to power
+the entire world
+
+0:08:46.169,0:08:50.929
+using the LFTR technology we could move away
+from expensive and difficult aspects
+
+0:08:50.929,0:08:54.049
+of current water-cooled
+solid fuel uranium nuclear power
+
+0:08:54.049,0:08:58.900
+we wouldn't need large high pressure reactors
+and big containment buildings that they go in
+
+0:08:58.900,0:09:01.660
+we wouldn't need large
+low efficiency steam turbines
+
+0:09:01.660,0:09:05.529
+we wouldn't need to have as much
+long distance power transmission infrastructure
+
+0:09:05.529,0:09:10.329
+because thorium is a very portable energy source
+that can be located near to where it is needed
+
+0:09:10.329,0:09:13.830
+a liquid fluoride thorium reactor
+would be a compact facility
+
+0:09:13.830,0:09:18.360
+very energy efficient and safe that would
+produce the energy we need day and night
+
+0:09:18.360,0:09:19.900
+and without respect
+to weather conditions
+
+0:09:19.900,0:09:24.380
+in 2007 we used 5 billion tons of coal
+31 billion barrels of oil
+
+0:09:24.380,0:09:27.470
+and 5 trillion cubic meters
+of natural gas
+
+0:09:27.470,0:09:32.270
+along with 65,000 tons of uranium
+to produce the world's energy
+
+0:09:32.270,0:09:35.730
+with LFTR we could do the same thing with
+7,000 tons of thorium
+
+0:09:35.730,0:09:38.580
+that could be mined at a single site
+if all this sounds interesting to you
+
+0:09:38.580,0:09:43.339
+i invite you to visit our web site
+where a growing enthusiastic community
+
+0:09:43.339,0:09:46.019
+of thorium advocates is working
+to tell the world
+
+0:09:46.019,0:09:49.930
+about how we can realize the clean safe
+and sustainable energy future
+
+0:09:49.930,0:09:51.819
+based on the energies of thorium
+thank you very much

@@ -47,7 +47,7 @@
 <div class="space">&nbsp;</div>
 
 <div class="text">
-<a href="http://wh.gov/5OX">THORIUM PETITION needs 25,000 signatures</a> to <strong>bring thorium to the attention of President Obama!</strong></div>
+<a href="http://ThoriumPetition.com/">THORIUM PETITION needs 25,000 signatures</a> to <strong>bring thorium to the attention of President Obama!</strong></div>
 
 <div class="space">&nbsp;</div>
 
