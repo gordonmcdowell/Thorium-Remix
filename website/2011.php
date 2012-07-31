@@ -35,7 +35,7 @@
 </div>
 
 <div class="text">
-<strong>THORIUM REMIX 2011 - How LFTR, the Liquid Fluoride Thorium Reactor, will unlock abundant clean energy stored in Earth's plentiful thorium.</strong> 
+<strong>THORIUM REMIX 2011 - How LFTR, the Liquid Fluoride Thorium Reactor, will unlock abundant clean energy stored in Earth's plentiful thorium. Now available on <a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30" title="Thorium Remix 2011 on iTunes">Thorium Remix 2011 on iTunes</a>, <a href="http://www.amazon.com/Thorium-Remix-2011-Kirk-Sorensen/dp/B005OZVX8O/" title="Thorium Remix 2011 on Amazon">Amazon</a> &amp; <a href="http://www.youtube.com/embed/P9M__yYbsZ4" title="Thorium Remix 2011 YouTube Edition">Thorium Remix 2011 YouTube Edition</a>!</strong>
 </div>
 
 <div class="space">&nbsp;</div>
@@ -44,16 +44,20 @@
 <iframe width="640" height="390" src="http://www.youtube.com/embed/P9M__yYbsZ4" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<!--
 <div class="space">&nbsp;</div>
 
 <div class="text">
 <a href="http://ThoriumPetition.com/">THORIUM PETITION needs 25,000 signatures</a> to <strong>bring thorium to the attention of President Obama!</strong></div>
+-->
 
 <div class="space">&nbsp;</div>
 
-<div class="text">I'm <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">working on a 2012 follow-up</a>, please consider helping <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">fund my KickStarter campaign</a>. Any size pledge grants you immediate access to DRM-free downloads of THORIUM REMIX 2011.
+<div class="text">I'm currently <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">editing a 2012 follow-up</a>. If you ever watch movies via iTunes please consider <a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30">buying Thorium Remix 2011</a> (and writing a review). A DRM-free version of THORIUM REMIX 2011 <a href="http://thoriumremix.com/2012/#download" title="DRM-free Thorium Remix 2011">is also available</a>. Such generosity helps fund future iterations.
 </div>
-<div class="space">&nbsp;</div>
+
+<div class="nothing">&nbsp;</div>
+<div class="nothing">&nbsp;</div>
 
 <div class="text">
 <p>The predominant technology used to generate civilian nuclear power today, yesterday, and ever since we've had "nuclear power" is the the Light Water Reactor (LWR). The LWR's co-inventor had this to say, many years after filing his 1947 patent:</p>
