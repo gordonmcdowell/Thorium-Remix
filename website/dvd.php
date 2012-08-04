@@ -60,7 +60,7 @@ I am hoping anyone <a href="http://Kunaki.com/Sales.asp?PID=PX00ZHVSZB&PP=1">ord
 <div class="nothing">&nbsp;</div>
 
 <div class="text">
-The DVD "Director's Cut" is 23 minutes longer than the YouTube release. It was trimmed just under 2 hours long on YouTube, so that YouTube's Online Editor could be supported (for remixing purposes). I think they are both decent edits, but I slightly prefer the DVD edit.</i>
+The DVD "Director's Cut" is 23 minutes longer than the YouTube release. It was trimmed just under 2 hours long on YouTube, so that YouTube's Online Editor could be supported (for remixing purposes). I think they are both decent edits, but I prefer the DVD edit.</i>
 </div>
 
 <div class="nothing">&nbsp;</div>
@@ -78,7 +78,7 @@ In fact, <a href="http://thoriumremix.com/2012/#download">paying for a download<
 <div class="nothing">&nbsp;</div>
 
 <div class="text">
-Again, whether you are <a href="http://Kunaki.com/Sales.asp?PID=PX00ZHVSZB&PP=1">ordering DVDs</a> or <a href="http://thoriumremix.com/2012/#download">paying for a download</a>, nothing is copy protected. Please make as many copies as you like!
+Again, whether you are <a href="http://Kunaki.com/Sales.asp?PID=PX00ZHVSZB&PP=1">ordering DVDs</a> or <a href="http://thoriumremix.com/2012/#download">paying for a download</a>, neither of these mechanisms is copy protected. Please make as many copies as you like! (<a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30" title="Thorium Remix 2011 on iTunes">iTunes</a> and <a href="http://www.amazon.com/Thorium-Remix-2011-Kirk-Sorensen/dp/B005OZVX8O/" title="Thorium Remix on Amazon Instant Video">Amazon Instant Video</a> are copy protected, that is beyond my control.)
 </div>
 
 <div class="nothing">&nbsp;</div>

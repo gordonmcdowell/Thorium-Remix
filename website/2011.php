@@ -35,7 +35,7 @@
 </div>
 
 <div class="text">
-<strong>THORIUM REMIX 2011 - How LFTR, the Liquid Fluoride Thorium Reactor, will unlock abundant clean energy stored in Earth's plentiful thorium. Now available on <a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30" title="Thorium Remix 2011 on iTunes">Thorium Remix 2011 on iTunes</a>, <a href="http://www.amazon.com/Thorium-Remix-2011-Kirk-Sorensen/dp/B005OZVX8O/" title="Thorium Remix 2011 on Amazon">Amazon</a> &amp; <a href="http://www.youtube.com/embed/P9M__yYbsZ4" title="Thorium Remix 2011 YouTube Edition">Thorium Remix 2011 YouTube Edition</a>!</strong>
+<strong>THORIUM REMIX 2011 - How LFTR, the Liquid Fluoride Thorium Reactor, will unlock abundant clean energy stored in Earth's plentiful thorium. Now available on <a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30" title="Thorium Remix 2011 on iTunes">iTunes</a>, <a href="http://www.amazon.com/Thorium-Remix-2011-Kirk-Sorensen/dp/B005OZVX8O/" title="Thorium Remix 2011 on Amazon">Amazon Instant Video</a>, <a href="http://kunaki.com/Sales.asp?PID=PX00ZHVSZB&PP=1" title="Kunaki Thorium Remix DVD">DVD</a> &amp; direct as a <a href="http://thoriumremix.com/2012/#download" title="Thorium Remix download">DRM-free MP4 download!</a></strong>
 </div>
 
 <div class="space">&nbsp;</div>
@@ -53,7 +53,7 @@
 
 <div class="space">&nbsp;</div>
 
-<div class="text">I'm currently <a href="http://www.kickstarter.com/projects/gordonmcdowell/thorium-remix-2012-feature-film-to-propagate-hard">editing a 2012 follow-up</a>. If you ever watch movies via iTunes please consider <a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30">buying Thorium Remix 2011</a> (and writing a review). A DRM-free version of THORIUM REMIX 2011 <a href="http://thoriumremix.com/2012/#download" title="DRM-free Thorium Remix 2011">is also available</a>. Such generosity helps fund future iterations.
+<div class="text">I'm currently <a href="http://thoriumremix.com/2012/">editing a 2012 follow-up</a>. If you ever watch movies on your iPad or Apple TV, please consider <a href="http://click.linksynergy.com/fs-bin/stat?id=v5NnabnFHQE&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fmovie%252Fthorium-remix-2011%252Fid543737235%253Fuo%253D4%2526partnerId%253D30">buying Thorium Remix 2011 via iTunes</a> (and writing a review). Your generosity helps fund future iterations.
 </div>
 
 <div class="nothing">&nbsp;</div>
