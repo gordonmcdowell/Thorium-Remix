@@ -2491,581 +2491,548 @@ Tajā atsevišķus ūdeņraža un skābekļa atomus atkal savieno kopā
 nevis katrs atsevišķi.
 
 0:49:51.740,0:49:56.420
-It's a great system as long as
-it's operating and the system is pumping.
+Vis ir ļoti labi un sistēma strādā 
+tik ilgi, kamēr cirkulē ūdens.
 
 0:49:56.420,0:50:01.030
-Well, at Fukushima Daiichi, the problem was
-that the pumping power stopped. When the pumping
+Fukušima Daiči ūdens cirkulācija apstājās.
 
 0:50:01.030,0:50:07.140
-power stopped, water was still getting busted
-apart. Hydrogen is real light, and even though
+Kad tas notika, ūdens turpināja sadalīties ūdeņradī
+un skābeklī. Bet ūdeņradis, lai arī
 
 0:50:07.140,0:50:11.780
-it wants to get with oxygen again it will
-dissociate fairly quickly. The hydrogen will
+labprāt savienojas ar skābekli, ir daudz vieglāks par to
+un itin drīz tas noslāņojās
 
 0:50:11.780,0:50:15.430
-sit at the top of the vessel and the oxygen
-will sit in a layer below it, and then there's
+atsevišķos slāņos no augšas uz leju kā:
+ūdeņradis, skābeklis
 
 0:50:15.430,0:50:16.200
-the water.
+un ūdens.
 
 0:50:16.200,0:50:20.630
-The designers of that particular reactor had
-intentionally designed it so that you would
+Šī reaktora konstruktori bija paredzējuši, ka ūdeņradi var
+izlaist no reaktora 
 
 0:50:20.630,0:50:24.830
-vent the hydrogen outside of the containment
-building. This has always been kind of controversial.
+saturēšanas celtnes (containment building).
+Eksperti šo risinājumu vērtē pretrunīgi.  
 
 0:50:24.830,0:50:29.310
-They ducted the hydrogen up to the upper decks
-of the reactor, which were outside the containment.
+No saturēšanas korpusa izlaistais ūdeņradis
+uzkrājās zem reaktora ārējā jumta.
 
 0:50:29.310,0:50:33.870
-They're just kind of a sparse steel frame
-structure up there. And one, two, three, we
+Tas ir tikai tērauda režģis ar apšuvuma plāksnēm
+Un mēs ziņās redzējām, kā tie uzsprāgst viens pēc otra. 
 
 0:50:33.870,0:50:38.460
-say it happen on the news. First one filled
-with hydrogen, got to a certain point, boom.
+Tāpēc, ka eksplodēja zem tiem sakrājies ūdeņradis,
+kas bija sasniedzis sprāgstošā maisījuma attiecību.
 
 0:50:38.460,0:50:41.620
-The news said, "Oh, We had a nuclear explosion.",
-and I'm like, "No, we didn't. It wasn't a
+Lai arī dažās ziņās šausminājās par "kodolpsrādzienu",
+speciālistiem bija skaidrs, ka tas ir tikai
 
 0:50:41.620,0:50:44.720
-nuclear explosion. It was a hydrogen gas explosion."
-It didn't burst the containment.
+ūdeņraža gāzes eksplozija,
+kas nekādi neattiecās uz saturēšanas telpu.
 
 0:50:44.720,0:50:49.690
-I don't want to diminish it too much but it
-was not nearly as scary as it sounded. It
+Lai arī es nevēlos to pārāk vienkāršot, tomēr
+tas ne tuvu nebija tik briesmīgi, kā izskatījās.
 
 0:50:49.690,0:50:51.420
-happened one, two, three.
+Un tas notika trīs reizes pēc kārtas.
 
 0:50:51.420,0:50:56.900
-The tsunami hit about an hour after the reactors
-were shut down. Fission was long gone by the
+Cunami stacijai uzbruka aptuveni stundu pēc tam, kad reaktori
+jau bija apturēti. Kodolreakcija jau sen bija beigusies,
 
 0:50:56.900,0:51:01.130
-time the tsunami came along. But the reactors
-were still managing decay heat. The tsunami
+bet reaktoros vēl arvien izdalījās paliekošais siltums.
 
 0:51:01.130,0:51:05.000
-came and destroyed the diesel generators,
-but they still had batteries and those batteries
+Cunami appludināja dīzeļģeneratorus, bet viņiem
+vēl palika rezerves baterijas,
 
 0:51:05.000,0:51:06.810
-ran for about eight hours.
-
+un tās darbojās vēl astoņas stundas.
+ 
 0:51:06.810,0:51:10.790
-That eight hours was the most important time
-of all. If you had to pick eight hours to
+Un tās bija pašas svarīgākās astoņas stundas.
 
 0:51:10.790,0:51:14.350
-make sure that the pumps were still working,
-those first eight hours were the most important
+Jo, pēc tam, kad bija iztukšotas akumulatoru 
+baterijas,
 
 0:51:14.350,0:51:18.760
-time. By the time the batteries ran dry and
-the pumps stopped, the reactor had gotten
+reaktoru atlikušais siltums jau bija būtiski samazinājies.
 
 0:51:18.760,0:51:24.230
-past the worst part of its decay heat comedown.
-It was still going on, decay heat doesn't
+Tomēr atlikušie sadalīšanās produkti izdala siltumu
+vēl ilgu laiku,
 
 0:51:24.230,0:51:28.370
-turn off, and it continues even in spent fuel.
-That decay heat continued to build. Heat was
+(tas izdalās pat vēl izlietotajā degvielā),
+tāpēc liekais siltums vēl arvien bija jāaizvada
 
 0:51:28.370,0:51:30.160
-not being removed from the reactor.
+no reaktoriem.
 
 0:51:30.160,0:51:32.840
-Why weren't they using the power from the
-reactor to run the pumps? Because the reactor
+Kāpēc viņi neizmantoja reaktoru, lai darbinātu sūkņus?
+Tāpēc, ka visi reaktori
 
 0:51:32.840,0:51:33.400
-had been turned off.
+bija apturēti.
 
 0:51:33.400,0:51:38.360
-This shows if you do stupid designs, something
-bad will happen, even after 40 years. A friend
+Šis ir pierādījums tam, ka, ja izveidojat sliktu risinājumu,
+var notikt nelaime, kaut vai pēc 40 gadiem.
 
 0:51:38.360,0:51:42.620
-of mine was GE's first nuclear safety engineer
-and he worked on the Fukushima plant, and
+Viens no maniem draugiem bija General Elecric
+kodoldrošības inženieris, un viņš strādāja arī Fukušimā.
 
 0:51:42.620,0:51:46.860
-they would have meetings with the TEPCO officials
-and engineers and they would all nod their
+Viņi norādīja TEPCO pārstāvjiem uz dažādiem trūkumiem,
+un tie piekrītoši māja ar galvām.
 
 0:51:46.860,0:51:50.750
-heads in long meetings and say "We'll do this,
-we'll do that," and then they go off after
+Bet tad viņi aizgāja, un turpināja darīt visu pa savam.
 
 0:51:50.750,0:51:55.620
-the meeting and do whatever they wanted. That's
-why you had a 15-foot sea wall with a 45-foot
+Tāpēc stacija, kurai uzbruka 15m cunami, bija tikai
+5m liels aizsargdambis,
 
 0:51:55.620,0:51:58.850
-wave coming over, and diesel generators and
-fuel in the basement.
+un tāpēc dīzeļģeneratori atradās celtnes pagrabā.
 
 0:51:58.850,0:52:02.940
-It has nothing to do with nuclear power, it
-has to do with bad management and you wouldn't
+Tam nebija nekāda sakara ar kodolreaktoru.
+Tā bija tikai slikta pārvaldība,
 
 0:52:02.940,0:52:09.940
-even design a simple factory the way that
-was designed. I'm sure you could talk to the
+kas ļāva uzcelt tik slikti projektētu staciju.
+Esmu pārliecināts, ka Japāņu valsts pārstāvji
 
 0:52:11.550,0:52:15.750
-Japanese representative here about TEPCO's
-management getting kicked out years ago for
+būtu varējuši atlaist TEPCO vadību jau pirms vairākiem
+gadiem ne tikai par šiem,
 
 0:52:15.750,0:52:18.290
-fraud and other things. They've had a history.
+bet arī citiem pārkāpumiem.
 
 0:52:18.290,0:52:23.170
-Let me talk about today's nuclear fuel, because
-that is common to both boiling water reactors,
+Parunāsim par šodienas kodoldegvielu, 
+kas ir praktiski vienāda visiem vāroša ūdens reaktoriem,
 
 0:52:23.170,0:52:28.540
-pressurized water reactors and CANDUs. This
-is a handful of these uranium oxide fuel pellets.
+augstspiediena ūdens, un CANDU reaktoriem.
+Šis ir urāna oksīda kodoldegvielas paraugs.
 
 0:52:28.540,0:52:33.630
-The guy's got gloves on and it's easy to think
-he's got gloves on to protect him from the
+Cilvēks ir cimdos, un varētu iedomāties, ka tie 
+viņu pasargā no Urāna oksīda.
 
 0:52:33.630,0:52:37.410
-uranium oxide, but now that I've taught you
-about the true nature of radioactivity, you
+Bet atcerieties to, ko es jums stāstīju par 
+radioaktivitāti.
 
 0:52:37.410,0:52:41.030
-might go "I'm not so sure that stuff's so
-dangerous after all," and you would be correct.
+Un, ja jūs sākat šaubīties, vai tas vispār
+ir bīstams, jums varētu būt taisnība.
 
 0:52:41.030,0:52:45.630
-He is not protecting himself from the uranium,
-he's protecting the uranium from himself.
+Viņš neaizsargā sevi no urāna. Viņš aizsargā
+urānu no sevis. 
 
 0:52:45.630,0:52:49.910
-That stuff has to stay super pure and super
-clean and you don't want to get any of your
+Tam ir jābūt īpaši attīrītam un tajā nedrīkst būt
 
 0:52:49.910,0:52:55.090
-oils, or grease or sweat on nuclear fuel that's
-going to go inside a fuel rod so that's what
+nekādas eļļas vai sviedri, jo no tiem
 
 0:52:55.090,0:52:56.330
-the gloves are for.
+izgatavo kodoldegvielas stieņos, kurus ievieto reaktorā.
 
 0:52:56.330,0:53:00.660
-They take these fuel pellets and slide them
-down these zirconium tubes and they actually
+Šīs kodoldegvielas ripas ievieto cirkonija
+caurulēs, tā, lai
 
 0:53:00.660,0:53:05.180
-will segregate the pellets along the length
-of the fuel assembly according to enrichment.
+ar urānu bagātākās tabletes būtu
 
 0:53:05.180,0:53:08.440
-They'll put the most enriched ones in the
-middle, and then they'll kind of decrease
+caurules vidū, bet uz caurules galiem
 
 0:53:08.440,0:53:13.800
-the enrichment along the length of the fuel
-assemblies. It's really, really expensive
+urāna bagātinājums samazinās. 
+Sagatavot cieto kodoldegvielu 
 
 0:53:13.800,0:53:15.930
-to fabricate solid fuel.
+ir ļoti dārgs pasākums.
 
 0:53:15.930,0:53:21.180
-Back in the day, their business model for
-how to make a nuclear reactor was sometimes
+Šo kodoldegvielas ražošanas paņēmienu
+var salīdzināt ar
 
 0:53:21.180,0:53:26.540
-referred to as a "razor blades business model,"
-in other words sell these reactors to utilities
+"skuvekļu un asmeņu" biznesa modeli.
+Citiem vārdiem sakot, reaktorus uzstāda
 
 0:53:26.540,0:53:31.670
-pretty much at cost in order to lock them
-in to a long-term supply contract.
+praktiski par pašizmaksu, lai enerģijas ražotājus
+pakļautu ilgtermiņa atkarībai.
 
 0:53:31.670,0:53:35.500
-It was good money for them, because once somebody's
-bought your reactor, they're going to buy
+Jo tieši kodoldegvielas piegāde dod īsto peļņu.
+Ja kāds iegādājas jūsu reaktoru,
 
 0:53:35.500,0:53:39.460
-your Westinghouse 17x17 array fuel. They're
-not going to go "Hey, GE, what kind of deal
+tad tas iegādāsies arī jūsu Westinghouse 17x17 kasešu kodoldegvielu.
+Pat ja jūs ietu pie General Electics un neprasīsiet:
 
 0:53:39.460,0:53:42.240
-can you give me on this?" And be told "Dude,
-you don't have my reactor." You're working
+"Vai jūs varat sagatavot man šādas kasetes?" un viņi atbildētu:
+"Jums nav mūsu ražotais reaktors."
 
 0:53:42.240,0:53:46.400
-with that guy, there's no market out there
-once you build the reactor, you're using his
+Ja jūs izvēlaties vienu reaktora ražotāju,
+jūs esat izvēlējušies arī vienu degvielas piegādātāju.
 
 0:53:46.400,0:53:49.630
-fuel. If he decides to change the price on
-you, well, that's tough.
+Ja viņš nodomā izmainīt degvielas cenu, tad jums nav
+īpašas izvēles iespējas.
 
 0:53:49.630,0:53:53.410
-Here's the reactor. It's got its lid off,
-and then they'll fill the whole thing up to
+Šeit ir parādīts reaktors ar noņemtu vāku.
 
 0:53:53.410,0:53:57.120
-a level with water, so they make the whole
-thing into a swimming pool. Fill this whole
+Tas ir piepildīts ar ūdeni kā peldbaseins,
 
 0:53:57.120,0:54:02.030
-thing up with water, because the water is
-radiation shielding. They take the fuel assemblies
+jo ūdens ir labs radiācijas aizsargs.
+Viņi ņem izlietotos stieņus ārā no reaktora
 
 0:54:02.030,0:54:06.480
-out and put it in the spent fuel pool. This
-is what they have to do about every 18 months
+un ievieto tos izlietotās degvielas vietnē. 
+Tas ir jāveic katrus 18 mēnešus.
 
 0:54:06.480,0:54:10.800
-to the reactor. They'll take out about a third
-of the fuel and then they'll load in about
+Katru reizi viņi nomaina aptuveni trešo daļu no
+degvielas, bet pārējo izvieto tā,
 
 0:54:10.800,0:54:14.850
-a third new fresh fuel and then they'll reshuffle
-the fuel that's already been in there. They'll
+lai vairāk izlietotā degviela atrastos
 
 0:54:14.850,0:54:17.430
-move it from the center out to the periphery.
+varāk uz reaktora malām.
 
 0:54:17.430,0:54:21.170
-It's like "Lord of the Rings," "The Great
-Eye is looking," no, it's really not in the
+Šis attēls atgādina "Gredzenu pavēlnieka"
+"Maģisko aci", bet patiesībā tas ir
 
 0:54:21.170,0:54:26.050
-eye. Here is what it really is. It's a cross-section
-of nuclear fuel. This is uranium oxide and
+Tas ir kodoldegvielas stieņa šķērsgriezums.
+Tas pamatā ir urāna oksīds
 
 0:54:26.050,0:54:30.290
-when you put it in a reactor for a while,
-one of the things xenon does, it's a gas,
+kas labu laiku ir "dedzis" kodolreaktorā un no tā ir
+izdalījies ksenons. Tā kā ksenons ir gāze
 
 0:54:30.290,0:54:35.610
-so it's way, way, way less dense than solid
-fuel. When you make this gas, it starts to
+tad tas ir mazāk blīvs un tāpēc tas sāk degvielā
+veidot plaisas
 
 0:54:35.610,0:54:38.540
-break up the solid structure of the fuel.
+un pamazām sagrauj cietās degvielas tablešu struktūru.
 
 0:54:38.540,0:54:43.510
-The solid fuel will begin to swell and crack
-and the gasses, the krypton and the xenon
+Pamazām izdalījušās gāzes uzkrājas tablešu vidū
 
 0:54:43.510,0:54:47.680
-begin to fill up, and you begin to get this
-central void. This is actually a gap in the
+un izveido tām pa vidu caurumu
 
 0:54:47.680,0:54:50.300
-fuel. Fission product gasses will accumulate
-here.
+kurā uzkrājas visi sadalīšanās gāzveida produkti.
 
 0:54:50.300,0:54:55.440
-Wigner didn't like solid fuel. He was a chemical
-engineer by training and he thought, "What
+Vīneram nepatika cietā kodoldegviela. Pēc izglītības
+viņš bija ķīmiķis.
 
 0:54:55.440,0:55:00.200
-kind of industrial process do we run chemically
-based on solids?" He goes "We don't. Everything
+Viņš domāja "vai ir kāds rūpniecisks ķīmisks process,
+kurā izmanto cietas vielas?", un nevarēja izdomāt.
 
 0:55:00.200,0:55:04.740
-we do, we use as liquids or gasses because
-we can mix them completely." You can take
+Ķīmijā visos procesos izmanto vai nu šķidrumus, vai arī
+gāzes.
 
 0:55:04.740,0:55:08.560
-a liquid, you can fully mix it. You can take
-a gas, you can fully mix it. You can't take
+Cietas vielas jūs nevarat pietiekami labi sajaukt. 
+Bet gāzi vai šķidrumu var sajaukt pilnībā.
 
 0:55:08.560,0:55:12.490
-a solid and fully mix it unless you turn it
-into a liquid or a gas.
+Cietas vielas var pilnībā sajaukt tikai tad,
+ja tās vispirms pārvērš šķidrumā vai gāzē.
 
 0:55:12.490,0:55:17.110
-To give you an idea, here's what we do today.
-We make this solid uranium oxide fuel and
+Apkoposim visu, kā kodolprocess notiek šodien.
+Mēs ražojam urāna oksīda tabletes,
 
 0:55:17.110,0:55:21.600
-there's a single pellet, and then we put them
-in these big reactor fuel elements, zirconium
+viena tablete izskatās šādi, un mēs tās ievietojam
+šādās garās cirkonija caurulēs
 
 0:55:21.600,0:55:24.760
-tubes that are like 12 feet long and about
-this big around. We then stick them in the
+kas ir 4 metrus garas. Tad mēs tās ievietojam kasetēs,
 
 0:55:24.760,0:55:29.660
-reactor and irradiate them for a couple of
-years. We only burn up a small amount of the
+un tās reaktorā un ļaujam tām "degt" dažus gadus.
 
 0:55:29.660,0:55:32.910
-uranium that's in there, we take it out and
-we stick it in a spent fuel pool. It is not
+No visa urāna mēs izmantojam ļoti nelielu daļu un tad mēs
+to visu ievietojam izlietotās degvielas krātuvē.
 
 0:55:32.910,0:55:34.010
-very efficient.
+Tas nav īpaši efektīvi.
 
 0:55:34.010,0:55:38.740
-The heavy water reactor will use about 0.7
-percent energy value and the light water...
+Smagā ūdens reaktori izmanto tikai aptuveni 0,7 procentus
+no pieejamās enerģijas, bet vieglā ūdens reaktori...
 
 0:55:38.740,0:55:44.120
-Reactors in the United States, we're extracting
-about half of 1 percent of the energy that's
+Savienotajās valstīs izmanto tikai aptuveni 0,5%
+no enerģijas, kas ir pieejama
 
 0:55:44.120,0:55:47.750
-in the uranium. You can imagine going to your
-boss saying "I developed a new system", "Well
+izmantotajā urānā. Iedomājieties, ka jūs savam bosam stāstat:
+"Es uzbūvēju jaunu sistēmu" un viņš jautā:
 
 0:55:47.750,0:55:53.450
-how efficient is it?", "It's less than 1 percent",
-"Excuse me, what did you build? I think you
+"Un cik tā ir efektīva?", bet jūs atbildat "Mazāk par procentu."
+"Piedod, ko tu esi uzbūvējis?"
 
 0:55:53.450,0:55:56.460
-need to go work on that again," you know.
-We just simply wouldn't accept this.
+"Man šķiet, ka tev pie tās vēl ir jāpiestrādā." 
+Viņš vienkārši nespētu pieņemt tādu sistēmu.
 
 0:55:56.460,0:56:00.640
-I'm an engineer. If you're that far off 100
-percent, man I want to get a whole lot closer
+Es esmu inženieris. Ja jūsu iekārtas lietderība ir
+tālu prom no 100%, es vēlos to būtiski uzlabot.
 
 0:56:00.640,0:56:05.290
-and Weinberg did too. They wanted to get to
-nearly 100 percent of the energy utilization.
+Un to vēlējās arī Veinbergs. Viņš vēlējās panākt
+izmantošanas lietderību tuvu 100%.
 
 0:56:05.290,0:56:08.710
-The molten salt reactor experiment was the
-core part of it. They didn't have a blanket
+Kausēta sāls reaktors bija viena daļa no šī pasākuma.
+Viņi nemēģināja pievienot arī barojamo materiālu (blanket),
 
 0:56:08.710,0:56:12.480
-around it, they just wanted to see if they
-could get the first step to work, and they
+viņi tikai vēlējās pārbaudīt, vai tas vispār strādā.
 
 0:56:12.480,0:56:13.610
-were successful.
+Un viņiem tas izdevās.
 
 0:56:13.610,0:56:17.970
-After they completed the molten salt reactor
-experiment, they went to the Atomic Energy
+Kad viņi pabeidza kausētā sāls reaktora eksperimentu,
+viņi devās uz Atomenerģijas komisiju
 
 0:56:17.970,0:56:21.920
-Commission they said "Hey, G, can we have
-some more money? We'd like to go now and build
+un teica "Klausies G, vai mēs varam dabūt nedaudz naudas?
+Mēs vēlamies uzbūvēt kārtīgu reaktoru.
 
 0:56:21.920,0:56:27.640
-the real thing. We'd like to build the blanket
-and hook a power conversion system on and
+Mēs vēlamies to papildināt ar barojamo materiālu
+un pieslēgt to elektriskajam ģeneratoram
 
 0:56:27.640,0:56:32.120
-make electricity," they felt like they'd shot
-the moon. The Atomic Energy Commission unfortunately
+un ražot elektrību". Viņi domāja, ka tas ir tikpat droši,
+kā ekspedīcija uz Mēnesi. Diemžēl, Atomenerģijas komisija
 
 0:56:32.120,0:56:34.110
-did not share their zeal.
+viņu aizrautību apslāpēja.
 
 0:56:34.110,0:56:39.160
-They had invested very heavily in an alternative
-technology, the plutonium fast breeder reactor
+Viņi jau bija pamatīgi investējuši citā tehnoloģijā — 
+plutonija ātrā brīdera reaktorā
 
 0:56:39.160,0:56:46.160
-based on solid fuels and turning abundant
-uranium-238 into plutonium-239 and then burning
+kas strādāja ar cietu degvielu un pārvērta salīdzinoši 
+izplatīto urānu-238 plutonijā-239, kuru tad
 
 0:56:46.280,0:56:50.800
-it in the reactor. It involved a whole different
-set of technologies that were much more in
+reaktorā "sadedzināja". Šī tehnoloģija izmantoja pavisam 
+citus risinājumus, kas bija daudz tuvāka tobrīd izmantotajiem
 
 0:56:50.800,0:56:56.770
-line with the light water reactors. It's funny,
-even at that time 50 years ago, nobody thought
+ūdens reaktoriem. Interesanti, ka tagad, pat pēc 50 gadiem,
 
 0:56:56.770,0:57:00.850
-the light water reactor, the heavy water reactor
-would be around very long. They were just
+mēs vēl arvien izmantojam principā tādus pašus vieglā un smagā
+ūdens reaktorus.
 
 0:57:00.850,0:57:04.740
-simply too inefficient in their use of nuclear
-fuel.
+Lai arī tie izmanto kodoldegvielu ļoti neefektīvā veidā.
 
 0:57:04.740,0:57:08.000
-Like I was saying, the Atomic Energy Commission
-said "Hey, guess what, we're putting all this
+Pieņemu, ka Atomenerģijas komisija pateica kaut ko tādu:
+"Mēs jau esam izvēlējušies atbalstīt
 
 0:57:08.000,0:57:12.080
-money in the fast breeder. We've got all these
-companies lined up to do the fast breeder.
+ātro neitronu brīderi. Un arī visas iesaistītās kompānijas
+to atbalsta.
 
 0:57:12.080,0:57:17.720
-They even actually built one in Monroe, Michigan.
-It had had a meltdown. They were undeterred,
+Galu galā viņi uzbūvēja vienu šādu reaktoru Monro, Mičiganā.
+Tam izkusa serde. Bet viņi nepadevās,
 
 0:57:17.720,0:57:22.140
-they were moving forward and so they told
-Weinberg to take a hike.
+viņi turpināja iesākto un Veinbergu nostūma malā.
 
 0:57:22.140,0:57:26.330
-The story gets a little more complicated too
-because in addition to being a thorium guru,
+Visu nedaudz sarežģīja tas, ka Veinbergs bija ne tikai 
+torija guru,
 
 0:57:26.330,0:57:30.860
-Weinberg was also the original inventor of
-the pressurized water reactor. He had invented
+bet arī augstspiediena ūdens reaktora autors.
+Viņš to izgudroja un ieguva patentu
 
 0:57:30.860,0:57:37.680
-it and gotten his patent for it in 1947, so
-it was a little bit of a tricky thing to have
+1947. gadā, tāpēc viņam bija diezgan grūti pārliecināt
+citus,
 
 0:57:37.680,0:57:44.250
-the inventor of the light water reactor advocating
-for something very, very, very different.
+ka viņa iepriekš izgudrotā reaktora vietā vajadzētu izmantot
+kaut ko pavisam savādāku.
 
 0:57:44.250,0:57:48.410
-And got a little worse than that too, because
-Weinberg was never really crazy about the
+Patiesībā bija vēl sliktāk. Veinbergs nekad nebija bijis
+sajūsmā par augstspiediena ūdens reaktoru.
 
 0:57:48.410,0:57:51.430
-light water reactor. He didn't like the fact
-that it had to run at really high pressure.
+Viņam nepatika reaktorā izmantotais augstais spiediens.
 
 0:57:51.430,0:57:57.330
-There would be an accident someday where you
-were not able to maintain the pressure or
+Ja kādu dienu reaktorā vairs nevar uzturēt spiedienu,
 
 0:57:57.330,0:58:02.800
-keep cooling it. There could be a meltdown,
-there could be a release of radioactivity.
+tad to vairs nevar atdzesēt, tas izsauc serdes izkušanu
+un radioaktīvo materiālu noplūdi.
 
 0:58:02.800,0:58:08.480
-Does any of this sound familiar? And he was
-making enough of a stink about this that there
+Vai šis scenārijs jums nav pazīstams?. Viņš par to bija
+pietiekami nobažījies, tāpēc viņš sazinājās ar
 
 0:58:08.480,0:58:10.530
-was a congressional leader named Chet Holifield...
+kongresmeni Četu Holfieldu (Chet Holifield), kas bija
 
 0:58:10.530,0:58:13.720
-A member of the joint Congressional Atomic
-Energy Committee...
+Atomenerģētikas komisijas biedrs.
 
 0:58:13.720,0:58:18.520
-Who told Alvin Weinberg, he said, "If you're
-so concerned about the safety of nuclear energy,
+Bet tas Veinbergam uz viņa bažām atbildēja:
+"Ja jau jūs esat tik nobažījies par kodolenerģijas drošību,
 
 0:58:18.520,0:58:23.090
-it might be time for you to leave the nuclear
-business." He wasn't questioning the value
+varbūt tad jums šī nozare ir jāpamet?"
+Patiesībā Veinbergs nešaubījās par kodolenerģijas vērtību,
 
 0:58:23.090,0:58:28.550
-or the importance of nuclear energy, if anything
-he was far more convinced about that than
+par tās nozīmīgumu viņš bija pārliecinātāks
 
 0:58:28.550,0:58:29.890
-anyone else.
+par jebkuru citu.
 
 0:58:29.890,0:58:34.800
-What he was questioning was whether the right
-path been taken in the development of nuclear
+Viņš raizējās par to, vai ir izvēlēts labākais
+kodolreaktoru būvēšanas veids.
 
 0:58:34.800,0:58:39.710
-reactors. He was particularly well suited
-to make that question because his role as
+Tomēr viņam, kas bija sākotnējā reaktoru
+dizaina autors,
 
 0:58:39.710,0:58:45.140
-inventor of predominant technology so he was
-quietly shown the door.
+tika parādītas durvis.
 
 0:58:45.140,0:58:50.480
-After he had left Oak Ridge you can imagine
-things did not go well for the research team
+Pēc tam, kad Atomenerģētikas komisija
+pameta novārtā Oukridžas izstrādes,
 
 0:58:50.480,0:58:54.750
-the Atomic Energy Commission, commissioned
-a report WASH 1222 I like to call it white
+viņi izdeva ziņojumu WASH 1222,
+kuru es drīzāk sauktu
 
 0:58:54.750,0:58:56.420
-wash 1222.
+par "Atmazgāšanos 1222".
 
 0:58:56.420,0:59:01.810
-Because they really nitpicked on three very,
-very small issues about the reactor and said
+Jo patiesībā viņi izķidāja dažas nebūtiskas
+problēmas, bet nepateica neko
 
 0:59:01.810,0:59:06.990
-look big problems here. I don't think we can
-go forward until these are resolved. When
+par patiesajām problēmām. Nedomāju, ka mēs varam
+iet tālāk, tās neizskaidrojot.
 
 0:59:06.990,0:59:11.940
-it came time to talk about the safety and
-the performance of the reactor there may be
+Ir pienācis laiks parunāt par reaktora drošību un 
+veiktspēju
 
 0:59:11.940,0:59:18.940
-some safety advantages that haven't been quantified
-yet regarding this approach but you know we
+un priekšrocībām, kas vēl pilnībā nav saprastas
 
 0:59:19.510,0:59:23.080
-just really can't be sure about that.
+un novērtētas.
 
 0:59:23.080,0:59:26.570
-Just burns me up because I think big, big,
-big mistake United States made in walking
+Mani tas patiesi apbēdina, ka ASV pieņēma tik
+ļoti, ļoti, ļoti nepareizu lēmumu
 
 0:59:26.570,0:59:27.900
-away from this.
+un neattīstīja šo reaktoru dizainu.
 
 0:59:27.900,0:59:31.660
-So they put all their chips fast breeder reactor
-and that didn't work out too well for them.
+Viņi visu uzlika uz ātro neitronu brīdera reaktoru,
+bet tā izstrāde īpaši neizdevās.
 
 0:59:31.660,0:59:35.540
-They start building one in Tennessee. The
-program ended up in getting canceled by Carter
+Viņi to sāka būvēt Tenesijā. Programmu pārtrauca Kārters
 
 0:59:35.540,0:59:40.410
-in 1979 and was briefly resurrected by Reagan
-in 1981 and then cancelled again. So that's
+1979. gadā un Reigans to uz laiku atjaunoja 1981. gadā.
 
 0:59:40.410,0:59:43.760
-what happened to fast breed reactor in the
-United States, a couple of countries kept
+Un, neskatoties uz šī reaktora likteni ASV, 
+dažas valstis
 
 0:59:43.760,0:59:44.280
-going with it.
+tādu turpināja izstrādāt.
 
 0:59:44.280,0:59:48.720
-The French went with it in eighties they built
-Phénix and Superphénix and then they ended
+Francijā būvēja Phénix un Superphénix, bet arī to
 
 0:59:48.720,0:59:52.470
-up shutting down there fast breeder too and
-the Japanese tried it but they had several
+darbība, tāpat kā vien Japānas reaktora darbība,
 
 0:59:52.470,0:59:55.720
-but one called Monju and it had been shut
-down since the mid 90s.
+kuru sauca Mondžu (Monju) un tas ir apturēts
+kopš 90.to gadu vidus.
 
 0:59:55.720,0:59:59.490
-Then a few months ago they turned it back
-on and then somebody dropped a crane in liquid
+Tad to uz laiku iedarbināja, un kāds uz tā
+izkausētā nātrija krātuves uzgāza celtni,
 
 0:59:59.490,1:00:03.840
-sodium and then they shut it off again, so
-you know everybody has tried the fast breeder
+un to atkal nācās apturēt. Visi ir mēģinājuši izstrādāt 
+ātro neitronu brīdera reaktoru.
 
 1:00:03.840,1:00:05.620
-reactor. I think the Russian's are trying
-it.
+Cik zinu, arī krievi ir mēģinājuši tādu izveidot.
 
 1:00:05.620,1:00:09.690
 I have some good friends in nuclear industry.
