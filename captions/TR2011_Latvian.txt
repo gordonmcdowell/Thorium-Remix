@@ -1,14 +1,14 @@
 0:00:00.340,0:00:05.060
-Smagā ūdens reaktors izmantos apmēram 0.7
+Smagā ūdens reaktors izmantos apmēram 0,7
 procentus no urāna enerģijas, bet
 
 0:00:05.060,0:00:08.630
 vieglā ūdens reaktors izmantos apmēram pusi
-no procenta. Tie abi ir šausmīgi.
+no procenta. Tie ir šausmīgi.
 
 0:00:08.630,0:00:13.380
 Normālā spiedienā ūdens vārās 100 grādu
-temperatūrā. Tā ne tuvu nav pietiekami augsta
+temperatūrā. Tā nav pietiekami augsta,
 
 0:00:13.380,0:00:18.280
 lai efektīvi radītu elektrību. Tāpēc ar ūdeni
@@ -16,7 +16,7 @@ dzesētiem reaktoriem jāstrādā virs 70 atmosfēru
 
 0:00:18.280,0:00:22.310
 spiedienā. Ar ūdeni dzesētam reaktoram ir
-nepieciešams spiedkatls.
+nepieciešams spiedkatls,
 
 0:00:22.310,0:00:24.529
 kas var radīt negadījumus...
@@ -79,32 +79,32 @@ Ir tūkstošiem veidu, kā izmantot kodolenerģiju.
 Vai automašīna ir droša?
 
 0:01:20.990,0:01:21.240
-Tad par kuru iet runa?
+Par kuru iet runa?
 
 0:01:21.240,0:01:24.810
 Man ir paveicies, uzzināt arī par citiem
 kodolenerģijas veidiem.
 
 0:01:24.810,0:01:26.549
-Piemēram, par šķidrā fluorīda torija reaktoriem.
+Piemēram, par šķidrā torija fluorīda reaktoriem.
 
 0:01:26.549,0:01:30.749
 Šajā reaktorā mēs varam toriju sadedzināt pilnībā, atšķirībā
-no tiem, kuros sadedzina tika nelielu urāna daļu,
+no, ar ūdeni dzesējama reaktora,
 
 0:01:30.749,0:01:32.719
-kā tas ir tipiskā ar ūdeni dzesējamā reaktorā.
+kurā sadedzina tika nelielu urāna daļu.
 
 0:01:32.719,0:01:37.349
-To nedzesē ar ūdeni, un tas neizmanto cietu 
+Torija reaktoru nedzesē ar ūdeni, un tas neizmanto cietu 
 kodoldegvielu. Tajā kā kodoldegvielu izmanto
 
 0:01:37.349,0:01:42.380
-fluorīda sāļus. Lai tos izkausētu, jums tie ir jāuzkarsē
+fluorīda sāļus. Lai tos izkausētu, tie ir jāuzkarsē
 līdz aptuveni 400 grādiem,
 
 0:01:42.380,0:01:46.459
-bet priekš kodolenerģijas ražošanas tas
+bet kodolenerģijas ražošanai tas
 patiesībā ir ļoti labi.
 
 0:01:46.459,0:01:50.700
@@ -126,7 +126,7 @@ degviela jau ir izkususi.
 Normālos apstākļos jūs kā avārijas vārstu izmantojat 
 
 0:02:04.389,0:02:08.989
-cauruli, kurai vienkārši pūšot aukstu gaisu.
+cauruli, kurai pūšat virsū aukstu gaisu.
 Ja avārijas gadījumā jūs stacijā pazaudējat strāvu,
 
 0:02:08.989,0:02:13.400
@@ -140,7 +140,7 @@ dzesēšanas traukā.
 
 0:02:20.769,0:02:25.209
 Ar ūdeni dzesējamos reaktoros jums parasti ir
-nepieciešama barošana, lai nodošinātu
+nepieciešama barošana, lai nodrošinātu
 
 0:02:25.209,0:02:29.620
 ūdens cirkulāciju un dzesēšanu, un nepieļautu serdes izkušanu.
@@ -3035,1775 +3035,1716 @@ un to atkal nācās apturēt. Visi ir mēģinājuši izstrādāt
 Cik zinu, arī krievi ir mēģinājuši tādu izveidot.
 
 1:00:05.620,1:00:09.690
-I have some good friends in nuclear industry.
-They are very big advocates of the fast breeder
+Man ir daži labi draugi kodolindustrijā,
+kuri ir lieli ātro neitronu brīdera aizstāvji.
 
 1:00:09.690,1:00:15.050
-reactor. The common name for now is the integral
-fast reactor. I am not the biggest fan a reactor
+Visus tos vienoti sauc par "ātrajiem reaktoriem". 
+Es neesmu šādu reaktoru fans,
 
 1:00:15.050,1:00:19.220
-that is full of liquid sodium. If any of you
-are chemists in here you probably recall sodium
+jo tas ir pilns ar šķidru nātriju. 
+Ja kāds no jums ir ķīmiķis, tad noteikti zināt,
 
 1:00:19.220,1:00:26.220
-has a great infinity for just about everything.
+ka tam ir bezgalīga vēlme apvienoties praktiski ar jebko.
 
 1:00:27.740,1:00:29.740
-What are your thoughts on the traveling wave
-reactor?
+Kādas ir jūsu domas par ceļojošā viļņa reaktoriem?
 
 1:00:29.740,1:00:34.120
-The traveling wave reactor is another form
-of a liquid metal fast breeder reactor. It
+Tas ir cits šķidra metāla ātrā brīdera 
+reaktora paveids.
 
 1:00:34.120,1:00:38.290
-is a particularly difficult implementation
-of that reactor. That reactor is already hard
+Īpaši grūti izveidojams paveids.
+Ātro brīderi jau tāpat ir grūti izveidot,
 
 1:00:38.290,1:00:42.590
-to build in first place, with the traveling
-wave they make it even more complicated by
+bet ceļojošā viļņa gadījumā tas ir vēl
+daudz sarežģītāks,
 
 1:00:42.590,1:00:47.370
-saying we are going to leave the fuel in the
-reactor for the lifetime of the reactor.
+jo izgatavotāji apņemas atstāt to pašu cieto degvielu
+visu reaktora dzīves laiku.
 
 1:00:47.370,1:00:52.880
-Physically propagate this deflagration wave,
-a nuclear conversion and burning wave. Why
+Kodoldegvielas stieņus izkārtojot tā,
+lai tā "sadeg", serdē izplatoties vilnim. 
 
 1:00:52.880,1:00:56.880
-on Earth would you take such a hard reactor
-and make it even harder to what end? What
+Kāpēc jāizvēlas tik sarežģīts reaktora tips
+un tas ir jāpadara vēl sarežģītāks?
 
 1:00:56.880,1:01:01.120
-is your goal? And all I've been able to read
-as far as their goal is that they want to
+Kāds ir mērķis? Cik zinu no man pieejamās
+informācijas, viņu mērķis ir
 
 1:01:01.120,1:01:04.000
-never have to recycle or replace the fuel.
+ne reizi nemainīt kodoldegvielu.
 
 1:01:04.000,1:01:07.430
-At the end of their life their concept is
-to just bury the thing in the ground and leave
+Viņi vēlas, pēc reaktora apturēšanas, to 
+vienkārši ierakt zemē.
 
 1:01:07.430,1:01:12.850
-it there. I'm thinking, "You don't leave a
-bunch of plutonium in a pool of liquid sodium
+Bet es domāju, ka atstāt
+plutoniju un šķidru nātriju zem zemes
 
 1:01:12.850,1:01:17.270
-underground for an extended period of time
-that is a bad disposal option."
+uz nenoteiktu laiku, ir slikts risinājums.
 
 1:01:17.270,1:01:21.400
-They have attracted Bill Gate who of course
-is an extremely wealthy man. If Bill Gates
+Viņi ir iesaistījuši Bilu Geitsu, kurš, protams,
+ir ļoti bagāts vīrs.
 
 1:01:21.400,1:01:24.810
-wants to save a lot of money he can get in
-touch with me and I think I can talk him out
+Ja Bils Geitss vēlas ietaupīt naudu, lai 
+sazinās ar mani. Man šķiet, es viņam
 
 1:01:24.810,1:01:25.820
-of traveling wave.
+daudz ko varētu pastāstīt par ceļojošo vilni.
 
 1:01:25.820,1:01:29.780
-He won't return my calls. Don't feel bad.
+Kad es viņam zvanu, viņš man neatbild.
+Bet es neuztraucos par to.
 
 1:01:29.780,1:01:35.350
-I used to be so into fusion, specially helium-3
-fusion, mining in the mood. Oh my God! I've
+Savulaik es jūsmoju par kodolu saplūšanu, 
+īpaši par hēliju-3, kuru varētu iegūt uz Mēness.
 
 1:01:35.350,1:01:37.360
-read so many books about that stuff.
+Mans Dievs, cik grāmatu es par to izlasīju.
 
 1:01:37.360,1:01:39.850
-Fusion is magical. If we make that happen
-it would be magical.
+Saplūšana ir maģiska. Ja mēs to panāktu,
+tā būtu maģija.
 
 1:01:39.850,1:01:43.780
-I took this fusion class when I was at Georgia
-Tech and I will never forget it. We started
+Par kodolu saplūšanu es mācījos Džordžijā.
+Kad mēs par to sākām studēt,
 
 1:01:43.780,1:01:46.230
-studying and I go, "Man, this is really hard."
+es sapratu: "Ō, tas patiesi ir grūti."
 
 1:01:46.230,1:01:50.930
-Charged particles don't want to get near each
-other. Bare nuclei are both charged, positive
+Vienādi lādētas daļiņas nevēlas tuvoties viena otrai.
+Pliki atomu kodoli ir pozitīvi lādēti
 
 1:01:50.930,1:01:52.240
-charged, they want to avoid each other.
+un tie izvairās viens no otra.
 
 1:01:52.240,1:01:55.490
-And my professor had a really great way of
-putting it. "It's like going to the mini golf."
+Un mans profesors runāja par to līdzībās:
+"Tas ir kā minigolfā.
 
 1:01:55.490,1:01:59.050
-He says, "You know how in mini golf you've
-got the volcano, and the volcano's got the
+Minigolfā ir tāds uzdevums kā vulkāns.
 
 1:01:59.050,1:02:02.870
-hole at the very top, and you've got to putt
-your ball in a way that it goes all the way
+Tas ir konisks kalns ar caurumu pašā vidū.
+Jums vajag uzripināt bumbiņu precīzi pašā augšā,
 
 1:02:02.870,1:02:07.990
-up the side of the volcano, and 'phwep!' falls
-in the hole." He goes, "OK. That's like fusion.
+un tad tā — hop! — ieripo caurumā.
+Līdzīgi ir ar kodolu saplūšanu.
 
 1:02:07.990,1:02:12.570
-The ball is like a nucleus, and the volcano
-is the scattering effect.
+Bumbiņa ir kā atoma kodols, bet vulkāns ir
+atgūšanās spēks starp tiem.
 
 1:02:12.570,1:02:16.570
-So any time you want to have a nucleus go
-to another nucleus, it scatters; it rolls
+Katru reizi, kad kodols tuvojas citam kodolam,
+tie "aizripo" prom viens no otra,
 
 1:02:16.570,1:02:19.830
-up the mountain and it rolls down the side,
-it rolls over here, over there... and only
+jo tie tuvojas savstarpējam atgrūšanās "kalnam".
+Un tikai tad, ja tie skrien viens otram precīzi virsū,
 
 1:02:19.830,1:02:23.770
-when you just perfectly get it on the right
-angle does it go in the volcano." Now, the
+tie satuvojas tik ļoti, ka virsroku ņem
+kodolu saplūšanas spēks un tie nokļūst vulkāna caurumā.
 
 1:02:23.770,1:02:27.030
-problem with fusion, he goes, "You can't steer
-the ball, you have to have enough temperature
+Kodolu saplūšanas problēma ir tā, ka mēs neprotam 
+kodolus stūrēt. Tāpēc temperatūrai ir jābūt tik augstai,
 
 1:02:27.030,1:02:30.600
-so that it can make it all the way up the
-side of the volcano and fall in, and then
+lai kodoli kustētos ar pietiekamu spēku,
+un nonāktu līdz vulkāna caurumam,
 
 1:02:30.600,1:02:34.030
-you have to have enough balls because you
-can't steer them there at the mini golf park",
+un jums vajag pietiekami daudz bumbiņu, jo mēs
+nestūrējam kodolus.
 
 1:02:34.030,1:02:37.760
-that's density, "and then because they're
-flying all over the place, you've got to make
+Kodolu daudzumu nosaka blīvums. 
+Un, tā kā kodoli vēlas lidot kur kurais,
 
 1:02:37.760,1:02:40.500
-sure that there's a fence around the mini
-golf park so that they don't get away." That's
+mums ap golfa laukumu ir nepieciešama sēta.
+Sētu sauc par
 
 1:02:40.500,1:02:40.810
-confinement.
+salāgojumu (confinement).
 
 1:02:40.810,1:02:45.240
-He said, "Those are your three things, density,
-temperature, and confinement, to make fusion
+Un tad viņš teica, "Šīs trīs lietas: 
+temperatūra, blīvums un salāgojums ir tas,
 
 1:02:45.240,1:02:45.490
-happen."
+kas ļauj notikt saplūšanai."
 
 1:02:45.440,1:02:49.350
-I said, "Dude, that's really hard!" So, I
-came up with another analogy, "So, I guess
+Es atbildēju, "velns, tas ir patiesi grūti!"
+Un man ienāca prātā cita līdzība:
 
 1:02:49.350,1:02:54.500
-fission would be like the mini golf park except
-now the volcano was flush, the hole was about
+"Tādā gadījumā kodolu dalīšanās ir kā minigolfs,
+kurā vulkāns ir plakans un caurums zemē ir milzīgs,
 
 1:02:54.500,1:02:58.580
-this big around, the balls are going slow,
-and every time the ball goes in the hole,
+bumbiņas kustās lēni, un katru reizi,
+kad kāda ieripo vulkāna caurumā,
 
 1:02:58.580,1:02:59.860
-two more balls come out."
+no tā izripo divas jaunas bumbiņas."
 
 1:02:59.860,1:03:02.800
-He goes, "Yeah, that's pretty good."
+Un viņš atbild: "Jā, tas ir labs raksturojums."
 
 1:03:02.800,1:03:07.870
-I've looked at focus fusion, I've looked at
-steam-piston fusion, I've looked at D-helium-3
+Esmu pētījis fokusētu saplūšanu, tvaika virzuļu saplūšanu,
+deitērija-hēlija-3,
 
 1:03:07.870,1:03:11.590
-and P-boron, and all these other kind of things
-and I'm still going, "I'm just not buying
+un p-borona saplūšanu, un visus citus iespējamos variantus,
 
 1:03:11.590,1:03:12.110
-it yet."
+un tik un tā es tiem neticu.
 
 1:03:12.110,1:03:14.740
-You're saying the business case isn't there.
-That's what you're saying.
+Tātad jūs sakāt, ka tam nav biznesa pielietojuma?
 
 1:03:14.740,1:03:20.280
-It's just so darn hard! I mean, a fusion reactor
-is a big vacuum tube at 10 keV, which is like
+Tas ir tik velnišķīgi grūti! Saplūšanas reaktors
+ir liela vakuuma caurule ar 10keV spriegumu,
 
 1:03:20.280,1:03:26.510
-15 patrillion degrees, and then inside this
-are superconducting magnets that are held
+kurā ir 15 nez-cik-triljonu temperatūra, un tas viss
+atrodas starp supravadošiem magnētiem
 
 1:03:26.510,1:03:31.610
-in liquid helium, and all of this is jacketed
-in a lithium blanket that will breed megacuries
+šķidrā hēlijā, un noslēgts litija tabletē,
+kuru apstaro ar megakirijiem no tritija
 
 1:03:31.610,1:03:37.650
-of tritium, which will then be injected into
-this reactor which is driven by these giant
+un tam papildus vada ar gigantisku
 
 1:03:37.650,1:03:38.120
-neutral-ion beams.
+neitrālu jonu plūsmu.
 
 1:03:38.120,1:03:42.530
-I mean, it's like, "Oh my gosh! Can we make
-this thing any more complicated then it is?"
+Varu tikai jautāt: "Dieviņ', tētiņ'! 
+Vai to visu var padarīt vēl sarežģītāku, nekā tas jau ir?"
 
 1:03:42.530,1:03:46.840
-And even then you can't hold the confinement
-for more than a few microseconds in the Tokamak
+Un tad vēl to visu var noturēt saskaņoti
+ne vairāk kā dažas mikrosekundes, ja izmanto
 
 1:03:46.840,1:03:49.650
-configuration, which is the most favored and
-desired.
+tokamaka pieeju, kas ir viena no izplatītākajām.
 
 1:03:49.650,1:03:54.420
-Thorium's actually a little bit more down
-to earth. If you go to the liquid form, force
+Torija tehnoloģijas ir daudz tuvāk zemei.
+Ja mēs izvēlēsimies torija sāļus, un
 
 1:03:54.420,1:03:59.340
-yourself to make that technology commitment,
-50 years from now, people will go, "Of course
+tuvākos 50 gados strādāsim ar to,
+pēc tam cilvēki noteikti teiks:
 
 1:03:59.340,1:04:00.530
-that's the answer!"
+"Protams, ka tas ir īstais risinājums!".
 
 1:04:00.530,1:04:04.190
-Fusion is so hard that we can build a fusion
-reactor, and we can have 100 PhDs working
+Kodolu saplūšana ir tik sarežģīta, 
+ka pie tās strādājot, 100 studenti var iegūt doktora grādu.
 
 1:04:04.190,1:04:07.680
-on it. Fission is so easy that we can take
-a couple of kids out of high school, train
+Kodolu šķelšana ir tik vienkārša,
+ka pie tās var strādāt jebkurš, kas ir pabeidzis vidusskolu,
 
 1:04:07.680,1:04:09.910
-them for a few months, and they can be running
-a nuclear submarine.
+dažus mēnešus ir izgājis kursus, un var vadīt kodolzemūdeni.
 
 1:04:09.910,1:04:16.130
-Want to build a reactor to bring energy for
-the oil sands. This would be the perfect opportunity.
+Ja vēlaties uzbūvēt reaktoru, kas iegūst enerģiju no
+naftas smiltīm, šī ir brīnišķīga iespēja.
 
 1:04:16.130,1:04:21.630
-Well, if we have a reactor like this, do we
-need the oil sands?
+Bet, ja mums ir šāds reaktors, vai mums ir vajadzīgas
+naftas smiltis?
 
 1:04:21.630,1:04:28.630
-I mean, that's the way I look at it; I don't
-know a lot about oil sands, but I know that
+Tā ir tikai viena no iespējām. Nezinu daudz par
+naftas smiltīm, bet es zinu,
 
 1:04:28.810,1:04:33.160
-it's a particularly hard way to get oil. People
-in the middle east can get oil a whole lot
+ka naftas iegūšana ir sarežģīta. Tuvajos austrumos
+naftu var iegūt daudz lētāk,
 
 1:04:33.160,1:04:37.570
-cheaper from their place then people can get
-it from the oil sands. If I can beat them
+nekā tie, kuri to iegūst no naftas smiltīm.
+Bet, ja mēs ieguvi varam padarīt daudz lētāku,
 
 1:04:37.570,1:04:41.050
-by a million to one, maybe we ought to do
-that.
+iespējams, ka to darīt ir izdevīgi.
 
 1:04:41.050,1:04:46.220
-If you were to make the oil sands just a little
-tiny bit cleaner, then they would perk up
+Ja jūs varat padarīt naftas ieguvi no smiltīm
+daudz tīrāku, varbūt tur iesaistīti sāks klausīties,
 
 1:04:46.220,1:04:50.450
-their ears, as opposed to clean energy in
-and of itself, because it relates to something
+un neuzskatīs zaļo enerģiju par saviem ienaidniekiem,
 
 1:04:50.450,1:04:50.930
-they know.
+jo tad viņi izmantos zināmu.
 
 1:04:50.930,1:04:54.920
-I sat on the plane next to a guy who was in
-the oil business, and he was telling me all
+Es lidmašīnā sēdēju blakus naftiniekam, un
+viņš nepārtraukti man stāstīja
 
 1:04:54.920,1:04:58.020
-about the oil sands, and how much money they're
-making and so forth. I was just sort of sitting
+par naftas smiltīm, un to, cik viņi šajā 
+biznesā nopelna.
 
 1:04:58.020,1:04:59.770
-there, taking it in, listening...
+Es tikai sēdēju un klausījos...
 
 1:04:59.770,1:05:02.210
-Gas... How much does gas cost here?
+Cik viņiem maksā benzīns?
 
 1:05:02.210,1:05:04.620
-A dollar... A dollar ten?
+Dolāru, dolāru un 10 centus?
 
 1:05:04.620,1:05:07.630
-Gas costs a dollar ten?
+Benzīns maksā 1,1$?
 
 1:05:07.630,1:05:13.210
-Yeah, it's expensive, because we have more
-tax on gasoline, which I think is a good idea.
+Jā, tas ir tik dārgs, jo mums benzīnam
+ir akcīzes nodoklis. Domāju, ka tas ir pareizi.
 
 1:05:13.210,1:05:14.790
-What do you pay for gas?
+Cik jums maksā benzīns?
 
 1:05:14.790,1:05:16.390
-I'm paying like, $3.50 for gas.
+Es maksāju aptuveni 3,5$
 
 1:05:16.390,1:05:17.130
-Really?
+Patiesi?
 
 1:05:17.130,1:05:18.550
-I thought gas was cheaper in America!
+Man likās, ka ASV benzīns ir lētāks!
 
 1:05:18.550,1:05:21.020
-The Canadian dollar's almost on par, isn't
-it?
+Kanādas dolārs ir aptuveni tikpat vērts kā ASV dolārs?
 
 1:05:21.020,1:05:21.330
-Yeah.
+Jā.
 
 1:05:21.330,1:05:24.660
-Oh wait... you all do it in liters!
+Ahā, jūs to rēķināt par litru!
 
 1:05:24.660,1:05:29.970
-Do we pump your car with gas and go, "I just
-pumped twelve gallons of gas into my car.
+Mēs ielejam bākā benzīnu un domājam
+"Es ielēju 12 galonus."
 
 1:05:29.970,1:05:34.040
-Do you know how much napalm that would make?
-If I dropped that on a village, I would kill
+Vai zināt, cik daudz no tā var sagatavot
+napalmu? Ar to varētu nogalināt
 
 1:05:34.040,1:05:38.440
-5,000 little children!" You know, and you're
-like, "No! Of course not! I'm going to get
+5000 mazus bērnus!" Un tad jūs teiktu:
+"Nē, es to iztērēšu, lai nobrauktu 300 jūdzes!"
 
 1:05:38.440,1:05:42.280
-into my car and drive 300 miles on it!" I
-mean, it's all about what you do; none of
+Ar to es gribu teikt, ka viss atkarīgs no
+pielietojuma.
 
 1:05:42.280,1:05:46.970
-this stuff is inherently good or bad, it's
-what you decide to do with it.
+Materiāls pats par sevi nav ne labs, ne slikts.
 
 1:05:46.970,1:05:50.830
-You know, one of the things that doesn't earn
-me a lot of friends is the notion when we
+Viens no veidiem, kā iegūt daudz draugu ir
 
 1:05:50.830,1:05:56.120
-talk about, "Oh, so-and-so can't enrich uranium,"
-I go, "No offense, but who are we to tell
+sacīt: "urāna bagātināšana ir slikta", bet
+es uz to atbildu: "vai varat man pateikt,
 
 1:05:56.120,1:06:01.030
-anybody what they can do?" I mean, uranium's
-uranium, and it's not exactly like we have
+kas ar to tiks darīts?" 
+Urāns ir urāns, un nav tā, ka mums pieder
 
 1:06:01.030,1:06:02.520
-a monopoly on the stuff.
+tā izmantošanas monopols.
 
 1:06:02.520,1:06:05.630
-Same thing goes for things like plutonium.
-Plutonium is... I'm not the biggest fan of
+Tas pats ir spēkā par plutoniju.
+Es neesmu īpašā sajūsmā par plutoniju,
 
 1:06:05.630,1:06:10.100
-plutonium because I'm not crazy about the
-plutonium fast-breeder reactor, but there's
+jo es neesmu sajūsmā par ātro brīdera
+reaktoru,
 
 1:06:10.100,1:06:15.420
-nothing good or bad about plutonium. Plutonium
-just is. It's what you decide to do with it.
+bet tas nav ne labs, ne slikts. Tas vienkārši
+ir, bet jūs izlemjat, ko ar to darīt.
 
 1:06:15.420,1:06:18.700
-Now, we've made a lot of plutonium in our
-reactors. What are we going to do with it?
+Mēs savos reaktoros esam saražojuši ļoti daudz plutonija.
+Ko mēs ar to darīsim?
 
 1:06:18.700,1:06:21.790
-Are we going to drop it in a hole in the ground,
-or are we going to feed it to a reactor like
+Vai mēs domājam izrakt zemē caurumu un noglabāt to tajā,
 
 1:06:21.790,1:06:25.690
-LFTR and make power out of it? I think that's
-a whole lot smarter thing to do.
+vai arī mēs izveidosim LFTR reaktoru, un iegūsim no tā enerģiju?
+Domāju, ka otrais ir daudz prātīgāks risinājums.
 
 1:06:25.690,1:06:29.130
-The other day I was debating some anti-nukes,
-and they were getting on LFTR because they
+No kodolenerģijas ienaidniekiem, kas ir pret 
+LFTR, esmu dzirdējis arī:
 
 1:06:29.130,1:06:33.820
-said, "Oh, this is going to use uranium. You
-know, from nuclear weapons!" And I said, "I
+"Tajā izmantos urānu no kodolieročiem!"
+uz ko es atbildu:
 
 1:06:33.820,1:06:38.700
-think you guys would be all over that! Take
-nuclear weapons, take them apart, take the
+"Man šķiet, ka tas ir tas, ko jūs vēlaties.
+Izjaukt kodolieročus, izņemt no tiem urānu,
 
 1:06:38.700,1:06:41.640
-uranium out, burn it up, make electricity!
-You want to leave it in the bomb? What do
+un izmantot to, lai iegūtu elektrību!
+Kāpēc to atstāt atombumbā?
 
 1:06:41.640,1:06:42.470
-you want to do with it?"
+Vai jūs vēlaties to?"
 
 1:06:42.470,1:06:47.470
-The Navy has as many reactors as we have in
-the civilian world. Think about the security
+Jūras spēkiem pieder tik pat daudz reaktoru,
+cik to ir civilajā pasaulē.
 
 1:06:47.470,1:06:52.630
-posture that the US would have if we didn't
-have this nuclear capability. Submarines can
+Padomājiet par mūsu drošību. Ja viņi neizmantotu
+kodolenerģiju, zemūdenes nevarētu atrasties
 
 1:06:52.630,1:06:57.250
-stay underwater and go under the polar ice
-cap. If you look the ground forces today,
+tik ilgi ūdenī zem polārā ledus cepures.
+Ja apskatāties sauszemes spēkus,
 
 1:06:57.250,1:07:01.750
-we seem to be using a lot of energy, people
-wonder if we could cut that down. The energy
+arī tie izmanto ļoti daudz enerģijas. Un viņi
+domā par to, kā to samazināt,
 
 1:07:01.750,1:07:03.710
-is used for good purposes.
+lai arī lielākā daļa no tās tiek izmantota labos nolūkos.
 
 1:07:03.710,1:07:09.370
-So, the reason that we can fight in the night,
-take out enemies without losing our own soldiers
+Mēs varam cīnīties naktī un varam uzbrukt ienaidniekam,
+nezaudējot savus karavīrus tāpēc,
 
 1:07:09.370,1:07:15.120
-is because we have energy powered capabilities.
-We have sensors, radios, all sorts of things
+ka mums ir pieejama enerģija. To izmanto, lai barotu
+sensorus, radio, visas citas lietas,
 
 1:07:15.120,1:07:18.330
-that give us the advantage, and they're all
-based on energy. The way that we're sustaining
+kas dod mums priekšrocības. Un tas viss ir balstīts
+uz enerģijas patēriņu. Šobrīd mēs to nodrošinām
 
 1:07:18.330,1:07:21.910
-the force is we're trucking liquids over the
-ground.
+ar milzīgām cisternām pārvietojot šķidrumus.
 
 1:07:21.910,1:07:26.260
-When I was waiting to go into Iraq since we
-began invasion in 2003 some of generals couldn't
+Kad 2003. gadā tika uzsākts iebrukums Irākā,
 
 1:07:26.260,1:07:31.030
-get spare parts or supplies out forward because
-the convoys were busy carrying fuel and water.
+daži ģenerāļi nevarēja saņemt nepieciešamās rezerves daļas,
+jo transports bija aizņemts ar ūdens un degvielas piegādi.
 
 1:07:31.030,1:07:35.270
-More significantly, cost in lives, half of
-our losses in Iraq are associated with the
+Svarīgi norādīt, ka puse no mūsu kritušo karavīru dzīvībām
+Irākā ir zaudēta tamdēļ,
 
 1:07:35.270,1:07:36.040
-supply chain.
+ka netika nodrošināta izejvielu piegāde.
 
 1:07:36.040,1:07:39.480
-If we didn't have to carry all that liquid
-- 80 percent of the supply chain - we might
+Ja mums nebūtu bijis nepieciešams 80% transporta
+izmantot degvielas piegādei,
 
 1:07:39.480,1:07:43.750
-be able to find another way, something called
-an adaptive brigade. This force could provide
+mēs daudz vairāk varētu izmantot patstāvīgas
+brigādes, kurām būtu pašām savs enerģijas avots,
 
 1:07:43.750,1:07:48.090
-its own energy and water and not really have
-to be resupplied for say a month at a time.
+kuru nevajadzētu katru mēnesi papildināt un atjaunot.
 
 1:07:48.090,1:07:52.280
-If you need energy during the day, put about
-a hundred acres of solar panels.
+Ja jums vajag enerģiju dienā, jūs varat uzstādīt
+pāris hektārus ar saules baterijām.
 
 1:07:52.280,1:07:54.940
-If you have a threat out there, that might
-not work too well because you have to secure
+Bet tad jums būtu diezgan jāpiestrādā,
+lai tās aizsargātu, jo būtu nepieciešami
 
 1:07:54.940,1:07:59.240
-the whole perimeter and so now all your soldiers
-spend their time patrolling the hundred acre
+neskaitāmi karavīri, kas spētu nosargāt
+kilometriem garu perimetru
 
 1:07:59.240,1:08:00.210
-solar farm.
+apkārt saules baterijām.
 
 1:08:00.210,1:08:06.920
-What if we had a reactor that was so safe
-and simple and economical that you could take
+Bet, ja mums būtu rektors, kas ir tik vienkāršs
+un drošs,
 
 1:08:06.920,1:08:12.060
-it out to the battlefield and use it, and
-then when you leave, leave it for the host
+ka jūs to varētu ņemt līdzi kaujas laukā,
+un pēc tam, kad dodaties prom, jūs to atstājat
 
 1:08:12.060,1:08:13.910
-nation and they run it.
+vietējiem lietošanai.
 
 1:08:13.910,1:08:18.349
-Prosperity is related to energy. If we can
-bring people to about 2,000 kilowatt hours
+Labklājība ir saistīta ar enerģiju.
+Ja var atļauties lietot ap 2,000 kWh
 
 1:08:18.349,1:08:24.150
-per year of electrical energy, they have a
-chance of achieving prosperity. Now, of course,
+elektroenerģijas gadā, tad ir iespēja
+sasniegt labklājību.
 
 1:08:24.150,1:08:29.329
-prosperity depends upon the rule of law, good
-government, property rights, education, but
+Protams, labklājība ir atkarīga arī likumiem,
+valdības, īpašuma tiesībām, izglītības, bet
 
 1:08:29.329,1:08:36.329
-electric power for heat, light, transportation,
-safety and so on is a critical element of
+elektrība, siltums, gaisma, transports un drošība
+ir neatņemama šodienas labklājības
 
 1:08:37.499,1:08:38.579
-prosperity today.
+sastāvdaļa.
 
 1:08:38.579,1:08:43.449
-Developing countries know this. Energy in
-coal use is growing rapidly in all the developing
+Attīstības valstis to zina. Visās tajās
+strauji pieaug enerģijas ieguve no oglēm.
 
 1:08:43.449,1:08:47.679
-countries. They want to achieve that level
-of prosperity and they're being supported
+Viņi vēlas sasniegt to pašu labklājības līmeni
 
 1:08:47.679,1:08:49.130
-by Peabody Coal.
+un viņi to balsta uz oglēm.
 
 1:08:49.130,1:08:54.679
-The National Academy of Sciences said that
-every freshwater fish in the United States
+ASV Nacionālā zinātnes akadēmija norāda,
+ka visās ASV saldūdens zivīs
 
 1:08:54.679,1:09:00.019
-of America now has dangerous levels of mercury
-in its flesh. And that mercury is coming from
+ir bīstami augsts dzīvsudraba daudzums.
+Šis dzīvsudrabs nāk no
 
 1:09:00.019,1:09:01.670
-coal burning power plants.
+spēkstacijās sadedzinātajām oglēm.
 
 1:09:01.670,1:09:06.739
-My levels of mercury came back 10 times the
-amount of what the EPA considers safe. I was
+Manās asinīs dzīvsudraba līmenis 10 reizes
+pārsniedz līmeni, ko EPA atzīst par drošu.
 
 1:09:06.739,1:09:11.819
-told by Dr. David Carpenter, who is the national
-authority on mercury toxins, that a woman
+Doktors Deivids Kārpenters man teica, ka,
 
 1:09:11.819,1:09:15.819
-with my levels of mercury in her blood would
-have children with cognitive impairment with
+ja šāds dzīvsudraba daudzums būtu sievietei,
+viņas bērnam noteikti būtu
 
 1:09:15.819,1:09:16.999
-permanent brain damage.
+smadzeņu bojājumi.
 
 1:09:16.999,1:09:21.119
-I said, "Do you mean she might have?" And
-he said, "No, no, no. The science is very
+Es vaicāju, "Vai jūs domājat, ka tā varētu būt?", un
+viņš atbildēja, "Nē, nē. Šajā jomā tas ir pilnīgi noteikti. 
 
 1:09:21.119,1:09:26.539
-clear right now." Her children would have
-some level of permanent neurological impairment,
+Viņas bērnam noteikti būtu smadzeņu bojājumi,
 
 1:09:26.539,1:09:30.650
-probably as a permanent IQ loss in those kids
-of five to seven points.
+un viņa IQ būtu par 5—10 punktiem zemāks par normu.
 
 1:09:30.650,1:09:36.559
-There are now 640,000 children born in this
-country every year who've been exposed to
+ASV katru gadu dzimst ap 640000 bērnu, 
+kuri ir pakļauti nepieļaujami augstai
 
 1:09:36.559,1:09:41.409
-dangerous levels of mercury in their mother's
-wombs. Ozone and particulates from coal burning
+dzīvsudraba koncentrācijai, atrodoties mātes miesās.
+Ozons un putekļu daļiņas, kas rodas, sadedzinot
 
 1:09:41.409,1:09:48.409
-power plants kill 60,000 Americans a year.
-A million asthma attacks, a million lost workdays
+ogles spēkstacijās, nogalina ap 60000 amerikāņu ik gadu.
+Miljons astmas lēkmju ir miljons pazaudētu
 
 1:09:49.639,1:09:51.230
-every year.
+darbadienu katru gadu.
 
 1:09:51.230,1:09:55.079
-That's part of the cost of coal that they
-don't tell you about when they say "Oh, it's
+Tā ir akmeņogļu cena, ko neviens mums nenorāda,
+kad viņi saka "Ak, to izmantojot,
 
 1:09:55.079,1:09:57.679
-only, you know, ten cents a kilowatt hour."
+mēs maksājam tikai dažus centus par kilovatstundu."
 
 1:09:57.679,1:10:04.090
-Both light water reactors and CANDUs do not
-use very much of the energy in the fuel and
+Ne vieglā ūdens reaktori, ne CANDU
+neizmanto īpaši daudz kodoldegvielas enerģijas
 
 1:10:04.090,1:10:08.320
-they leave behind two classes of materials.
-One is the actual fission products - that's
+un tie atstāj divu veidu pārpalikumus.
+Viena daļa ir sadalīšanās produkti,
 
 1:10:08.320,1:10:12.239
-what happens when you fission the stuff. Then
-there is what's called the transuranics. That's
+kas paliek pāri no radioaktīvo materiālu sabrukšanas. 
+Un tad ir tā saucamie transurāna elementi.
 
 1:10:12.239,1:10:15.880
-what happens when the uranium absorbs the
-neutron and doesn't fission, and turns into
+Tie veidojas no tā, ka urāns dažkārt "apēd" neitronu,
+bet nesadalās un pārvēršas par plutoniju,
 
 1:10:15.880,1:10:19.190
-plutonium, americium and curium and few other,
-most of it is plutonium.
+amerīciju, kiriju u.c., bet galvenokārt tas ir
+plutonijs.
 
 1:10:19.190,1:10:23.280
-The overwhelming majority of transuranics
-are plutonium. So when you talk to people
+Vairums no visiem transurāna elementiem ir plutonijs.
+Kad cilvēki vaicā par kodolatkritumiem,
 
 1:10:23.280,1:10:28.530
-about waste disposal, they say, "What's the
-concern?" Well, most of the stuff that's in
+"Par ko būtu jāuztraucas?" Atbilde ir sekojoša.
+Vairums no šiem materiāliem vēl arvien ir urāns.
 
 1:10:28.530,1:10:32.900
-the fuel is just uranium. It's no more radioactive
-than it was when you stuck it in, and it's
+Tas nav kļuvis radioaktīvāks, kā bija pirms tam,
+kad to ievietoja kodoldegvielā.
 
 1:10:32.900,1:10:35.130
-not really a concern.
+Un par to nav jāuztraucas.
 
 1:10:35.130,1:10:40.630
-And the fission products, they are very radioactive
-when they are created, but they decay rather
+Un sadalīšanās produkti, lai arī ir ļoti radioaktīvi,
+sadalās ļoti ātri.
 
 1:10:40.630,1:10:46.199
-quickly. They don't really have long-term
-radioactivity. They just decay too fast, it
+Nekas nevar būt ļoti radioaktīvs ilgu laiku.
+Jo kaut kas ir radioaktīvāks, jo tas
 
 1:10:46.199,1:10:49.679
-is the deal. There are a few of them that
-have very long half-lives but that means their
+ātrāk sabrūk. Dažiem no sadalīšanās produktiem
+ir ļoti ilgi pussabrukšanas laiki, bet tas nozīmē,
 
 1:10:49.679,1:10:53.110
-radioactivity levels are extremely low and
-they just don't really pose a hazard.
+ka tie praktiski nav radioaktīvi un tāpēc tie
+praktiski nerada nekādus draudus.
 
 1:10:53.110,1:10:59.159
-The real challenge with spent fuel management
-is the presence of those transuranics - plutonium,
+Īstais izaicinājums ir tikt galā ar transurāniem —
+plutoniju, amerīciju un kiriju,
 
 1:10:59.159,1:11:03.679
-americium, curium - because they have moderate
-half-lives and they have complicated decay
+jo tiem ir vidējs dzīves laiks un sarežģītas
+sabrukšanas ķēdes.
 
 1:11:03.679,1:11:06.690
-chains. When you're looking at a Yucca mountain
-or a disposal site you say, "What are we going
+Kad raugāties uz Juka kalna krātuvi, un domājat
 
 1:11:06.690,1:11:07.219
-to do with that?"
+"Ko mēs ar to varam iesākt?"
 
 1:11:07.219,1:11:13.059
-The basic advantage of LFTR over that approach
-is we don't form those transuranics. We burn
+Galvenā LFTR priekšrocība ir tā, ka tas 
+neveido transurānus. Tas tā ir tāpēc, ka
 
 1:11:13.059,1:11:20.059
-up essentially all of the fuel in this process
-because we don't remove fuel from the reactor
+šajā reaktorā neņem ārā kodoldegvielu,
 
 1:11:20.119,1:11:22.999
-until it's a fission product.
+līdz tā nav pārvērtusies sadalīšanās produktos. 
 
 1:11:22.999,1:11:27.019
-General idea is you don't want uranium, thorium,
-or anything else to end up in your waste stream
+Galvenā ideja ir tā, ka jūs nevēlaties atstāt
+degvielā urānu, toriju un citus smagos elementus,
 
 1:11:27.019,1:11:31.380
-and that's a pretty straightforward proposition
-in this fluid-fueled reactor. So our waste
+un šķidrās degvielas reaktorā to panākt
+ir diezgan vienkārši.
 
 1:11:31.380,1:11:37.650
-story is a lot different. You can also then
-turn around and go back and take some of the
+Un tāpēc tiem nav atkritumu. Šos reaktorus
+var pat izmantot tā,
 
 1:11:37.650,1:11:42.840
-waste that's already been created in our uranium-fueled
-reactors and potentially destroy those long
+ka var izmantot cietās degvielas atkritumus
+un tos izmantot šķidrās degvielas reaktoros
 
 1:11:42.840,1:11:44.780
-lived transuranics through fission.
+un panākt to lietderīgu sadalīšanos.
 
 1:11:44.780,1:11:49.570
-Waiting them out to decay is a very slow process.
-Plutonium 239, for instance, has a 24,000
+Transurānu sadalīšanās ir ļoti lēns process.
+Piemēram, plutonija-239 pussabrukšanas laiks
 
 1:11:49.570,1:11:52.820
-year half-life. That's a long time you're
-going to be waiting for that to decay. On
+ir 24000 gadu. Tik ilgs laiks ir nepieciešams,
+lai sadalītos puse no tā.
 
 1:11:52.820,1:11:56.530
-the other hand, you can fission it and then
-those fission products will decay very rapidly
+No otras puses, jūs varat piebarot to ar neitroniem,
+un tas sadalās ļoti ātri.
 
 1:11:56.530,1:12:00.230
-and you also get an energy release and a neutron
-release, both of which are good.
+Un papildu tam jūs iegūstat enerģiju un vēl dažus
+brīvus neitronus, kas abi ir ļoti noderīgi.
 
 1:12:00.230,1:12:04.190
-A thousand kilograms of U-233 is roughly what
-we've got. Ninety percent of that'll fission.
+Mums ir aptuveni tūkstotis kilogramu urāna-233.
+90 procenti no tā ir sadalāmi.
 
 1:12:04.190,1:12:09.760
-We can make about 500 to $600 million in electricity
-and another 50 or $60 million on the fission
+Tas ir aptuveni 500 līdz 600 miljonu iegūstamajā elektrībā
+un vēl aptuveni 50 līdz 60 miljoni
 
 1:12:09.760,1:12:15.510
-of the uranium-235. Almost all of it will
-ultimately end up fissioning. Out of about
+ir iegūstami, izmantojot urānu-235. Gandrīz viss no tā
+ir sadalāms. Un no 1000 kilogramiem materiāla sākumā
 
 1:12:15.510,1:12:20.849
-a thousand kilograms, about 15 kilograms of
-plutonium-238 will be left over. This is good
+paliks pāri aptuveni 15 kilogrami plutonija-238.
+Tas ir ļoti vērtīgs materiāls.
 
 1:12:20.849,1:12:27.760
-stuff. NASA is desperate for this stuff. Plutonium-238
-is different than plutonium-239, the stuff
+NASA to izmisīgi meklē. Plutonijs-238 ir savādāks par
+plutoniju-239, kuru izmanto atombumbās.
 
 1:12:27.760,1:12:30.739
-we use in bombs. In fact it's worthless for
-bombs.
+Patiesībā bumbām tas ir nederīgs.
 
 1:12:30.739,1:12:35.219
-These radioisotope thermoelectric generators
-are based on plutonium-238 and this is the
+Šis izotops — plutonijs-238, ir neaizstājams
+termoelektriskajos reaktoros. Un tas ir vienīgais
 
 1:12:35.219,1:12:39.650
-only way that we've been able to explore the
-outer solar system. The United States is unique.
+veids, kā mēs varam izpētīt Saules sistēmu.
+ASV ir vienīgā valsts, kas spējusi nosūtīt
 
 1:12:39.650,1:12:44.710
-It's the only country in the world that has
-sent space probes beyond the Asteroid Belt
+pavadoņus tālāk par Asteorīdu joslu.
 
 1:12:44.710,1:12:49.210
-and it's all been based on having this technology.
-Short answer, we're out of this stuff. It
+Un, tas ir paveikts, pateicoties šai tehnoloģijai.
+Īsumā, mums trūkst šī materiāla.
 
 1:12:49.210,1:12:53.900
-'s gone. We've used it all up. The Russians
-used to sell us some. They've sold us all
+Tas, kas mums bija, ir iztērēts. Daļu mēs nopirkām no
+krieviem. Viņi pārdeva mums savus krājumus.
 
 1:12:53.900,1:12:55.139
-their inventory. It's gone.
+Un tagad tā vairs nav.
 
 1:12:55.139,1:12:59.340
-NASA's got billions of dollars of deep space
-missions hinging on having enough of this
+NASA multimiljardu dolāru izpētes projekti
+kavējas tāpēc,
 
 1:12:59.340,1:13:04.480
-stuff to run the batteries to let the thing
-call home. We will be able to make this in
+ka mums trūkst šī materiāla termobaterijām.
+Bet mēs to varēsim ražot LFTR reaktorā.
 
 1:13:04.480,1:13:08.369
-LFTR. If you've heard sometimes about us saying
-"We burn up 99 percent of the fuel and there's
+Ja esat kādreiz dzirdējuši mūs sakām:
+"Mēs izmantojam aptuveni 99 procentus no materiāla"
 
 1:13:08.369,1:13:14.599
-one percent left", the one percent left is
-that stuff and it's worth almost as much as
+tad ziniet, ka tas atlikušais procents ir
+šis plutonija paveids. Tas ir gandrīz
 
 1:13:14.599,1:13:15.670
-the stuff we burn up.
+tik pat vērtīgs, kā tas, ko mēs sadedzinām.
 
 1:13:15.670,1:13:18.179
-In addition, it would make medical molybdenum-99.
+Papildus tam mēs varam ražot molibdēnu-99.
 
 1:13:18.179,1:13:23.360
-We are about to shut down the one reactor
-in Canada that is making molybdenum-99 for
+Mums 2015. g. ir paredzēts apturēt vienu reaktoru Kanādā,
+kurā mēs ražojām molibdēnu-99
 
 1:13:23.360,1:13:28.469
-medical purposes in 2015. There are hundreds
-of thousands of patients that will not be
+medicīnas vajadzībām. Tūkstoši pacientu
+gaida rindā uz to,
 
 1:13:28.469,1:13:35.010
-able to get their molybdenum-99 that they
-need for diagnostic procedures when that happens.
+jo tas ir nepieciešams viņu procedūrām.
 
 1:13:35.010,1:13:40.179
-We can make molybdenum-99 just in normal course
-of operation and we can remove it very easily.
+Mēs varam ražot molibdēnu-99 kā daļu no mūsu 
+ražošanas procesa, un to varam viegli atdalīt no pārējā.
 
 1:13:40.179,1:13:46.320
-There are four natural decay chains of alpha-emitting
-radioisotopes. One starts with U-238, U-235,
+Radioaktīvie izotopi sabrūk četros dažādos veidos.
+Viens no tiem sākas ar urānu-238, otrs ar urānu-235
 
 1:13:46.320,1:13:53.099
-thorium-232, and then there's one that's extinct
-because it has no long-lived precursors on
+un ar toriju-232. Un ir ir viena īpaša sabrukšanas ķēde,
+kas sākas ar urānu-233, jo tajā nav izotopu,
 
 1:13:53.099,1:13:57.550
-it. It was there in the supernova billions
-of years ago. It's gone now. It's on the U-233
+kas pastāvētu pietiekami ilgi, lai saglabātos no 
+supernovu sprādzienu laikiem.
 
 1:13:57.550,1:14:03.079
-decay chain. There's a special product on
-there, bismuth-213, that could be a smart
+Viens no urāna-233 sabrukšanas produktiem ir
+bismuts-213, kas ir īpaši gudra pretvēža bumba.
 
 1:14:03.079,1:14:07.849
-bomb against cancer. They attach the bismuth-213
-to an antibody.
+Mediķi pievieno bismutu-213 vēža antivielām.
 
 1:14:07.849,1:14:12.780
-That bismuth only has a half-life of 45 minutes
-so it's very radioactive and it's going away
+Šī izotopa pussabrukšanas laiks ir tikai 45 minūtes,
+un tāpēc tas ir ļoti radioaktīvs,
 
 1:14:12.780,1:14:17.980
-quickly. But in that time, that antibody can
-go and find a cancer cell. The bismuth decays
+kamēr tas nav sabrucis. Un šajā laikā antivielas
+sameklē vēža šūnas, bet bismuts
 
 1:14:17.980,1:14:22.469
-and alpha particle goes through the cell,
-and it kills the cancer. The radiation technique
+izdala alfa daļiņu, un nogalina tuvumā esošo
+vēža šūnu. Mūsdienās izmantotā staru terapija
 
 1:14:22.469,1:14:27.900
-we use in cancer therapy today, they're all
-based on beta-emitting isotopes, not on alpha-emitting
+ir balstīta uz beta daļiņas izstarojošiem izotopiem
+nevis alfa daļiņām.
 
 1:14:27.900,1:14:34.429
-isotopes. They have a big kill radius. They're
-not very directable. It's OK, but it's really
+Tās nogalina plašā rādiusā. Tās ir grūti precīzi novadīt.
+Tās nav sliktas, bet tās nav
 
 1:14:34.429,1:14:35.789
-not a smart bomb.
+nekāda gudrā bumba.
 
 1:14:35.789,1:14:39.920
-Alpha-admitting isotopes are really rare.
-It's hard to get them. It's hard to get the
+Alfa daļiņas izstarojoši izotopi ir ļoti reti
+un ir grūti atrast tādus,
 
 1:14:39.920,1:14:44.059
-right kind, the right chemical one that will
-lock onto the right thing that's close enough
+izotopus, kas ir tieši tādi, lai
 
 1:14:44.059,1:14:48.249
-to being stable that even after it decays,
-it doesn't just decay ten more times in the
+tie pamatīgi starotu īsu laiku, bet pēc tam
+paliek stabili un vairs nestaro.
 
 1:14:48.249,1:14:51.780
-body. Bismuth-213 is one decay away from being
-done.
+Bismuts-213 ir tieši tāds. Tas ir tieši vienas sabrukšanas
+attālumā līdz stabilam izotopam.
 
 1:14:51.780,1:14:57.949
-And it's especially good against dispersed
-cancers, like leukemia, cancer of the blood.
+Un tas ir īpaši efektīvs tādu vēžu ārstēšanā, 
+kas ir izplatīti pa visu organismu, piemēram, leikēmijā.
 
 1:14:57.949,1:15:01.949
-Not tumorous cancers, where there's a big
-hard lump that you can go in and cut out with
+Leikēmijā nav viena liela vēža kamola, kuru var
+izņemt ar ķirurģiskiem paņēmieniem.
 
 1:15:01.949,1:15:06.639
-surgery, but stuff that's hard to get to.
-Pancreatic cancer - you get pancreatic cancer,
+Līdzīgi ir ar kaulu vēzi. Ja jums nosaka kaulu vēzi,
 
 1:15:06.639,1:15:10.260
-you're probably looking at a death sentence,
-that's how bad it is.
+tas praktiski ir nāves spriedums.
 
 1:15:10.260,1:15:17.260
-Here's the problem, bismuth-213 is unique
-in this capability and bismuth-213 can only
+Bet problēma ir tā, ka bismutu-213 var iegūt,
+sabrukšanas procesam sākoties,
 
 1:15:17.730,1:15:19.780
-be generated from the decay of Uranium-233.
+no urāna-233.
 
 1:15:19.780,1:15:26.780
-I sometimes even lie in bed thinking, if my
-kid had leukemia, how hard would I be working
+Kādreiz, es iemiegot domāju par to, ka,
+ja manam bērnam būtu leikēmija,
 
 1:15:27.239,1:15:32.510
-on getting this therapy ready for them to
-save lives and if it's that important, why
+tad būtu labi strādāt pie šīs tehnoloģiju
+un izglābt dzīvības
 
 1:15:32.510,1:15:34.679
-aren't I going full bore on it right now?
+jau tagad?
 
 1:15:34.679,1:15:36.280
-How much did it cost to build?
+Cik dārgi būtu ko tādu izdarīt?
 
 1:15:36.280,1:15:40.969
-What's your ballpark figure? Is this Home
-Depot stuff, or...
+Ko saka jūsu kristāla bumba? Vai tas ir sadzīves preču līmenī, vai...
 
 1:15:40.969,1:15:47.969
-No. No, I think a first unit which is probably
-going to be on the order of 20/30 megawatts
+Nē. Domāju, ka pirmo reaktoru varētu izgatavot ar
+kādu 20-30 megavatu elektrisko jaudu.
 
 1:15:48.949,1:15:52.900
-electric is - we're looking at several hundred
-million dollars to develop that, but then
+Tādu varētu uzcelt par dažiem simtiem miljonu
+dolāru, bet tad,
 
 1:15:52.900,1:15:58.670
-taking a step beyond that to utility-class
-scale reactor, probably another several hundred
+nākamo būvējot kā standarta iekārtu,
+tas prasītu vēl kādus dažus simtus
 
 1:15:58.670,1:15:59.369
-million dollars.
+miljonu dolāru.
 
 1:15:59.369,1:16:03.440
-You're probably looking at a billion dollars
-to bring it up to utility-class, but when
+Iespējams, ka lai nonāktu līdz standarta
+reaktoru ražošanai, ir nepieciešams
 
 1:16:03.440,1:16:08.550
-you consider what it's going to do, that's
-really not all that much money. A lot of it
+kāds miljards dolāru. Bet tas nav nemaz tik
+daudz. Lai arī liela daļa no tās nepieciešama
 
 1:16:08.550,1:16:12.719
-is the engineering and then the regulation
-is a huge question mark.
+projektēšanai un celtniecībai, normatīvo aktu
+izstrāde ir liela jautājuma zīme.
 
 1:16:12.719,1:16:15.619
-It's actually not a lot of money, in a sense.
+Zināmā mērā tā nemaz nav tik liela nauda.
 
 1:16:15.619,1:16:20.710
-I've learned it's not about the number, it's
-about the uncertainty on the number. You can
+Runājot par skaitļiem, esmu sapratis, ka daudz
+svarīgāks ir nevis to lielums, bet gan nenoteiktība.
 
 1:16:20.710,1:16:24.460
-go to an investment bank right now and you
-can say "I want to build and oil drilling
+Jūs varat doties uz investīciju banku un teikt:
+"Es vēlos būvēt naftas platformu,
 
 1:16:24.460,1:16:29.449
-platform and it's going to cost 12 billion
-dollars," and they will write you a check
+un tas maksās 12 miljardus dolāru"
+un viņi jums izdos čeku, jo
 
 1:16:29.449,1:16:33.730
-for that because you can go and say, "I've
-built 50 of these platforms before, here's
+jūs varat pateikt: "esmu uzbūvējis jau 50 šādas
+platformas,
 
 1:16:33.730,1:16:37.039
-about where the price came out. It's going
-to go in this area, which right now is producing
+un to izmaksas bija šādas. Jaunā platforma 
+atradīsies šeit, un tajā varēs iegūt 
 
 1:16:37.039,1:16:39.949
-this much oil, it's going to be out here.
-It's going to take this long to recover this
+tik daudz naftas. Un lai šo naftu iegūtu,
 
 1:16:39.949,1:16:44.489
-much oil based on how we've done it the other
-50 times." And they go, there's not a lot
+būs nepieciešams tik ilgs laiks." Un viņi
+tam piekritīs,
 
 1:16:44.489,1:16:46.550
-of uncertainty in doing this.
+jo tajā ir ļoti maz nenoteiktības.
 
 1:16:46.550,1:16:49.260
-You start by not making a full LFTR...
+Bet jūs varat sākt ar LFTR nepilnu ieviešanu...
 
 1:16:49.260,1:16:49.599
-Yes.
+Jā.
 
 1:16:49.599,1:16:53.360
-...but making like a little piece. Take some
-of these by-products and you use that money
+... sākt ar mazumiņu, un tad
+izmantot blakusproduktus, lai iegūtu papildu naudu,
 
 1:16:53.360,1:16:55.920
-to get this little first stage that starts
-making money...
+un tikt līdz tam, ka ar to var pelnīt naudu...
 
 1:16:55.920,1:16:59.179
-Are you sure that we don't have ethernet plugged
-into the back of your head somewhere?
+Vai esat pārliecināts, ka jūsu galvā kaut kur
+nav Ethernet ligzda? 
 
 1:16:59.179,1:16:59.960
-We're doing wireless here. I don't think.
+Nedomāju. Mums ir bezvadu tīkls.
 
 1:16:59.960,1:17:01.010
-Could you repeat the question?
+Vai varat atkārtot jautājumu?
 
 1:17:01.010,1:17:01.909
-No.
+Nē.
 
 1:17:01.909,1:17:08.909
-No. I'm sorry, this question's not covered
-by an NDA.
+Nē. Piedodiet, bet šis jautājums nav saistīts
+ar informācijas neizpaušanas līgumu.
 
 1:17:10.900,1:17:12.269
-We got some smart people in this room.
+Mums šajā istabā ir diezgan gudri ļaudis.
 
 1:17:12.269,1:17:17.420
-In aerospace engineering, we were taught to
-put development costs and unit costs in the
+Aviācijas un raķešbūves nozarē mums mācīja skaitīt atsevišķi
+izstrādes un vienas vienības uzbūves izmaksas.
 
 1:17:17.420,1:17:20.650
-separate category. It's like you build a fighter
-and you spend billions of dollars to design
+Piemēram, izstrādājot iznīcinātāju, tā izstrādē
+ir nepieciešami miljardi,
 
 1:17:20.650,1:17:25.510
-it, but then you run off copies for 20 million
-dollars apiece. That's how they build 737s
+bet tad jūs varat izgatavot 20 kopijas par 20 miljoniem
+katru. Tādā veidā tika uzbūvēti
 
 1:17:25.510,1:17:26.980
-or other airplanes.
+Boeing 737 lidmašīnas.
 
 1:17:26.980,1:17:30.199
-If you want to go, "What's the unit cost going
-to be?", there's reason to think this is going
+Ja vēlaties zināt "Kāda ir vienas vienībai izbūves
+izmaksas?", tad ir iemesli domāt, ka
 
 1:17:30.199,1:17:35.739
-to be a lot less expensive than what we have
-today if we set the development in another
+tās būs daudz mazākas par jaunas naftas platformas
+
 
 1:17:35.739,1:17:35.989
-column.
+izbūves izmaksām.
 
 1:17:35.800,1:17:39.329
-The reason why, number one, low pressure operation.
-That's the biggest one. When you don't have
+Pirmais iemesls tam ir tāds, ka iekārta strādā
+zemā spiedienā. Tāpēc nav nepieciešams
 
 1:17:39.329,1:17:45.099
-to have 96 steel pressure vessels, huge concrete
-containments. Number two, you don't have to
+tērauda spiedkatls un milzīga betona celtne.
+Otrkārt,
 
 1:17:45.099,1:17:48.999
-fabricate fuel. You don't have to enrich it.
-You don't have to fabricate it and you don't
+nav nepieciešams sagatavot degvielu. Tā nav
+jābagātina, un
 
 1:17:48.999,1:17:52.269
-have to have the approach to disposal as we
-do today.
+pēc tam to nav nepieciešams ilgstoši uzglabāt.
 
 1:17:52.269,1:17:57.869
-Those two features right away are a big deal.
-Number three is the safety systems. High pressure,
+Šīs divas īpašības ir pašas svarīgākās.
+Treškārt, drošības risinājumi. Augstspiediena
 
 1:17:57.869,1:18:00.889
-water cooler reactors have an abundance of
-safety systems designed to always keep the
+ūdens reaktoriem ir pārpalicīgas iekārtas,
+kas paredzētas tam, lai
 
 1:18:00.889,1:18:03.659
-core covered with water. So, if one system
-has 99 percent reliability; well, you need
+reaktora serde vienmēr atrastos ūdenī.
+Ja vienai atsevišķai sistēmai ir 99% uzticamība,
 
 1:18:03.659,1:18:08.130
-another one that also has it so that you can
-get 99.9 and maybe statisticians will get
+jums ir nepieciešama vēl viena, lai nodrošinātu
+99,9%, jums ir nepieciešama vēl viena iekārta.
 
 1:18:08.130,1:18:09.800
-mad at me, I might be doing it wrong.
+Varbūt statistiķi tam nepiekritīs, un niknosies uz mani.
 
 1:18:09.800,1:18:14.369
-One of the things that makes the conventional
-reactors so expensive the containment vessel
+Viena no lietām, kas padara standarta reaktorus tik dārgus,
+ir betona saturēšanas būve,
 
 1:18:14.369,1:18:18.969
-and you've touched on that. The other is all
-the security apparatus around the maintaining
+par ko jau runājām. Otra lieta ir
+visas ar drošību saistītās procedūras,
 
 1:18:18.969,1:18:22.929
-of the fissile material so that it doesn't
-get diverted for military purposes.
+kas nepieciešamas, lai nosargātu kodolmateriālu,
+lai to neizmantotu militāriem mērķiem.
 
 1:18:22.929,1:18:27.300
-I've scratched my head about that with existing
-reactors because our reactors, at least in
+Es par to kasu galvu, jo,
 
 1:18:27.300,1:18:29.349
-the United States, don't use highly registered
-uranium.
+vismaz ASV, mēs neizmantojam augsti bagātinātu urānu.
 
 1:18:29.349,1:18:33.650
-Well, that's one of the fears and that's one
-of the security reasons around it. Whether
+Viens no iemesliem tam ir tikai bailes.
+Vienalga,
 
 1:18:33.650,1:18:34.599
-it's real or not -
+vai tās ir pamatotas, vai ne-.
 
 1:18:34.599,1:18:36.989
-Yeah, I guess I would have to challenge whether
-it's real or not.
+Jā, domāju, ka ir grūti pateikt, vai tās ir reālas,
+vai arī ne-.
 
 1:18:36.989,1:18:40.929
-It wasn't that many years ago that we were
-able to show parties of visitors around the
+Ne tik daudz gadu atpakaļ, mums bija atļauts
+doties ekskursijās,
 
 1:18:40.929,1:18:45.929
-site and actually show them what good condition
-the site is in and how safe it is. It's only
+lai katrs varētu klātienē pārliecināties,
+cik droši ir kodolreaktori.
 
 1:18:45.929,1:18:51.639
-since 9/11 that we've had to stop inviting
-visitors. We've always had a very open policy;
+Tikai kopš 11. septembra, apmeklējumi vairs nav
+atļauti. Pirms tam mums bija 
 
 1:18:51.639,1:18:55.690
-very keen to show people how good we are at
-what we do and how safe the plant is. It's
+ļoti atvērta politika, un mēs rādījām viesiem,
+cik kodolstacijas ir drošas.
 
 1:18:55.690,1:18:59.940
-very difficult to convince yourself that things
-are safe because you can't see what's going
+Ir ļoti grūti pārliecināt, ka lietas ir drošas,
+ja jums netiek parādīts,
 
 1:18:59.940,1:19:00.519
-on.
+kas tajās notiek.
 
 1:19:00.519,1:19:04.130
-Even the plutonium inside the reactor is what's
-called reactor-grade plutonium, which isn't
+Pat t.s. reaktora līmeņa plutonijs, kas atrodas
+tā serdē, nav izmantojams
 
 1:19:04.130,1:19:04.420
-suitable.
+bumbas izgatavošanā.
 
 1:19:04.420,1:19:08.289
-Try going to any facilitate in North America
-now, they have SWAT teams and -
+Pamēģiniet tagad apmeklēt jebkuru Ziemeļamerikas
+kodolstaciju, un jūs ielenks militārā policija.
 
 1:19:08.289,1:19:12.269
-I've toured a nuclear power plant. We've really
-got the working when we went in there. I'm
+Es esmu apmeklējis daudzas kodolstacijas.
+Mēs patiešām sapratām, kā tas notiek, kad tur nonācām.
 
 1:19:12.269,1:19:15.869
-not exactlysure what the basis of that was,
-whether they were worried about theft of fissile
+Man nav skaidrs, kāpēc viņi
+uztraucas par kodoldegvielu, jo
 
 1:19:15.869,1:19:19.920
-material - that would be pretty hard. I'd
-have to go and depressurize the core, take
+to nozagt būtu diezgan grūti. Jums
+vajag nomest reaktora spiedienu,
 
 1:19:19.920,1:19:24.599
-the lid off, get access to all the spent fuel,
-somehow remove it from the spent fuel pool
+lai piekļūtu serdei un kaut kā ir jānosaka,
+kuri no stieņiem ir jauni, bet kuri izmantoti.
 
 1:19:24.599,1:19:29.429
-into some sort of transport cask, take it
-off the site to a reprocessing facility that
+Tad jums kaut kā ir jāatrisina transporta problēma,
+lai nogādātu degvielu uz rūpnīcu,
 
 1:19:29.429,1:19:32.769
-doesn't exist and - I mean, I just go "There's
-got to be another reason they have all that
+kuras nemaz nav. Tāpēc es nesaprotu,
+kāpēc "Tas ir viens no iemesliem,
 
 1:19:32.769,1:19:33.019
-security."
+papildu drošībai."
 
 1:19:32.769,1:19:34.010
-Watch the TV news.
+Kā to apgalvo TV.
 
 1:19:34.010,1:19:37.499
-Well, you know. It just seems to me, when
-there's a subject that I know a little bit
+Ziniet, kad es skatos TV par tematu,
+kuru daudzmaz pārzinu,
 
 1:19:37.499,1:19:40.489
-about and watch how the news covers it, I
-get frustrated really quickly.
+tad es diezgan ātri kļūstu nikns.
 
 1:19:40.489,1:19:45.489
-I think just about every media outlet I've
-seen is drumming up fear. From the New York
+Cik esmu novērojis, praktiski visās ziņās
+tiek uzkurinātas bailes. Sākot ar New York
 
 1:19:45.489,1:19:47.749
-Times to the Huffington Post to the Fox News.
+Times un Huffington Post, un beidzot ar Fox News.
 
 1:19:47.749,1:19:51.079
-There's been a recent spike in infant deaths
-in Philadelphia and there's one expert right
+Nesen Filadelfijā bija jaundzimušo nāves pieaugums,
+un bija viens eksperts,
 
 1:19:51.079,1:19:55.510
-now who is saying, "It's radioactive levels
-in our water that's to blame for that."
+kas apgalvoja: "Pie tā ir vainīgs mūsu ūdens
+radioaktivitātes līmenis."
 
 1:19:55.510,1:19:59.510
-This has been a very bipartisan approach to
-scaring the public.
+Tas ir ļoti ietekmīgs publikas iebiedēšanas veids.
 
 1:19:59.510,1:20:05.670
-Radiation comes across the ocean. It is dissipated
-by wind current and salt spray, but it is
+Radiācija nāk no okeāna. Ūdenī ir izšķīduši sāļi,
+kurus pie mums uz Kaliforniju
 
 1:20:05.670,1:20:08.269
-reaching the shore of California.
+atnes okeāna straumes.
 
 1:20:08.269,1:20:14.349
-There's radiation all over the place, every
-single day, but you're talking the damaging
+Radiācija ir visur un katru dienu. Bet ir arī
+graujoša radiācija.
 
 1:20:14.349,1:20:18.900
-radiation. That's the thing we're most concerned
-about and even in Chernobyl, that didn't get
+Piemēram, kā tas bija Černobiļā. Bet pie mums
 
 1:20:18.900,1:20:21.920
-to the United States in damaging amounts.
-How is it going to do that?
+uz ASV tā nenonāca vērā ņemamos daudzumos. 
 
 1:20:21.920,1:20:24.570
-OK, you know what Bernie. From your mouth,
-to God's ears.
+Labi. Ziniet Bērnij, no jūsu mutes Dieva ausī.
 
 1:20:24.570,1:20:29.269
-Our media is not built around effectively
-and accurately disseminating information to
+Mūsu mediji nav izveidoti tā, lai efektīvi
+un precīzi piegādātu ziņas sabiedrībai.
 
 1:20:29.269,1:20:32.610
-the public. Our media is built around...
+Mūsu mediji ir izveidoti...
 
 1:20:32.610,1:20:39.300
-Thank you. Our media is built around putting
-your eyeballs on their print or on their website
+Paldies. Mūsu mediji ir izveidoti tā,
+lai mēs nevarētu atraut acis no viņu vietnes,
 
 1:20:39.300,1:20:44.929
-and keeping them there. The best way to keep
-them there is to scare you to death.
+un dzīvotu tajā. Labākais veids, kā noturēt jūs,
+ir nobiedēt līdz nāvei.
 
 1:20:44.929,1:20:51.929
-Only 24 hours after the most horrendous tragic,
-gargantuan natural disaster of an earthquake
+Tikai 24 stundas pēc zemestrīces un cunami,
+vienīgās ziņas bija par
 
 1:20:52.190,1:20:57.249
-followed by the tsunami, the only story in
-town was about Fukushima.
+Fukušimu.
 
 1:20:57.249,1:21:02.099
-As an engineer, we are taught that our responsibility
-is to accurately and effectively communicate
+Mēs, inženieri, esam mācīti atbildīgi un efektīvi
+apstrādāt informāciju un
 
 1:21:02.099,1:21:06.289
-and disseminate information both to other
-engineers and to the public at large.
+sazināties, gan ar citiem inženieriem,
+gan arī ar sabiedrību.
 
 1:21:06.289,1:21:09.670
-So an engineer gets on TV and they say, "What's
-going to happen, Dr. So-and-So?", and he goes,
+Piemēram, viens inženieris nonāk TV, un viņam
+vaicā: "Kas gan varētu notikt, doktor tāds un tāds?"
 
 1:21:09.670,1:21:13.329
-"Well, there's a possibility several things
-could happen. A very low probability event
+Un viņš atbild: "Nu... ir iespējamas dažādas lietas.
+Ar ļoti mazu varbūtību
 
 1:21:13.329,1:21:15.960
-is that this might happen, but it's much more
-likely that --" "Oh, wait. Let's get back
+var notikt tas un tas. Bet drīzāk gan...",
+— "Pagaidiet, labāk atgriezīsimies pie tās
 
 1:21:15.960,1:21:20.010
-to that low probability event. Now, in that
-low probability event, what could happen?"
+mazvarbūtīgās iespējas. Tātad, kas varētu 
+notikt tajā mazvarbūtīgajā gadījumā?"
 
 1:21:20.010,1:21:23.389
-"You know, I guess it's possible that - but
-this is really unlikely, and the wind would
+"Ziniet, domāju, ka, tas gan ir maz ticams,
+vējš varētu pūst tā,
 
 1:21:23.389,1:21:27.570
-have to blow this way and --" "Well, let's
-go that way." The poor engineer, he's thinking
+un tad..." — "Labi, apskatīsim tālāk šo gadījumu."
+Ap šo laiku nabaga inženieris paredz, ka
 
 1:21:27.570,1:21:30.369
-we're up 10^-12 now, or something like that.
+gadījuma iespējamība ir ap 10^–12.
 
 1:21:30.369,1:21:36.249
-And they're going, "Does Godzilla form?" "Well,
-you know, a double ended DNA break, I suppose
+Un viņi turpina tālāk: "Vai var izveidoties Godzilla?
+"Nu..., jūs zināt, ka var rasties DNA bojājumi,
 
 1:21:36.249,1:21:42.030
-in the right gene, could actually trigger
-an increased growth rate of hormone, which
+attiecīgajā gēnā, un tas var aktivizēt augšanas hormonu,
+kas var novest
 
 1:21:42.030,1:21:43.969
-could actually lead to mild gigantism."
+pie gigantisma."
 
 1:21:43.969,1:21:48.280
-They only wanted to know about the risks from
-the nuclear incident. And what they particularly
+Viņi vēlas zināt tikai par kodolavāriju riskiem.
+Un visvairāk viņus interesē tikai
 
 1:21:48.280,1:21:52.719
-wanted to know, and asked many times was what
-is the worst case scenario.
+paši sliktākie iespējamie gadījumi.
 
 1:21:52.719,1:21:58.760
-Godzilla is coming tomorrow. It's like "Oh
-man, we're like 10^-32 at this point. The
+Godzilla var atnākt jau rīt. Iespējamība ir
+"Aptuveni 10^–32, un iespēja, ka pirms tam
 
 1:21:58.760,1:22:02.110
-proton is going to decay before this happens."
+sabruks protons ir lielāka."
 
 1:22:02.110,1:22:06.989
-You already have a terrible scare story. It
-wasn't as if we were asking them to cover
+Un jums ir gatavs briesmīgs šausmu stāsts.
+Ja mēs no viņiem prasītu labās,
 
 1:22:06.989,1:22:10.550
-the good news, not the bad news. There was
-plenty of bad news.
+nevis sliktās ziņas, tad tik daudz sliktu ziņu
+nebūtu.
 
 1:22:10.550,1:22:14.749
-I had a friend of mine. She and her husband
-are diplomats in China and she wrote me as
+Man ir draudzene ar vīru, kuri ir diplomāti Ķīnā.
+Viņa man rakstīja šausmās, un vaicāja:
 
 1:22:14.749,1:22:19.210
-breathlessly as you can in an email and she
-said, "Kirk, are we going to be OK? I'm in
+"Kirk, vai mums viss būs labi?
+Es esmu Ķīnā!"
 
 1:22:19.210,1:22:22.199
-China, are we going to be all right?" I said,
-"Don't worry. The iodine-131 would have to
+Es atbildēju: "Neuztraucies. Jods-131, kas radās
 
 1:22:22.199,1:22:26.570
-blow all the way around the world and then
-come back around to get you in China and there
+avārijā, vispirms apceļos apkārt visai pasaulei,
+un, kad tas beidzot nonāks līdz Ķīnai,
 
 1:22:26.570,1:22:29.039
-wouldn't be enough of it, has an eight and
-a half day life, so it would have decayed
+tas jau būs sabrucis, jo tā pussabrukšanas laiks
+ir astoņas ar pusi dienas.
 
 1:22:29.039,1:22:30.789
-to nothing right about here." Blah, blah,
-blah.
+Tā kā nekas slikts nenotiks. Utt, utt.
 
 1:22:30.789,1:22:33.670
-But, she was scared to death and this is a
-smart girl.
+Bet viņa ir izglītota sieviete, tomēr bija 
+nobijusies līdz nāvei.
 
 1:22:33.670,1:22:38.719
-The Science Media Center's job was to line
-up people who know about radiation, who know
+Zinātnes mediju centrā bija uzdevums,
+sameklēt cilvēkus, kas kaut ko zina par radiāciju,
 
 1:22:38.719,1:22:43.889
-about its affects on humans and without exception,
-they said from the beginning, "This is a very,
+un kā tā ietekmē cilvēkus. Un visi bez izņēmuma,
+apgalvoja: "Šī ir ļoti nopietna avārija.
 
 1:22:43.889,1:22:49.519
-very serious incident, but in terms of it
-being a threat, even to people in Tokyo, never
+Tomēr, no draudu viedokļa, pat cilvēkiem
+Tokijā, nemaz nerunājot par cilvēkiem
 
 1:22:49.519,1:22:55.670
-mind to people in Glasgow, they were expressing,
-time after time, apart from the people in
+Glazgovā, ko viņi atkārtoja atkal un atkal,
 
 1:22:55.670,1:23:01.090
-the exclusion zone, that this threat was very,
-very, very, very small." And indeed, they
+ka draudi bija ļoti, ļoti mazi."
+Un patiešām,
 
 1:23:01.090,1:23:03.469
-still feel it is very small.
+tie vēl arvien ir ļoti mazi.
 
 1:23:03.469,1:23:07.130
-Nuclear experts have a vested interest in
-playing down nuclear incidents.
+Kodoleksperti ir nopietni strādājuši pie tā,
+lai samazinātu kodolavāriju draudus.
 
 1:23:07.130,1:23:12.920
-We have journalists coming to us and saying,
-"My editor has said to me, what are the apologists
+Mums ir žurnālisti, kas nāk un saka:
+"Mans redaktors man vaicāja, ko komentētāji saka šodien?"
 
 1:23:12.920,1:23:18.050
-saying today?" because we were running almost
-daily press briefings, with different experts.
+Jo mums gandrīz ikdienu ir kaut kādas
+diskusijas ar dažādiem ekspertiem.
 
 1:23:18.050,1:23:22.739
-None of them actually worked for industry
-as it happened, but yeah, there was this idea,
+Neviens no tiem patiesībā nav strādājis nozarē,
+bet tik un tā žurnālisti uzskata,
 
 1:23:22.739,1:23:29.739
-that they would say that, wouldn't they? These
-leading scientists, who publish and peer-review
+ka viņiem ir ko teikt. Vadošie zinātnieki,
+kas publicē recenzētus rakstus,
 
 1:23:29.869,1:23:36.670
-journals, who work for very respected scientific
-institutions, are playing down an incident
+kas strādā respektablās iestādēs,
+cenšas nolīdzināt incidentu,
 
 1:23:36.670,1:23:40.409
-because they support the nuclear industry.
-That is quite a charge.
+jo viņi atbalsta kodolindustriju.
+Tā ir liela atbildība. 
 
 1:23:40.409,1:23:47.110
-I was just reading an article this morning
-saying they detected radioactivity in milk
+Šorīt es lasīju laikrakstā, ka
+viņi ir atklājuši radioaktivitāti pienā,
 
 1:23:47.110,1:23:51.210
-and I thought, of course they detected radioactivity
-in milk. All milk is radioactive.
+un es nodomāju, protams, ka viņi to atklāja.
+Piens ir radioaktīvs.
 
 1:23:51.210,1:23:57.749
-Two of them said, Fiona, our editors think
-there is something uniquely terrifying about
+Viena no redaktorēm, Fiona, uzskata,
+ka radiācija ir kaut kas briesmīgs.
 
 1:23:57.749,1:24:04.019
-radiation. There is something unique to that
-word that has the capacity to really terrify
+Tas ir kaut kas īpašs, no kā 
+cilvēki briesmīgi baidās.
 
 1:24:04.019,1:24:10.670
-people. What a strange set of news values
-that what justifies the amount of coverage
+Un cilvēku bailes ir tās,
+kas nosaka,
 
 1:24:10.670,1:24:13.289
-is what your editors feel terrifies people.
+cik daudz par to tiek runāts ziņās.
 
 1:24:13.289,1:24:17.479
-What they really meant to say was there was
-a particular radio-isotope they found in the
+Patiesībā tas norāda to, ka
+pienā tika atrasts noteikts radioaktīvs izotops,
 
 1:24:17.479,1:24:22.559
-milk that came from the Japanese nuclear plant.
-The article, of course, didn't mention that,
+kas ir radies no Japānas spēkstacijas avārijas.
+Rakstā, protams, par to nekas nebija teikts,
 
 1:24:22.559,1:24:27.190
-which would make people think, "Uh-oh, my
-milk has gone from zero radioactivity to some
+tāpēc cilvēki var domāt: "Mans piens no 
+neradioaktīva ir palicis radioaktīvs,
 
 1:24:27.190,1:24:30.099
-radioactivity which must be bad and I must
-be in real trouble now."
+un tāpēc man tagad ir jāuztraucas."
 
 1:24:30.099,1:24:35.260
-The way that this was covered was wrong. I
-feel confident in saying that because of how
+Veids, kā tas tika pasniegts bija nepatiess.
+Un es to droši zinu, ka ļoti
 
 1:24:35.260,1:24:41.070
-many journalists felt uneasy about this. I
-know of journalists who were taken off this
+daudzi žurnālisti šajā ziņā grēko.
+Es zinu, ka žurnālisti izvēlējās šo ziņu,
 
 1:24:41.070,1:24:45.979
-story because what they were writing was too
-measured and that's in a really significant,
+jo tā tiek uzņemta kā pati svarīgākā ziņa
 
 1:24:45.979,1:24:47.510
-major news room in this country.
+mūsu valstī.
 
 1:24:47.510,1:24:51.630
-In terms of the public's perception of risk,
-things that might be true because I read them
+Par sabiedrības attieksmi pret riskiem,
+tas varētu būt pareizi, jo šodien lasīju
 
 1:24:51.630,1:24:56.519
-on the Internet, Neil deGrasse Tyson tweeted
-today, "the causes of death worldwide in March
+Nīla de Grāsa Taisnona tvītu: "2011. gada
+martā pasaulē no bada ir miruši
 
 1:24:56.519,1:24:59.210
-2011, starvation, three million."
+trīs miljoni."
 
 1:24:59.210,1:25:03.479
-Neil deGrasse Tyson, big fan of his. We've
-needed somebody like Neil deGrasse Tyson ever
+Kopš ir miris Kārls Sagāns,
 
 1:25:03.479,1:25:08.059
-since Carl Sagan died. But yeah, what's the
-first one on his list, starvation?
+Esmu liels Nīla de Grāsa Taisona fans.
+Viņš uzsver, kas ir galvenie nāves iemesli.
 
 1:25:08.059,1:25:13.360
-Starvation, 3,000,000; malaria, 250,000; car
-crashes, 100,000; quakes and tsunamis 28,000.
+Bads: 3'000'000, malārija 250'000,
+autoavārijas: 100'000, zemestrīces un cunami: 28'000.
 
 1:25:13.360,1:25:17.369
-Body count on nuclear power death is what?
-Low.
+Kāds ir bojāgājušo skaits kodolavārijās? 
+Mazs.
 
 1:25:17.369,1:25:20.889
-Civilian nuclear power in the United States
-hasn't killed anyone. The body count would
+ASV kodolstacijās nav gājis bojā neviens cilvēks.
 
 1:25:20.889,1:25:21.420
-be zero.
+Upuru skaits ir nulle.
 
 1:25:21.420,1:25:26.639
-So when Three Mile Island releases some radiation,
-you'd want to incorporate statistic likelihood
+Lai arī Triju jūdžu salā bija radiācijas noplūde,
+jūs nespējat statistiski noteikt,
 
 1:25:26.639,1:25:29.030
-of someone getting thyroid cancer in any number.
+par cik tāpēc pieauga vēža gadījumu skaits.
 
 1:25:29.030,1:25:33.150
-No, because even the statistical likelihood
-is theory that is not based on facts. It's
+Un pat tas, ka vēža gadījumu skaits varētu būt
+pieaudzis ir teorija, nevis zinātnisks fakts.
 
 1:25:33.150,1:25:38.159
-called the linear no-threshold hypothesis
-and it's not based on epidemiological data.
+To sauc par lineāro bezsliekšņa hipotēzi, bet to
+neatbalsta epidemiloģiskie dati.
 
 1:25:38.159,1:25:42.729
-It's based on the assumption that radiation
-will harm you at whatever degree - to whatever
+Tā ir balstīta uz pieņēmumu, ka radiācija dara ļaunu
+pat vismazākajās devās, vienalga,
 
 1:25:42.729,1:25:44.289
-degree you are exposed.
+cik mazas tās ir.
 
 1:25:44.289,1:25:46.699
-I thought that that was established actually.
-I thought that...
+Es domāju, ka tas ir pierādīts...
+Es domāju...
 
 1:25:46.699,1:25:47.320
-No, it's established.
+Nē, tas nav pierādīts.
 
 1:25:47.320,1:25:48.309
-I've heard that there's...
+Esmu dzirdējis, ka...
 
 1:25:48.309,1:25:51.940
-It's established policy. That's where that
-no such thing as safe radiation - that comes
+Tā ir iedibināta nostāja: ka nav tādas lietas,
+kā drošs radiācijas daudzums,
 
 1:25:51.940,1:25:56.400
-from the linear no-threshold hypothesis. It
-is established in regulation yet, there's
+un tā ir balstīta uz lineāro bezsliekšņa hipotēzi.
+Tā ir iedibināta kā norma
 
 1:25:56.400,1:26:01.420
-no epidemiological data to back that up. There
-is no study that says we have taken a cohort
+bet epidemoloģijas dati to neatbalsta. Nav pētījumu,
+kuros būtu pierādījies, ka, ja paņem
 
 1:26:01.420,1:26:05.269
-of people and we have exposed them to one
-percent more radiation than normally would
+lielu iedzīvotāju daudzumu un pakļauj tos par dažiem procentiem
+lielākai radiācijai,
 
 1:26:05.269,1:26:06.920
-get and we've seen one percent more cancer.
+ka tāpēc palielinātos vēža gadījumu skaits.
 
 1:26:06.920,1:26:11.269
-In fact, there are many places in the world
-where back room levels of radiation are substantially
+Patiesībā pasaulē ir daudzas vietas, kur dabīgā
+fona radioaktivitāte ir daudzkārt lielāka,
 
 1:26:11.269,1:26:17.239
-higher if the linear no-threshold hypothesis
-was in fact true or even approaching truth,
+un, ja lineārā hipotēzes būtu patiesa,
 
 1:26:17.239,1:26:21.719
-you would see statistically significantly
-higher levels of cancer in those populations,
+tajās vietās būtu jābūt jūtami lielākam vēža gadījumu
+skaitam
 
 1:26:21.719,1:26:26.840
-those cohorts. But what happens? Not only
-is there not higher levels of cancer, there
+šo iedzīvotāju vidū. Bet kā ir patiesībā?
+Patiesībā ir tā, ka šajās vietās vēža gadījumu
 
 1:26:26.840,1:26:29.550
-are actually suppressed levels of cancer.
+uz iedzīvotāju skaitu ir mazāk, nevis vairāk.
 
 1:26:29.550,1:26:34.479
-Which leads to a theory that does have substantiation
-in the data and that's called hormesis. Hormesis
+Kas vedina uz tā saucamo hormēzes teoriju. 
 
 1:26:34.479,1:26:38.260
-is simply a little bit is good for you and
-radiation appears to be one of these things
+Hormēze ir lieta, kas nelielos daudzumos ir nepieciešama.
+Un izskatās, ka arī radiācija
 
 1:26:38.260,1:26:42.999
-where a little bit more is actually good for
-you and suppresses your development of cancer.
+ir lieta, kas nelielos daudzumos ir nepieciešama,
+un patiesībā apspiež vēža veidošanos.
 
 1:26:42.999,1:26:45.969
-And I say, well why would a little bit of
-radiation be good for me? When you go and
+Un es jautāju, kāpēc neliels radiācijas daudzums
+ir labs? Kad jūs darāt fiziskas nodarbības,
 
 1:26:45.969,1:26:49.369
-exercise, you damage your muscles, but your
-body rebuilds them and rebuilds them stronger
+jūs patiesībā traumējat savus muskuļus, bet
+jūsu organisms tos atjauno vēl stiprākus,
 
 1:26:49.369,1:26:53.809
-than they were before. Radiation stimulates
-cellular damage, but it also stimulates the
+nekā tie bija pirms tam. Arī radiācija traumē jūsu 
+šūnas, bet nelielas traumas stimulē augšanu
 
 1:26:53.809,1:26:55.289
-body's repair mechanism.
+un šūnu atjaunošanos.
 
 1:26:55.289,1:26:59.420
-If hormesis became policy instead of linear
-no-threshold, we would have an incredibly
+Ja lineārās hipotēzes vietā par normu kļūtu
+hormēze, tad mums pret radiāciju būtu
 
 1:26:59.420,1:27:03.989
-different approach to radiation. In fact,
-in some ways, we actually do accept hormesis
+pavisam cita attieksme. Patiesībā, mēs pat tagad
+dažkārt pieļaujam radiāciju kā hormēzi,
 
 1:27:03.989,1:27:07.469
-when it comes to natural radiation, but we
-don't accept it when it comes to artificial
+bet tikai tad, ja tā ir dabīgi radusies,
+un nepieļaujam to, ja tā ir veidota mākslīgi.
 
 1:27:07.469,1:27:09.999
-radiation. The reality is, there's no difference
-between the two.
+Patiesībā nav atšķirības starp dabisku un mākslīgu
+radiāciju.
 
 1:27:09.999,1:27:14.800
-We have a three year environmental assessment
-process in Canada to build a nuclear reactor
+Kanādā mūsu likumdošana pieprasa triju gadu ilgu izpēti,
+lai uzceltu kodolstaciju,
 
 1:27:14.800,1:27:16.300
-and we have a weekend to produce a coal plant.
+bet jaunas ogļu stacijas celtniecību var apstiprināt vienā
+nedēļas nogalē.
 
 1:27:16.300,1:27:20.739
-Coal and gas plants are able to release radioactive
-materials into the environments in much greater
+Ogļu un gāzes stacijas rada daudz lielāku radiāciju
+nekā tā jebkad ir pieļauta
 
 1:27:20.739,1:27:25.559
-amounts than a nuclear plant would ever possibly
-be allowed to because they are considered
+kodolstacijās. Bet tā ir pieņemta par normu,
 
 1:27:25.559,1:27:29.489
-what's called NORM, Natural Occurring Radioactive
-Materials. For instance, when you go frack
+jo to rada dabīgi veidojušies materiāli.
+Piemēram, ja jūs atplēšat slānekli,
 
 1:27:29.489,1:27:34.179
-a shale and you pull gas out, a lot of radon
-comes out with that too.
+no tā izdalās ne tikai slānekļa gāze, bet
+arī radons.
 
 1:27:34.179,1:27:39.749
-You burn the gas, that radon's being released.
-Nobody counts that radon against the gas.
+Ja šo gāzi sadedzina, radons izplatās vidē.
+Neviens šo daudzumu neuzskaita.
 
 1:27:39.749,1:27:44.539
-If they did, the regulatory commission would
-shut the gas plant down, same with coal. Coal
+Ja kāds to darītu, būtu jāaptur gan gāzes,
+gan ogļu stacijas.
 
 1:27:44.539,1:27:47.769
-contains small amounts of uranium and thorium.
-They go up the stack, they're dispersed.
+Ogles satur nelielu daudzumu urāna un torija.
+Tā kā tas ir kopā ar pārējo, tas nav koncentrēts,
 
 1:27:47.769,1:27:50.369
-That's why they can't tell you how much waste
-they produced.
+un neviens nevar pateikt, cik daudz aiziet atkritumos.
 
 1:27:50.369,1:27:55.130
-Yeah, and they spend a lot of money to make
-sure that regulatory agencies do not regulate
+Jā, viņi tērē daudz naudas, lai nodrošinātos, 
+ka neviena no aģentūrām nenosaka,
 
 1:27:55.130,1:28:00.900
-NORM for a coal or gas plant the way they
-regulate radioactive emissions from a nuclear
+NORMU, kā tā ir noteikta kodolstacijām.
 
 1:28:00.900,1:28:06.070
-plant. If they did, we would be shutting down
-all of our coal and gas plants based on radioactivity
+Ja tādas pašas normas būtu ogļu un gāzes stacijām,
+tās būtu jāslēdz, jo tās pārsniegtu
 
 1:28:06.070,1:28:07.479
-alone.
+noteiktās normas.
 
 1:28:07.479,1:28:10.670
-Even if linear no-threshold was actually true
-- let's say for a minute it was true, and
+Pat ja lineārā bezsliekšņa hipotēze būtu patiesa,
+uz brīdi pieņemsim, ka tā ir
 
 1:28:10.670,1:28:15.249
-this was the reality of the world. You would
-still be much better off establishing an entire
+pasaules realitāte. Tik un tā būtu daudz labāk,
+ja visa pasaules enerģija tiktu iegūta
 
 1:28:15.249,1:28:18.739
-world powered by nuclear power. The reason
-why is because of the radioactive releases
+kodolstacijās. Jo ogļu stacijas rada daudz 
+lielāku radioaktivitāti.
 
 1:28:18.739,1:28:22.440
-from coal. You would want to shut down coal
-so you could have nuclear, because coal releases
+Tad jums būtu jāslēdz visas ogļu stacijas, jo
+to izdalītā radiācija ir par vairākām kārtām lielāka,
 
 1:28:22.440,1:28:25.679
-more radiation than nuclear by several orders
-of magnitude.
+nekā tā, ko rada kodolstacijas.
 
 1:28:25.679,1:28:32.130
-The notion that there is no safe amount of
-radiation is not a substantiated or even an
+Tomēr ideja, ka nav droša radiācijas daudzuma,
+nav ne pamatots,
 
 1:28:32.130,1:28:38.469
-accurate statement. It is probably actually
-utterly inaccurate. But, it is commonly found
+ne precīzs apgalvojums. Drīzāk tas ir absolūti
+nepatiess, jo to pierāda
 
 1:28:38.469,1:28:41.639
-as a basis of public policy around the world.
+daudzas lietas apkārt pasaulē.
 
 1:28:41.639,1:28:46.800
-That was my understanding until just now,
-that there was no safe level of radiation.
+Es līdz šim uzskatīju, ka nav drošas
+radiācijas devas.
 
 1:28:46.800,1:28:50.510
-Two great books on this- "Terrestrial Energy"
-by Bill Tucker, and "The Power to Save the
+Par to ir divas lieliskas grāmatas — Bila Takera
+"Terrestrial Energy" un Gvena Kravensa
 
 1:28:50.510,1:28:57.070
-World" by Gwen Cravens- go into this topic
-extensively. Until this notion of low exposure
+"The Power to Save the World", kurās tas ir detalizēti
+aprakstīts. Ja jautājums par
 
 1:28:57.070,1:29:03.670
-levels of radiation is addressed and put to
-bed, it will forever dog the nuclear industry.
+mazām radiācijas devām netiks atrisināts,
+tas bezgalīgi kavēs kodolindustriju.
 
 1:29:03.670,1:29:07.760
-A sunburn is radiation damage. That's radiation
-burn. We don't call it that, but that's what
+Arī saules iedegums ir radiācijas bojājums. Tas ir
+radiācijas apdegums. Mēs to tā nesaucam,
 
 1:29:07.760,1:29:13.499
-it is. Your body is responding, trying to
-prevent further radiation damage, ionizing
+bet tā tas ir. Jūsu organisms reaģē, uz
+jonizējošo starojumu,
 
 1:29:13.499,1:29:16.780
-radiation to your skin and your cells, and
-it's generating melanin, which is a natural
+un tā ādas šūnas izdala melanīnu, kas ir dabīgs
+
 
 1:29:16.780,1:29:18.519
-shielding mechanism.
+aizsardzības mehānisms.
 
 1:29:18.519,1:29:22.229
-You don't want to let anybody get too much
-radiation dose at any one time and the radioactivity
+Neviens nevēlas nevienu pakļaut pārāk lielai
+radiācijas devai, tomēr tas, ko rada
 
 1:29:22.229,1:29:26.760
-that we get from nuclear reactors is extremely
-small in comparison to the radioactivity we're
+kodolreaktori, ir ļoti maz, salīdzinot ar to
+radioaktivitāti, ko mēs saņemam
 
 1:29:26.760,1:29:30.659
-getting from other sources. The biggest one
-being radon. There's a radioactive gas that's
+no citiem avotiem. Būtiskākais avots ir radons.
+Tā ir radioaktīva gāze,
 
 1:29:30.659,1:29:34.760
-coming out of the ground all the time. You're
-breathing it right now. It is responsible
+kas no zemes izdalās nepārtraukti. Jūs tagad to 
+elpojat. Tā ir atbildīga par lielāko daļu
 
 1:29:34.760,1:29:40.479
-by far for the majority of the radioactivity
-that your body receives. It's just the planet
+no radiācijas daudzuma, ko tagad saņem jūsu 
+ķermenis. Vienkārši tāda ir planēta,
 
 1:29:40.479,1:29:41.829
-we live on.
+uz kuras mēs dzīvojam.
 
 1:29:41.829,1:29:45.159
-Inside the earth, thorium and uranium are
-decaying, and they're decaying very slowly,
+Urāns un torijs pamazām sadalās zemes dzīlēs,
+un lai arī tas notiek ļoti lēni,
 
 1:29:45.159,1:29:50.070
-but there's a lot of them and the earth is
-big. They produce most of the heat that drives
+uz visas zemes kopā tā ir ļoti daudz. Šo kodolu 
+sadalīšanās rada lielāko daļu 
 
 1:29:50.070,1:29:54.030
-the internal processes of the earth. They
-produce the heat that drives plate tectonics,
+no zemes iekšējā siltuma. Šī siltuma ietekmē
+kustās zemes garozas plātnes
 
 1:29:54.030,1:29:58.510
-and they produce the heat that drives the
-generation of the magnetic field. If we didn't
+un tas rada arī zemes magnētisko lauku.
+Ja mūs nenodrošinātu torija enerģija,
 
 1:29:58.510,1:30:02.340
-have the energy from thorium, we wouldn't
-have carbon recycling in the crust.
+zemes garozā nenotiktu kalcija atkalizmantošana.
 
 1:30:02.340,1:30:07.010
-A bigger deal is the magnetic field, because
-the magnetic field is deflecting the solar
+Vēl svarīgāks ir magnētiskais lauks, jo tas
+atstaro saules vēju.
 
 1:30:07.010,1:30:11.900
-wind. If you don't have a magnetic field deflecting
-the solar wind, over billions of years your
+Ja zemei nebūtu magnētiskā lauka, miljardu gadu laikā
+tā būtu tāda pati kā marss.
 
 1:30:11.900,1:30:17.489
-planet ends up like Mars. Because the solar
-wind will strip off a planet's atmosphere
+Jo tad saules vējš aizpūstu projām atmosfēru,
 
 1:30:17.489,1:30:22.909
-without the protecting nature of the magnetic
-field. So if we didn't have the energy from
+Tāpēc, ja zemes dzīlēs nebūtu torija,
 
 1:30:22.909,1:30:26.340
-thorium inside the earth, we would be on a
-dead planet.
+zeme būtu mirusi planēta.
 
 1:30:26.340,1:30:28.309
-A fun thing I tell people, I say, "What's
-green energy?" They go, "Geothermal is green
+Jocīga lieta, ir tas, kad jautāju cilvēkiem:
+"Kas ir zaļā enerģija?", viņi atbild:
 
 1:30:28.309,1:30:33.340
-energy." Do you know where geothermal comes
-from? No. It comes from decay of Thorium inside
+"Ģeotermiskā." Bet no kurienes tā nāk?
+Tā nāk no torija sadalīšanās zemes dzīlēs.
 
 1:30:33.340,1:30:37.780
-the earth. Is geothermal renewable? Yes! OK,
-then Thorium is renewable. "No, it's not,
+Ja ģeotermiskā enerģija ir atjaunojošs resurss,
+tad arī torijs ir tāds. "Nē, torijs tāds nav!"
 
 1:30:37.780,1:30:40.550
-you're using it up!" Well, you're using up
-Thorium as it decays inside the earth, too.
+Bet jūs izmantojat to pašu toriju, kas sadalās
+zemes iekšienē.
 
 1:30:40.550,1:30:45.929
-So any argument for geothermal, if it is rigorously
-pursued, is an argument for the renewability
+Tāpēc visi argumenti, kas ir par ģeotermālo enerģiju,
+ir arī par torija izmantošanu,
 
 1:30:45.929,1:30:49.739
-of thorium as an energy resource. And I love
-to have that debate. They usually change the
+kā enerģijas avotu. Un man patīk, kā šajā diskusijā
 
 1:30:49.739,1:30:51.280
-rules on me as I get into it.
+viņi parasti maina spēles noteikumus.
 
 1:30:51.280,1:30:56.369
-But a good one to play on your friends if
-they start giving you a hard time for coming
+Bet tas ir labs veids, kā atspēlēties
+draugiem, kas pārāk aizraujas
 
 1:30:56.369,1:31:00.829
-to protospace and talking about Thorium, you
-say, "Dude, it's green energy." "What!?"
+ar zaļo enerģiju un toriju. Jūs varat teikt,
+"Mīļais, tā ir zaļā enerģija!", "Ko?"
 
 1:31:00.829,1:31:05.139
 If you're concerned with the environment,
