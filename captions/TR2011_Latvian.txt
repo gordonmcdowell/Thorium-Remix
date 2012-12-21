@@ -1,5 +1,5 @@
 0:00:00.340,0:00:05.060
-Smagā ūdens reaktors izmantos apmēram 0,7
+Smagā ūdens reaktors izmanto apmēram 0,7
 procentus no urāna enerģijas, bet
 
 0:00:05.060,0:00:08.630
@@ -7,7 +7,7 @@ vieglā ūdens reaktors izmantos apmēram pusi
 no procenta. Tie ir šausmīgi.
 
 0:00:08.630,0:00:13.380
-Normālā spiedienā ūdens vārās 100 grādu
+Normālā spiedienā ūdens vārās 100°C grādu
 temperatūrā. Tā nav pietiekami augsta,
 
 0:00:13.380,0:00:18.280
@@ -19,11 +19,12 @@ spiedienā. Ar ūdeni dzesētam reaktoram ir
 nepieciešams spiedkatls,
 
 0:00:22.310,0:00:24.529
-kas var radīt negadījumus...
+un, galvenais, kas uztrauc cilvēkus, ir
+gadījums...
 
 0:00:24.529,0:00:28.760
-Ja pazūd spiediens, ūdens, kas bijis
-300 grādu temperatūrā [puff]
+ja pazūd spiediens. Ūdens, kas bijis
+300 grādu temperatūrā, puff
 
 0:00:28.760,0:00:34.320
 pārvēršas tvaikā. Tā tilpums palielinās apmēram
@@ -38,10 +39,10 @@ Visi šie apsvērumi nosaka kodolreaktora celtnes izskatu.
 Ja noplūst dzesēšanas šķidruma tvaiki,
 
 0:00:43.829,0:00:44.739
-tie paliek ēkā.
+tie paliek saturēšanas celtē.
 
 0:00:44.739,0:00:50.129
-Mūsdienās visplašāk sastopamie reaktori izmanto urāna oksīdu 
+Mūsdienu reaktoros visbiežāk izmanto urāna oksīdu. 
 Tas ir keramisks materiāls, kas ir ķīmiski ļoti stabils,
 
 0:00:50.129,0:00:54.079
@@ -57,7 +58,7 @@ produkti.
 
 0:00:58.129,0:01:03.629
 Tāpēc ir vairākas avārijas sistēmas, kas
-nodrošina, ka serde vienmēr atrodas šķidrumā.
+nodrošina, ka serde vienmēr atrodas ūdenī.
 
 0:01:03.629,0:01:08.649
 Ja tas neizdodas, tad notiek tāda avārija kā Fukušimā.
@@ -82,18 +83,18 @@ Vai automašīna ir droša?
 Par kuru iet runa?
 
 0:01:21.240,0:01:24.810
-Man ir paveicies, uzzināt arī par citiem
+Man ir paveicies uzzināt arī par citiem
 kodolenerģijas veidiem.
 
 0:01:24.810,0:01:26.549
 Piemēram, par šķidrā torija fluorīda reaktoriem.
 
 0:01:26.549,0:01:30.749
-Šajā reaktorā mēs varam toriju sadedzināt pilnībā, atšķirībā
-no, ar ūdeni dzesējama reaktora,
+Šajā reaktorā, atšķirībā no ar ūdeni dzesējama reaktora,
+kurā sadedzina tika nelielu urāna daļu,
 
 0:01:30.749,0:01:32.719
-kurā sadedzina tika nelielu urāna daļu.
+mēs varam toriju sadedzināt pilnībā.
 
 0:01:32.719,0:01:37.349
 Torija reaktoru nedzesē ar ūdeni, un tas neizmanto cietu 
@@ -101,11 +102,10 @@ kodoldegvielu. Tajā kā kodoldegvielu izmanto
 
 0:01:37.349,0:01:42.380
 fluorīda sāļus. Lai tos izkausētu, tie ir jāuzkarsē
-līdz aptuveni 400 grādiem,
+līdz aptuveni 400°C grādiem,
 
 0:01:42.380,0:01:46.459
-bet kodolenerģijas ražošanai tas
-patiesībā ir ļoti labi.
+bet kodolenerģijas ražošanai tas patiesībā ir ļoti labi.
 
 0:01:46.459,0:01:50.700
 Un patiesi brīnišķīgi ir tas, ka šādam reaktoram nav
@@ -127,7 +127,7 @@ Normālos apstākļos jūs kā avārijas vārstu izmantojat
 
 0:02:04.389,0:02:08.989
 cauruli, kurai pūšat virsū aukstu gaisu.
-Ja avārijas gadījumā jūs stacijā pazaudējat strāvu,
+Ja avārijas gadījumā jūsu stacija pazaudē strāvu,
 
 0:02:08.989,0:02:13.400
 ventilators apstājas, sasalušie sāļi izkūst,
@@ -184,12 +184,12 @@ izmantojot oglekļa dioksīdu no gaisa un ūdeni,
 tieši tāpat, kā to dara daba.
 
 0:03:10.239,0:03:14.719
-Mēs varam iegūt ūdeņradi, sašķeļot ūdeni un 
-kopā ar ogļskābo gāzi no gaisa
+Mēs varam iegūt ūdeņradi, sašķeļot ūdeni un,
+kopā ar ogļskābo gāzi no gaisa,
 
 0:03:14.719,0:03:20.219
 varam sintezēt tādas degvielas kā metanolu, 
-amoniju vai dimetilu
+amoniju vai dimetilu,
 
 0:03:20.219,0:03:23.629
 un jebkurš no tiem var aizvietot šobrīd izmantoto
@@ -197,7 +197,7 @@ dīzeļdegvielu.
 
 0:03:23.629,0:03:28.769
 Iedomājieties oglekļa neitrālu benzīnu un dīzeli,
-ko var iegūt katrs pats un ilgtspējīgi
+ko var iegūt katrs pats un ilgtspējīgi.
 
 0:03:28.769,0:03:34.719
 Jūs redzat, ka pēc izplatības dabā urāns ir salīdzināms
@@ -212,7 +212,7 @@ Mēs dedzinām šo ļoti reti sastopamo elementu, tā vietā,
 lai dedzinātu daudz vairāk izplatīto toriju.
 
 0:03:44.670,0:03:49.290
-Daži cilvēki, kas ir dabas draugi, parasti saka:
+Daži vides aizstāvji dažkārt saka:
 "Bet kodolenerģija nav ilgtspējīga!
 
 0:03:49.290,0:03:53.409
@@ -239,18 +239,19 @@ tu gada laikā varētu iegūt?"
 Un viņš atbild: "Domāju, ka kādus 5000 tonnu."
 
 0:04:16.709,0:04:22.860
-5000 tonnu torija var nodrošināt visas pasaules enerģijas prasības.
+5000 tonnu torija var nodrošināt visas pasaules enerģijas prasības
+veselu gadu.
 
 0:04:22.860,0:04:26.630
 Un viņš turpina: "Un uz pasaules ir miljoniem tādu pašu raktuvju
 kā manējā. Tās ir labas raktuves,
 
 0:04:26.630,0:04:30.300
-bet tās nav nav ne ar ko īpašas. Nav tā, ka toriju varētu iegūt
+bet tās nav nekādas īpašās. Nav tā, ka toriju varētu iegūt
 tikai dažās vietās uz pasaules."
 
 0:04:30.300,0:04:35.960
-Katru reizi, kad cilvēks apguva kāju jaunu enerģijas avotu,
+Katru reizi, kad cilvēks apguva kādu jaunu enerģijas avotu,
 tas ir radījis pamatīgas sociālās sekas.
 
 0:04:35.960,0:04:41.669
@@ -353,19 +354,19 @@ Man uz jumta ir saules baterijas,
 
 0:07:20.009,0:07:23.650
 bet tas, cik enerģijas tās dod ir daudz par maz.
-To dotā enerģija arvien samazinās,
+Un to dotā enerģija arvien samazinās.
 
 0:07:23.650,0:07:26.789
 Un, katru reizi, kad es kāpju uz jumta tās tīrīt,
-es riskēju ar savu dzīvību.
 
 0:07:26.789,0:07:27.039
+es riskēju ar savu dzīvību.
 
 0:07:26.990,0:07:29.210
 Mums ir profesionāli augstkāpēji, kas var to izdarīt.
 
 0:07:29.210,0:07:33.720
-Mans brālis ir augstkāpējs. Tas ir smags darbs.
+Mans brālis ir augstkāpējs. Tas ir sarežģīts darbs.
 Tāpēc tāds 21 gadu vecs kā viņš,
 
 0:07:33.720,0:07:37.159
@@ -394,7 +395,7 @@ Lai arī efektivitātes celšana ir vērtīga un iespējams,
 ka ar to varam samazināt patēriņu par 25%
 
 0:07:54.500,0:07:58.789
-no no kopējā enerģijas patēriņa, tas ne tuvu nav
+no kopējā enerģijas patēriņa, tas ne tuvu nav
 pietiekami, lai novērstu vajadzību izmantot
 
 0:07:58.789,0:07:59.270
@@ -411,7 +412,7 @@ saka:
 Kad iet runa par Kalgari naftas smiltīm, var
 
 0:08:10.060,0:08:14.550
-redzēt kas būtu pieļaujams, un kas — ne,
+redzēt, kas būtu pieļaujams, un kas — ne-,
 runājot par energoefektivitāti.
 
 0:09:41.100,0:09:45.740
@@ -486,15 +487,15 @@ saglabāšana baterijā ir
 ir ļoti dārga.
 
 0:10:55.280,0:10:58.170
-Es nerunāju par litija jonu baterijām, es runāju
+Es pat nerunāju par litija jonu baterijām, es runāju
 par daudz lētākām baterijām.
 
 0:10:58.170,0:11:01.930
 Piemēram, svina-skābes baterijas ir salīdzinoši lētas.
-Tā kā tad būtu vajadzīgas milzīgi daudzas tādas, 
+Tik un tā mums būtu vajadzīgas milzīgi daudzas tādas, 
 
 0:11:01.930,0:11:04.730
-ir labāk, ka ir daudz lētas baterijas, nekā dažas dārgas.
+tāpēc ir labāk, ka ir daudz lētas baterijas, nekā dažas dārgas.
 
 0:11:04.730,0:11:09.050
 Bet ja mums būtu augstas vadītspējas... kā tās sauc?
@@ -548,7 +549,7 @@ tad tam ir jābūt tuvu vietai, kur to patērē.
 Es zinu, kā tu varētu piepulcināt vairāk sievietes.
 
 0:11:47.310,0:11:47.780
-Jā.
+Jā?
 
 0:11:47.780,0:11:48.760
 Dodies pie Opras (Oprah Winfrey).
@@ -584,7 +585,7 @@ un piedalieties šajā diskusijā.
 Atbilde ir enerģija, kas ir lētāka par ogļu enerģiju.
 
 0:12:16.280,0:12:21.030
-Par visām lietām, kuras ir cēlušas mūsu labklājību,
+Par visu, kas ir cēlis mūsu labklājību,
 mums ir jāpateicas enerģijai.
 
 0:12:21.030,0:12:26.380
@@ -592,7 +593,7 @@ Ja pieņemam, ka vēlamies pasliktināt 160 miljonu cilvēku
 dzīves,
 
 0:12:26.380,0:12:31.890
-ko izsauks jūras līmeņa celšanās, klimata izmaiņas, u.t.t.,
+ko izsauks jūras līmeņa celšanās, klimata izmaiņas, utt.,
 tad sākot ar 2011. gada janvāri, mums ir jāsamazina
 
 0:12:31.890,0:12:34.520
@@ -603,7 +604,7 @@ Vai mēs to darām?
 
 0:12:40.630,0:12:47.630
 Kad man bija divi gadi un 10 mēneši, es pirmo reizi
-redzēju Zvaigžņu karus. Tās ir manas senākās atmiņas.
+redzēju "Zvaigžņu karus". Tās ir manas senākās atmiņas.
 
 0:12:51.820,0:12:56.520
 Mans tētis man neticēja, ka es patiešām atceros
@@ -712,18 +713,18 @@ līdz 1938. gadā daži cilvēki atklāja, ka kaut kas tāds ir
 iespējams
 
 0:14:48.170,0:14:49.330
-un var iegūt kodolenerģiju.
+un var iegūt enerģiju no kodolu dalīšanās.
 
 0:14:49.330,0:14:54.820
 Tagad ar šķidra torija fluorīda reaktoriem
-var iegūt enerģiju ar ļoti mazu radioktīvo atkritumu daudzumu
+var iegūt enerģiju ar ļoti mazu radioaktīvo atkritumu daudzumu
 
 0:14:54.820,0:14:59.910
-un tos var izmantot ar, lai izmantotu jau uzkrātos
-radioaktīvos atkritumus. Līdz ar to, vai valdība
+un ar tiem var arī izmantot jau uzkrātos
+radioaktīvos atkritumus. Vai valdība
 
 0:14:59.910,0:15:01.880
-var darīt ko vairāk lai atbalstītu šo tehnoloģiju?
+var darīt ko vairāk, lai atbalstītu šo tehnoloģiju?
 
 0:15:01.880,0:15:06.780
 Īstenība ir tāda, ka mums ir radioaktīvie atkritumi,
@@ -733,8 +734,8 @@ bet tā par tiem nedomā.
 Lūdzu piedodiet manu nezināšanu, bet kas ir torijs?
 
 0:15:11.800,0:15:17.190
-Ja mans pirmā līmeņa zinātnes skolotājs tagad 
-mani redzētu. Vārds ir cēlies no Norvēģu dieva Tora
+Ja mans skolotājs tagad mani redzētu...
+Vārds ir cēlies no Norvēģu dieva Tora
 
 0:15:17.190,0:15:22.230
 un es pieņemu, ka baronesei būs interesanti zināt,
@@ -749,14 +750,14 @@ Kungi, kungi... kungi.
 
 0:15:33.700,0:15:40.540
 Enerģētikas departaments ir norādījis uz manu 
-tīmekļa vietni, kā vienīgo tehnisko resursu
+tīmekļa vietni, kā vienīgo tehnisko resursu,
 
 0:15:40.540,0:15:45.350
 kad tie publicēja informāciju par 4. paaudzes
-sāļu reaktoriem. Cilvēki saka
+sāļu reaktoriem. Cilvēki saka,
 
 0:15:45.350,0:15:51.240
-Ka tas ir liels gods, bet patiesībā tas ir ļoti
+ka tas ir liels gods, bet patiesībā tas ir ļoti
 bēdīgi, jo es esmu Džo, kas savā garāžā veido
 
 0:15:51.240,0:15:55.420
@@ -775,7 +776,7 @@ Es redzu, ka daži no jums sāk smaidīt, kad
 tiek pieminēts šķidra torija fluorīda reaktors,
 
 0:16:11.920,0:16:15.750
-un tas mani nedaudz satrauc. Ko jūs dzirdat
+un tas mani nedaudz satrauc. Ko jūs esat dzirdējūši
 par izkausēta sāls reaktoriem?
 
 0:16:15.750,0:16:18.330
@@ -790,15 +791,15 @@ Tas, ka mums tagad ir Internets, līdzšinējās lietas mainīs.
 
 0:16:27.880,0:16:32.310
 Mums bija bronzas laikmets un dzelzs laikmets
-un mums bija Industriālā revolūcija.
+un mums bija industriālā revolūcija.
 
 0:16:32.310,0:16:36.010
 Es patiešām domāju, ka 100 gadus vēlāk teiks,
-ka mēs uzsākām Torija laikmetu.
+ka mēs uzsākām torija laikmetu.
 
 0:16:36.010,0:16:39.550
 Es jums pastāstīšu, kā tas sākās.
-Bija tāds Glenns Sīborgs (Glenn Seaborg), kurš
+Bija tāds Glens Sīborgs (Glenn Seaborg), kurš
 
 0:16:39.550,0:16:46.000
 1942. g. strādāja Bērklijā, Kalifornijā.
@@ -817,10 +818,10 @@ un tas vēl arvien bija pats sākums.
 
 0:16:55.950,0:16:58.720
 Viņam bija viens students. Katrs, kas ir bijis
-students zina, kā izskatās,
+students zina, kā ir,
 
 0:16:58.720,0:17:02.190
-kad profesors saka:"Tā. Es vēlos, lai tu aizej
+kad profesors saka: "Tā. Es vēlos, lai tu aizej
 uz kodolfizikas laboratoriju un ieslēdz neitronu
 
 0:17:02.190,0:17:07.740
@@ -863,21 +864,21 @@ Jo es domāju, ka tas sadalīsies, tieši tāpat,
 kā sadalās urāns-235."
 
 0:17:40.309,0:17:41.840
-"Labi, ser."
+"Labi, ser!"
 
 0:17:41.840,0:17:46.409
 Students aiziet uz laboratoriju, nāk atpakaļ un saka:
 "Jā, jums bija taisnība. Tas sadalījās.
 
 0:17:46.409,0:17:49.960
-Tas ir jauns kodolenerģijas veids."
+Tas ir jauns kodoldalīšanās veids."
 
 0:17:49.960,0:17:55.090
 Un tad Sīborgs uzdeva patiesi svarīgu jautājumu. Viņš teica:
 "Tagad dodies un uzzini,
 
 0:17:55.090,0:18:02.090
-cik daudz neitronu rodas, kad tas sabruka.
+cik daudz neitronu rodas, kad tas sadalās.
 Jo, ja to skaits ir mazāks par 2,
 
 0:18:02.470,0:18:07.720
@@ -935,7 +936,7 @@ par pseido-katalizatoru.
 Tagad parunāsim par to, kas ir kodolu dalīšanās.
 
 0:19:12.830,0:19:17.820
-Jums ir dalītiesspējīgs kodols. Tātad, tas ir atoma kodols.
+Tātad, jums ir dalītiesspējīgs atoma kodols.
 Ja jūs apstarojat to ar neitronu,
 
 0:19:17.820,0:19:23.250
@@ -984,27 +985,27 @@ Bet tā nav. Sākumā protonu un neitronu
 attiecība ir aptuveni vienāda,
 
 0:20:16.840,0:20:21.399
-Bet, kodoliem paliekot lielākiem, neitronu attiecība
+bet, kodoliem paliekot lielākiem, neitronu attiecība
 paliek arvien lielāka.
 
 0:20:21.399,0:20:26.429
-Melnie punkti norāda stabilos kodolus, kas nav radiokatīvi.
+Melnie punkti norāda stabilos kodolus, kas nav radioaktīvi.
 
 0:20:26.429,0:20:31.360
 Protoni ir pozitīvi lādēti un elektriskais lauks kodolus cenšas saraut,
 
 0:20:31.360,0:20:35.090
-bet kodolu stiprā mijiedarbība satur kodolus kopā.
+bet kodolu stiprā mijiedarbība satur tos kopā.
 
 0:20:35.090,0:20:40.289
 Arvien vairāk neitronu nodrošina vairāk
 kodolu stiprās mijiedarbības "līmi"
 
 0:20:40.289,0:20:43.379
-tāpēc kodoli nesašķīst.
+tāpēc kodoli nesabrūk.
 
 0:20:43.379,0:20:49.480
-Šeit lejā ir urāns un torijs. Un tiem ir neitronu ir aptuveni
+Šeit lejā ir urāns un torijs. Un tiem neitronu ir aptuveni
 divas reizes vairāk
 
 0:20:49.480,0:20:54.850
@@ -1016,7 +1017,7 @@ bet šiem kodoliem tāda nav vajadzīga. Tiem vajag
 attiecību kas ir tuvāka
 
 0:21:00.110,0:21:02.059
-viens pret viens un viena ceturtdaļa.
+viens pret viens un ceturtdaļa.
 
 0:21:02.059,0:21:05.620
 Tiem ir par daudz neitronu. Dabā pastāv dažādi veidi,
@@ -1060,11 +1061,11 @@ Es domāju, ka, ja vienam elementam pussabrukšanas laiks ir diena,
 bet otram — miljoni gadu, tad man šķita, 
 
 0:21:51.090,0:21:55.970
-tas, kas ir radiokatīvs vienu dienu, tas saka "tr" un pēc dienas 
+tas, kas ir radiokatīvs vienu dienu, tas saka "trr" un pēc dienas 
 hop, un "Es esmu stabils". Bet tas,
 
 0:21:55.970,0:21:59.700
-kas ir radioaktīvs miljons gadus, tas saka "brrrrrrrrr"
+kas ir radioaktīvs miljons gadus, tas saka "trrrrrrrrrr"
 miljons gadus līdz paliek stabils.
 
 0:21:59.700,0:22:00.419
@@ -1121,11 +1122,11 @@ būs divreiz vecāks kā tagad, tikai puse no visa torija būs
 sabrukusi.
 
 0:23:02.039,0:23:06.330
-Cik radioaktīvs tad ir torijs?
+Cik radioaktīvs ir torijs?
 
 0:23:06.330,0:23:12.350
 Tas ir praktiski stabils. Un tāpēc tā vēl arvien ir tik daudz.
-Urānam ir divi dābā sastopami izotopi: urāns-235 un urāns-238.
+Urānam ir divi dabā sastopami izotopi: urāns-235 un urāns-238.
 
 0:23:12.350,0:23:16.379
 Abi, protams, ir radioaktīvi. Urāna-238 pussabrukšanas laiks ir
@@ -1143,7 +1144,7 @@ Cik izplatīts tas ir uz zemes? Vairums zemes sastāv
 no skābekļa.
 
 0:23:27.240,0:23:32.499
-Vai tas nav jocīgi?. 46% no Zemes ir skābeklis, jo 
+Vai tas nav jocīgi? 46% no Zemes ir skābeklis, jo 
 gandrīz viss ir oksidējies.
 
 0:23:32.499,0:23:35.879
@@ -1210,14 +1211,14 @@ Torijs viens pats nav izmantojams, lai iegūtu kodolenerģiju.
 Bet, ja jūs iesitat torijam ar neitronu,
 
 0:24:51.559,0:24:55.669
-tad torijs to absorbē, un kļūst no torija-232
+tad torijs to absorbē, un no torija-232 kļūst 
 
 0:24:55.669,0:25:02.249
 par toriju-233. Torija-233 pusdzīves ilgums ir tikai
 20 minūtes. Vai tas ir radioaktīvs?
 
 0:25:02.249,0:25:08.730
-O, jā. Tas ir trakoti radioaktīvs un ļoti, ļoti, ļoti kaitīgs.
+O, jā. Tas ir trakoti radioaktīvs, tāpēc ļoti, ļoti, ļoti kaitīgs.
 Dažu minūšu laikā tas sabrūk par protaktīniju-233,
 
 0:25:08.730,0:25:10.559
@@ -1258,7 +1259,7 @@ satveršanas laukumu. Tas norāda, cik liela ir
 
 0:25:53.009,0:25:58.759
 varbūtība, ka kodols notvers neitronu. Viens no šādiem
-elementiem ir Ksenons-135. Te ir tā satveršanas laukums,  
+elementiem ir ksenons-135. Te ir tā satveršanas laukums,  
 
 0:25:58.759,0:26:04.590
 salīdzinot ar citiem elementiem.
@@ -1269,11 +1270,11 @@ Iedomājieties, ka mēs spēlējam dartus.
 Kurā no tiem ir visvieglāk trāpīt?
 
 0:26:07.960,0:26:14.090
-Kodolu dalīšanās procesā rodas arī Ksenons-135.
+Kodolu dalīšanās procesā rodas arī ksenons-135.
 Kur tas ir?
 
 0:26:14.090,0:26:21.090
-135 ir šeit. Pastāv varbūtība, ka procesā izveidosies arī
+135 ir šeit. Pastāv liela varbūtība, ka procesā izveidosies arī
 šis elements.
 
 0:26:24.769,0:26:29.999
@@ -1288,7 +1289,7 @@ Esošajos reaktoros tas rada nopietnas grūtības.
 Jo ksenons darbojas pretī tam, ko jūs vēlaties.
 
 0:26:31.169,0:26:32.879
-Patiesībā Ksenons-135 bija pie vainas
+Patiesībā ksenons-135 bija pie vainas
 
 0:26:32.879,0:26:39.289
 Černobiļas katastrofā. Un reaktoros
@@ -1326,10 +1327,10 @@ jauda atkal kritās.
 
 0:27:21.100,0:27:25.139
 "Tas ir ārprāts, mēs neko nedarām,
-bet reaktors pats slēdz sevi
+bet reaktors pats ieslēdz un
 
 0:27:25.139,0:27:27.399
-iekšā un ārā." 
+izslēdz sevi!" 
 
 0:27:27.399,0:27:33.929
 Patiesībā notika tas, ka reaktoram darbojoties,
@@ -1360,11 +1361,11 @@ Eižens Vīners.
 
 0:28:00.789,0:28:02.399
 Neticami gudrs, iespējams viens no pasaules gudrākajiem
-prātiem, kas ieguvis Nobeļa prēmiju.
+prātiem, kas ieguvis Nobela prēmiju.
 
 0:28:02.399,0:28:05.110
 Viņš pirms gulēšanas domāja par to
-"Cik tālu ar kodlreaktoru ir vācieši?"
+"Cik tālu ar kodolreaktoru ir vācieši?"
 
 0:28:05.110,0:28:08.529
 Viņš vienmēr par domāja par to.
@@ -1423,7 +1424,7 @@ Bet pirmajai atombumbai urānu ieguva tieši tā.
 
 0:29:12.720,0:29:16.529
 To bumbu nometa uz Hirosimas un nosauca par
-"mazo puisēnu". To nemēģināja, jo zināja,
+"mazo puisēnu". To neizmēģināja, jo zināja,
 
 0:29:16.529,0:29:17.499
 ka tā strādās.
@@ -1461,14 +1462,14 @@ Bet atdalīt vienu no otra ķīmiskos elementus ir
 miljoniem reižu vienkāršāk, nekā viena elementa izotopus.
 
 0:29:56.789,0:29:57.929
-Ķīmiski urāns-235 un urān-238 ir vienādi.
+Ķīmiski urāns-235 un urāns-238 ir vienādi.
 Starp tiem nav nekādu ķīmisku atšķirību.
 
 0:29:57.929,0:29:59.019
-Bet plutonijs un urāns atšķiras ķīmiski.
+Bet plutonijs un urāns atšķiras ķīmiski,
 
 0:29:59.019,0:30:02.580
-un tāpēc tos var atdalīt vienu no otra ķīmiskā ceļā.
+tāpēc tos var atdalīt vienu no otra ķīmiskā ceļā.
 
 0:30:02.580,0:30:07.440
 Un tā viņi radīja pirmo plutonija bumbu, Triniti,
@@ -1498,7 +1499,7 @@ urānu-232. Šeit sabrukšanas ķēdē ir urāns-232.
 
 0:30:34.489,0:30:41.489
 Tas pārvēršas par citiem elementiem gada laikā,
-trijās dienās, 55 sekundēs, 0.16 sekundēs,
+trijās dienās, 55 sekundēs, 0,16 sekundēs,
 
 0:30:42.619,0:30:49.440
 un beigās pārvēršas par bismutu-212 un talliju-208,
@@ -1585,14 +1586,14 @@ ar ātrajiem neitroniem tas gandrīz vienmēr
 sadalās. Tomēr cik daudz mums ir jāapvieno šie mazie laukumiņi,
 
 0:32:32.700,0:32:37.499
-lai iegūtu vienu lielo. Mums tādu vajag
+lai iegūtu vienu lielo? Mums tādu vajag
 
 0:32:37.499,0:32:38.429
 ļoti daudz.
 
 0:32:38.429,0:32:45.119
 Cik daudz neitronu un cik daudz kodoldegvielas
-ir vajadzīgs
+ir vajadzīgs,
 
 0:32:45.119,0:32:50.389
 lai nodrošinātu nepārtrauktu kodoldalīšanos?
@@ -1606,7 +1607,7 @@ lai nodrošinātu nepārtrauktu kodoldalīšanos?
 izskatās termālajā daļā?
 
 0:32:59.749,0:33:06.749
-Urāns-233 ap 2.3. Plutonijs ir šeit lejā,
+Urāns-233 ap 2,3. Plutonijs ir šeit lejā,
 tāpēc jūs nevarat dedzināt urānu-238
 
 0:33:09.169,0:33:14.999
@@ -1631,7 +1632,7 @@ Skatieties, cik labi tas izskatās tad.
 Ar ātrajiem neitroniem, tas ir 2-3 reizes lielāks!
 
 0:33:33.609,0:33:39.190
-Un tā radās brīdera reaktora ideja
+Un tā radās brīdera reaktora ideja,
 
 0:33:39.190,0:33:42.320
 kas izmanto kā degvielu plutoniju un ātros neitronus.
@@ -1692,13 +1693,13 @@ bet neko nezinām par toriju.
 Un tāpēc mums viss būtu jāsāk no jauna."
 
 0:34:49.960,0:34:55.000
-Šī iemesla dēļ izvēlējās plutoniju
+Šī iemesla dēļ izvēlējās plutoniju,
 
 0:34:55.000,0:35:01.080
-un nevis toriju. Vīneram neizdevās pārliecināt
+nevis toriju. Vīneram neizdevās pārliecināt
 
 0:35:01.080,0:35:06.990
-kodolpētnieku komūnu, tomēr viņš pārliecināja
+kodolpētnieku kopienu, tomēr viņš pārliecināja
 vienu sekotāju — Elvīnu Veinbergu (Alvin Weinberg).
 
 0:35:06.990,0:35:10.000
@@ -1804,7 +1805,7 @@ Bet Veinbergs bija praktiķis:
 "Bumbvedējs ar kodolreaktoru...
 
 0:37:06.570,0:37:09.150
-ir patiesi stulba ideja."
+ir patiesi muļķīga ideja."
 
 0:37:09.150,0:37:11.530
 Bet militāristiem bija nauda: "Nebija tā, ka es
@@ -1882,7 +1883,7 @@ nodrošinot nepieciešamo vilkmi.
 
 0:38:13.980,0:38:14.230
 Tā pati ideja, kas standarta turbodzinējā,
-tikai siltuma avots nevis
+tikai siltuma avots ir nevis
 
 0:38:14.020,0:38:16.060
 naftas dedzināšana, bet gan kodolreaktors.
@@ -1919,7 +1920,7 @@ vienkārši izdalās no šķidruma.
 
 0:38:45.470,0:38:50.690
 Iedomājieties, kas notiktu, ja lidmašīna lidotu
-ar Vīnera Vašingtonas reaktoru
+ar Vīnera reaktoru no Vašingtonas 
 
 0:38:50.690,0:38:54.930
 uz Krieviju? Tas būtu apmēram tā:
@@ -1940,14 +1941,14 @@ mēs atkal turpināsim lidojumu."
 Kā labi saprotat, tas nestrādātu.
 
 0:39:08.390,0:39:11.120
-Testa reaktors 1954 gadā nostrādāja aptuveni 11 dienas.
+Testa reaktors 1954. gadā nostrādāja aptuveni 11 dienas.
 
 0:39:11.120,0:39:15.140
 Tajā sasniedza tādu darba temperatūru, kāda nebija sasniegta
-nevienā citā reaktorā
+nevienā citā tajā laikā
 
 0:39:15.140,0:39:16.370
-kas tajā laikā pastāvēja.
+pastāvējušā reaktorā.
 
 0:39:16.370,0:39:21.440
 Un viņi pārliecinājās, ka ideja būtībā ir pareiza:
@@ -1965,7 +1966,7 @@ bija tas, ka, ja sāli uzkarsē, tas izplešas un aktīvajā zonā
 paliek mazāk materiāla,
 
 0:39:35.900,0:39:38.020
-un tāpēc reakcija palēlinās.
+un tāpēc reakcija palēninās.
 
 0:39:38.020,0:39:42.500
 Un pretēji: ja sāls atdzisa un sarāvās, aktīvajā zonā ietilpa
@@ -2063,7 +2064,7 @@ atdalīt urānu no substrāta
 var ļoti vienkārši. Urāns izgaro, bet substrāts paliek.
 
 0:41:19.210,0:41:25.100
-Tas nestrādātu, ja urāna īpašības būtu arī torijam.
+Tas nestrādātu, ja urāna īpašības piemistu arī torijam.
 Ja torija heksaflorīds būtu gāze,
 
 0:41:25.100,0:41:29.780
@@ -2135,7 +2136,7 @@ Tas ir cikls,
 kurā rodas papildu kodoldegviela, un kurā jūs
 
 0:42:56.650,0:43:00.880
-pārvēršat toriju enerģijā. Vispirms kā U233, un no tā
+pārvēršat toriju enerģijā. Vispirms kā U-233, un no tā
 sadalīšanās iegūstat enerģiju. Protams, lai to veiktu,
 
 0:43:00.880,0:43:05.150
@@ -2194,7 +2195,7 @@ jūs ieraudzītu tādu pašu turbīnu arī tajā,
 jo izmantotā tehnoloģija ir tā pati. 
 
 0:43:59.410,0:44:06.410
-Tikai tā būtu netīra smirdīga, un nepatīkama.
+Tikai tā būtu netīra, smirdīga un nepatīkama.
 
 0:44:06.900,0:44:10.370
 Šī izskatās gandrīz vai antiseptiska.
@@ -2304,7 +2305,7 @@ tik labi, kā agrāk.
 
 0:46:12.960,0:46:17.030
 Ja serde vairs nav ūdenī, kodolreakcija apstājas, jo ūdens
-bez dzesēšanas arī palēnināja reakcijā radušos neitronus
+bez dzesēšanas arī palēnināja reakcijā radušos neitronus.
 
 0:46:17.030,0:46:21.400
 Tāpēc reakcija apstājas, neatkarīgi no
@@ -2337,14 +2338,14 @@ Stacija ir būvēta tieši tāda, lai tā tiktu galā ar
 
 0:46:51.660,0:46:57.650
 Stacija ir uzbūvēta tā, ka, ja no reaktora izplūst tvaiks,
-tas paliek šajā būvē
+tas paliek šajā saturēšanas celtnē
 
 0:46:57.650,0:46:58.750
 un netiek tālāk.
   
 0:46:58.750,0:47:03.060
-Salīdziniet reaktora un uztveršanas būves izmērus.
-Uztveršanas būve ir tik liela tāpēc,
+Salīdziniet reaktora un saturēšanas celtnes izmērus.
+Šī celtne ir tik liela tāpēc,
 
 0:47:03.060,0:47:09.150
 ka ūdens tvaiks ir daudz reizes mazāk blīvs par ūdeni.
@@ -2361,17 +2362,17 @@ arī tad, ja reaktorā vairs nav spiediena.
 
 0:47:25.380,0:47:28.200
 Piemēram, ja reaktorā vēl arvien ir augsts spiediens
-un ūdens, ir sistēma priekš tā.
+un ūdens, tam ir sistēma.
 
 0:47:28.200,0:47:31.210
 Ja ir daļēji zudis spiediens un ūdens, tad ir rezerves
-sistēma priekš tam.
+sistēma tam.
 
 0:47:31.210,0:47:34.460
 Ja spiediens ir pazudis, bet šeit vēl ir saglabājies ūdens,
 
 0:47:34.460,0:47:37.900
-ir īpaša sistēma priekš tam. Kopumā ņemot,
+ir īpaša sistēma tam. Kopumā ņemot,
 ir neskaitāmas sistēmas un rezerves sistēmas,
 
 0:47:37.900,0:47:42.200
@@ -2403,7 +2404,7 @@ un ielido stacijas jumtā.
 
 0:48:07.020,0:48:12.300
 Patiesībā vienreiz tā arī notika stacijā,
-kurai nebija uztveršanas būves,
+kurai nebija saturēšanas celtnes,
 
 0:48:12.300,0:48:16.410
 un vienu nabaga zēnu pienagloja pie stacijas jumta...
@@ -2502,7 +2503,7 @@ Kad tas notika, ūdens turpināja sadalīties ūdeņradī
 un skābeklī. Bet ūdeņradis, lai arī
 
 0:50:07.140,0:50:11.780
-labprāt savienojas ar skābekli, ir daudz vieglāks par to
+labprāt savienojas ar skābekli, ir daudz vieglāks par otro
 un itin drīz tas noslāņojās
 
 0:50:11.780,0:50:15.430
@@ -2517,12 +2518,12 @@ un ūdens.
 izlaist no reaktora 
 
 0:50:20.630,0:50:24.830
-saturēšanas celtnes (containment building).
+saturēšanas celtnes.
 Eksperti šo risinājumu vērtē pretrunīgi.  
 
 0:50:24.830,0:50:29.310
-No saturēšanas korpusa izlaistais ūdeņradis
-uzkrājās zem reaktora ārējā jumta.
+No saturēšanas celtnes izlaistais ūdeņradis
+uzkrājās zem stacijas ārējā jumta.
 
 0:50:29.310,0:50:33.870
 Tas ir tikai tērauda režģis ar apšuvuma plāksnēm
@@ -2538,7 +2539,7 @@ speciālistiem bija skaidrs, ka tas ir tikai
 
 0:50:41.620,0:50:44.720
 ūdeņraža gāzes eksplozija,
-kas nekādi neattiecās uz saturēšanas telpu.
+kas nekādi neattiecās uz saturēšanas celtni.
 
 0:50:44.720,0:50:49.690
 Lai arī es nevēlos to pārāk vienkāršot, tomēr
@@ -2609,7 +2610,7 @@ Tāpēc stacija, kurai uzbruka 15m cunami, bija tikai
 5m liels aizsargdambis,
 
 0:51:55.620,0:51:58.850
-un tāpēc dīzeļģeneratori atradās celtnes pagrabā.
+un tāpēc dīzeļģeneratori atradās stacijas pagrabā.
 
 0:51:58.850,0:52:02.940
 Tam nebija nekāda sakara ar kodolreaktoru.
@@ -2636,7 +2637,7 @@ augstspiediena ūdens, un CANDU reaktoriem.
 
 0:52:28.540,0:52:33.630
 Cilvēks ir cimdos, un varētu iedomāties, ka tie 
-viņu pasargā no Urāna oksīda.
+viņu pasargā no urāna oksīda.
 
 0:52:33.630,0:52:37.410
 Bet atcerieties to, ko es jums stāstīju par 
@@ -2657,10 +2658,10 @@ Tam ir jābūt īpaši attīrītam un tajā nedrīkst būt
 nekādas eļļas vai sviedri, jo no tiem
 
 0:52:55.090,0:52:56.330
-izgatavo kodoldegvielas stieņos, kurus ievieto reaktorā.
+izgatavo kodoldegvielas stieņus, kurus ievieto reaktorā.
 
 0:52:56.330,0:53:00.660
-Šīs kodoldegvielas ripas ievieto cirkonija
+Šīs kodoldegvielas tabletes ievieto cirkonija
 caurulēs, tā, lai
 
 0:53:00.660,0:53:05.180
@@ -2694,7 +2695,7 @@ Ja kāds iegādājas jūsu reaktoru,
 
 0:53:35.500,0:53:39.460
 tad tas iegādāsies arī jūsu Westinghouse 17x17 kasešu kodoldegvielu.
-Pat ja jūs ietu pie General Electics un neprasīsiet:
+Pat ja jūs ietu pie General Electics un prasītu:
 
 0:53:39.460,0:53:42.240
 "Vai jūs varat sagatavot man šādas kasetes?" un viņi atbildētu:
@@ -2730,15 +2731,15 @@ degvielas, bet pārējo izvieto tā,
 lai vairāk izlietotā degviela atrastos
 
 0:54:14.850,0:54:17.430
-varāk uz reaktora malām.
+tuvāk reaktora malām.
 
 0:54:17.430,0:54:21.170
 Šis attēls atgādina "Gredzenu pavēlnieka"
 "Maģisko aci", bet patiesībā tas ir
 
 0:54:21.170,0:54:26.050
-Tas ir kodoldegvielas stieņa šķērsgriezums.
-Tas pamatā ir urāna oksīds
+kodoldegvielas stieņa šķērsgriezums.
+Tas pamatā ir urāna oksīds,
 
 0:54:26.050,0:54:30.290
 kas labu laiku ir "dedzis" kodolreaktorā un no tā ir
@@ -2755,7 +2756,7 @@ un pamazām sagrauj cietās degvielas tablešu struktūru.
 Pamazām izdalījušās gāzes uzkrājas tablešu vidū
 
 0:54:43.510,0:54:47.680
-un izveido tām pa vidu caurumu
+un izveido tām pa vidu caurumu,
 
 0:54:47.680,0:54:50.300
 kurā uzkrājas visi sadalīšanās gāzveida produkti.
@@ -2807,18 +2808,18 @@ no pieejamās enerģijas, bet vieglā ūdens reaktori...
 
 0:55:38.740,0:55:44.120
 Savienotajās valstīs izmanto tikai aptuveni 0,5%
-no enerģijas, kas ir pieejama
+no enerģijas, kas ir pieejama urānā.
 
 0:55:44.120,0:55:47.750
-izmantotajā urānā. Iedomājieties, ka jūs savam bosam stāstat:
+Iedomājieties, ka jūs savam bosam stāstāt:
 "Es uzbūvēju jaunu sistēmu" un viņš jautā:
 
 0:55:47.750,0:55:53.450
 "Un cik tā ir efektīva?", bet jūs atbildat "Mazāk par procentu."
-"Piedod, ko tu esi uzbūvējis?"
+"Piedod, ko tu esi uzbūvējis?
 
 0:55:53.450,0:55:56.460
-"Man šķiet, ka tev pie tās vēl ir jāpiestrādā." 
+Man šķiet, ka tev pie tās vēl ir jāpiestrādā." 
 Viņš vienkārši nespētu pieņemt tādu sistēmu.
 
 0:55:56.460,0:56:00.640
@@ -2848,8 +2849,8 @@ un teica "Klausies G, vai mēs varam dabūt nedaudz naudas?
 Mēs vēlamies uzbūvēt kārtīgu reaktoru.
 
 0:56:21.920,0:56:27.640
-Mēs vēlamies to papildināt ar barojamo materiālu
-un pieslēgt to elektriskajam ģeneratoram
+Mēs vēlamies to papildināt ar barojamo materiālu,
+pieslēgt to elektriskajam ģeneratoram
 
 0:56:27.640,0:56:32.120
 un ražot elektrību". Viņi domāja, ka tas ir tikpat droši,
@@ -2860,7 +2861,7 @@ viņu aizrautību apslāpēja.
 
 0:56:34.110,0:56:39.160
 Viņi jau bija pamatīgi investējuši citā tehnoloģijā — 
-plutonija ātrā brīdera reaktorā
+plutonija ātrā brīdera reaktorā,
 
 0:56:39.160,0:56:46.160
 kas strādāja ar cietu degvielu un pārvērta salīdzinoši 
@@ -2886,7 +2887,7 @@ Pieņemu, ka Atomenerģijas komisija pateica kaut ko tādu:
 
 0:57:08.000,0:57:12.080
 ātro neitronu brīderi. Un arī visas iesaistītās kompānijas
-to atbalsta.
+to atbalsta."
 
 0:57:12.080,0:57:17.720
 Galu galā viņi uzbūvēja vienu šādu reaktoru Monro, Mičiganā.
@@ -2909,7 +2910,7 @@ citus,
 
 0:57:37.680,0:57:44.250
 ka viņa iepriekš izgudrotā reaktora vietā vajadzētu izmantot
-kaut ko pavisam savādāku.
+kaut ko pavisam citu.
 
 0:57:44.250,0:57:48.410
 Patiesībā bija vēl sliktāk. Veinbergs nekad nebija bijis
@@ -2926,7 +2927,7 @@ tad to vairs nevar atdzesēt, tas izsauc serdes izkušanu
 un radioaktīvo materiālu noplūdi.
 
 0:58:02.800,0:58:08.480
-Vai šis scenārijs jums nav pazīstams?. Viņš par to bija
+Vai šis scenārijs jums nav pazīstams? Viņš par to bija
 pietiekami nobažījies, tāpēc viņš sazinājās ar
 
 0:58:08.480,0:58:10.530
@@ -2965,7 +2966,7 @@ Pēc tam, kad Atomenerģētikas komisija
 pameta novārtā Oukridžas izstrādes,
 
 0:58:50.480,0:58:54.750
-viņi izdeva ziņojumu WASH 1222,
+viņi izdeva ziņojumu "WASH 1222",
 kuru es drīzāk sauktu
 
 0:58:54.750,0:58:56.420
@@ -2980,7 +2981,7 @@ par patiesajām problēmām. Nedomāju, ka mēs varam
 iet tālāk, tās neizskaidrojot.
 
 0:59:06.990,0:59:11.940
-Ir pienācis laiks parunāt par reaktora drošību un 
+Ir pienācis laiks parunāt par reaktora drošību,
 veiktspēju
 
 0:59:11.940,0:59:18.940
@@ -3089,7 +3090,7 @@ vienkārši ierakt zemē.
 
 1:01:07.430,1:01:12.850
 Bet es domāju, ka atstāt
-plutoniju un šķidru nātriju zem zemes
+plutoniju un šķidru nātriju zemē
 
 1:01:12.850,1:01:17.270
 uz nenoteiktu laiku, ir slikts risinājums.
@@ -3231,8 +3232,8 @@ Tas ir tik velnišķīgi grūti! Saplūšanas reaktors
 ir liela vakuuma caurule ar 10keV spriegumu,
 
 1:03:20.280,1:03:26.510
-kurā ir 15 nez-cik-triljonu temperatūra, un tas viss
-atrodas starp supravadošiem magnētiem
+kurā ir 15 nez-cik-triljonu grādu temperatūra, un tas viss
+atrodas starp supravadošiem magnētiem,
 
 1:03:26.510,1:03:31.610
 šķidrā hēlijā, un noslēgts litija tabletē,
@@ -3302,13 +3303,13 @@ iespējams, ka to darīt ir izdevīgi.
 
 1:04:41.050,1:04:46.220
 Ja jūs varat padarīt naftas ieguvi no smiltīm
-daudz tīrāku, varbūt tur iesaistīti sāks klausīties,
+daudz tīrāku, varbūt tur iesaistītie sāks klausīties,
 
 1:04:46.220,1:04:50.450
 un neuzskatīs zaļo enerģiju par saviem ienaidniekiem,
 
 1:04:50.450,1:04:50.930
-jo tad viņi izmantos zināmu.
+jo tad viņi izmantos to, ko pārzina.
 
 1:04:50.930,1:04:54.920
 Es lidmašīnā sēdēju blakus naftiniekam, un
@@ -3428,7 +3429,7 @@ un izmantot to, lai iegūtu elektrību!
 Kāpēc to atstāt atombumbā?
 
 1:06:41.640,1:06:42.470
-Vai jūs vēlaties to?"
+Vai jūs to vēlaties?"
 
 1:06:42.470,1:06:47.470
 Jūras spēkiem pieder tik pat daudz reaktoru,
@@ -3502,7 +3503,7 @@ neskaitāmi karavīri, kas spētu nosargāt
 kilometriem garu perimetru
 
 1:07:59.240,1:08:00.210
-apkārt saules baterijām.
+ap saules baterijām.
 
 1:08:00.210,1:08:06.920
 Bet, ja mums būtu rektors, kas ir tik vienkāršs
@@ -3513,7 +3514,7 @@ ka jūs to varētu ņemt līdzi kaujas laukā,
 un pēc tam, kad dodaties prom, jūs to atstājat
 
 1:08:12.060,1:08:13.910
-vietējiem lietošanai.
+vietējiem lietošanai?
 
 1:08:13.910,1:08:18.349
 Labklājība ir saistīta ar enerģiju.
@@ -3571,13 +3572,13 @@ smadzeņu bojājumi.
 
 1:09:16.999,1:09:21.119
 Es vaicāju, "Vai jūs domājat, ka tā varētu būt?", un
-viņš atbildēja, "Nē, nē. Šajā jomā tas ir pilnīgi noteikti. 
+viņš atbildēja, "Nē, nē. Tas ir pilnīgi noteikti. 
 
 1:09:21.119,1:09:26.539
 Viņas bērnam noteikti būtu smadzeņu bojājumi,
 
 1:09:26.539,1:09:30.650
-un viņa IQ būtu par 5—10 punktiem zemāks par normu.
+un viņa IQ būtu par 5—10 punktiem zemāks par normu."
 
 1:09:30.650,1:09:36.559
 ASV katru gadu dzimst ap 640000 bērnu, 
@@ -3642,7 +3643,7 @@ sadalās ļoti ātri.
 
 1:10:40.630,1:10:46.199
 Nekas nevar būt ļoti radioaktīvs ilgu laiku.
-Jo kaut kas ir radioaktīvāks, jo tas
+Ja kaut kas ir radioaktīvāks, tas
 
 1:10:46.199,1:10:49.679
 ātrāk sabrūk. Dažiem no sadalīšanās produktiem
@@ -3790,15 +3791,15 @@ gaida rindā uz to,
 jo tas ir nepieciešams viņu procedūrām.
 
 1:13:35.010,1:13:40.179
-Mēs varam ražot molibdēnu-99 kā daļu no mūsu 
-ražošanas procesa, un to varam viegli atdalīt no pārējā.
+Mēs varam ražot molibdēnu-99 mūsu ražošanas procesā
+un to varam viegli atdalīt no pārējā.
 
 1:13:40.179,1:13:46.320
 Radioaktīvie izotopi sabrūk četros dažādos veidos.
 Viens no tiem sākas ar urānu-238, otrs ar urānu-235
 
 1:13:46.320,1:13:53.099
-un ar toriju-232. Un ir ir viena īpaša sabrukšanas ķēde,
+trešais ar toriju-232. Un ir ir viena īpaša sabrukšanas ķēde,
 kas sākas ar urānu-233, jo tajā nav izotopu,
 
 1:13:53.099,1:13:57.550
@@ -3869,7 +3870,7 @@ Bet problēma ir tā, ka bismutu-213 var iegūt,
 sabrukšanas procesam sākoties,
 
 1:15:17.730,1:15:19.780
-no urāna-233.
+tikai no urāna-233.
 
 1:15:19.780,1:15:26.780
 Kādreiz, es iemiegot domāju par to, ka,
@@ -3912,8 +3913,8 @@ kāds miljards dolāru. Bet tas nav nemaz tik
 daudz. Lai arī liela daļa no tās nepieciešama
 
 1:16:08.550,1:16:12.719
-projektēšanai un celtniecībai, normatīvo aktu
-izstrāde ir liela jautājuma zīme.
+projektēšanai un celtniecībai, liela jautājuma zīme
+ir normatīvo aktu izstrāde.
 
 1:16:12.719,1:16:15.619
 Zināmā mērā tā nemaz nav tik liela nauda.
@@ -4003,7 +4004,6 @@ izmaksas?", tad ir iemesli domāt, ka
 1:17:30.199,1:17:35.739
 tās būs daudz mazākas par jaunas naftas platformas
 
-
 1:17:35.739,1:17:35.989
 izbūves izmaksām.
 
@@ -4017,10 +4017,10 @@ Otrkārt,
 
 1:17:45.099,1:17:48.999
 nav nepieciešams sagatavot degvielu. Tā nav
-jābagātina, un
+jābagātina,
 
 1:17:48.999,1:17:52.269
-pēc tam to nav nepieciešams ilgstoši uzglabāt.
+un pēc tam to nav nepieciešams ilgstoši uzglabāt.
 
 1:17:52.269,1:17:57.869
 Šīs divas īpašības ir pašas svarīgākās.
@@ -4043,7 +4043,7 @@ Varbūt statistiķi tam nepiekritīs, un niknosies uz mani.
 
 1:18:09.800,1:18:14.369
 Viena no lietām, kas padara standarta reaktorus tik dārgus,
-ir betona saturēšanas būve,
+ir betona saturēšanas celtne,
 
 1:18:14.369,1:18:18.969
 par ko jau runājām. Otra lieta ir
@@ -4106,7 +4106,7 @@ kodolstaciju, un jūs ielenks militārā policija.
 
 1:19:08.289,1:19:12.269
 Es esmu apmeklējis daudzas kodolstacijas.
-Mēs patiešām sapratām, kā tas notiek, kad tur nonācām.
+Mēs patiešām sapratām, kā tas notiek, kad to redzējām.
 
 1:19:12.269,1:19:15.869
 Man nav skaidrs, kāpēc viņi
@@ -4289,10 +4289,10 @@ tas jau būs sabrucis, jo tā pussabrukšanas laiks
 ir astoņas ar pusi dienas.
 
 1:22:29.039,1:22:30.789
-Tā kā nekas slikts nenotiks. Utt, utt.
+Tā kā nekas slikts nenotiks. Utt., utt.
 
 1:22:30.789,1:22:33.670
-Bet viņa ir izglītota sieviete, tomēr bija 
+Viņa ir izglītota sieviete, tomēr bija 
 nobijusies līdz nāvei.
 
 1:22:33.670,1:22:38.719
@@ -4395,7 +4395,7 @@ Es zinu, ka žurnālisti izvēlējās šo ziņu,
 jo tā tiek uzņemta kā pati svarīgākā ziņa
 
 1:24:45.979,1:24:47.510
-mūsu valstī.
+visā mūsu valstī.
 
 1:24:47.510,1:24:51.630
 Par sabiedrības attieksmi pret riskiem,
@@ -4467,7 +4467,7 @@ kā drošs radiācijas daudzums,
 
 1:25:51.940,1:25:56.400
 un tā ir balstīta uz lineāro bezsliekšņa hipotēzi.
-Tā ir iedibināta kā norma
+Tā ir iedibināta kā norma,
 
 1:25:56.400,1:26:01.420
 bet epidemoloģijas dati to neatbalsta. Nav pētījumu,
@@ -4478,7 +4478,7 @@ lielu iedzīvotāju daudzumu un pakļauj tos par dažiem procentiem
 lielākai radiācijai,
 
 1:26:05.269,1:26:06.920
-ka tāpēc palielinātos vēža gadījumu skaits.
+tad tāpēc palielinātos vēža gadījumu skaits.
 
 1:26:06.920,1:26:11.269
 Patiesībā pasaulē ir daudzas vietas, kur dabīgā
@@ -4489,10 +4489,10 @@ un, ja lineārā hipotēzes būtu patiesa,
 
 1:26:17.239,1:26:21.719
 tajās vietās būtu jābūt jūtami lielākam vēža gadījumu
-skaitam
+skaitam turienes iedzīvotāju vidū.
 
 1:26:21.719,1:26:26.840
-šo iedzīvotāju vidū. Bet kā ir patiesībā?
+Bet kā ir patiesībā?
 Patiesībā ir tā, ka šajās vietās vēža gadījumu
 
 1:26:26.840,1:26:29.550
@@ -4564,7 +4564,7 @@ no tā izdalās ne tikai slānekļa gāze, bet
 arī radons.
 
 1:27:34.179,1:27:39.749
-Ja šo gāzi sadedzina, radons izplatās vidē.
+Ja slānekļa gāzi sadedzina, radons izplatās vidē.
 Neviens šo daudzumu neuzskaita.
 
 1:27:39.749,1:27:44.539
@@ -4594,10 +4594,10 @@ noteiktās normas.
 
 1:28:07.479,1:28:10.670
 Pat ja lineārā bezsliekšņa hipotēze būtu patiesa,
-uz brīdi pieņemsim, ka tā ir
+un uz brīdi pieņemsim, ka tā ir realitāte.
 
 1:28:10.670,1:28:15.249
-pasaules realitāte. Tik un tā būtu daudz labāk,
+Tik un tā būtu daudz labāk,
 ja visa pasaules enerģija tiktu iegūta
 
 1:28:15.249,1:28:18.739
@@ -4701,7 +4701,7 @@ atstaro saules vēju.
 
 1:30:07.010,1:30:11.900
 Ja zemei nebūtu magnētiskā lauka, miljardu gadu laikā
-tā būtu tāda pati kā marss.
+tā būtu tāda pati kā Marss.
 
 1:30:11.900,1:30:17.489
 Jo tad saules vējš aizpūstu projām atmosfēru,
@@ -4838,7 +4838,7 @@ ir paņēmuši pusi no kalna.
 
 1:32:42.159,1:32:46.389
 Viņi iegūst vairāk subsīdiju par megavatstundu
-kā jebkurš cits enerģijas veids par 10
+kā jebkurš cits enerģijas veids par 10×
 
 1:32:46.389,1:32:51.949
 lielāku daudzumu. Tas ir nopietni. Mēs piedāvājam
@@ -4875,7 +4875,7 @@ ir uz sabrukšanas robežas, jo tad, ja
 atcels paaugstinātos tarifus,
 
 1:33:21.739,1:33:26.300
-šis enerģijas ieguves veids nav ekonomiski izdevīgs.
+šis enerģijas ieguves veids nebūs ekonomiski izdevīgs.
 Subsīdijas var būt ar labiem nodomiem,
 
 1:33:26.300,1:33:30.260
@@ -5022,7 +5022,7 @@ Es biju uzaicināts pie direktora, un tur
 fiziķi man teica:
 
 1:35:56.690,1:36:02.579
-Mēs esam izgudrojuši urāna-233 brīderi."
+"Mēs esam izgudrojuši urāna-233 brīderi."
 Vai esat kaut ko dzirdējuši par EXYDER?
 
 1:36:02.579,1:36:02.969
@@ -5171,7 +5171,7 @@ Visas viņu tehnoloģijas ir bāzētas uz lietām,
 kas netiks izmantotas
 
 1:38:41.289,1:38:43.039
-mūsu mašīnā.
+mūsu reaktorā.
 
 1:38:43.039,1:38:47.739
 Mums varētu interesēt tas, ka viņiem ir ausis
@@ -5208,11 +5208,11 @@ viņu biznesa modeli.
 bet dažu gadu laikā mēs slēgsim daudz vairāk reaktoru.
 
 1:39:19.489,1:39:24.590
-Mēs nekādā veidā neattīstamies, mēs knapi spējam
+Mēs nekādā neattīstamies, mēs knapi spējam
 
 1:39:24.590,1:39:27.329
 noturēt esošo stāvokli. Bet es nedomāju, ka mums izdosies
-pat tikai tik daudz.
+pat tik daudz.
 
 1:39:27.329,1:39:29.880
 Kā ir ar tādām valstīm kā Ķīna un Indija?
@@ -5225,7 +5225,7 @@ Bet pat Ķīna ir sapratusi: "Mēs nevaram būvēt ar ūdeni dzesētus
 urāna oksīda reaktorus,
 
 1:39:39.170,1:39:43.889
-jo nevarēsim to atļauties ilgi."
+jo nevarēsim tos atļauties darbināt ilgi."
 Kamēr mēs runājam, Ķīna strādā pie LFTR.
 
 1:39:43.889,1:39:45.709
@@ -5370,7 +5370,7 @@ Par mani vecāki atceras, ka austiņas savulaik
 bija daudz savādākas.
 
 1:42:14.639,1:42:19.459
-Izmaiņas radīja mazi neodima magnētiņi,
+Izmaiņas radīja mazi neodīma magnētiņi,
 izgatavoti no neodīma-dzelzs-bora savienojuma.
 
 1:42:19.459,1:42:23.590
@@ -5462,7 +5462,7 @@ jo tiem ir lēts darbaspēks, nav tādu vides aizsardzības noteikumu,
 un viņu valūta ir lēta.
 
 1:44:08.809,1:44:12.559
-Kopumā ņemot, viņi iegūst visa retzemju elementu tirgus kontroli.
+Kopumā ņemot, viņi ir ieguvuši retzemju elementu tirgus kontroli.
 
 1:44:12.559,1:44:17.559
 Un tad viņi teica: "Tagad jūs visi nākat pirkt 
@@ -5476,10 +5476,10 @@ Mūsu pašu ražotājiem tie ir vairāk vajadzīgi."
 Viņi uzliek milzīgu muitu retzemju elementiem. Un katram ir izvēle:
 
 1:44:28.909,1:44:35.300
-pieņemt milzīgu muitu, vai arī izvietot savu rūpnīcu Ķīnā.
+pieņemt milzīgu muitu, vai arī izvietot savu rūpnīcu Ķīnā
 
 1:44:35.300,1:44:40.440
-Un iepirkt retzemju metālus par vietējām cenām bez muitas nodokļa.
+un iepirkt retzemju metālus par vietējām cenām bez muitas nodokļa.
 
 1:44:40.440,1:44:43.619
 Un šī stratēģija darbojas ļoti labi.
@@ -5496,7 +5496,7 @@ no ASV un Rietumeiropas uz
 
 1:44:55.489,1:45:00.440
 Viņi ir savākuši pilnu izgatavošanas ķēdi
-pie sevis,
+pie sevis
 
 1:45:00.440,1:45:06.849
 un tur gūstā citas valstis. Ja Toyota
@@ -5653,7 +5653,7 @@ Es patiešām ticu, ka, ja mums nebūs pieejama tīra
 enerģija, kuru varam arī atļauties, mēs regresēsim.
 
 1:48:02.079,1:48:05.130
-Mēs atgriezīsimies tur, kur cilvēki bija gadu tūkstošiem,
+Mēs atgriezīsimies tur, kur cilvēki bija gadu tūkstošus —
 laikā, kad bagātie un varenie
 
 1:48:05.130,1:48:10.510
@@ -5684,7 +5684,7 @@ Bet visos darbos jau ir iekļauta arī
 tajos izmantotās enerģijas cena.
 
 1:48:35.380,1:48:38.699
-Jā, bet tā jaunas darba vietas tiktu radītas
+Jā, bet tagad jaunas darba vietas tiek radītas
 uz to rēķina,
 
 1:48:38.699,1:48:39.860
@@ -5714,10 +5714,10 @@ mums tā ir jāpiegādā
 
 1:49:06.340,1:49:10.940
 dedzinot gāzi. Mēs tādas stacijas būvējam
-pa visu valsti,
+pa visu valsti.
 
 1:49:10.940,1:49:16.309
-un jautājums ir par to, ka tam ir vajadzīga
+Bet problēma ir tā, ka tam ir vajadzīga
 līdzena vieta vismaz kilometru augstumā,
 
 1:49:16.309,1:49:20.949
@@ -5779,7 +5779,7 @@ kas nevis ražo elektrību, bet gan
 
 1:50:15.670,1:50:20.570
 sadala ūdeni. Un no ūdeņraža un slāpekļa varat ražot
-degvielu, vai arī minerālmēslus.
+degvielu vai arī minerālmēslus.
 
 1:50:20.570,1:50:25.170
 Šobrīd slāpekļa minerālmēslu ražošanai patērē
@@ -5804,7 +5804,7 @@ Grenlandē.
 
 1:50:39.550,1:50:44.610
 Salikts tas vēl arvien bija subkritisks.
-Mēs sākām pa vienam pievienot degvielas stieņus
+Tad pa vienam pievienoja degvielas stieņus
 
 1:50:44.610,1:50:46.559
 reaktora serdē.
@@ -5913,7 +5913,7 @@ rodas grama tūkstošdaļas šo elementu
 Tas ir labi, jo atkritumu struktūra ir daudz veselīgāka.
 
 1:52:43.989,1:52:45.639
-Kodolmateriālu izplatīšanās risks
+Kodolmateriālu izplatīšanās risks.
 
 1:52:45.639,1:52:51.849
 Šajā gadījumā kodolmateriālu izplatīšana ir sarežģīta,
@@ -5953,7 +5953,7 @@ Tajā ir tikpat daudz enerģijas, cik tonnā ogļu,
 vai 500 kubikmetros gāzes.
 
 1:53:39.389,1:53:44.479
-Ja jūs pelnat ar ogļūdeņražu pārdošanu,
+Ja jūs pelnāt ar ogļūdeņražu pārdošanu,
 tad jūsu peļņa samazināsies.
 
 1:53:44.479,1:53:50.340
@@ -6017,7 +6017,7 @@ atlīdzību viņiem.
 
 1:54:35.559,1:54:40.039
 Mēs jau tagad pērkam no Ķīnas ļoti daudzas lietas,
-it kā tas vēl nebūtu pietiekami.
+it kā tas vēl būtu maz.
 
 1:54:40.039,1:54:46.860
 Mēs viņus jau nodarbinām pietiekami. Labāk
@@ -6075,7 +6075,7 @@ kas darbojas ar toriju?
 Šķidra fluorīda sāļu torija reaktors ir...
 
 1:55:38.729,1:55:42.550
-Jūs jau tāpat pelnat vairāk kā es, tāpēc...
+Jūs jau tāpat pelnāt vairāk kā es, tāpēc...
 
 1:55:42.550,1:55:45.679
 Es jums to izskaidrošu, jo Vašingtonai par
@@ -6101,8 +6101,8 @@ Mēs varam izveidot torija brīdera reaktoru,
 pie kura Veinberga un Ornela komanda
 
 1:56:11.769,1:56:18.070
-strādāja 20 gadus, un praktiski realizēja un
-darbināja četrus gadus 1960.
+strādāja 20 gadus, un praktiski realizēja 1960. un
+darbināja četrus gadus.
 
 1:56:18.070,1:56:25.070
 Tas ir tieši tāds reaktors, kuram Ķīna tagad ir
@@ -6114,7 +6114,7 @@ ko mēs paveicām pirms 49 gadiem.
 
 1:56:31.999,1:56:38.329
 Pat, ja Vašingtona vienmēr strādā lēni,
-49 gadi ir nedaudz par daudz lēnu.
+49 gadi ir daudz par lēnu.
 
 1:56:38.329,1:56:41.959
 Pat, ja mēs to nedarīsim, tas notiks tik un tā.
@@ -6202,11 +6202,12 @@ staciju enerģijas avots. Bet man ir
 vienkāršs jautājums.
 
 1:58:11.900,1:58:17.170
-Ja mēs izveidosim šādu kopienu uz Mēness,
+Ja mēs veidosim šādu kopienu uz Mēness,
 kāpēc lai tādu neizveidotu arī uz Zemes?
 
 1:58:17.170,1:58:18.150
-Vai tad arī tai nav jābūt ilgtspējīgai un ar pietiekamu enerģiju?
+Vai tad arī tai nav jābūt ilgtspējīgai
+un ar pietiekamu enerģijas daudzumu?
 
 1:58:18.150,1:58:23.849
 Domā par "Zvaigžņu ceļu". Tu nevarat nedomāt par to,
