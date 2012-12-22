@@ -407,11 +407,90 @@ saka:
 "Mums ir jāpāriet uz energoefektīvāku dzīvesstilu"
 
 0:08:05.780,0:08:10.060
-Kad iet runa par Kalgari naftas smiltīm, var
+Kad iet runa par Kalgari naftas smiltīm,
 
-0:08:10.060,0:09:41.100
-redzēt, kas būtu pieļaujams, un kas — ne-,
-runājot par energoefektivitāti.
+0:08:10.060,0:08:14.550
+ir jānovērtē, kāds enerģijas ieguvums mums šķiet
+pieņemams.
+
+0:08:14.550,0:08:19.169
+Es domāju, ka tādas kodoltehnoloģijas kā
+šķidra florīda reaktori ir ļoti daudzsološas.
+
+0:08:19.169,0:08:21.729
+Bet mūsu politika ir — nē kodolenerģijai.
+
+0:08:21.729,0:08:25.490
+Vai ir kādas īpašas prasības? Vai domas par
+kodolenerģiju nevarētu saistīt ar
+
+0:08:25.490,0:08:26.979
+jaunām tehnoloģijām?
+
+0:08:26.979,0:08:31.490
+Tā kā "zaļo" politika ir būt pret kodolenerģiju,
+vai viņi ir gatavi pieņemt kādas jaunas
+
+0:08:31.490,0:08:35.360
+tehnoloģijas, kas vēl nepastāv?
+Es domāju,
+
+0:08:35.360,0:08:35.890
+ka atbilde ir "Protams!".
+
+0:08:35.890,0:08:40.100
+Vai "zaļie" atrastu kādu iemeslu kodolenerģijas
+pārvērtēšanai, piemēram, ierobežotus naudas līdzekļus?
+
+0:08:40.100,0:08:44.210
+Ja vēlaties samazināt siltumnīcas efekta gāzes,
+jums savi dolāri ir jātērē tā,
+
+0:08:44.210,0:08:48.480
+lai samazinātu gāzu daudzumu visefektīvākajā veidā.
+
+0:08:48.480,0:08:53.310
+Mēs Kanādā zaudējam aptuveni 60% no visa
+enerģijas daudzuma, tāpēc,
+
+0:08:53.310,0:08:58.390
+ka ir neefektīvas celtnes un transports.
+Mūsu infrastruktūra ir paredzēta lētai enerģijai.
+
+0:08:58.390,0:09:03.000
+Tāpēc nav pārsteigums, ka mēs pazaudējam tik daudz.
+Mums ir jāuzlabo produktivitāte
+
+0:09:03.000,0:09:04.140
+un enerģijas izmantošana.
+
+0:09:04.140,0:09:07.820
+Kad izskatām visas iespējas un izvēles,
+
+0:09:07.820,0:09:13.760
+kodolenerģija ir viena no sliktākajām,
+
+0:09:13.760,0:09:19.440
+jo tā nav pārāk uzticama, ir dārga un
+
+0:09:19.440,0:09:24.850
+tā ražo tikai elektrību. Pēc kādiem
+14 gadiem atklāsiet,
+
+0:09:24.850,0:09:29.510
+ka jūsu projekts ir daudz dārgāks, nekā paredzēts.
+Pastāv negadījumu riski un ilgi uzglabājami
+
+0:09:29.510,0:09:32.760
+kodolatkritumi, kas būs kaitīgi biosfērai simtus
+tūkstošu gadu.
+
+0:09:32.760,0:09:36.760
+Pastāv kodolmateriālu nozagšanas un izplatīšanas draudi,
+tāpēc nav nekāds brīnums,
+
+0:09:36.760,0:09:41.100
+ka no kodolenerģijas novēršas.
 
 0:09:41.100,0:09:45.740
 Protams, mums ir jāveicina energoefektīvāks dzīves
@@ -1863,31 +1942,34 @@ cik stingras ir nepieciešamas kodollidmašīnai.
 Tā nu viņi sāka darbu pie augstas temperatūras reaktora
 izstrādes. Tam bija jāiztur tik augsta temperatūra,
 
-0:38:11.190,0:38:12.800
+0:38:11.190,0:38:12.420
 ka ar tā siltumu varētu griezt lidmašīnas turbīnu.
 Bija paredzēts, ka tas iesūc gaisu, un tad,
 
-0:38:12.800,0:38:14.050
+0:38:12.420,0:38:13.800
 tā vietā, lai tajā sadedzinātu degvielu, to uzkarsētu
 kodolreaktora siltummainī.
 
-0:38:14.050,0:38:15.230
+0:38:13.800,0:38:14.980
 Un tad karsto gaisu izsviestu turbīnas izvadā,
 nodrošinot nepieciešamo vilkmi.
 
-0:38:15.230,0:38:16.230
+0:38:14.980,0:38:15.980
 Tā pati ideja, kas standarta turbodzinējā,
 tikai siltuma avots ir nevis
 
-0:38:16.230,0:38:17.060
+0:38:15.980,0:38:17.230
 naftas dedzināšana, bet gan kodolreaktors.
-Atcerieties, ka tas notika vēl pirms
 
-0:38:17.060,0:38:20.040
-ballistiskajām raķetēm. Tas bija pasaules gala
-ierocis.
+0:38:17.230,0:38:19.060
+Atcerieties, ka tas tika izgudrots pirms
+starpkontinentālajām raķetēm u.tml.
 
-0:38:20.040,0:38:23.890
+0:38:19.060,0:38:21.040
+Tas bija pastardienas ierocis. Ja lidojat ar tādu
+uz Krieviju, tad zināt, ka pasaules gals ir klāt.
+
+0:38:21.040,0:38:23.890
 Tātad, viņi sāka strādāt pie reaktora prasībām,
 pat vēl nezinot, kā tās īsti realizēt.
 
@@ -5427,14 +5509,14 @@ viņi to izmet.
 Līdz ar to, visā Amerikā, Kanādā un Dienvidāfrikā,
 lai arī ir brīnišķīgas monazīta iegulas,
 
-1:43:35.329,1:42:39.849
+1:43:35.329,1:43:39.849
 kas satur vērtīgus retzemju metālus, tās nav
 komerciāli izdevīgas, jo satur
 
-1:42:39.849,1:43:40.209
+1:43:39.849,1:43:41.209
 pārāk lielu torija daudzumu.
 
-1:43:40.209,1:43:45.809
+1:43:41.209,1:43:45.809
 Pēc izpilddirektora Marka Smita
 informācijas,  Mountain Pass tika slēgta,
 
