@@ -49,7 +49,7 @@ kurai vajadzēja nodrošināt lētu un viegli pieejamu elektrību,
 tā vietā ir radījusi kodolieročus, kodolatkritumus un kodolbailes?
 </p>
 <p>
-Torija remikss 2011" ir zinātniski populāra filma par ekoloģiju un enerģētiku,
+"Torija remikss 2011" ir zinātniski populāra filma par ekoloģiju un enerģētiku,
 tajā skaitā par torija izmantošanu jaunākās paaudzes kodolreaktoros.
 Filma ir angļu valodā ar subtitriem latviešu valodā. 
 </p>
@@ -63,10 +63,10 @@ un to aktivitātes laiks ir daudzkārt īsāks.
 </p>
 <p>
 2. Torijs ir daudz plašāk pieejams materiāls (tas ir tik pat izplatīts kā svins) par urānu
-(kas ir ~ tik pat rets kā zelts un platīns),
+(kas ir ~ tik pat rets kā zelts un platīns).
 </p>
 <p>
-3. kodolreaktorus var izveidot ar daudz plašāku jaudas diapazonu,
+3. Kodolreaktorus var izveidot ar daudz plašāku jaudas diapazonu,
 t.sk. pat tik nelielus, lai nodrošinātu kuģi (ekstrēmā gadījumā pat lidmašīnu).
 </p>
 <p>
@@ -77,14 +77,14 @@ Tāpēc, ka torijs nav piemērots militāristiem.
 Jau no paša sākuma kodolenerģijas izmantošanā iesaistījās militāristi (kodolenerģētika sākās ar atombumbas izgatavošanu), un inženieru izvēli 50.-60. gados noteica tas, ka uz urānu balstīta kodolenerģētika ir noderīga kodolieroču ražošanai. Atšķirībā no urāna, torijam militāristu izpratnē ir daudzas nepilnības:
 </p>
 <p>
-1. torija sabrukšanas starpproduktos nav plutonija-239, no kura var izgatavot atombumbas,
+1. Torija sabrukšanas starpproduktos nav plutonija-239, no kura var izgatavot atombumbas.
 </p>
 <p>
-2. torijs ir mīksts metāls (līdzīgs svinam) un to nevar izmantot īpaši cietu ložu izgatavošanai,
-kā no liesināta urāna,
+2. Torijs ir mīksts metāls (līdzīgs svinam) un to nevar izmantot īpaši cietu ložu izgatavošanai,
+kā no liesināta urāna.
 </p>
 <p>
-3. torija sabrukšanas produkti izstaro augstas enerģijas fotonus (gamma starojumu),
+3. Torija sabrukšanas produkti izstaro augstas enerģijas fotonus (gamma starojumu),
 kuru ir viegli noteikt pat no liela attāluma ar gamma staru detektoriem
 (tātad tādu reaktoru ir grūti noslēpt).
 </p>
@@ -100,7 +100,7 @@ Enerģētikā pārejot no urāna uz toriju, kodolreaktorus vairs nevarēs izmant
 tie vairs nebūs interesanti teroristiem un pasaules drošība no tā tikai iegūs.
 </p>
 <p>
-Filmā ir detalizēti apskatītas galvenās esošo urāna reaktoru nepilnības, un ir parādīts,
+Filmā ir arī detalizēti apskatītas galvenās esošo urāna reaktoru nepilnības, un ir parādīts,
 kā, izmantojot torija sāļus, tās var atrisināt.
 </p>
 </div>
