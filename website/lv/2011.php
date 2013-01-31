@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=640px" />
-<link rel="stylesheet" type="text/css" media="screen"  href="/style.css" /><title>Piemēram, par šķidrā fluorīda torija reaktoriem</title>
+<link rel="stylesheet" type="text/css" media="screen"  href="/style.css" /><title>Par šķidrā fluorīda torija reaktoriem</title>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
